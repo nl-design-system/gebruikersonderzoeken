@@ -74,6 +74,23 @@ const config = {
       colorMode: {
         disableSwitch: true,
       },
+      footer: {
+        links: [
+          {
+            title: 'Contact',
+            items: [
+              {
+                label: 'Yolijn van der Kolk - yolijn.vanderkolk@ictu.nl',
+                href: 'mailto:yolijn.vanderkolk@ictu.nl',
+              },
+              {
+                label: 'Jeroen du Chatinier - j.du.chatinier@utrecht.nl',
+                href: 'mailto:j.du.chatinier@utrecht.nl',
+              },
+            ],
+          },
+        ],
+      },
     }),
 }
 
