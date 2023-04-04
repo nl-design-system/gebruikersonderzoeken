@@ -16,3 +16,27 @@
   --ifm-code-font-size: 95%;
   --docusaurus-highlighted-code-line-bg: rgba(0, 0, 0, 0.1);
 }
+
+body {
+  font-family: "Source Sans Pro";
+  font-size: 18px;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-family: "Fira Sans";
+}
+
+code,
+pre {
+  font-family: "Fira Code";
+}
+
+.navbar__title {
+  font-family: "Fira Sans";
+  font-size: 20px;
+}
