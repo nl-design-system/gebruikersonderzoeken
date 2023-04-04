@@ -23,7 +23,7 @@ const FeatureList: FeatureItem[] = [
     description: (
       <>
         Heb je een onderzoek dat je wilt delen met mensen binnen en buiten je organisatie?{' '}
-        <Link to="docs/onderzoeken-delen">Plaats het eenvoudig op deze site</Link>.
+        <Link to="docs/onderzoek-delen">Plaats het eenvoudig op deze site</Link>.
       </>
     ),
   },
