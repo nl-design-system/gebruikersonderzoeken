@@ -63,6 +63,10 @@ const config = {
       // Replace with your project's social card
       image: 'img/docusaurus-social-card.jpg',
       navbar: mainNav,
+      tableOfContents: {
+        minHeadingLevel: 2,
+        maxHeadingLevel: 2,
+      },
       prism: {
         theme: lightCodeTheme,
         darkTheme: darkCodeTheme,
