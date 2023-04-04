@@ -3,15 +3,21 @@ const mainNav = {
   items: [
     {
       type: 'docSidebar',
-      sidebarId: 'meedoenSidebar',
+      sidebarId: 'gebruikersonderzoekSidebar',
       position: 'left',
-      label: 'Meedoen',
+      label: 'Onderzoek bekijken',
     },
     {
       type: 'docSidebar',
-      sidebarId: 'gebruikersonderzoekSidebar',
+      sidebarId: 'meedoenSidebar',
       position: 'left',
-      label: 'Onderzoek',
+      label: 'Onderzoek delen',
+    },
+    {
+      type: 'docSidebar',
+      sidebarId: 'vragenSidebar',
+      position: 'left',
+      label: 'Vragen?',
     },
   ],
 }

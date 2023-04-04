@@ -1,22 +1,24 @@
 import React from 'react';
 import clsx from 'clsx';
 import Link from '@docusaurus/Link';
-import useDocusaurusContext from '@docusaurus/useDocusaurusContext';
 import Layout from '@theme/Layout';
 import HomepageFeatures from '@site/src/components/HomepageFeatures';
 
 import styles from './index.module.css';
 
 function HomepageHeader() {
-  const { siteConfig } = useDocusaurusContext();
   return (
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
-        <h1 className="hero__title">{siteConfig.title}</h1>
-        <p className="hero__subtitle">{siteConfig.tagline}</p>
+        <h1 className="hero__title">Gebruikersonderzoek</h1>
+        <p>
+          Op deze pagina verzamelen en delen we zoveel mogelijk gebruikersonderzoek van alle gemeenten in Nederland voor
+          onderzoekers, ontwerpers en managers. Zodat we zoveel mogelijk van elkaar kunnen leren , geinspireerd raken
+          door elkaar's onderzoek en sneller de juiste beslissingen kunnen nemen.
+        </p>
         <div className={styles.buttons}>
-          <Link className="button button--secondary button--lg" to="/docs/meedoen">
-            Jouw gebruikersonderzoek delen - 5min ⏱️
+          <Link className="button button--secondary button--lg" to="/docs/onderzoek-bekijken">
+            Bekijk de onderzoeken
           </Link>
         </div>
       </div>
@@ -25,9 +27,8 @@ function HomepageHeader() {
 }
 
 export default function Home(): JSX.Element {
-  const { siteConfig } = useDocusaurusContext();
   return (
-    <Layout title={`Hello from ${siteConfig.title}`} description="Description will go into a meta tag in <head />">
+    <Layout title="gebruikersonderzoek" description="Gedeeld gebruikersonderzoek voor de overheid">
       <HomepageHeader />
       <main>
         <HomepageFeatures />
