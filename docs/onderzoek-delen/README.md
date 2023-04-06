@@ -25,7 +25,7 @@ Er zijn verschillende manieren om onderzoek op de site t (laten) plaatsen:
 
 ## In wat voor type bestand lever ik het onderzoek aan?
 
-Een [Markdown](https://www.markdownguide.org/) bestand is het handigst, maar een PDF- of Word-bestand is ook goed. Het helpt ons als het onderzoek gestructureerd is volgens ons [onderzoek template](_onderzoek-template.md), maar als dat niet mogelijk is, dan is dat geen probleem.
+Een [Markdown](https://www.markdownguide.org/) bestand is het handigst, maar een PDF- of Word-bestand is ook goed. Het helpt ons als het onderzoek gestructureerd is volgens ons onderzoek template, maar als dat niet mogelijk is, dan is dat geen probleem.
 
 We gebruiken Markdown zodat de onderzoeken toegankelijk zijn en in de toekomst makkelijk te exporteren zijn naar andere systemen en bestandsformaten.
 
