@@ -49,7 +49,7 @@ Leg begrippen uit, zeker woorden over toeslagen of verzekeringen zijn nieuw voor
 
 De informatiecampagne is natuurlijk geen waterdichte oplossing voor uitstelgedrag van jongeren. Wel kan herhaling van de boodschap van de campagne de jongeren overhalen toch tot actie over te gaan. Draag de website breder uit via bijvoorbeeld reclames, vermeldingen op andere relevante websites of bijeenkomsten, of lanceer een campagne via sociale media.
 
-## Inzichten
+## Resultaten en Inzichten
 
 De interviews bestaan uit drie delen: een algemeen deel, een deel over de ansichtkaart en een deel over de website. De resultaten geven we ook volgens die driedeling weer.
 
@@ -109,7 +109,29 @@ Ten slotte vroegen we de respondenten nog wat ze zouden doen als ze er niet zoud
 
 Wanneer ze hier samen ook niet uit zouden komen, hadden de jongeren vaak de voorkeur voor bellen of mailen naar de gemeente. Een enkeling zou liever via WhatsApp contact opnemen.
 
-## Opzet onderzoek
+## Conclusie
+
+In de inleiding stelden we drie deelvragen en een hoofdvraag. De deelvragen richtten zich op het algemene beeld van jongeren betreffende het 18 worden, de ervaring van jongeren bij de kaart en hun ervaring bij de website. De hoofdvraag is: _"Hoe reageren jongeren op de informatiecampagne "18 jaar! Regelen maar!" van de Gemeente Utrecht?"_. Met het beantwoorden van die vragen schetsen we in deze conclusie een eerste gebruikerservaring van de informatiecampagne.
+
+### Beantwoording deelvragen
+
+De jongeren hebben wisselende gevoelens en een uiteenlopend beeld bij '18 worden'. Sommige jongeren vinden het best spannend en zijn er van tevoren al mee bezig door zich in te lezen in de zaken die je na die verjaardag zelf moet regelen. Andere jongeren zagen het hetzelfde als elke andere verjaardag. Ook schuiven zij bijbehorende acties liever voor zich uit, tot het moment dat deze daadwerkelijk geregeld moeten worden.
+
+De jongeren waren enthousiast over kaart, vooral omdat deze vrolijk, overzichtelijk, en makkelijk te begrijpen is. Ze gaven aan dat het duidelijk was dat de kaart op hen gericht is, en ze zouden de kaart daarom bekijken en doorlezen. De meeste jongeren zouden hierna de website bezoeken. Een deel gaf echter aan dat de boodschap nog niet urgent genoeg was om op dat moment de site te bezoeken en zaken te regelen. Zij hadden bijvoorbeeld behoefte aan een herinnering dichter op de datum van hun verjaardag.
+
+Ook de website zelf werd goed ontvangen. De website wordt als overzichtelijk ervaren en de tekst is goed te begrijpen. De lay-out wordt gezien als een afvinklijstje wat jongeren helpt om een overzicht te krijgen van alle zaken die ze nog moesten doen. Wel zijn sommige onderwerpen en bijbehorende termen nieuw voor jongeren. Niet alle begrippen, vooral rondom verzekeringen, zijn bekend. Dit zouden ze vaak met mensen in hun omgeving bespreken, zoals hun ouders of oudere broers en zussen.
+
+### Beantwoording hoofdvraag
+
+We kunnen stellen dat de informatiecampagne zeer positief ontvangen wordt door de gebruikersgroep. De jongeren slaan aan op het toegankelijke en overzichtelijke uiterlijk van de kaart en de website. De kaart ziet er uitnodigend uit en na het lezen bezoeken veel jongeren de website. Op die website staat relevante informatie die hun goed helpt bij het regelen van belangrijke zaken. We stellen dat de informatiecampagne informeel genoeg is om jongeren niet af te schrikken, maar juist te activeren om belangrijke zaken te gaan regelen. Tegelijkertijd is de campagne informerend genoeg om jongeren ook echt daarbij te helpen. Jongeren begrijpen de boodschap, en geven aan de informatie uit de campagne begrijpelijk en relevant te vinden.
+
+Natuurlijk zijn er ook verbeterpunten voor de campagne. De kaart op zichzelf is misschien te informeel om urgentie over te brengen. Toch zien wij dit niet als groot verbeterpunt. Uitstelgedrag is heel normaal voor jongeren op die leeftijd. Een campagne kan dat enigszins verminderen, maar nooit helemaal wegnemen.
+
+Ook worden sommige jongeren niet geactiveerd wanneer zij op slechts één moment met de campagne in aanraking komen. Zij moeten de campagne vaker tegenkomen om aan de urgentie van de boodschap herinnerd te worden. Tot slot noemen jongeren dat de inhoud van de campagne niet voor iedereen toegankelijk is. Niet alle begrippen zijn bekend en worden uitgelegd. Voor jongeren die geen Nederlands spreken, en met name ouders die veelal helpen bij dit soort zaken maar vaker geen Nederlands spreken, is de informatiecampagne in beperkte mate effectief.
+
+De adviezen op basis van deze conclusies staan aan het begin van dit artikel.
+
+## Opzet
 
 ### Vraagstelling
 
@@ -160,29 +182,9 @@ Uiteindelijk interviewden we twaalf jongeren. De interviews duurden ongeveer dri
 
 Alle interviewverslagen bestudeerden we en vatten we samen in een resultatenhoofdstuk. We haalden de rode draad uit de gesprekken en vatten de uitspraken samen die helpen de deelvragen te beantwoorden. We bespraken waar de interviews met elkaar overeenkomen en van elkaar verschillen. Ten slotte formuleerden we een conclusie die antwoord gaf op de deelvragen en de hoofdvraag. Die conclusie vertaalden we door in een concreet advies.
 
-De rapportage en het advies presenteren we op woensdag 4 april 2023 aan het projectteam.
+## Wat is er mee gedaan?
 
-## Conclusie
-
-In de inleiding stelden we drie deelvragen en een hoofdvraag. De deelvragen richtten zich op het algemene beeld van jongeren betreffende het 18 worden, de ervaring van jongeren bij de kaart en hun ervaring bij de website. De hoofdvraag is: _"Hoe reageren jongeren op de informatiecampagne "18 jaar! Regelen maar!" van de Gemeente Utrecht?"_. Met het beantwoorden van die vragen schetsen we in deze conclusie een eerste gebruikerservaring van de informatiecampagne.
-
-### Beantwoording deelvragen
-
-De jongeren hebben wisselende gevoelens en een uiteenlopend beeld bij '18 worden'. Sommige jongeren vinden het best spannend en zijn er van tevoren al mee bezig door zich in te lezen in de zaken die je na die verjaardag zelf moet regelen. Andere jongeren zagen het hetzelfde als elke andere verjaardag. Ook schuiven zij bijbehorende acties liever voor zich uit, tot het moment dat deze daadwerkelijk geregeld moeten worden.
-
-De jongeren waren enthousiast over kaart, vooral omdat deze vrolijk, overzichtelijk, en makkelijk te begrijpen is. Ze gaven aan dat het duidelijk was dat de kaart op hen gericht is, en ze zouden de kaart daarom bekijken en doorlezen. De meeste jongeren zouden hierna de website bezoeken. Een deel gaf echter aan dat de boodschap nog niet urgent genoeg was om op dat moment de site te bezoeken en zaken te regelen. Zij hadden bijvoorbeeld behoefte aan een herinnering dichter op de datum van hun verjaardag.
-
-Ook de website zelf werd goed ontvangen. De website wordt als overzichtelijk ervaren en de tekst is goed te begrijpen. De lay-out wordt gezien als een afvinklijstje wat jongeren helpt om een overzicht te krijgen van alle zaken die ze nog moesten doen. Wel zijn sommige onderwerpen en bijbehorende termen nieuw voor jongeren. Niet alle begrippen, vooral rondom verzekeringen, zijn bekend. Dit zouden ze vaak met mensen in hun omgeving bespreken, zoals hun ouders of oudere broers en zussen.
-
-### Beantwoording hoofdvraag
-
-We kunnen stellen dat de informatiecampagne zeer positief ontvangen wordt door de gebruikersgroep. De jongeren slaan aan op het toegankelijke en overzichtelijke uiterlijk van de kaart en de website. De kaart ziet er uitnodigend uit en na het lezen bezoeken veel jongeren de website. Op die website staat relevante informatie die hun goed helpt bij het regelen van belangrijke zaken. We stellen dat de informatiecampagne informeel genoeg is om jongeren niet af te schrikken, maar juist te activeren om belangrijke zaken te gaan regelen. Tegelijkertijd is de campagne informerend genoeg om jongeren ook echt daarbij te helpen. Jongeren begrijpen de boodschap, en geven aan de informatie uit de campagne begrijpelijk en relevant te vinden.
-
-Natuurlijk zijn er ook verbeterpunten voor de campagne. De kaart op zichzelf is misschien te informeel om urgentie over te brengen. Toch zien wij dit niet als groot verbeterpunt. Uitstelgedrag is heel normaal voor jongeren op die leeftijd. Een campagne kan dat enigszins verminderen, maar nooit helemaal wegnemen.
-
-Ook worden sommige jongeren niet geactiveerd wanneer zij op slechts één moment met de campagne in aanraking komen. Zij moeten de campagne vaker tegenkomen om aan de urgentie van de boodschap herinnerd te worden. Tot slot noemen jongeren dat de inhoud van de campagne niet voor iedereen toegankelijk is. Niet alle begrippen zijn bekend en worden uitgelegd. Voor jongeren die geen Nederlands spreken, en met name ouders die veelal helpen bij dit soort zaken maar vaker geen Nederlands spreken, is de informatiecampagne in beperkte mate effectief.
-
-De adviezen op basis van deze conclusies staan aan het begin van dit artikel.
+De rapportage en het advies is op woensdag 4 april 2023 gepresenteerd aan het projectteam. Deze nemen het advies en de inzichten mee om te kijken hoe ze de campagne kunnen verbeteren.
 
 ## Contactinfo
 
@@ -233,7 +235,7 @@ Bij vragen over dit onderwerp kan je terecht bij:
 - Wanneer zou je deze envelop open maken?
 - Wat verwacht je dat er op deze kaart staat?
 
-\>\>\> Kaart laten lezen \<\<\<
+\>\>\> Kaart laten lezen
 
 - Wat vind je van deze kaart? Wat doet het met je?
 - Staat op deze kaart wat je ervan verwachtte
@@ -247,7 +249,7 @@ Bij vragen over dit onderwerp kan je terecht bij:
 - Zou je ook zonder de kaart op zoek gaan naar de website?
 - Wat verwacht je dat er op de website staat?
 
-\>\>\> Website bekijken \<\<\<
+\>\>\> Website bekijken
 
 - Wat zijn je eerste gedachten als je de website ziet?
 - Wat kan je op deze website doen?
