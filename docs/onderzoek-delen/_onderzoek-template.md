@@ -42,7 +42,7 @@ tags:
 
 ((Hoe is het onderzoek gedaan? Wat voor methode is gebruikt? Hoeveel mensen zijn bevraagd op welke manier? Van wanneer tot wanneer heeft het onderzoek plaatsgevonden))
 
-## Contactinfo
+## Contactinformatie
 
 ((Vanuit welke organisatie is het onderzoek gedaan? Bij wie kan je terecht voor vragen? Lijstje van de onderzoekers: naam + email))
 

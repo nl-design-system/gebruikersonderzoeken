@@ -15,15 +15,15 @@ keywords:
 
 We proberen zo veel mogelijk vragen over deze pagina hier te beantwoorden. Mocht je vraag hier niet beantwoord worden, stuur ons een [mailtje](mailto:j.du.chatinier@utrecht.nl,yolijn.vanderkolk@ictu.nl).
 
-## Ik heb alleen een PDF, hoe kan ik onderzoek delen?
+## Hoe deel ik mijn onderzoek op deze site?
 
-Upload je onderzoek als issue in [Gebruikersonderzoek GitHub](https://github.com/nl-design-system/gebruikersonderzoek/issues) en beschrijf waar het onderzoek over gaat en wie als contactpersoon erbij kan
+Hoe je dat moet doen leggen we uit op onze [Onderzoek delen pagina](../onderzoek-delen/README.md).
 
 ## Ik heb een vraag over onderzoek wat op de site staat, bij wie kan ik terecht?
 
 Elk gedeeld onderzoek heeft contactgegevens van de onderzoekers en de persoon die het onderzoek heeft gepubliceerd. Zo kun je makkelijk de juiste persoon te pakken krijgen.
 
-Mocht je een opmerking hebben of onderzoek hebben wat erop lijkt, dan kun je dat ons laten weten.
+Mocht je een opmerking hebben of onderzoek hebben wat erop lijkt, dan kun je dat aan ons [laten weten](mailto:j.du.chatinier@utrecht.nl,yolijn.vanderkolk@ictu.nl).
 
 ## Waarom deze site?
 

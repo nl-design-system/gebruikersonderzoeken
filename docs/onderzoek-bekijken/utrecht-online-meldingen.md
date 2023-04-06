@@ -20,7 +20,7 @@ tags:
 
 # Onderzoek online meldingen
 
-**tl;dr: Online meldingen doen met Signalen werkt goed voor iedereen behalve blinden en slechtzienden.**
+**Samengevat: Online meldingen doen met Signalen werkt goed voor iedereen behalve blinden en slechtzienden.**
 
 ## Doel van het onderzoek
 

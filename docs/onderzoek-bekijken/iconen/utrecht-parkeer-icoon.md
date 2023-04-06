@@ -24,31 +24,25 @@ tags:
 
 # Onderzoek parkeer icoon
 
-**tl;dr: Het parkeer icoon dat niet gevuld is werd door de respondenten als de meest duidelijke ervaren.**
+**Samengevat: Het parkeer icoon dat niet gevuld is werd door de respondenten als de meest duidelijke ervaren.**
 
 ## Doel van het onderzoek
 
 Er achter komen of één van de parkeer iconen significant duidelijker is dan de andere
 
-## Datum onderzoek
+## Advies
 
-Het onderzoek is gestart op 7 april 2022 en geindigd op 12 april 2022.
+Gebruik het parkeericoon B (het icoon dat niet gevuld is). Bedenk altijd bij het gebruik van een icoon in welke context het staat, zoals de tekst die er bij staat en de inhoud van de boodschap die je wilt overbrengen.
 
-## Opzet
+## Resultaten en inzichten
 
-Van de de 17 mensen die gevraagd zijn, hebben er 14 geantwoord op onze vraag over het parkeer icoon. We hebben de volgende vraag gesteld:
-
-"Welke van deze twee knoppen vindt jij het beste passen bij informatie over parkeren?”
+We hebben de volgende vraag gesteld: "Welke van deze twee knoppen vindt jij het beste passen bij informatie over parkeren?”
 
 ![de twee parkeer iconen](https://raw.githubusercontent.com/nl-design-system/utrecht/main/packages/docusaurus/static/img/onderzoekparkeericoon.png)
-
-## Resultaten
 
 - 2 van de 14 mensen vonden Knop A het beste passen.
 - 12 van de 14 mensen vonden knop B het beste passen.
 - Alle respondenten gaven de gevraagde toelichting op hun keuze.
-
-## Belangrijkste inzichten
 
 De belangrijkste inzichten zijn:
 
@@ -68,13 +62,20 @@ De belangrijkste inzichten zijn:
 
 Beide personen die voor knop A kiezen nemen in hun gedachtengang de andere iconen bij de andere toptaken mee, ze zien het als een set.
 
-## Wie hebben het onderzocht
-
-- [René Olling, UX Designer](mailto:r.olling@utrecht.nl)
-- [Jeroen du Chatinier, UX Designer](mailto:j.du.chatinier@utrecht.nl)
-- [Martijn Rietveld, Open Gemeenten](mailto:martijn@opengemeenten.nl)
-
 ## Wat is er mee gedaan?
 
 - We geven dit onderzoek (en de iconen 😊) door aan OpenGemeenten, zodat zij dit de iconenset die ze aanbieden kunnen verbeteren.
 - We nemen dit icoon mee in de verbetering van alle iconen bij de gemeente Utrecht. Dit wordt dan zichtbaar in de toptaken van utrecht.nl.
+
+## Opzet
+
+Van de de 17 mensen die gevraagd zijn, hebben er 14 geantwoord op onze vraag over het parkeer icoon. We hebben de volgende vraag gesteld:
+
+Het onderzoek is gestart op 7 april 2022 en geindigd op 12 april 2022.
+
+## Contactinformatie
+
+- [René Olling, UX Designer](mailto:r.olling@utrecht.nl) - Gemeente Utrecht
+- [Jeroen du Chatinier, UX Designer](mailto:j.du.chatinier@utrecht.nl) - Gemeente Utrecht
+- [Martijn Rietveld, UX Designer](mailto:martijn@opengemeenten.nl) - Open Gemeenten
+
