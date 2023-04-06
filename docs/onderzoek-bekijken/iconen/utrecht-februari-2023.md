@@ -31,7 +31,7 @@ tags:
 
 # Onderzoek iconen Februari 2023
 
-**tl;dr: Er zijn een aantal sterke voorkeuren bij de iconen te zien als het gaat over de gemeenteraad en de afvalcontainers.**
+**Samengevat: Er zijn een aantal sterke voorkeuren bij de iconen te zien als het gaat over de gemeenteraad en de afvalcontainers.**
 
 ## Doel van het onderzoek
 
@@ -42,13 +42,9 @@ Er achter komen of bij de volgende onderwerpen één van de getoonde iconen veel
 - Informatie over afvalcontainers
 - Informatie over afval
 
-## Datum onderzoek
+## Advies
 
-Het onderzoek is gestart op 14 februari 2023 en geindigd op 4 maart 2023.
-
-## Opzet
-
-We hebben de enquete gestuurd naar inwoners, ambtenaren, designers en developers. Daarnaast is de enquete ook nog doorgestuurd naar deelnemers van openGemeenten. We hebben gevraagd welke knoppen het beste passen bij het onderwerp en we hebben gevraagd of de respondent dit wilde toelichten. In totaal hebben 38 mensen de enquete ingevuld.
+Gebruik bij gemeenteraad en de afvalcontainer de iconen waar we een duidelijke voorkeur terug zien voor de desbetreffende iconen. Bedenk altijd bij het gebruik van een icoon in welke context het staat, zoals de tekst die er bij staat en de inhoud van de boodschap die je wilt overbrengen.
 
 ## Resultaten en inzichten
 
@@ -149,13 +145,19 @@ Veel respondenten (12, 32%) geven aan dat de vuiliniszak in het icoon het duidel
 
 Een aantal respondenten (6, 32%) geven aan dat de vuiliniszak overbodig is omdat de kliko al duidelijk genoeg is.
 
-## Wie hebben het onderzocht
-
-- [René Olling, UX Designer](mailto:r.olling@utrecht.nl)
-- [Jeroen du Chatinier, UX Designer](mailto:j.du.chatinier@utrecht.nl)
-- [Martijn Rietveld, Open Gemeenten](mailto:martijn@opengemeenten.nl)
-
 ## Wat is er mee gedaan?
 
 - We geven dit onderzoek (en de iconen 😊) door aan OpenGemeenten, zodat zij dit de iconenset die ze aanbieden kunnen verbeteren.
 - We nemen dit icoon mee in de verbetering van alle iconen bij de gemeente Utrecht, waar deze relevant zijn. Dit wordt dan zichtbaar in de toptaken van utrecht.nl.
+
+## Opzet
+
+We hebben de enquete gestuurd naar inwoners, ambtenaren, designers en developers. Daarnaast is de enquete ook nog doorgestuurd naar deelnemers van openGemeenten. We hebben gevraagd welke knoppen het beste passen bij het onderwerp en we hebben gevraagd of de respondent dit wilde toelichten. In totaal hebben 38 mensen de enquete ingevuld.
+
+Het onderzoek is gestart op 14 februari 2023 en geindigd op 4 maart 2023.
+
+## Contactinformatie
+
+- [René Olling, UX Designer](mailto:r.olling@utrecht.nl) - Gemeente Utrecht
+- [Jeroen du Chatinier, UX Designer](mailto:j.du.chatinier@utrecht.nl) - Gemeente Utrecht
+- [Martijn Rietveld, UX Designer](mailto:martijn@opengemeenten.nl) - Open Gemeenten

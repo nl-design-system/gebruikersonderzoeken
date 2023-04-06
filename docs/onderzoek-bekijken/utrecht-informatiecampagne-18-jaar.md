@@ -21,7 +21,7 @@ tags:
 
 ![18 jaar! regelen maar! campagne](https://i.imgur.com/aaPBoXK.png)
 
-**tl;dr Het karakter en de urgentie die spreekt uit de verjaardagskaart werkt, en de visuele identiteit tussen kaart en website werken goed. Er zijn nog mogelijkheden tot verbetering op het gebied van begrijpelijk taalgebruik op de site en de kaart, en in het herhalen van de boodschap zodat deze ook echt blijft hangen.**
+**Samengevat: Het karakter en de urgentie die spreekt uit de verjaardagskaart werkt, en de visuele identiteit tussen kaart en website werken goed. Er zijn nog mogelijkheden tot verbetering op het gebied van begrijpelijk taalgebruik op de site en de kaart, en in het herhalen van de boodschap zodat deze ook echt blijft hangen.**
 
 ## Doel van het onderzoek
 

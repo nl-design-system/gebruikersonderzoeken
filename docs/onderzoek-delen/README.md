@@ -17,15 +17,15 @@ Het plaatsen van onderzoek op de site hebben we zo laagdrempelig mogelijk gemaak
 
 ## Onderzoek op deze site plaatsen
 
-Er zijn verschillende manieren om onderzoek op de site te plaatsen:
+Er zijn verschillende manieren om onderzoek op de site t (laten) plaatsen:
 
 - Maak een [issue](https://github.com/nl-design-system/gebruikersonderzoek/issues) aan op onze github en voeg je onderzoek daar aan toe. 
-- [Mail](mailto:j.du.chatinier@utrecht.nl,yolijn.vanderkolk@ictu.nl) ons met je onderzoek.
+- [Stuur ons een mailtje](mailto:j.du.chatinier@utrecht.nl,yolijn.vanderkolk@ictu.nl) met je onderzoek.
 - Als je handig bent met gitHub: maak een Pull-request waar je onderzoek in staat.
 
 ## In wat voor type bestand lever ik het onderzoek aan?
 
-Een [Markdown](https://www.markdownguide.org/) bestand is het handigst, maar een PDF- of Word-bestand is ook goed. Het helpt ons als het onderzoek gestructureerd is volgens ons onderzoek template, maar als dat niet mogelijk is, dan is dat geen probleem.
+Een [Markdown](https://www.markdownguide.org/) bestand is het handigst, maar een PDF- of Word-bestand is ook goed. Het helpt ons als het onderzoek gestructureerd is volgens ons [onderzoek template](_onderzoek-template.md), maar als dat niet mogelijk is, dan is dat geen probleem.
 
 We gebruiken Markdown zodat de onderzoeken toegankelijk zijn en in de toekomst makkelijk te exporteren zijn naar andere systemen en bestandsformaten.
 
@@ -38,7 +38,7 @@ We knippen het onderzoek zo op dat het dezelfde structuur aanhoudt als ons templ
 Een bestaand onderzoek kan je altijd aanpassen, op de volgende drie manieren:
 
 - Maak een [issue](https://github.com/nl-design-system/gebruikersonderzoek/issues) aan op onze gitHub en voeg je gewenste wijzigingen daar aan toe. 
-- [Mail](mailto:j.du.chatinier@utrecht.nl,yolijn.vanderkolk@ictu.nl) ons met je wijziging.
+- [Mail](mailto:j.du.chatinier@utrecht.nl,yolijn.vanderkolk@ictu.nl) ons met je wijzigingen.
 - Als je handig bent met gitHub: maak een Pull-request waar je wijzigingen in staan.
 
 ## Eisen aan het onderzoek

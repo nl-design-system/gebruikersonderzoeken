@@ -32,7 +32,7 @@ tags:
 
 # Onderzoek bevrijdingsdag, koningsdag en melding icoon
 
-**tl;dr: Er is een duidelijke voorkeur per onderwerp te vinden.**
+**Samengevat: Er is een duidelijke voorkeur per onderwerp te vinden.**
 
 ## Doel van het onderzoek
 
@@ -42,13 +42,13 @@ Er achter komen of bij de volgende onderwerpen één van de getoonde iconen sign
 - Informatie over Koningsdag
 - Doorgeven van een melding of klacht over openbare ruimtes
 
-## Datum onderzoek
+## Advies
 
-Het onderzoek is gestart op 14 april 2022 en geindigd op 3 mei 2022.
+Er is bij alle vragen een duidelijke voorkeur te zien voor een icoon. Gebruik de iconen waar de voorkeur naar uit gaat. Bedenk altijd bij het gebruik van een icoon in welke context het staat, zoals de tekst die er bij staat en de inhoud van de boodschap die je wilt overbrengen.
 
-## Opzet en resultaten
+## Resultaten en inzichten
 
-Van de de 37 mensen die gevraagd zijn, hebben er 27 geantwoord op onze vraag over de verschillende iconen per onderwerp. We hebben gevraagd welke knoppen het beste passen bij het onderwerp, en we hebben gevraagd of de respondent dit wilde toelichten.
+Hieronder volgen de inzichten, specifiek per vraag.
 
 ### Bevrijdingsdag
 
@@ -86,38 +86,43 @@ Van de de 37 mensen die gevraagd zijn, hebben er 27 geantwoord op onze vraag ove
 - Knop B: 78%
 - Knop C: 3%
 
-## Belangrijkste inzichten
+### Inzichten 
 
 De belangrijkste inzichten zijn:
 
-### Voorkeur
+#### Voorkeur
 
 Er is bij alle vragen een duidelijke voorkeur te zien voor een icoon, zie de percentages bij de resultaten boven.
 
-### Bevrijdingsdag: associatie van vrede met duif
+#### Bevrijdingsdag: associatie van vrede met duif
 
 In de opmerkingen geven veel (10) van respondenten aan dat ze duif met vrede associeren, als tussenstaap naar vrijheid, of andersom.
 
-### Koningsdag: duidelijke kroon
+#### Koningsdag: duidelijke kroon
 
 In de opmerkingen geven veel (9) van de respondenten aan de ze de kroon bij knop B het duidelijkst een kroon vinden.
 
-### Klacht/Melding: representatie
+#### Klacht/Melding: representatie
 
 In de opmerkingen wordt door een aantal (4) van de respondenten aangegeven dat representatie van verschillende doelgroepen (geslacht, huidskleur) belangrijk is.
-1
 
-### Klacht/Melding: haar valt weg
+#### Klacht/Melding: haar valt weg
 
 In de opmerkingen wordt door een aantal (6) van de respondenten aangegeven dat bij knop B het hoofd duidelijk is en dat bij de andere knoppen het haar wegvalt.
-
-## Wie hebben het onderzocht
-
-- [René Olling, UX Designer](mailto:r.olling@utrecht.nl)
-- [Jeroen du Chatinier, UX Designer](mailto:j.du.chatinier@utrecht.nl)
-- [Martijn Rietveld, Open Gemeenten](mailto:martijn@opengemeenten.nl)
 
 ## Wat is er mee gedaan?
 
 - We geven dit onderzoek (en de iconen 😊) door aan OpenGemeenten, zodat zij dit de iconenset die ze aanbieden kunnen verbeteren.
 - We nemen dit icoon mee in de verbetering van alle iconen bij de gemeente Utrecht, waar deze relevant zijn. Dit wordt dan zichtbaar in de toptaken van utrecht.nl.
+
+## Opzet
+
+Van de de 37 mensen die gevraagd zijn, hebben er 27 geantwoord op onze vraag over de verschillende iconen per onderwerp. We hebben gevraagd welke knoppen het beste passen bij het onderwerp, en we hebben gevraagd of de respondent dit wilde toelichten.
+
+Het onderzoek is gestart op 14 april 2022 en geindigd op 3 mei 2022.
+
+## Contactinformatie
+
+- [René Olling, UX Designer](mailto:r.olling@utrecht.nl) - Gemeente Utrecht
+- [Jeroen du Chatinier, UX Designer](mailto:j.du.chatinier@utrecht.nl) - Gemeente Utrecht
+- [Martijn Rietveld, UX Designer](mailto:martijn@opengemeenten.nl) - Open Gemeenten
