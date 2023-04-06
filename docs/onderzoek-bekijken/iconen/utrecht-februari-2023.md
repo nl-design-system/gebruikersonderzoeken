@@ -18,6 +18,13 @@ keywords:
   - gemeenteraad
   - burgemeester
   - afval
+tags:
+  - utrecht
+  - icoon
+  - raad
+  - gemeenteraad
+  - burgemeester
+  - afval
 ---
 
 <!-- @license CC0-1.0 -->
