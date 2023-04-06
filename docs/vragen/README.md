@@ -13,6 +13,8 @@ keywords:
 
 # Vragen
 
+We proberen zo veel mogelijk vragen over deze pagina hier te beantwoorden. Mocht je vraag hier niet beantwoord worden, stuur ons een [mailtje](mailto:j.du.chatinier@utrecht.nl,yolijn.vanderkolk@ictu.nl).
+
 ## Ik heb alleen een PDF, hoe kan ik onderzoek delen?
 
 Upload je onderzoek als issue in [Gebruikersonderzoek GitHub](https://github.com/nl-design-system/gebruikersonderzoek/issues) en beschrijf waar het onderzoek over gaat en wie als contactpersoon erbij kan
