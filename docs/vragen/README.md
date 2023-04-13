@@ -13,7 +13,7 @@ keywords:
 
 # Vragen
 
-We proberen zo veel mogelijk vragen over deze pagina hier te beantwoorden. Mocht je vraag hier niet beantwoord worden, stuur ons een [mailtje](mailto:j.du.chatinier@utrecht.nl,yolijn.vanderkolk@ictu.nl).
+We proberen zo veel mogelijk vragen over deze pagina hier te beantwoorden. Mocht je vraag hier niet beantwoord worden, [neem contact met ons op](mailto:j.du.chatinier@utrecht.nl,yolijn.vanderkolk@ictu.nl).
 
 ## Hoe deel ik mijn onderzoek op deze site?
 
@@ -23,7 +23,7 @@ Hoe je dat moet doen leggen we uit op onze [Onderzoek delen pagina](../onderzoek
 
 Elk gedeeld onderzoek heeft contactgegevens van de onderzoekers en de persoon die het onderzoek heeft gepubliceerd. Zo kun je makkelijk de juiste persoon te pakken krijgen.
 
-Mocht je een opmerking hebben of onderzoek hebben wat erop lijkt, dan kun je dat aan ons [laten weten](mailto:j.du.chatinier@utrecht.nl,yolijn.vanderkolk@ictu.nl).
+Mocht je een opmerking hebben of onderzoek hebben wat erop lijkt, [neem contact met ons op](mailto:j.du.chatinier@utrecht.nl,yolijn.vanderkolk@ictu.nl).
 
 ## Waarom deze site?
 
