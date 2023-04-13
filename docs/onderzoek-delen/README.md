@@ -17,7 +17,7 @@ Het plaatsen van onderzoek op de site hebben we zo laagdrempelig mogelijk gemaak
 
 ## Onderzoek op deze site plaatsen
 
-Er zijn verschillende manieren om onderzoek op de site t (laten) plaatsen:
+Er zijn verschillende manieren om onderzoek op de site te (laten) plaatsen:
 
 - Maak een [issue](https://github.com/nl-design-system/gebruikersonderzoek/issues) aan op onze github en voeg je onderzoek daar aan toe. 
 - [Stuur ons een mailtje](mailto:j.du.chatinier@utrecht.nl,yolijn.vanderkolk@ictu.nl) met je onderzoek.
@@ -31,7 +31,7 @@ We gebruiken Markdown zodat de onderzoeken toegankelijk zijn en in de toekomst m
 
 ## Wat gebeurt er met mijn onderzoek als ik het deel?
 
-We knippen het onderzoek zo op dat het dezelfde structuur aanhoudt als ons template, dus mogelijk verandert de volgorde. We zullen niet de inhoud veranderen van het onderzoek en zetten altijd een link naar het originele bestand in het onderzoek, indien van toepassing. (creative commons refefentie?) Je kan op elk moment je onderzoek laten verwijderen van deze site.
+We knippen het onderzoek zo op dat het dezelfde structuur aanhoudt als ons template, dus mogelijk verandert de volgorde. We zullen de inhoud van het onderzoek niet veranderen en zetten, indien van toepassing, altijd een link naar het originele bestand in het onderzoek. (creative commons refefentie?) Je kan op elk moment je onderzoek laten verwijderen van deze site.
 
 ## Onderzoek aanpassen
 
