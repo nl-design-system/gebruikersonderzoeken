@@ -23,7 +23,7 @@ const FeatureList: FeatureItem[] = [
     description: (
       <>
         Heb je een onderzoek dat je wilt delen met mensen binnen en buiten je organisatie?{' '}
-        <Link to="docs/onderzoek-delen">Plaats het eenvoudig op deze site</Link>.
+        <Link to="docs/onderzoek-delen">Plaats je onderzoek eenvoudig op deze site</Link>.
       </>
     ),
   },
@@ -31,8 +31,8 @@ const FeatureList: FeatureItem[] = [
     title: 'Vragen?',
     description: (
       <>
-        Als je meer weten over hoe dit initiatief werkt,{' '}
-        <Link to="docs/vragen">hebben we wat zaken op een rijtje gezet</Link>.
+        We hebben wat zaken op een rijtje gezet over dit initiatief en hoe het werkt.{' '}
+        <Link to="docs/vragen">Krijg antwoord op je vragen</Link>.
       </>
     ),
   },

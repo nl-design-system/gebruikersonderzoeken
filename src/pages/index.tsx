@@ -12,8 +12,8 @@ function HomepageHeader() {
       <div className="container">
         <h1 className="hero__title">Gebruikersonderzoek</h1>
         <p>
-          Op deze pagina verzamelen en delen we zoveel mogelijk gebruikersonderzoek van alle gemeenten in Nederland voor
-          onderzoekers, ontwerpers en managers. Zodat we zoveel mogelijk van elkaar kunnen leren , geinspireerd raken
+          Hier verzamelen en delen we zoveel mogelijk gebruikersonderzoek van alle gemeenten in Nederland voor
+          onderzoekers, ontwerpers en managers. Zodat we zoveel mogelijk van elkaar kunnen leren, geinspireerd raken
           door elkaar's onderzoek en sneller de juiste beslissingen kunnen nemen.
         </p>
         <div className={styles.buttons}>

@@ -17,7 +17,7 @@ const mainNav = {
       type: 'docSidebar',
       sidebarId: 'vragenSidebar',
       position: 'left',
-      label: 'Vragen?',
+      label: 'Vragen',
     },
   ],
 }
