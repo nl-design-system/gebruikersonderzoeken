@@ -20,7 +20,7 @@ tags:
 
 # Google Translate gebruik op utrecht.nl
 
-![](https://i.imgur.com/KiAIYNo.png)
+![Plaatje van een browser met waar de Google Translate pop-up getoond wordt om de pagina te gaan vertalen.](https://i.imgur.com/KiAIYNo.png)
 
 **Samengevat: Bij 5,8% van de bezoeken aan utrecht.nl in Maart 2023 wordt google translate in de Google Chrome browser gebruikt om webpagina's te vertalen. Het is dus belangrijk om een goede, duidelijke tekst op B1-niveau te hebben die automatisch vertaald kan worden.**
 
