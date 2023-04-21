@@ -70,7 +70,7 @@ De talen waar het meest naar vertaald wordt in Maart 2023:
 |Duits | 682 |
 |Oekraïens | 639 |
 
-De totale lijst van talen staat in de bijlages.
+De totale lijst van talen staat in de [bijlages](#bijlages).
 
 ### Nederlands vertaald naar Nederlands
 
@@ -93,4 +93,4 @@ We hebben in onze statistieken software een zogenaamde 'trigger' gezet die meet 
 
 ## Bijlages
 
-[Totale lijst van vertalingen in Google Chrome in Maart 2023](https://github.com/nl-design-system/gebruikersonderzoek/files/11259333/GoogleTranslations.xlsx).
+[Totale lijst van vertalingen in Google Chrome in Maart 2023 (Excel)](https://github.com/nl-design-system/gebruikersonderzoek/files/11259333/GoogleTranslations.xlsx).
