@@ -9,10 +9,13 @@ keywords:
   - informatiecampagne
   - gemeente utrecht
   - gebruikersonderzoek
+  - 18 jaar
+  - life event
 tags:
   - utrecht
-  - 18 jaar! regelen maar!
+  - 18 jaar
   - informatiecampage
+  - life event
 ---
 
 <!-- @license CC0-1.0 -->
