@@ -21,11 +21,20 @@ tags:
 
 # Ontwerp en usability onderzoek Mijn-omgevingen
 
+**Samengevat: de Mijn Omgeving kan niet als één aparte service worden gezien, maar is voor de inwoner een geheel van vier verschillende onderdelen. Het onderzoek toont het belang van duidelijkheid, rust en vertrouwen aan.**
+
 ## Doel van het onderzoek
 
 Dit onderzoek moet inzicht bieden in de gebruiksvriendelijkheid, begrijpelijkheid en optimalisatiekansen voor de vier ontwikkelde generieke services vanuit het perspectief van de doelgroep (inwoners die gebruikmaken van de Mijn-omgeving). Hierbij is extra aandacht gewenst voor mensen die minder dan gemiddeld digi- of taalvaardig zijn. Om daarmee de mogelijkheden binnen de Mijn-omgeving in een zo gebruiksvriendelijk mogelijke vorm aan te kunnen bieden aan alle inwoners. Met de resultaten van het onderzoek kan het ontwerp warden verbeterd. Geïnteresseerde organisaties kunnen hier vervolgens gebruik van maken in hun eigen Mijn-omgevingen.
 
 ### De generieke services
+
+We hebben vier verschillende services in samenhang met elkaar getest:
+
+- De Notificatieservice
+- Mijn berichten
+- Taken
+- Contactmomenten
 
 #### Notificatieservice
 
