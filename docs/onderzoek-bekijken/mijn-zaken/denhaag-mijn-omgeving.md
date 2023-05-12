@@ -204,7 +204,7 @@ Let op: de test vond niet in een 'real life setting' plaats. De werkelijkheid is
 #### Opdrachten ronde 1
 
 - Taak uitvoeren: Betaal de parkeerbon
-- Bekijken taken: Bekijk wat er gevraagd wordt random jouw aanvraag voor subsidie voor geluidsisolatie (er hoeft niets uitgevoerd te warden).
+- Bekijken taken: Bekijk wat er gevraagd wordt rondom jouw aanvraag voor subsidie voor geluidsisolatie (er hoeft niets uitgevoerd te worden).
 - Contactmomenten/vraag stellen: Stel een vraag over de subsidie geluidsisolatie via het vraagformulier
 
 #### Opdrachten ronde 2
