@@ -108,7 +108,7 @@ Een e-mailnotificatie vindt men een handige reminder. Een e-mail ter bevestiging
 
 ### Gebruikers vertrouwen de notificatiemail, maar zijn zich ook zeer bewust van het risico op phishing
 
-Vrijwel a lie gebruikers zijn zich erg bewust van de risico's op phishing bij e-mail. Ze openen de notificatiemail wel als ze de afzender herkennen en het onderwerp logischerwijs van deze afzender verwachten.
+Vrijwel alle gebruikers zijn zich erg bewust van de risico's op phishing bij e-mail. Ze openen de notificatiemail wel als ze de afzender herkennen en het onderwerp logischerwijs van deze afzender verwachten.
 
 ### Het uitvoeren van taken gaat overwegend soepel
 
