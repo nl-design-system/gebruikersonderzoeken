@@ -12,7 +12,7 @@ keywords:
   - 18 jaar
   - life event
 tags:
-  - utrecht
+  - den haag
   - 18 jaar
   - informatiecampage
   - life event
