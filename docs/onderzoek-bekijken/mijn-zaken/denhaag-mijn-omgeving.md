@@ -84,7 +84,7 @@ Wanneer mensen bijvoorbeeld eigen documenten moeten uploaden, zorg dan voor een 
 
 ### Onderzoek mogelijkheden om de lijst met contactmomenten eenvoudiger herkenbaar te maken
 
-Vooral op mobiel is het belangrijk dat de betekenis van de (waardevolle) lijst met contactmomenten sneller herkend wordt. Mogelijk is de toevoeging van enkele woorden als 'tijdlijn' of' uw eerderecontactmomenten over deze zaak' voldoende.
+Vooral op mobiel is het belangrijk dat de betekenis van de (waardevolle) lijst met contactmomenten sneller herkend wordt. Mogelijk is de toevoeging van enkele woorden als 'tijdlijn' of' uw eerdere contactmomenten over deze zaak' voldoende.
 
 ### Accepteer dat de Mijn-omgeving voor laaggeletterden en anderstaligen moeilijk zelfstandig te gebruiken is
 
