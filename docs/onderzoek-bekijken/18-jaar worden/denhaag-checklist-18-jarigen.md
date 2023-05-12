@@ -7,7 +7,7 @@ pagination_label: Checklist 18 jarigen
 description: Checklist 18 jarigen
 keywords:
   - informatiecampagne
-  - gemeente utrecht
+  - gemeente den haag
   - gebruikersonderzoek
   - 18 jaar
   - life event
