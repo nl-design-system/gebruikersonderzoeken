@@ -191,7 +191,7 @@ Hieronder staan de doorlopen stappen globaal beschreven.
 
 #### Kanttekening
 
-Let op: de test vond niet in een 'real life setting' plaats. De werkelijkheid is nagebootst door mensen zich te laten inleven in een scenario. Dit kan ervoor zorgen dot men bepaalde zaken in de testomgeving anders opvat don wanneer men daadwerkelijk in de situatie zou zitten.
+Let op: de test vond niet in een 'real life setting' plaats. De werkelijkheid is nagebootst door mensen zich te laten inleven in een scenario. Dit kan ervoor zorgen dat men bepaalde zaken in de testomgeving anders opvat dan wanneer men daadwerkelijk in de situatie zou zitten.
 
 ### Testscenario's
 
