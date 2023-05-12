@@ -24,7 +24,7 @@ tags:
 
 **Samengevat: Inhoudelĳk is de checklist in op orde, maar de vormgeving sluit nu onvoldoende aan bĳ de doelgroep. Het komt te kinderachtig over en is niet serieus genoeg.**
 
-![](https://hackmd.io/_uploads/B1cZJKqVh.jpg)
+![Verjaardagskaart met een taart met een nummer 18 kaarsje en de tekst "Regel je SHIT" erop](https://hackmd.io/_uploads/B1cZJKqVh.jpg)
 
 ## Doel van het onderzoek
 
