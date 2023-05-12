@@ -112,7 +112,7 @@ Vrijwel alle gebruikers zijn zich erg bewust van de risico's op phishing bij e-m
 
 ### Het uitvoeren van taken gaat overwegend soepel
 
-Dit geldt met name voor het doen van een beta ling. Een document uploaden vindt niet iedereen even makkelijk. Wanneer men iets moet aanleveren wil men ook graag vooraf weten wat er precies gevraagd wordt en waarom.
+Dit geldt met name voor het doen van een betaling. Een document uploaden vindt niet iedereen even makkelijk. Wanneer men iets moet aanleveren wil men ook graag vooraf weten wat er precies gevraagd wordt en waarom.
 
 ### De meesten zijn blij met de lijst van contactmomenten
 
