@@ -32,7 +32,7 @@ In 2017 is vanuit een Jongerenstadslab door jongeren zelf nagedacht over wat ze 
 
 De onderzoeksvragen van dit onderzoek zijn: Hoe heeft de checklist jongeren geholpen? Heeft de checklist de jongeren bereikt? Waarom is de checklist wel of niet nuttig? Hoe ervaren jongeren het 18 worden?
 
-![](https://hackmd.io/_uploads/Sk9aAdc43.jpg)
+![Binnenkant van kaart met checklist. Het eerste vakje met de tekst "checklist 18+ ontvangen" is aangevinkt. De rest van de acties zoals DigiD aanvragen is nog niet aangevinkt](https://hackmd.io/_uploads/Sk9aAdc43.jpg)
 
 ## Advies
 
