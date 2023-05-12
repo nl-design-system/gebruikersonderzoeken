@@ -178,7 +178,7 @@ Hieronder staan de doorlopen stappen globaal beschreven.
 
 #### Doelgroep en steekproef
 
-- Er zijn vooral inwoners betrokken die minder don gemiddeld digivaardig en minder don gemiddeld taalvaardig zijn. Uitgangspunt was dot als zij met de Mijn-omgeving overweg kunnen, andere gebruikers dot oak kunnen. Ter vergelijking zijn er twee respondenten met een hoog opleidingsniveau betrokken.
+- Er zijn vooral inwoners betrokken die minder dan gemiddeld digivaardig en minder dan gemiddeld taalvaardig zijn. Uitgangspunt was dat als zij met de Mijn-omgeving overweg kunnen, andere gebruikers dat ook kunnen. Ter vergelijking zijn er twee respondenten met een hoog opleidingsniveau betrokken.
 - In totaal hebben 14 respondenten deelgenomen, verdeeld over twee onderzoeksrondes.
 - Respondenten zijn deels via een wervingsbureau geworven, deels via de taalschool waar de gemeente mee samenwerkt (voor laaggeletterde inwoners) en deels via een wijkproject in de Schilderswijk (voor inzicht in de doelgroep die de Nederlandse tool minder goed beheerst).
 - Er is gezorgd voor goede spreiding op leeftijd en geslacht.
