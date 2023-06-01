@@ -238,7 +238,7 @@ Bij vragen over dit onderwerp kan je terecht bij:
 - Wanneer zou je deze envelop open maken?
 - Wat verwacht je dat er op deze kaart staat?
 
-\>\>\> Kaart laten lezen
+De respondent leest de kaart
 
 - Wat vind je van deze kaart? Wat doet het met je?
 - Staat op deze kaart wat je ervan verwachtte
@@ -252,7 +252,7 @@ Bij vragen over dit onderwerp kan je terecht bij:
 - Zou je ook zonder de kaart op zoek gaan naar de website?
 - Wat verwacht je dat er op de website staat?
 
-\>\>\> Website bekijken
+De respondent bekijkt de website
 
 - Wat zijn je eerste gedachten als je de website ziet?
 - Wat kan je op deze website doen?
