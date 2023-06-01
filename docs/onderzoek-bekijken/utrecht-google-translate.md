@@ -4,7 +4,7 @@ hide_title: true
 hide_table_of_contents: false
 sidebar_label: Google Translate gebruik op utrecht.nl
 pagination_label: Google Translate gebruik op utrecht.nl
-description: Gebruikersonderzoek iGoogle Translate gebruik op utrecht.nl
+description: Gebruikersonderzoek Google Translate gebruik op utrecht.nl
 keywords:
   - taal
   - google
