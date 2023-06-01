@@ -1,9 +1,9 @@
 ---
-title: Zichtbaarheid en toegankelijkheid initiatievenfonds
+title: Uitzonderingen in het verhuisaangiften proces
 hide_title: true
 hide_table_of_contents: false
-sidebar_label: Zichtbaarheid en toegankelijkheid initiatievenfonds
-pagination_label: Zichtbaarheid en toegankelijkheid initiatievenfonds
+sidebar_label: Uitzonderingen in het verhuisaangiften proces
+pagination_label: Uitzonderingen in het verhuisaangiften proces
 description: Klantreisonderzoek verhuisaangiften
 keywords:
   - stadskamer
