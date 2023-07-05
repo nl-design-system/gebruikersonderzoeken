@@ -51,6 +51,10 @@ We hebben in onze statistieken software een zogenaamde 'trigger' gezet die met e
 
 Deze trigger hebben we een aantal dagen laten draaien om voldoende cijfers op te halen.
 
+### Code
+
+Voor de statistiekentool Matomo kan je de code die we gebruikt hebben in [gitHub](https://github.com/nl-design-system/matomo) vinden.
+
 ## Contactinfo
 
 - [Joram Burer, Webmaster](mailto:joram.burer@utrecht.nl) - Gemeente Utrecht
