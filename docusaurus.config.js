@@ -73,8 +73,8 @@ const config = {
             title: 'Contact',
             items: [
               {
-                label: 'Yolijn van der Kolk - yolijn.vanderkolk@ictu.nl',
-                href: 'mailto:yolijn.vanderkolk@ictu.nl',
+                label: 'Yolijn van der Kolk - yolijn@frameless.io',
+                href: 'mailto:yolijn@frameless.io',
               },
               {
                 label: 'Jeroen du Chatinier - j.du.chatinier@utrecht.nl',

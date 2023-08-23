@@ -13,7 +13,7 @@ keywords:
 
 # Vragen
 
-We proberen zo veel mogelijk vragen over deze pagina hier te beantwoorden. Mocht je vraag hier niet beantwoord worden, [neem contact met ons op](mailto:j.du.chatinier@utrecht.nl,yolijn.vanderkolk@ictu.nl).
+We proberen zo veel mogelijk vragen over deze pagina hier te beantwoorden. Mocht je vraag hier niet beantwoord worden, [neem contact met ons op](mailto:j.du.chatinier@utrecht.nl,yolijn@frameless.io).
 
 ## Hoe deel ik mijn onderzoek op deze site?
 
@@ -23,7 +23,7 @@ Hoe je dat moet doen leggen we uit op onze [Onderzoek delen pagina](../onderzoek
 
 Elk gedeeld onderzoek heeft contactgegevens van de onderzoekers en de persoon die het onderzoek heeft gepubliceerd. Zo kun je makkelijk de juiste persoon te pakken krijgen.
 
-Mocht je een opmerking hebben of onderzoek hebben wat erop lijkt, [neem contact met ons op](mailto:j.du.chatinier@utrecht.nl,yolijn.vanderkolk@ictu.nl).
+Mocht je een opmerking hebben of onderzoek hebben wat erop lijkt, [neem contact met ons op](mailto:j.du.chatinier@utrecht.nl,yolijn@frameless.io).
 
 ## Waarom deze site?
 
@@ -37,7 +37,7 @@ Voor iedereen die gebruikersonderzoek interessant vindt. In eerste instantie ric
 
 ## Wie houdt deze site bij?
 
-Deze site wordt bijgehouden door Yolijn van der Kolk (ICTU) en Jeroen du Chatinier (gemeente Utrecht).
+Deze site wordt bijgehouden door Yolijn van der Kolk (Frameless) en Jeroen du Chatinier (gemeente Utrecht).
 
 ## Ik heb een idee of een vraag over deze site! Waar moet ik zijn?
 
