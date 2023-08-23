@@ -1,5 +1,5 @@
 ---
-title: Ontwerp en usability onderzoek Mijn-omgevingen 
+title: Ontwerp en usability onderzoek Mijn-omgevingen
 hide_title: true
 hide_table_of_contents: false
 sidebar_label: Ontwerp en usability onderzoek Mijn-omgevingen
@@ -136,45 +136,45 @@ Hieronder staan de doorlopen stappen globaal beschreven.
 
 #### Voorbereidingen ontwerp
 
-- Deskresearch door ontwerper. 
-- Onderzoek en ontwikkeling om te komen tot een prototype. 
-- Aanscherping: Prototype door ontwerpers en ontwikkelaars beoordeeld in een workshop voor verdere verbetering. 
-- Betrokkenen: gemeente Den Haag, gemeente Utrecht, RVO, Opengemeenten, ICTU en NLDS kernteam.
+- Deskresearch door ontwerper.
+- Onderzoek en ontwikkeling om te komen tot een prototype.
+- Aanscherping: Prototype door ontwerpers en ontwikkelaars beoordeeld in een workshop voor verdere verbetering.
+- Betrokkenen: gemeente Den Haag, gemeente Utrecht, RVO, Opengemeenten en NLDS kernteam.
 
 #### Onderzoeksronde 1
 
-- Deskresearch o.b.v onderzoek over MijnOverheid. 
-- Eerste prototype getest met 7 inwoners. 
-- Analyse en verwerking tot aanbevelingen voor een verbeterd prototype. 
-- Betrokkenen: onderzoekers en ontwerpers van gemeenten Den Haag en Utrecht. Veel andere betrokkenen hebben meegekeken. 
+- Deskresearch o.b.v onderzoek over MijnOverheid.
+- Eerste prototype getest met 7 inwoners.
+- Analyse en verwerking tot aanbevelingen voor een verbeterd prototype.
+- Betrokkenen: onderzoekers en ontwerpers van gemeenten Den Haag en Utrecht. Veel andere betrokkenen hebben meegekeken.
 
 #### Design iteratie
 
-- Workshop met ontwerpers van verschillende organisaties om verbeteringen te bedenken voor het ontwerp. 
-- Verbeteringen zijn doorgevoerd in een nieuw prototype. 
-- Betrokkenen: ontwerper gemeente Utrecht, RVO, ICTU en NLDS kernteam. 
+- Workshop met ontwerpers van verschillende organisaties om verbeteringen te bedenken voor het ontwerp.
+- Verbeteringen zijn doorgevoerd in een nieuw prototype.
+- Betrokkenen: ontwerper gemeente Utrecht, RVO en NLDS kernteam.
 
 #### Onderzoeksronde 2
 
-- Nieuwe prototype getest met 7 inwoners. De insteek van de test was grotendeels gelijk aan die van ronde 1. 
-- Betrokkenen: Interviews en analyses door onderzoekers van gemeenten Den Haag en Utrecht. Veel andere betrokkenen hebben meegekeken. 
+- Nieuwe prototype getest met 7 inwoners. De insteek van de test was grotendeels gelijk aan die van ronde 1.
+- Betrokkenen: Interviews en analyses door onderzoekers van gemeenten Den Haag en Utrecht. Veel andere betrokkenen hebben meegekeken.
 
-#### Analyse- en haalbaarheidssessie 
+#### Analyse- en haalbaarheidssessie
 
-- Bespreking inzichten en aanbevelingen door onderzoekers en ontwerpers met de opdrachtgever. 
-- Praktische en technische uitvoerbaarheid van de aanbevelingen besproken. 
-- Prioritering bepaald. 
+- Bespreking inzichten en aanbevelingen door onderzoekers en ontwerpers met de opdrachtgever.
+- Praktische en technische uitvoerbaarheid van de aanbevelingen besproken.
+- Prioritering bepaald.
 - Betrokkenen: onderzoekers en ontwerpers Den Haag en Utrecht, opdrachtgever VNG.
 
 ### Onderzoeksspecificaties
 
 #### Methode
 
-- Vorm: usability testing met een prototype. Respondenten kregen verschillende taken. De facilitator stelde vragen om de acties, gedachtegang en eventuele moeilijkheden beter te begrijpen. 
-- Het prototype had als basis de Mijn-omgeving van DenHaag.nl (MijnDenHaag). 
-- De helft testte op desktop, de andere helft op mobiel. 
-- Bij de desktopversie is eye-tracking toegepast voor meer inzicht in waar de aandacht naartoe gaat. 
-- Locatie: de 'Stadskamer' van de gemeente Den Haag. Er is door veel betrokkenen meegekeken via videostreaming in de fysieke meekijkruimte van het Stadhuis en via MS Teams. 
+- Vorm: usability testing met een prototype. Respondenten kregen verschillende taken. De facilitator stelde vragen om de acties, gedachtegang en eventuele moeilijkheden beter te begrijpen.
+- Het prototype had als basis de Mijn-omgeving van DenHaag.nl (MijnDenHaag).
+- De helft testte op desktop, de andere helft op mobiel.
+- Bij de desktopversie is eye-tracking toegepast voor meer inzicht in waar de aandacht naartoe gaat.
+- Locatie: de 'Stadskamer' van de gemeente Den Haag. Er is door veel betrokkenen meegekeken via videostreaming in de fysieke meekijkruimte van het Stadhuis en via MS Teams.
 
 #### Doelgroep en steekproef
 
@@ -185,7 +185,7 @@ Hieronder staan de doorlopen stappen globaal beschreven.
 
 #### Periode
 
-- Het onderzoek vond plaats in twee rondes. Ronde 1 vond plaats tussen 16 en 19 januari 2023.  
+- Het onderzoek vond plaats in twee rondes. Ronde 1 vond plaats tussen 16 en 19 januari 2023.
 - Ronde 2 vond plaats tussen 21 en 23 februari 2023.
 - De test duurde 45 minuten per respondent.
 
@@ -197,9 +197,9 @@ Let op: de test vond niet in een 'real life setting' plaats. De werkelijkheid is
 
 #### Uitgangspunten
 
-- Respondent heet 'Anne Klap' 
-- Anne heeft een parkeerbon ontvangen van de gemeente, deze moet betaald warden 
-- Anne heeft een zaak 'aanvraag subsidie geluidsisolatie' bij de gemeente lopen 
+- Respondent heet 'Anne Klap'
+- Anne heeft een parkeerbon ontvangen van de gemeente, deze moet betaald warden
+- Anne heeft een zaak 'aanvraag subsidie geluidsisolatie' bij de gemeente lopen
 
 #### Opdrachten ronde 1
 

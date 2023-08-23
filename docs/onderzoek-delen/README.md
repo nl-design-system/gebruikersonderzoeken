@@ -13,14 +13,14 @@ keywords:
 
 # Gebruikersonderzoek delen
 
-Het plaatsen van onderzoek op de site hebben we zo laagdrempelig mogelijk gemaakt. Mocht er iets onduidelijk zijn, [neem contact met ons op](mailto:j.du.chatinier@utrecht.nl,yolijn.vanderkolk@ictu.nl).
+Het plaatsen van onderzoek op de site hebben we zo laagdrempelig mogelijk gemaakt. Mocht er iets onduidelijk zijn, [neem contact met ons op](mailto:j.du.chatinier@utrecht.nl,yolijn@frameless.io).
 
 ## Onderzoek op deze site plaatsen
 
 Er zijn verschillende manieren om onderzoek op de site te (laten) plaatsen:
 
-- Maak een [issue](https://github.com/nl-design-system/gebruikersonderzoek/issues) aan op onze github en voeg je onderzoek daar aan toe. 
-- [Stuur ons een mailtje met je onderzoek](mailto:j.du.chatinier@utrecht.nl,yolijn.vanderkolk@ictu.nl).
+- Maak een [issue](https://github.com/nl-design-system/gebruikersonderzoek/issues) aan op onze github en voeg je onderzoek daar aan toe.
+- [Stuur ons een mailtje met je onderzoek](mailto:j.du.chatinier@utrecht.nl,yolijn@frameless.io).
 - Als je handig bent met gitHub: [maak een Pull-request in onze gitHub](https://github.com/nl-design-system/gebruikersonderzoek/) waar je onderzoek in staat.
 
 ## In wat voor type bestand lever ik het onderzoek aan?
@@ -37,8 +37,8 @@ We knippen het onderzoek zo op dat het dezelfde structuur aanhoudt als ons templ
 
 Een bestaand onderzoek kan je altijd aanpassen, op de volgende drie manieren:
 
-- Maak een [issue](https://github.com/nl-design-system/gebruikersonderzoek/issues) aan op onze gitHub en voeg je gewenste wijzigingen daar aan toe. 
-- [Stuur ons een mailtje met je wijzigingen](mailto:j.du.chatinier@utrecht.nl,yolijn.vanderkolk@ictu.nl).
+- Maak een [issue](https://github.com/nl-design-system/gebruikersonderzoek/issues) aan op onze gitHub en voeg je gewenste wijzigingen daar aan toe.
+- [Stuur ons een mailtje met je wijzigingen](mailto:j.du.chatinier@utrecht.nl,yolijn@frameless.io).
 - Als je handig bent met gitHub: [maak een Pull-request in onze gitHub](https://github.com/nl-design-system/gebruikersonderzoek/) waar je wijzigingen in staan.
 
 ## Eisen aan het onderzoek
