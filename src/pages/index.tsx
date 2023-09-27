@@ -10,9 +10,9 @@ function HomepageHeader() {
   return (
     <header className={clsx('hero hero--primary', styles.heroBanner)}>
       <div className="container">
-        <h1 className="hero__title">Gebruikersonderzoek</h1>
+        <h1 className="hero__title">Gebruikersonderzoeken</h1>
         <p>
-          Hier verzamelen en delen we zoveel mogelijk gebruikersonderzoek van alle gemeenten in Nederland voor
+          Hier verzamelen en delen we zoveel mogelijk gebruikersonderzoeken van alle gemeenten in Nederland voor
           onderzoekers, ontwerpers en managers. Zodat we zoveel mogelijk van elkaar kunnen leren, geinspireerd raken
           door elkaar's onderzoek en sneller de juiste beslissingen kunnen nemen.
         </p>
@@ -28,7 +28,7 @@ function HomepageHeader() {
 
 export default function Home(): JSX.Element {
   return (
-    <Layout title="gebruikersonderzoek" description="Gedeeld gebruikersonderzoek voor de overheid">
+    <Layout title="gebruikersonderzoeken" description="Gedeelde gebruikersonderzoeken voor de overheid">
       <HomepageHeader />
       <main>
         <HomepageFeatures />

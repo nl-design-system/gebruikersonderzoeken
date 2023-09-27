@@ -33,7 +33,7 @@ Door een site te maken waar iedereen op een makkelijke manier onderzoek kan plaa
 
 ## Voor wie is deze site?
 
-Voor iedereen die gebruikersonderzoek interessant vindt. In eerste instantie richten we ons op onderzoekers, designers en product owners. We willen waarde toevoegen voor onderzoekers door te voorkomen dat ze dubbel werk doen en hun te laten inspireren door bestaand onderzoek. Designers kunnen designs maken gebaseerd op uitkomsten van dit onderzoek. Product Owners willen we helpen door onderzoek aan te bieden op basis waarvan ze beslissingen kunnen nemen over producten en diensten.
+Voor iedereen die gebruikersonderzoeken interessant vindt. In eerste instantie richten we ons op onderzoekers, designers en product owners. We willen waarde toevoegen voor onderzoekers door te voorkomen dat ze dubbel werk doen en hun te laten inspireren door bestaand onderzoek. Designers kunnen designs maken gebaseerd op uitkomsten van dit onderzoek. Product Owners willen we helpen door onderzoek aan te bieden op basis waarvan ze beslissingen kunnen nemen over producten en diensten.
 
 ## Wie houdt deze site bij?
 
@@ -41,4 +41,4 @@ Deze site wordt bijgehouden door Yolijn van der Kolk (Frameless) en Jeroen du Ch
 
 ## Ik heb een idee of een vraag over deze site! Waar moet ik zijn?
 
-Maak een issue aan in de [Gebruikersonderzoek GitHub](https://github.com/nl-design-system/gebruikersonderzoek/issues) of stuur ons een mailtje.
+Maak een issue aan in de [Gebruikersonderzoeken GitHub](https://github.com/nl-design-system/gebruikersonderzoeken/issues) of stuur ons een mailtje.
