@@ -1,5 +1,5 @@
 const mainNav = {
-  title: 'Gebruikersonderzoek',
+  title: 'Gebruikersonderzoeken',
   items: [
     {
       type: 'docSidebar',

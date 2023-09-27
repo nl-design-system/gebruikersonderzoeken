@@ -121,7 +121,7 @@ jobs:
 
       - name: "Continuous Integration: build"
         env:
-          BASE_URL: "/gebruikersonderzoek/"
+          BASE_URL: "/gebruikersonderzoeken/"
         run: |
           pnpm run --if-present build
 

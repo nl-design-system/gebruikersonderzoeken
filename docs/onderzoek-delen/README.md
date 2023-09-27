@@ -1,17 +1,17 @@
 ---
-title: Introductie Gebruikersonderzoek delen
+title: Introductie Gebruikersonderzoeken delen
 hide_title: true
 hide_table_of_contents: false
 sidebar_label: Introductie
 sidebar_position: 1
 pagination_label: Introductie
-description: Introductie Gebruikersonderzoek delen
+description: Introductie Gebruikersonderzoeken delen
 keywords:
   - gebruikersonderzoek
   - introductie
 ---
 
-# Gebruikersonderzoek delen
+# Gebruikersonderzoeken delen
 
 Het plaatsen van onderzoek op de site hebben we zo laagdrempelig mogelijk gemaakt. Mocht er iets onduidelijk zijn, [neem contact met ons op](mailto:j.du.chatinier@utrecht.nl,yolijn@frameless.io).
 
@@ -19,9 +19,9 @@ Het plaatsen van onderzoek op de site hebben we zo laagdrempelig mogelijk gemaak
 
 Er zijn verschillende manieren om onderzoek op de site te (laten) plaatsen:
 
-- Maak een [issue](https://github.com/nl-design-system/gebruikersonderzoek/issues) aan op onze github en voeg je onderzoek daar aan toe.
+- Maak een [issue](https://github.com/nl-design-system/gebruikersonderzoeken/issues) aan op onze github en voeg je onderzoek daar aan toe.
 - [Stuur ons een mailtje met je onderzoek](mailto:j.du.chatinier@utrecht.nl,yolijn@frameless.io).
-- Als je handig bent met gitHub: [maak een Pull-request in onze gitHub](https://github.com/nl-design-system/gebruikersonderzoek/) waar je onderzoek in staat.
+- Als je handig bent met gitHub: [maak een Pull-request in onze gitHub](https://github.com/nl-design-system/gebruikersonderzoeken/) waar je onderzoek in staat.
 
 ## In wat voor type bestand lever ik het onderzoek aan?
 
@@ -37,9 +37,9 @@ We knippen het onderzoek zo op dat het dezelfde structuur aanhoudt als ons templ
 
 Een bestaand onderzoek kan je altijd aanpassen, op de volgende drie manieren:
 
-- Maak een [issue](https://github.com/nl-design-system/gebruikersonderzoek/issues) aan op onze gitHub en voeg je gewenste wijzigingen daar aan toe.
+- Maak een [issue](https://github.com/nl-design-system/gebruikersonderzoeken/issues) aan op onze gitHub en voeg je gewenste wijzigingen daar aan toe.
 - [Stuur ons een mailtje met je wijzigingen](mailto:j.du.chatinier@utrecht.nl,yolijn@frameless.io).
-- Als je handig bent met gitHub: [maak een Pull-request in onze gitHub](https://github.com/nl-design-system/gebruikersonderzoek/) waar je wijzigingen in staan.
+- Als je handig bent met gitHub: [maak een Pull-request in onze gitHub](https://github.com/nl-design-system/gebruikersonderzoeken/) waar je wijzigingen in staan.
 
 ## Eisen aan het onderzoek
 
