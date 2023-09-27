@@ -7,8 +7,8 @@ const mainNav = require('./navConfig')
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
-  title: 'My Site',
-  tagline: 'Dinosaurs are cool',
+  title: 'Gebruikersonderzoeken',
+  tagline: 'Gedeelde gebruikersonderzoeken van alle gemeenten in Nederland voor onderzoekers, ontwerpers en managers',
   favicon: 'img/favicon.ico',
 
   // Set the production url of your site here
