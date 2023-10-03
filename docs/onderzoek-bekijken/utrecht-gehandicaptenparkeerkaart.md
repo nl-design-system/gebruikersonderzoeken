@@ -22,6 +22,8 @@ tags:
 <!-- @license CC0-1.0 -->
 # Aanvraagproces van de gehandicaptenparkeerkaart
 
+*Onderzoek uitgevoerd in 2023 door Team UX & Stadskamer - Gemeente Utrecht*
+
 ![Foto van ouderwets tapijtje met daarop een agenda, drie verschillende loepjes, een telefoon met grote toetsen, en een plant.](https://github.com/nl-design-system/gebruikersonderzoek/assets/49227194/4b1cf8d4-3b69-48d5-914a-dca93ce98157)
 
 **Samengevat: Het aanvragen van een gehandicaptenparkeerkaart op de niet-digitale manier wordt voornamelijk gedaan door hulpbehoevende 60-plussers, maar hier wordt in het proces onvoldoende rekening mee gehouden door de gemeente.**

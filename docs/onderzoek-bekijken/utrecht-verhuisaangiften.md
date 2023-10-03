@@ -23,6 +23,8 @@ tags:
 
 # Uitzonderingen in het verhuisaangiften proces
 
+*Onderzoek uitgevoerd in 2023 door de Stadskamer - Gemeente Utrecht*
+
 **Samengevat: Bij de meeste inwoners verloopt het verhuisaangifteproces probleemloos. Voor degenen bij wie het niet in één keer goed loopt, is het een onnodig moeizaam en lang proces.**
 
 ## Doel

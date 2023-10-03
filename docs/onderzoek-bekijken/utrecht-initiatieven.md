@@ -24,6 +24,9 @@ tags:
 ---
 
 # Zichtbaarheid en toegankelijkheid initiatievenfonds
+
+*Onderzoek uitgevoerd in 2023 door de Stadskamer - Gemeente Utrecht*
+
 **Samengevat: Het initiatievenfonds is een mooie manier voor inwoners om proactief aan de slag te gaan, maar helderheid over het proces en menselijk contact voor ondersteuning missen nog.**
 
 ## Doelen
