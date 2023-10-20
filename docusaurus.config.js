@@ -83,6 +83,17 @@ const config = {
           },
         ],
       },
+      algolia: {
+        // The application ID provided by Algolia
+        appId: 'HWYTAR8XU5',
+        // Public API key: it is safe to commit it
+        apiKey: '68720c7d6f2fe2fb3e01710c41e9b596',
+        indexName: 'gebruikersonderzoek',
+        // Config
+        contextualSearch: false,
+        placeholder: 'Zoek documentatie',
+        disableUserPersonalization: true,
+      },
     }),
 }
 
