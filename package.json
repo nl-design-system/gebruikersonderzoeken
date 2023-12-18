@@ -24,7 +24,7 @@
     "react-dom": "^17.0.2"
   },
   "devDependencies": {
-    "@algolia/client-search": "4.20.0",
+    "@algolia/client-search": "4.22.0",
     "@docusaurus/module-type-aliases": "2.4.0",
     "@docusaurus/theme-search-algolia": "2.4.3",
     "@nl-design-system-unstable/nlds-design-tokens": "1.0.0-alpha.23",
