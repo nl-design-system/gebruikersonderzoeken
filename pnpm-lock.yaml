@@ -4,50 +4,48 @@ settings:
   autoInstallPeers: false
   excludeLinksFromLockfile: false
 
-importers:
+dependencies:
+  '@docusaurus/core':
+    specifier: 2.4.0
+    version: 2.4.0(@docusaurus/types@2.4.0)(react-dom@17.0.2)(react@17.0.2)(typescript@4.9.5)
+  '@docusaurus/preset-classic':
+    specifier: 2.4.0
+    version: 2.4.0(@algolia/client-search@4.20.0)(react-dom@17.0.2)(react@17.0.2)(typescript@4.9.5)
+  '@mdx-js/react':
+    specifier: ^1.6.22
+    version: 1.6.22(react@17.0.2)
+  clsx:
+    specifier: ^1.2.1
+    version: 1.2.1
+  prism-react-renderer:
+    specifier: ^2.3.1
+    version: 2.3.1(react@17.0.2)
+  react:
+    specifier: ^17.0.2
+    version: 17.0.2
+  react-dom:
+    specifier: ^17.0.2
+    version: 17.0.2(react@17.0.2)
 
-  .:
-    dependencies:
-      '@docusaurus/core':
-        specifier: 2.4.0
-        version: 2.4.0(@docusaurus/types@2.4.0)(react-dom@17.0.2)(react@17.0.2)(typescript@4.9.5)
-      '@docusaurus/preset-classic':
-        specifier: 2.4.0
-        version: 2.4.0(@algolia/client-search@4.20.0)(react-dom@17.0.2)(react@17.0.2)(typescript@4.9.5)
-      '@mdx-js/react':
-        specifier: ^1.6.22
-        version: 1.6.22(react@17.0.2)
-      clsx:
-        specifier: ^1.2.1
-        version: 1.2.1
-      prism-react-renderer:
-        specifier: ^1.3.5
-        version: 1.3.5(react@17.0.2)
-      react:
-        specifier: ^17.0.2
-        version: 17.0.2
-      react-dom:
-        specifier: ^17.0.2
-        version: 17.0.2(react@17.0.2)
-    devDependencies:
-      '@algolia/client-search':
-        specifier: 4.20.0
-        version: 4.20.0
-      '@docusaurus/module-type-aliases':
-        specifier: 2.4.0
-        version: 2.4.0(react-dom@17.0.2)(react@17.0.2)
-      '@docusaurus/theme-search-algolia':
-        specifier: 2.4.3
-        version: 2.4.3(@algolia/client-search@4.20.0)(react-dom@17.0.2)(react@17.0.2)(typescript@4.9.5)
-      '@nl-design-system-unstable/nlds-design-tokens':
-        specifier: 1.0.0-alpha.23
-        version: 1.0.0-alpha.23
-      '@tsconfig/docusaurus':
-        specifier: ^1.0.5
-        version: 1.0.7
-      typescript:
-        specifier: ^4.7.4
-        version: 4.9.5
+devDependencies:
+  '@algolia/client-search':
+    specifier: 4.20.0
+    version: 4.20.0
+  '@docusaurus/module-type-aliases':
+    specifier: 2.4.0
+    version: 2.4.0(react-dom@17.0.2)(react@17.0.2)
+  '@docusaurus/theme-search-algolia':
+    specifier: 2.4.3
+    version: 2.4.3(@algolia/client-search@4.20.0)(react-dom@17.0.2)(react@17.0.2)(typescript@4.9.5)
+  '@nl-design-system-unstable/nlds-design-tokens':
+    specifier: 1.0.0-alpha.23
+    version: 1.0.0-alpha.23
+  '@tsconfig/docusaurus':
+    specifier: ^1.0.5
+    version: 1.0.7
+  typescript:
+    specifier: ^4.7.4
+    version: 4.9.5
 
 packages:
 
@@ -3571,6 +3569,10 @@ packages:
   /@types/parse5@5.0.3:
     resolution: {integrity: sha512-kUNnecmtkunAoQ3CnjmMkzNU/gtxG8guhi+Fk2U/kOpIKjIMKnXGp4IJCgQJrXSgMsWYimYG4TGjz/UzbGEBTw==}
 
+  /@types/prismjs@1.26.3:
+    resolution: {integrity: sha512-A0D0aTXvjlqJ5ZILMz3rNfDBOx9hHxLZYv2by47Sm/pqW35zzjusrZTryatjN/Rf8Us2gZrJD+KeHbUSTux1Cw==}
+    dev: false
+
   /@types/prop-types@15.7.5:
     resolution: {integrity: sha512-JCB8C6SnDoQf0cNycqd/35A7MjcnK+ZTqE7judS6o7utxUCg6imJg3QK2qzHKszlTjcj2cn+NwMB2i96ubpj7w==}
 
@@ -4283,6 +4285,11 @@ packages:
   /clsx@1.2.1:
     resolution: {integrity: sha512-EcR6r5a8bj6pu3ycsa/E/cKVGuTgZJZdsyUYHOksG/UHIiKfjxzRxYJpyVBwYaQeOvghal9fcc4PidlgzugAQg==}
     engines: {node: '>=6'}
+
+  /clsx@2.0.0:
+    resolution: {integrity: sha512-rQ1+kcj+ttHG0MKVGBUXwayCCF1oh39BF5COIpRzuCEv8Mwjv0XucrI2ExNTOn9IlLifGClWQcU9BrZORvtw6Q==}
+    engines: {node: '>=6'}
+    dev: false
 
   /collapse-white-space@1.0.6:
     resolution: {integrity: sha512-jEovNnrhMuqyCcjfEJA56v0Xq8SkIoPKDyaHahwo3POf4qcSXqMYuwNcOTzp74vTsR9Tn08z4MxWqAhcekogkQ==}
@@ -6906,6 +6913,16 @@ packages:
       react: '>=0.14.9'
     dependencies:
       react: 17.0.2
+
+  /prism-react-renderer@2.3.1(react@17.0.2):
+    resolution: {integrity: sha512-Rdf+HzBLR7KYjzpJ1rSoxT9ioO85nZngQEoFIhL07XhtJHlCU3SOz0GJ6+qvMyQe0Se+BV3qpe6Yd/NmQF5Juw==}
+    peerDependencies:
+      react: '>=16.0.0'
+    dependencies:
+      '@types/prismjs': 1.26.3
+      clsx: 2.0.0
+      react: 17.0.2
+    dev: false
 
   /prismjs@1.29.0:
     resolution: {integrity: sha512-Kx/1w86q/epKcmte75LNrEoT+lX8pBpavuAbvJWRXar7Hz8jrtF+e3vY751p0R8H9HdArwaCTNDDzHg/ScJK1Q==}
