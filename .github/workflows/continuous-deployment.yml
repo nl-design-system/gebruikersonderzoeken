@@ -8,147 +8,112 @@ on:
 
 jobs:
   install:
+    name: Install dependencies
     runs-on: ubuntu-latest
 
     steps:
-      - name: Checkout branch
-        uses: actions/checkout@v3
+      - name: Download code from GitHub
+        uses: actions/checkout@v4.1.1
+
+      - name: Install pnpm package manager
+        uses: pnpm/action-setup@v2.4.0
+        with:
+          version: 8.14.1
 
       - name: Set up Node.js version
         uses: actions/setup-node@v3
         with:
-          node-version: "18.14.x"
+          node-version-file: .nvmrc
+          cache: pnpm
 
-      - uses: pnpm/action-setup@v2.0.1
-        name: Install pnpm
-        id: pnpm-install
-        with:
-          version: 7
-          run_install: false
-
-      - name: Get pnpm store directory
-        id: pnpm-cache
-        run: |
-          echo "::set-output name=pnpm_cache_dir::$(pnpm store path)"
-      - uses: actions/cache@v3
-        name: Setup pnpm cache
-        with:
-          path: ${{ steps.pnpm-cache.outputs.pnpm_cache_dir }}
-          key: ${{ runner.os }}-pnpm-store-${{ hashFiles('**/pnpm-lock.yaml') }}
-          restore-keys: |
-            ${{ runner.os }}-pnpm-store-
-
-      - name: Install dependencies
+      - name: Install dependencies specified in package.json
         run: |
           pnpm install
           pnpm ls --recursive
 
   lint:
+    name: Lint code
     runs-on: ubuntu-latest
     needs: install
 
     steps:
-      - name: Checkout branch
-        uses: actions/checkout@v3
+      - name: Download code from GitHub
+        uses: actions/checkout@v4.1.1
+
+      - name: Install pnpm package manager
+        uses: pnpm/action-setup@v2.4.0
+        with:
+          version: 8.14.1
 
       - name: Set up Node.js version
         uses: actions/setup-node@v3
         with:
-          node-version: "18.14.x"
+          node-version-file: .nvmrc
+          cache: pnpm
 
-      - uses: pnpm/action-setup@v2.0.1
-        name: Install pnpm
-        id: pnpm-install
-        with:
-          version: 7
-          run_install: false
-
-      - name: Get pnpm store directory
-        id: pnpm-cache
-        run: |
-          echo "::set-output name=pnpm_cache_dir::$(pnpm store path)"
-      - uses: actions/cache@v3
-        name: Setup pnpm cache
-        with:
-          path: ${{ steps.pnpm-cache.outputs.pnpm_cache_dir }}
-          key: ${{ runner.os }}-pnpm-store-${{ hashFiles('**/pnpm-lock.yaml') }}
-          restore-keys: |
-            ${{ runner.os }}-pnpm-store-
-
-      - name: Install dependencies
+      - name: Install dependencies specified in package.json
         run: |
           pnpm install
 
-      - name: "Continuous Integration: lint"
+      - name: Run the lint script in package.json scripts
         run: |
           pnpm run --if-present lint
 
   build:
+    name: Build
     runs-on: ubuntu-latest
     needs: install
 
     steps:
-      - name: Checkout branch
-        uses: actions/checkout@v3
+      - name: Download code from GitHub
+        uses: actions/checkout@v4.1.1
+
+      - name: Install pnpm package manager
+        uses: pnpm/action-setup@v2.4.0
+        with:
+          version: 8.14.1
 
       - name: Set up Node.js version
         uses: actions/setup-node@v3
         with:
-          node-version: "18.14.x"
+          node-version-file: .nvmrc
+          cache: pnpm
 
-      - uses: pnpm/action-setup@v2.0.1
-        name: Install pnpm
-        id: pnpm-install
-        with:
-          version: 7
-          run_install: false
-
-      - name: Get pnpm store directory
-        id: pnpm-cache
-        run: |
-          echo "::set-output name=pnpm_cache_dir::$(pnpm store path)"
-      - uses: actions/cache@v3
-        name: Setup pnpm cache
-        with:
-          path: ${{ steps.pnpm-cache.outputs.pnpm_cache_dir }}
-          key: ${{ runner.os }}-pnpm-store-${{ hashFiles('**/pnpm-lock.yaml') }}
-          restore-keys: |
-            ${{ runner.os }}-pnpm-store-
-
-      - name: Install dependencies
+      - name: Install dependencies specified in package.json
         run: |
           pnpm install
 
-      - name: "Continuous Integration: build"
+      - name: Run the build script in package.json scripts
         env:
           BASE_URL: "/gebruikersonderzoeken/"
         run: |
           pnpm run --if-present build
 
-      - name: "Retain build artifact: website"
-        uses: actions/upload-artifact@v3
+      - name: Upload the results from the build step
+        uses: actions/upload-artifact@v4.1.0
         with:
           name: website
           path: build/
           retention-days: 1
 
   publish-website:
+    name: Publish website
     runs-on: ubuntu-latest
     needs: build
     if: github.ref == 'refs/heads/main'
 
     steps:
-      - name: Checkout release branch
-        uses: actions/checkout@v3
+      - name: Download code from GitHub
+        uses: actions/checkout@v4.1.1
 
-      - name: "Restore build artifact: website"
-        uses: actions/download-artifact@v3
+      - name: Download the results from the "Build" job
+        uses: actions/download-artifact@v4.1.1
         with:
           name: website
           path: build/
 
       - name: Continuous Deployment to GitHub Pages
-        uses: JamesIves/github-pages-deploy-action@v4.4.3
+        uses: JamesIves/github-pages-deploy-action@v4.5.0
         with:
           branch: gh-pages
           folder: build/
