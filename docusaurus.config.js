@@ -1,9 +1,8 @@
 // @ts-check
 // Note: type annotations allow type checking and IDEs autocompletion
 
-const lightCodeTheme = require('prism-react-renderer/themes/github')
-const darkCodeTheme = require('prism-react-renderer/themes/dracula')
-const mainNav = require('./navConfig')
+const themes = require('prism-react-renderer');
+const mainNav = require('./navConfig');
 
 /** @type {import('@docusaurus/types').Config} */
 const config = {
@@ -31,7 +30,7 @@ const config = {
     [
       'classic',
       /** @type {import('@docusaurus/preset-classic').Options} */
-      ({
+      {
         docs: {
           sidebarPath: require.resolve('./sidebars.js'),
           // Please change this to your repo.
@@ -47,21 +46,21 @@ const config = {
         theme: {
           customCss: require.resolve('./src/css/custom.css'),
         },
-      }),
+      },
     ],
   ],
 
   themeConfig:
     /** @type {import('@docusaurus/preset-classic').ThemeConfig} */
-    ({
+    {
       navbar: mainNav,
       tableOfContents: {
         minHeadingLevel: 2,
         maxHeadingLevel: 2,
       },
       prism: {
-        theme: lightCodeTheme,
-        darkTheme: darkCodeTheme,
+        theme: themes.github,
+        darkTheme: themes.dracula,
       },
       colorMode: {
         disableSwitch: true,
@@ -99,7 +98,7 @@ const config = {
           to: '/',
         },
       },
-    }),
-}
+    },
+};
 
-module.exports = config
+module.exports = config;
