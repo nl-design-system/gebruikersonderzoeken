@@ -1,4 +1,4 @@
-const mainNav = {
+const navbar = {
   title: 'Gebruikersonderzoeken',
   items: [
     {
@@ -20,6 +20,6 @@ const mainNav = {
       label: 'Vragen',
     },
   ],
-}
+};
 
-module.exports = mainNav
+export { navbar };
