@@ -21,7 +21,7 @@ jobs:
           version: 8.14.1
 
       - name: Set up Node.js version
-        uses: actions/setup-node@v3
+        uses: actions/setup-node@v4
         with:
           node-version-file: .nvmrc
           cache: pnpm
@@ -46,7 +46,7 @@ jobs:
           version: 8.14.1
 
       - name: Set up Node.js version
-        uses: actions/setup-node@v3
+        uses: actions/setup-node@v4
         with:
           node-version-file: .nvmrc
           cache: pnpm
@@ -74,7 +74,7 @@ jobs:
           version: 8.14.1
 
       - name: Set up Node.js version
-        uses: actions/setup-node@v3
+        uses: actions/setup-node@v4
         with:
           node-version-file: .nvmrc
           cache: pnpm
@@ -130,7 +130,7 @@ jobs:
   #         token: ${{ secrets.GH_TOKEN }}
 
   #     - name: Set up Node.js version
-  #       uses: actions/setup-node@v3
+  #       uses: actions/setup-node@v4
   #       with:
   #         node-version: "18.14.x"
 
