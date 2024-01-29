@@ -1,4 +1,7 @@
-const navbar = {
+import type { Navbar } from '@docusaurus/theme-common';
+
+const navbar: Navbar = {
+  hideOnScroll: true,
   title: 'Gebruikersonderzoeken',
   items: [
     {
@@ -22,4 +25,4 @@ const navbar = {
   ],
 };
 
-export { navbar };
+export default navbar;
