@@ -2,7 +2,7 @@ import type { Config } from '@docusaurus/types';
 import type { Options, ThemeConfig } from '@docusaurus/preset-classic';
 
 import { themes } from 'prism-react-renderer';
-import { navbar } from './navbar';
+import navbar from './navbar';
 
 const config: Config = {
   title: 'Gebruikersonderzoeken',
@@ -49,7 +49,7 @@ const config: Config = {
   ],
 
   themeConfig: {
-    ...navbar,
+    navbar,
     tableOfContents: {
       minHeadingLevel: 2,
       maxHeadingLevel: 2,
