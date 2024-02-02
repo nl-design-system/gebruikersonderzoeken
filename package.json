@@ -11,6 +11,7 @@
     "deploy": "docusaurus deploy",
     "clear": "docusaurus clear",
     "serve": "docusaurus serve",
+    "test-update": "pnpm run --if-present lint && pnpm run --if-present test && pnpm run --if-present build && pnpm run --if-present lint-build && pnpm run --if-present test-build",
     "write-translations": "docusaurus write-translations",
     "write-heading-ids": "docusaurus write-heading-ids",
     "typecheck": "tsc",
