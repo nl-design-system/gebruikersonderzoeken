@@ -15,9 +15,9 @@
     "write-translations": "docusaurus write-translations",
     "write-heading-ids": "docusaurus write-heading-ids",
     "typecheck": "tsc",
-    "update-patch": "npm-check-updates --configFileName .ncurc.patch.js --deep --dep dev,prod --target patch --upgrade && pnpm install",
-    "update-minor": "npm-check-updates --configFileName .ncurc.minor.js --deep --dep dev,prod --target minor --upgrade && pnpm install",
-    "update-major": "npm-check-updates --configFileName .ncurc.major.js --deep --dep dev,prod --target latest --upgrade && pnpm install"
+    "update-patch": "npm-check-updates --configFileName .ncurc.patch.js",
+    "update-minor": "npm-check-updates --configFileName .ncurc.minor.js",
+    "update-major": "npm-check-updates --configFileName .ncurc.major.js"
   },
   "dependencies": {
     "@docusaurus/core": "3.1.1",
