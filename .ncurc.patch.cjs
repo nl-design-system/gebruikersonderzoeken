@@ -5,5 +5,4 @@ module.exports = {
   root: true,
   target: 'patch',
   upgrade: true,
-  workspaces: true,
 };
