@@ -44,8 +44,8 @@ devDependencies:
     specifier: 3.1.1
     version: 3.1.1(react-dom@18.2.0)(react@18.2.0)
   '@nl-design-system-unstable/nlds-design-tokens':
-    specifier: 1.0.0-alpha.156
-    version: 1.0.0-alpha.156
+    specifier: 1.0.0-alpha.205
+    version: 1.0.0-alpha.205
   '@tsconfig/docusaurus':
     specifier: 2.0.2
     version: 2.0.2
@@ -2196,8 +2196,8 @@ packages:
       - uglify-js
       - webpack-cli
 
-  /@fontsource/fira-sans@5.0.18:
-    resolution: {integrity: sha512-FAxkEg8LSYqihmZ0bBGxVyPzur5P6QwGssVcolUAKO+DrdopbxJxuUb8H8kzSoF9OkVR7ZAmaIQiWvm973PubA==}
+  /@fontsource/fira-sans@5.0.19:
+    resolution: {integrity: sha512-6hTOV2mgGx2OCyuXwjCPSfvQra4aw4t6rDCvembo8VHIVALOwEH6rmHrITDAVhxjP6p+51I0+9j+x6JD155G5w==}
     dev: true
 
   /@fontsource/source-sans-pro@5.0.8:
@@ -2326,10 +2326,10 @@ packages:
       react: 18.2.0
     dev: false
 
-  /@nl-design-system-unstable/nlds-design-tokens@1.0.0-alpha.156:
-    resolution: {integrity: sha512-+va9SxuA8dTE4LorBi+Orq9U3ELEaiSqP6wLf1GZB8lmotbbJHc7NuCjiDukGkAArcnUp1pnsoYs0x9/59bzfg==}
+  /@nl-design-system-unstable/nlds-design-tokens@1.0.0-alpha.205:
+    resolution: {integrity: sha512-XNZI+rstKnibkITVw/gpAvmAfeLb1WsRsVQRxmKhRXA+fDLy0wh6vi4elqkRpTCAdx0vMX9StIt0axzWULYJxw==}
     dependencies:
-      '@fontsource/fira-sans': 5.0.18
+      '@fontsource/fira-sans': 5.0.19
       '@fontsource/source-sans-pro': 5.0.8
       firacode: 6.2.0
     dev: true
