@@ -30,7 +30,7 @@
   },
   "devDependencies": {
     "@algolia/client-search": "4.23.3",
-    "@docusaurus/module-type-aliases": "3.3.0",
+    "@docusaurus/module-type-aliases": "3.3.2",
     "@docusaurus/theme-common": "3.3.0",
     "@docusaurus/theme-search-algolia": "3.3.0",
     "@docusaurus/types": "3.3.0",
