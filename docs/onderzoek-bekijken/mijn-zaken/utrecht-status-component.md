@@ -35,11 +35,11 @@ tags:
 
 ## Doel van het onderzoek
 
-Op het moment dat je iets online besteld hebt ben je als gebruiker de controle kwijt over de rest van het proces. Dat levert stress op. Komt het wel goed? Krijg je wel op tijd je resultaat? Hoe kunnen we die stress wegnemen? 
+Op het moment dat je iets online besteld hebt ben je als gebruiker de controle kwijt over de rest van het proces. Dat levert stress op. Komt het wel goed? Krijg je wel op tijd je resultaat? Hoe kunnen we die stress wegnemen?
 
 Het Status component is een onderdeel van een app of site waarin getoond wordt waar in het proces de aanvraag van de inwoner zich bevindt. Een voorbeeld hiervan staat hieronder.
 
-![het PDS  prototype](https://raw.githubusercontent.com/nl-design-system/utrecht/main/packages/docusaurus/static/img/pds_prototype_03.png)
+![het PDS  prototype](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/utrecht-status-component__status-pagina.png)
 
 We hebben de onderzoeksvraag opgesplitst in een aantal vragen die we met dit onderzoek willen beantwoorden.
 
@@ -105,7 +105,7 @@ De inhoud van de brief kreeg een aantal opmerkingen:
 
 De volgende inzichten gaan over de e-mail die verstuurd wordt als notificatie.
 
-![Email screenshot](https://raw.githubusercontent.com/nl-design-system/utrecht/main/packages/docusaurus/static/img/pds_email.png)
+![Email screenshot](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/utrecht-status-component__email.png)
 
 #### De 'next steps' zijn duidelijk na het lezen van de e-mail
 
@@ -129,7 +129,7 @@ Inwoners waarderen de duidelijkheid van de mail omdat de inhoud duidelijk is en 
 
 De volgende inzichten gaan over de mijnOmgeving waarin het Status component zich bevindt.
 
-![Mijnomgeving screenshot](https://raw.githubusercontent.com/nl-design-system/utrecht/main/packages/docusaurus/static/img/pds_mijnomgeving.png)
+![Mijnomgeving screenshot](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/utrecht-status-component__mijn-omgeving.png)
 
 #### Inloggen op de mijnOmgeving gaat soepel
 
@@ -143,7 +143,7 @@ Navigeren naar de zaak ging snel en zonder verwarring. Een paar soepele kliks zo
 
 De volgende inzichten gaan over het Status component en de pagina waarin het component zich bevindt.
 
-![het PDS  prototype](https://raw.githubusercontent.com/nl-design-system/utrecht/main/packages/docusaurus/static/img/pds_prototype_03.png)
+![het PDS  prototype](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/utrecht-status-component__status-pagina.png)
 
 #### Het Status component wordt als optimaal ervaren
 
@@ -163,7 +163,7 @@ In dit test scenario verwachten de geinterviewden de status boven de key info om
 
 #### Key-info weergave in het Status pagina nog niet optimaal
 
-![het PDS Figma prototype](https://raw.githubusercontent.com/nl-design-system/utrecht/main/packages/docusaurus/static/img/pds_prototype_01.png)
+![het PDS Figma prototype](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/utrecht-status-component__key-info.png)
 
 De weergave van de key-info (het blok bovenin met 'Verwachte datum...', 'Zaaknummer' en 'Adres voor aanvraag') in het prototype kan beter. De geinterviewden vonden, in dit scenario, het adres niet echt relevant, en het zaaknummer ook niet. Dit lijkt de moeite waard om verder te onderzoeken.
 
@@ -173,7 +173,7 @@ Er is een tweede versie getest van het klikbare prototype met daarin een andere 
 
 De tweede versie met andere status volgorde:
 
-![het PDS Figma prototype versie 2](https://raw.githubusercontent.com/nl-design-system/utrecht/main/packages/docusaurus/static/img/pds_prototype_04.png)
+![het PDS Figma prototype versie 2](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/utrecht-status-component__key-info-2.png)
 
 ## Wat is er mee gedaan?
 
@@ -215,13 +215,13 @@ We hebben de geinterviewden naar de brief laten kijken die ze in de bus krijgen.
 
 De e-mail notificatie is tijdens de test opgestuurd naar de geinterviewde.
 
-![het Email prototype](https://raw.githubusercontent.com/nl-design-system/utrecht/main/packages/docusaurus/static/img/pds_prototype_02.png)
+![het Email prototype](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/utrecht-status-component__email-notificatie.png)
 
 ### Status Component
 
 Gemeente Den Haag heeft het [klikbare prototype](https://www.figma.com/file/Aha3GymAVMn7xGmU5zHLyD/Status-hackathon---MijnDenHaag?node-id=463%3A29814) gemaakt dat we hebben gebruikt in onze test.
 
-![het PDS Figma prototype](https://raw.githubusercontent.com/nl-design-system/utrecht/main/packages/docusaurus/static/img/pds_prototype_01.png)
+![het PDS Figma prototype](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/utrecht-status-component__key-info.png)
 
 ## Contactinformatie
 

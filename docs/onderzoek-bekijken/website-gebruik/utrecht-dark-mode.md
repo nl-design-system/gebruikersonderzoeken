@@ -21,11 +21,11 @@ tags:
 
 # Dark mode gebruik op utrecht.nl
 
-![Plaatje van een browser waar Google wordt getoond in Dark mode.](https://hackmd.io/_uploads/HJizlX88h.png)
+![Plaatje van een browser waar Google wordt getoond in Dark mode.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/utrecht-dark-mode.png)
 
 **Samengevat: 21,8% van de bezoekers van Utrecht.nl gebruikt Dark mode.**
 
-*[Dark mode](https://www.nngroup.com/articles/dark-mode/) is een instelling op apparaten en applicaties die het kleurenschema omkeert, waardoor de achtergrond donker wordt en de tekst en grafische elementen lichter worden, wat een rustigere visuele ervaring biedt, vooral bij weinig licht.*
+_[Dark mode](https://www.nngroup.com/articles/dark-mode/) is een instelling op apparaten en applicaties die het kleurenschema omkeert, waardoor de achtergrond donker wordt en de tekst en grafische elementen lichter worden, wat een rustigere visuele ervaring biedt, vooral bij weinig licht._
 
 ## Doel van het onderzoek
 

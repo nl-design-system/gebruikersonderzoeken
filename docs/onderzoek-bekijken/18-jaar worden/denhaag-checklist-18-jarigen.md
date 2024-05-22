@@ -24,7 +24,7 @@ tags:
 
 **Samengevat: Inhoudelĳk is de checklist in op orde, maar de vormgeving sluit nu onvoldoende aan bĳ de doelgroep. Het komt te kinderachtig over en is niet serieus genoeg.**
 
-![Verjaardagskaart met een taart met een nummer 18 kaarsje en de tekst "Regel je SHIT" erop](https://hackmd.io/_uploads/B1cZJKqVh.jpg)
+![Verjaardagskaart met een taart met een nummer 18 kaarsje en de tekst "Regel je SHIT" erop](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/denhaag-checklist-18-jarigen__regel-je-shit.jpeg)
 
 ## Doel van het onderzoek
 
@@ -32,7 +32,7 @@ In 2017 is vanuit een Jongerenstadslab door jongeren zelf nagedacht over wat ze 
 
 De onderzoeksvragen van dit onderzoek zijn: Hoe heeft de checklist jongeren geholpen? Heeft de checklist de jongeren bereikt? Waarom is de checklist wel of niet nuttig? Hoe ervaren jongeren het 18 worden?
 
-![Binnenkant van kaart met checklist. Het eerste vakje met de tekst "checklist 18+ ontvangen" is aangevinkt. De rest van de acties zoals DigiD aanvragen is nog niet aangevinkt](https://hackmd.io/_uploads/Sk9aAdc43.jpg)
+![Binnenkant van kaart met checklist. Het eerste vakje met de tekst "checklist 18+ ontvangen" is aangevinkt. De rest van de acties zoals DigiD aanvragen is nog niet aangevinkt](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/denhaag-checklist-18-jarigen_checklist.jpeg)
 
 ## Advies
 
@@ -47,7 +47,7 @@ De vormgeving sluit nu onvoldoende aan bĳ de doelgroep. Het komt te kinderachti
 ### Belevingswereld 18-jarigen
 
 > “In mijn cultuur als je 18 wordt is het een groot ding. -maakt gebaar van aanhalingstekens- Dan ben je een man. Dan ben je geen kind meer. Dan moet je voor jezelf opkomen, alles zelf gaan doen. Dat is ook de reden dat mijn ouders niks meer voor mij betalen.”  
-*-Erik*
+> _-Erik_
 
 Jongeren geven aan dat er voor hun gevoel helemaal niet zoveel verandert vanaf je 18e. Het zĳn vooral de regels en de buitenwereld waardoor jongeren het gevoel hebben dat ze zich anders moeten gedragen. Zo voelen sommigen dat de verwachting van hun omgeving, over bĳvoorbeeld zelfredzaamheid, niet in lĳn is met hun eigen ervaringen en vaak de vergelĳking gemaakt wordt met andere 18-jarigen in hun ouders omgeving.
 
@@ -74,7 +74,7 @@ Jongeren geven aan dat ze verwachten op andere manieren op de hoogte te worden g
 ### Inhoud folder is in de basis goed
 
 > “Helder, duidelijk ik zou het als gemeente niet beter kunnen doen. Het is helder, overzichtelijk: een checklist. Een kind zou dit nog kunnen begrijpen. Als je je hier niet mee zou kunnen redden, ben je überhaupt niet klaar om een van deze dingen te regelen.”  
-*-Revert, over de inhoud van de folder*
+> _-Revert, over de inhoud van de folder_
 
 Jongeren reageren enthousiast op de inhoud van de checklist. De merendeel van de tips wordt als waardevol ervaren. Sommige jongeren geven aan met hun ouders de lĳst door te zĳn gelopen en de lĳst letterlĳk af te hebben gestreept. Wel is er een aantal verbeterpunten.
 
@@ -97,10 +97,10 @@ Respondenten vinden het kopje geld verdienen wat overbodig. Als je wilt werken k
 ### Vormgeving spreekt onvoldoende aan
 
 > “Formeler zou ik wel prettiger vinden. Vanuit de gemeente had ik iets serieuzer verwacht. Dit zou ik sturen van ‘je wordt 13. je wordt 14. je gaat naar de middelbare school.’ … Iets te kinderlijk vind ik.”  
-*-Revert, over de vormgeving van de folder*
+> _-Revert, over de vormgeving van de folder_
 
 > “Ik dacht dat het een reclamefolder was. Het is dat mijn ouders zeiden: Neeeeeee …dit is belangrijk. Anders had ik het weggegooid denk ik.… Ik heb dan ook een beetje het gevoel dat de gemeente met ons ‘probeert te connecten’… 🙄 Uhm.. maar we zijn wel 18. Dus. Ja.”  
-*-Zonne, over de vormgeving van de folder*
+> _-Zonne, over de vormgeving van de folder_
 
 De jongeren zĳn het meest kritisch over de voorkant van de checklist. Het is onvoldoende duidelĳk dat de afzender gemeente Den Haag is. Ze hebben de folder liever wat formeler zodat duidelĳker is dat de gemeente de afzender is van de checklist. De voorkant van de folder wordt als kinderachtig ervaren. In de focusgroep zaten jongeren met verschillende opleidingsniveaus er zaten echter geen respondenten uit speciale scholen of praktĳkscholen. (±7% van het totale leerlingenaantal in Den Haag, [bron](https://jmopendata.cbs.nl/#/JM/nl/dataset/71010ned/table?ts=1564393586824)) We vermoeden echter dat deze mening eerder leeftĳd, dan opleidingsniveau gebonden is.
 
@@ -136,15 +136,15 @@ De discussie die onder de deelnemers plaatsvindt, geeft een dieper inzicht hoe d
 
 ### Respondenten
 
-| Naam   | M/V  | Opleiding | Beroep | Leeftijd |
-| ------ | ---- | --------- | ------ | -------- |
-| Revert       | M     |  MBO         | Student       |  18        |
-| Tommy       | M     |  MBO         |   Medewerker     |    18      |
-|  Maria      |  V    |  VWO         |  Student      |    18      |
-|  Diana      | V     |  VWO         |  Student      |  18        |
-| Erik       |   M   |  VWO         |   Student     |  18        |
-| Anna       |    V  |   HAVO        |  Student      |  18        |
-| Zonne       |   V   |   VWO        |   Student     |   18       |
+| Naam   | M/V | Opleiding | Beroep     | Leeftijd |
+| ------ | --- | --------- | ---------- | -------- |
+| Revert | M   | MBO       | Student    | 18       |
+| Tommy  | M   | MBO       | Medewerker | 18       |
+| Maria  | V   | VWO       | Student    | 18       |
+| Diana  | V   | VWO       | Student    | 18       |
+| Erik   | M   | VWO       | Student    | 18       |
+| Anna   | V   | HAVO      | Student    | 18       |
+| Zonne  | V   | VWO       | Student    | 18       |
 
 ## Contactinformatie
 

@@ -19,7 +19,7 @@ tags:
 
 # Gebruikerstest van een concept voor MijnVraagOverCorona.nl (MVOC)
 
-![Screenshot van de homepage van mijnvraagovercorona.nl](https://github.com/nl-design-system/gebruikersonderzoeken/assets/49227194/45538205-8553-4b26-8760-e851f7d26d68)
+![Screenshot van de homepage van mijnvraagovercorona.nl](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/valsplat-corona.png)
 
 **Samengevat: Gebruikers snappen (het prototype van) MijnVraagOverCorona.nl op top-level niveau goed. Specifieke adviezen vinden is echter erg lastig aangezien de informatie best diep in de website zit gestopt.**
 
@@ -123,7 +123,7 @@ Het valt op dat men alleen het eerste woord van een titel lijkt te lezen (Vaccin
 
 De 'In het kort' pagina's werken niet. Deze pagina is nu vaak een obstakel naar de pagina die men daadwerkelijk wil lezen.
 
-Omdat de kop 'In het kort' het grootste is, maar verder op de pagina staat wordt de aandacht over de inhoudsopgave getrokken, waardoor de inhoudsopgave in eerste instantie niet wordt gezien. De  inhoud van 'In het kort' biedt verder geen houvast voor de rest van de pagina's.
+Omdat de kop 'In het kort' het grootste is, maar verder op de pagina staat wordt de aandacht over de inhoudsopgave getrokken, waardoor de inhoudsopgave in eerste instantie niet wordt gezien. De inhoud van 'In het kort' biedt verder geen houvast voor de rest van de pagina's.
 
 Men lijkt bovendien (en licht overweldigd) verrast dat er nog zoveel pagina's (tot wel 8) te vinden zijn over een specifieke link die ze bij een subthema hebben aangeklikt.
 

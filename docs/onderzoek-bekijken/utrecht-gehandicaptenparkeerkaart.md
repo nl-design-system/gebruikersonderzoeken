@@ -20,11 +20,12 @@ tags:
 ---
 
 <!-- @license CC0-1.0 -->
+
 # Aanvraagproces van de gehandicaptenparkeerkaart
 
-*Onderzoek uitgevoerd in 2023 door Team UX & Stadskamer - Gemeente Utrecht*
+_Onderzoek uitgevoerd in 2023 door Team UX & Stadskamer - Gemeente Utrecht_
 
-![Foto van ouderwets tapijtje met daarop een agenda, drie verschillende loepjes, een telefoon met grote toetsen, en een plant.](https://github.com/nl-design-system/gebruikersonderzoek/assets/49227194/4b1cf8d4-3b69-48d5-914a-dca93ce98157)
+![Foto van ouderwets tapijtje met daarop een agenda, drie verschillende loepjes, een telefoon met grote toetsen, en een plant.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/utrecht-gehandicaptenparkeerkaart.png)
 
 **Samengevat: Het aanvragen van een gehandicaptenparkeerkaart op de niet-digitale manier wordt voornamelijk gedaan door hulpbehoevende 60-plussers, maar hier wordt in het proces onvoldoende rekening mee gehouden door de gemeente.**
 
@@ -57,8 +58,8 @@ De aanvragers van de gehandicaptenparkeerkaart zijn vaak minder digitaal vaardig
 Bij het niet-digitaal aanvragen van een gehandicaptenparkeerkaart zijn er vaak hobbels in de communicatie vanuit de gemeente.
 
 - Het aanvraagformulier invullen is vaak een probleem voor de aanvrager. Dit komt voornamelijk door een klein lettertype, een grote informatiedichtheid en het missen van een datum.
-- De wachttijden in het proces zijn lang en worden niet goed gecommuniceerd. Dit resulteert in een grote hoeveelheid telefoontjes naar het KCC om te vragen hoe lang het nog duurt.  
-- De informatie die aan de telefoon gegeven wordt, is niet altijd consistent met eerdere telefoontjes.  
+- De wachttijden in het proces zijn lang en worden niet goed gecommuniceerd. Dit resulteert in een grote hoeveelheid telefoontjes naar het KCC om te vragen hoe lang het nog duurt.
+- De informatie die aan de telefoon gegeven wordt, is niet altijd consistent met eerdere telefoontjes.
 - Ook worden dezelfde vragen opnieuw gesteld in opvolgende telefoontjes. Irritatie bij de aanvrager is een gevolg hiervan, zeker als het verhaal wat verteld moet worden door de aanvrager geen leuk verhaal is om te vertellen, of als het een complex verhaal is.
 - Het verschil tussen een gehandicaptenparkeerkaart en een gehandicaptenparkeervergunning is vaak niet duidelijk voor de aanvrager. In sommige gevallen wordt de vergunning automatisch door een klantadviseur van het KCC toegekend bij het aanvragen van de kaart; dit is niet in alle gevallen zo.
 

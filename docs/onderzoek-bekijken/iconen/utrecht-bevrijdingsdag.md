@@ -54,7 +54,7 @@ Hieronder volgen de inzichten, specifiek per vraag.
 
 "Hieronder staan drie (fictieve) knoppen. Vindt jij knop A, knop B of knop C het beste passen bij informatie over bevrijdingsdag?”
 
-![de drie bevrijdingsdag iconen](https://raw.githubusercontent.com/nl-design-system/utrecht/main/packages/docusaurus/static/img/onderzoekiconen_bevrijdingsdag.png)
+![de drie bevrijdingsdag iconen](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/utrecht-bevrijdingsdag__bevrijdingsdag.png)
 
 #### Resultaten Bevrijdingsdag
 
@@ -66,7 +66,7 @@ Hieronder volgen de inzichten, specifiek per vraag.
 
 "Hieronder staan drie (fictieve) knoppen. Vindt jij knop A, knop B of knop C het beste passen bij informatie over Koningsdag?”
 
-![de drie Koningsdag iconen](https://raw.githubusercontent.com/nl-design-system/utrecht/main/packages/docusaurus/static/img/onderzoekiconen_koningsdag.png)
+![de drie Koningsdag iconen](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/utrecht-bevrijdingsdag__koningsdag.png)
 
 #### Resultaten Koningsdag
 
@@ -78,7 +78,7 @@ Hieronder volgen de inzichten, specifiek per vraag.
 
 "Hieronder staan drie (fictieve) knoppen. Vindt jij knop A, knop B of knop C het beste passen bij het doorgeven van een melding of klacht over openbare ruimtes?”
 
-![de drie klacht/melding iconen](https://raw.githubusercontent.com/nl-design-system/utrecht/main/packages/docusaurus/static/img/onderzoekiconen_meldingklacht.png)
+![de drie klacht/melding iconen](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/utrecht-bevrijdingsdag__meldingklacht.png)
 
 #### Resultaten Melding/Klacht openbare ruimte doorgeven
 
@@ -86,7 +86,7 @@ Hieronder volgen de inzichten, specifiek per vraag.
 - Knop B: 78%
 - Knop C: 3%
 
-### Inzichten 
+### Inzichten
 
 De belangrijkste inzichten zijn:
 

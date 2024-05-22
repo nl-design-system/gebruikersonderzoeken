@@ -56,7 +56,7 @@ Hieronder volgende de inzichten, specifiek per vraag.
 
 "Hieronder staan vier (fictieve) knoppen. Vind jij knop A, knop B, knop C of knop D het beste passen bij informatie over de gemeenteraad?"
 
-![de vier gemeenteraad iconen](https://raw.githubusercontent.com/nl-design-system/utrecht/main/packages/docusaurus/static/img/onderzoek_gemeenteraad.png)
+![de vier gemeenteraad iconen](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/utrecht-februari-2023__gemeenteraad.png)
 
 #### Resultaten Gemeenteraad
 
@@ -85,7 +85,7 @@ Het was voor veel (15 opmerkingen, 39%) van de respondenten niet duidelijk wat e
 
 "Hieronder staan drie (fictieve) knoppen. Vind jij knop A, knop B, of knop C het beste passen bij informatie over de burgemeester?"
 
-![de burgemeester iconen](https://raw.githubusercontent.com/nl-design-system/utrecht/main/packages/docusaurus/static/img/onderzoek_burgemeester.png)
+![de burgemeester iconen](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/utrecht-februari-2023__burgemeester.png)
 
 #### Resultaten Burgemeester
 
@@ -101,7 +101,7 @@ Bij deze vraag kwamen veel (16, 42%) opmerkingen opmerkingen over het geslacht v
 
 "Hieronder staan vier (fictieve) knoppen. Vind jij knop A, knop B, Knop C of knop D het beste passen bij informatie over afvalcontainers?"
 
-![de afvalcontainers iconen](https://raw.githubusercontent.com/nl-design-system/utrecht/main/packages/docusaurus/static/img/onderzoek_afvalcontainer.png)
+![de afvalcontainers iconen](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/utrecht-februari-2023__afvalcontainer.png)
 
 #### Resultaten Afvalcontainer
 
@@ -126,7 +126,7 @@ Veel respondenten (18, 47%) geven aan dat de vuiliniszak in het icoon het duidel
 
 "Hieronder staan twee (fictieve) knoppen. Vind jij knop A of knop B het beste passen bij informatie over afval?"
 
-![de afval iconen](https://raw.githubusercontent.com/nl-design-system/utrecht/main/packages/docusaurus/static/img/onderzoek_afval.png)
+![de afval iconen](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/utrecht-februari-2023__afval.png)
 
 #### Resultaten Afval
 
