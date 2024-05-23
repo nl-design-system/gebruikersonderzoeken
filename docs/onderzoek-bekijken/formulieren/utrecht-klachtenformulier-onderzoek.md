@@ -27,7 +27,7 @@ tags:
 
 **Samengevat: Inwoners komen door het nieuwe klachtenformulier heen. De inwoners vonden het gek dat een klacht alleen over een afdeling of een persoon ging. Ook kon de bevestiging aan het einde van het proces een stuk duidelijker, zodat de inwoner meer vertrouwen krijgt dat de klacht netjes wordt afgehandeld..**
 
-![Screenshot van het klachtenformulier van de gemeente Utrecht](https://private-user-images.githubusercontent.com/49227194/332365885-14c3f572-7e5a-41a1-906e-2d4b292bf121.png?jwt=eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJpc3MiOiJnaXRodWIuY29tIiwiYXVkIjoicmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbSIsImtleSI6ImtleTUiLCJleHAiOjE3MTYyODM4NjIsIm5iZiI6MTcxNjI4MzU2MiwicGF0aCI6Ii80OTIyNzE5NC8zMzIzNjU4ODUtMTRjM2Y1NzItN2U1YS00MWExLTkwNmUtMmQ0YjI5MmJmMTIxLnBuZz9YLUFtei1BbGdvcml0aG09QVdTNC1ITUFDLVNIQTI1NiZYLUFtei1DcmVkZW50aWFsPUFLSUFWQ09EWUxTQTUzUFFLNFpBJTJGMjAyNDA1MjElMkZ1cy1lYXN0LTElMkZzMyUyRmF3czRfcmVxdWVzdCZYLUFtei1EYXRlPTIwMjQwNTIxVDA5MjYwMlomWC1BbXotRXhwaXJlcz0zMDAmWC1BbXotU2lnbmF0dXJlPWRiNmI0Mjk0OGY4ZjJkMTQ1Y2YxZDdlMjM3MDA1NmEyNDZkOWY1YTM4MGYwMTQ5ZmUzNjQ3ZmE0YjM2OTEzZDkmWC1BbXotU2lnbmVkSGVhZGVycz1ob3N0JmFjdG9yX2lkPTAma2V5X2lkPTAmcmVwb19pZD0wIn0.pNSxVRWbsBAdTkr5A6zxntFhcT5DWKAOzxg_vnE5Ijc)
+![Screenshot van het klachtenformulier van de gemeente Utrecht](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/utrecht-klachtenformulier-onderzoek__klachtenformulier.png)
 
 ## Doel
 Antwoord geven op de vraag: "Wat zijn de pijn- en fijnpunten die een inwoner ervaart bij het doen van een klacht (openForms formulier) op het gebied van design, interactie en flow van het nieuwe formulier?"
