@@ -38,7 +38,7 @@ Gebruik het parkeericoon B (het icoon dat niet gevuld is). Bedenk altijd bij het
 
 We hebben de volgende vraag gesteld: "Welke van deze twee knoppen vindt jij het beste passen bij informatie over parkeren?”
 
-![de twee parkeer iconen](https://raw.githubusercontent.com/nl-design-system/utrecht/main/packages/docusaurus/static/img/onderzoekparkeericoon.png)
+![de twee parkeer iconen](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/utrecht-parkeer-icoon.png)
 
 - 2 van de 14 mensen vonden Knop A het beste passen.
 - 12 van de 14 mensen vonden knop B het beste passen.
@@ -78,4 +78,3 @@ Het onderzoek is gestart op 7 april 2022 en geindigd op 12 april 2022.
 - [René Olling, UX Designer](mailto:r.olling@utrecht.nl) - Gemeente Utrecht
 - [Jeroen du Chatinier, UX Designer](mailto:j.du.chatinier@utrecht.nl) - Gemeente Utrecht
 - [Martijn Rietveld, UX Designer](mailto:martijn@opengemeenten.nl) - Open Gemeenten
-

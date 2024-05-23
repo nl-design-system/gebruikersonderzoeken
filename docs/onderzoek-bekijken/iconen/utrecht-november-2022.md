@@ -59,7 +59,7 @@ Hieronder volgen de inzichten, specifiek per vraag.
 
 "Hieronder staan vier (fictieve) knoppen. Vind jij knop A, knop B, knop C of knop D het beste passen bij informatie over energietoeslag?"
 
-![de vier energietoeslag iconen](https://raw.githubusercontent.com/nl-design-system/utrecht/main/packages/docusaurus/static/img/onderzoek_energietoeslag.png)
+![de vier energietoeslag iconen](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/utrecht-november-2022__energietoeslag.png)
 
 #### Resultaten Energietoeslag
 
@@ -78,7 +78,7 @@ De portemonnee wordt geassocieerd met geld, maar door een kleiner aantal (18,6%)
 
 "Hieronder staan twee (fictieve) knoppen. Vind jij knop A of knop B het beste passen bij informatie over betaald parkeren?"
 
-![de twee betaald parkeren iconen](https://raw.githubusercontent.com/nl-design-system/utrecht/main/packages/docusaurus/static/img/onderzoek_betaaldparkeren.png)
+![de twee betaald parkeren iconen](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/utrecht-november-2022__betaald-parkeren.png)
 
 #### Resultaten Betaald parkeren
 
@@ -93,7 +93,7 @@ Bij de geteste grootte van de iconen wordt door de een groot gedeelte van de dee
 
 "Hieronder staan drie (fictieve) knoppen. Vind jij knop A, knop B of knop C het beste passen bij informatie over milieuzones?"
 
-![de drie Milieuzone iconen](https://raw.githubusercontent.com/nl-design-system/utrecht/main/packages/docusaurus/static/img/onderzoek_milieuzone.png)
+![de drie Milieuzone iconen](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/utrecht-november-2022__milieuzone.png)
 
 #### Resultaten Milieuzone
 
@@ -113,7 +113,7 @@ Er waren een aantal deelnemers (11,6%) die geen van de drie keuzes duidelijk von
 
 "Hieronder staan drie (fictieve) knoppen. Vind jij knop A, knop B of knop C het beste passen bij informatie over milieuzone ontheffing?"
 
-![de drie Milieuzone ontheffing iconen](https://raw.githubusercontent.com/nl-design-system/utrecht/main/packages/docusaurus/static/img/onderzoek_milieuzone_ontheffing.png)
+![de drie Milieuzone ontheffing iconen](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/utrecht-november-2022__milieuzone-ontheffing.png)
 
 #### Resultaten Milieuzone ontheffing
 
@@ -127,7 +127,7 @@ De inzichten bij deze vragen kwamen overeen met die van de vorige vraag.
 
 "Hieronder staan vier (fictieve) knoppen. Vind jij knop A, knop B, knop C of knop D het beste passen bij informatie over omgevingsvisie?"
 
-![de vier Omgevingsvisie iconen](https://raw.githubusercontent.com/nl-design-system/utrecht/main/packages/docusaurus/static/img/onderzoek_omgevingsvisie.png)
+![de vier Omgevingsvisie iconen](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/utrecht-november-2022__omgevingsvisie.png)
 
 #### Resultaten Omgevingsvisie
 
@@ -144,7 +144,7 @@ Veel van de respondenten (32,6%) geven bij de opmerkingen aan dat de de circkel 
 
 "Hieronder staan twee (fictieve) knoppen. Vind jij knop A of knop B het beste passen bij informatie over rioolheffing?"
 
-![de twee Rioolheffing iconen](https://raw.githubusercontent.com/nl-design-system/utrecht/main/packages/docusaurus/static/img/onderzoek_rioolheffing.png)
+![de twee Rioolheffing iconen](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/utrecht-november-2022__rioolheffing.png)
 
 #### Resultaten Rioolheffing
 
@@ -167,7 +167,7 @@ Van de deelnemers vonden een groot aantal (32,6%) Knop A een duidelijkere WC wee
 
 "Hieronder staan twee (fictieve) knoppen. Vind jij knop A of knop B het beste passen bij informatie over thuiswerken?"
 
-![de twee Thuiswerken iconen](https://raw.githubusercontent.com/nl-design-system/utrecht/main/packages/docusaurus/static/img/onderzoek_thuiswerken.png)
+![de twee Thuiswerken iconen](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/utrecht-november-2022__thuiswerken.png)
 
 #### Resultaten Thuiswerken
 

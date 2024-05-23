@@ -40,25 +40,25 @@ We hebben vier verschillende services in samenhang met elkaar getest:
 
 Een e-mail die men ontvangt in de eigen e-mail in box die bestaat uit een informatief bericht en een eventuele taak/interactie.
 
-![Een Gmail inbox met daarin een e-mails met een bericht  van de Gemeente Den Haag](https://i.imgur.com/cgCm73B.png)
+![Een Gmail inbox met daarin een e-mails met een bericht  van de Gemeente Den Haag](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/denhaag-mijn-omgeving__notificatieservice.png)
 
 #### Mijn berichten
 
 Een notificatie in de Mijn-omgeving die bestaat uit een informatief bericht en een eventuele taak/interactie.
 
-![Een overzicht van alle berichten in het mijnPortaal wordt getoond. Links staan de categorieën, en aan de rechterkant van de pagina's worden alle berichten per onderwerp getoond. Een aantal berichten zijn dikgedrukt.](https://i.imgur.com/TLCYmmZ.png)
+![Een overzicht van alle berichten in het mijnPortaal wordt getoond. Links staan de categorieën, en aan de rechterkant van de pagina's worden alle berichten per onderwerp getoond. Een aantal berichten zijn dikgedrukt.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/denhaag-mijn-omgeving__mijn-berichten.png)
 
 #### Taken
 
 Een actie die men moet uitvoeren en meestal vanuit de Mijn-omgeving plaatsvindt.
 
-![Er worden drie taken getoond onder het kopje 'Wat moet ik regelen'.](https://i.imgur.com/LfBO09N.png)
+![Er worden drie taken getoond onder het kopje 'Wat moet ik regelen'.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/denhaag-mijn-omgeving__taken.png)
 
 #### Contactmomenten
 
 Een weergave van momenten in de Mijnomgeving waarop de inwoner contact heeft gelegd met de gemeente en vice versa.
 
-![Een lijst van contactmomenten met de datum van het contactmoment, de beschrijving van het type contactmoment en titel](https://i.imgur.com/42uCpHd.png)
+![Een lijst van contactmomenten met de datum van het contactmoment, de beschrijving van het type contactmoment en titel](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/denhaag-mijn-omgeving__contactmomenten.png)
 
 ## Advies
 

@@ -20,7 +20,7 @@ tags:
 
 # Google Translate gebruik op utrecht.nl
 
-![Plaatje van een browser met waar de Google Translate pop-up getoond wordt om de pagina te gaan vertalen.](https://i.imgur.com/KiAIYNo.png)
+![Plaatje van een browser met waar de Google Translate pop-up getoond wordt om de pagina te gaan vertalen.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/utrecht-google-translate.png)
 
 **Samengevat: Bij 5,8% van de bezoeken aan utrecht.nl in Maart 2023 wordt google translate in de Google Chrome browser gebruikt om webpagina's te vertalen. Het is dus belangrijk om een goede, duidelijke tekst op B1-niveau te hebben die automatisch vertaald kan worden.**
 
@@ -47,7 +47,7 @@ Belangrijk om te weten: als we het hebben over een bezoek, beschrijven we een be
 ### Frequentie en percentage gebruik Google Translate
 
 - De vertaalsoftware is in Maart 2023 bij 12.945 bezoeken één of meerdere keren gebruikt om een pagina te vertalen.
-- Met een totaal van 223.147 bezoeken in Maart 2023  betekent dat dat in 5,8% van de bezoeken één of meerdere pagina automatisch vertaald worden. 
+- Met een totaal van 223.147 bezoeken in Maart 2023 betekent dat dat in 5,8% van de bezoeken één of meerdere pagina automatisch vertaald worden.
 - Er is in in Maart 2023 in totaal 35.108 keer een pagina vertaald.
 
 We meten alleen het gebruik van de Google Translate functionaliteit in Google Chrome. Automatische vertalingen in andere browsers (Edge, Safari, Firefox, etc.) worden niet gemeten, dus het percentage vertalingen dat gedaan wordt zal in de realiteit waarschijnlijk hoger liggen.
@@ -56,19 +56,19 @@ We meten alleen het gebruik van de Google Translate functionaliteit in Google Ch
 
 De talen waar het meest naar vertaald wordt in Maart 2023:
 
-| Taal | Aantal vertalingen|
-| -------- | -------- |
-|Engels | 21.708 |
-|Arabisch | 1.892 |
-|Spaans | 1.227 |
-|Russisch | 1.128 |
-|Pools | 991 |
-|Turks | 869 |
-|Chinees (versimpeld) | 769 |
-|Italiaans | 745 |
-|Frans | 712 |
-|Duits | 682 |
-|Oekraïens | 639 |
+| Taal                 | Aantal vertalingen |
+| -------------------- | ------------------ |
+| Engels               | 21.708             |
+| Arabisch             | 1.892              |
+| Spaans               | 1.227              |
+| Russisch             | 1.128              |
+| Pools                | 991                |
+| Turks                | 869                |
+| Chinees (versimpeld) | 769                |
+| Italiaans            | 745                |
+| Frans                | 712                |
+| Duits                | 682                |
+| Oekraïens            | 639                |
 
 De totale lijst van talen staat in de [bijlages](#bijlages).
 

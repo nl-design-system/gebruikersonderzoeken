@@ -236,14 +236,14 @@ Voorafgaand aan de taak om het online formulier te zoeken gaven alle participant
 In eerste instantie was het voor de participanten even nadenken waar zij hun vraag kwijt konden in de keuzeopties “klacht” of “vraag” (Figuur 1). Uiteindelijk kiest iedereen voor de optie “vraag”. Naast dat ze twijfelen of het een klacht is of niet, gaven ze aan ook de mogelijkheid te wensen om vragen te stellen bij de plek waar zij al bezig waren met hun uitkeringsaanvraag.
 
 <figure>
-    <img src="https://github.com/nl-design-system/gebruikersonderzoeken/assets/877246/9616dbd4-4c6b-43d3-b522-6e6fbc8d823e"/>
+    <img src="https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/vng-online-formulieren__vinden-van-formulier.png"/>
     <figcaption>Figuur 1. Scherm met contactmogelijkheden voor gemeente Voorbeeld</figcaption>
 </figure>
 
 Het informatiescherm “vraag aan de gemeente” geeft duidelijk weer wat men van het formulier kan verwachten (Figuur 2). Men geeft aan dat de uitleg helder en duidelijk is, maar blijkt de informatie ook weer snel te vergeten waardoor bij het versturen problemen kunnen ontstaan. Om dit te voorkomen zou informatie op deze pagina herhaald kunnen worden.
 
 <figure>
-    <img src="https://github.com/nl-design-system/gebruikersonderzoeken/assets/877246/f4751481-9cb0-490a-821d-c51d250c00f7"/>
+    <img src="https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/vng-online-formulieren__uitleg-formulier.png"/>
     <figcaption>Figuur 2. Scherm met uitleg over het online formulier</figcaption>
 </figure>
 
@@ -252,7 +252,7 @@ Het informatiescherm “vraag aan de gemeente” geeft duidelijk weer wat men va
 Het inloggen met DigiD (Figuur 3) wordt zowel positief als negatief ontvangen door de participanten.
 
 <figure>
-    <img src="https://github.com/nl-design-system/gebruikersonderzoeken/assets/877246/11a6fc6f-bc3c-4750-86f5-d0be054dcf71"/>
+    <img src="https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/vng-online-formulieren__inloggen.png"/>
     <figcaption>Figuur 3. Scherm met de mogelijkheid om in te loggen met of zonder DigiD</figcaption>
 </figure>
 
@@ -267,7 +267,7 @@ De toegankelijkheid en gebruiksvriendelijkheid van het inlogsysteem van DigiD zi
 Het vraagscherm "uw vraag” is duidelijk (Figuur 4), men weet wat ze hier kunnen en moeten doen.
 
 <figure>
-    <img src="https://github.com/nl-design-system/gebruikersonderzoeken/assets/877246/80367c1c-7235-451d-97de-d6ab810f0280"/>
+    <img src="https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/vng-online-formulieren__contactinformatie-invullen.png"/>
     <figcaption>Figuur 4. Scherm waarin burgers hun vraag kunnen stellen.</figcaption>
 </figure>
 
@@ -278,7 +278,7 @@ De leesvolgorde van het invullen van de vraag is duidelijk en logisch, het is al
 Na het inloggen met DigiD vinden alle participanten het prettig dat de gegevens al zijn ingevuld (Figuur 5). Het is echter niet duidelijk dat er eventueel nog gegevens aangepast kunnen worden en welke dit dan zijn.
 
 <figure>
-    <img src="https://github.com/nl-design-system/gebruikersonderzoeken/assets/877246/54c52ada-dcd8-4724-a7be-3c0c55faf1f9"/>
+    <img src="https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/vng-online-formulieren__contactinformatie-vooringevuld.png"/>
     <figcaption>Figuur 5 . Scherm waarin burgers hun contactgegevens kunnen aanvullen na inloggen met DigID . Alleen het e- mailadres en telefoonnummer zijn aanpasbaar. Deze invoervelden zijn daarom wit. De overige invoervelden zijn lichtgrijs en kunnen niet aangepast worden.</figcaption>
 </figure>
 
@@ -291,14 +291,14 @@ technisch als gebruiksvriendelijk goed verwerkt. Men weet welk element niet goed
 ingevuld en hoe deze te vinden en fouten te verbeteren.
 
 <figure>
-    <img src="https://github.com/nl-design-system/gebruikersonderzoeken/assets/877246/4fdfc113-a249-420e-8a72-186ea2c67e47"/>
+    <img src="https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/vng-online-formulieren__foutmeldingen.png"/>
     <figcaption>Figuur 6. Scherm met foutmeldingen wanneer de contactgegevens onjuist zijn ingevuld.</figcaption>
 </figure>
 
 De knoppen/links onderaan de gegevens voor volgende stap, stoppen, opslaan een later verder worden telkens gevonden (Figuur 7). In de leesvolgorde komen deze duidelijk naar voren. Wel moet iedereen naar beneden scrollen om deze te vinden, wat niet iedereen automatisch doet of onprettig vindt in verband met extra handelingen.
 
 <figure>
-    <img src="https://github.com/nl-design-system/gebruikersonderzoeken/assets/877246/884c1ff7-2a5e-4375-a450-59df409e2419"/>
+    <img src="https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/vng-online-formulieren__knoppen-onder-formulier.png"/>
     <figcaption>Figuur 7 . Knoppen voor “ Volgende stap”, “Opslaan en later verder” en “Stoppen met formulier” in het “Uw vraag”-scherm . Deze knoppen waren ook aanwezig in het “Uw gegevens”-scherm en controlescherm.</figcaption>
 </figure>
 
@@ -313,7 +313,7 @@ Wanneer zij op “opslaan en later verder” drukken verwachten ze later verder 
 Men vond de controle van alle gegevens duidelijk, men weet heel snel te vinden waar men mogelijk een item kan aanpassen (Figuur 8). Wel geven mensen aan dat het lastig is dat men na het aanpassen van de ‘vraag’ alle stappen weer moeten doorlopen.
 
 <figure>
-    <img src="https://github.com/nl-design-system/gebruikersonderzoeken/assets/877246/8d5a44b2-3314-4dcb-bff6-0e0cf4f0cfbd"/>
+    <img src="https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/vng-online-formulieren__controleren-en-versturen.png"/>
     <figcaption>Figuur 8. Scherm waarin burgers hun ingevulde vraag en contactgegevens kunnen controleren . De knop aanpassen verwijst terug naar eerdere webpagina’ s in het formulier.</figcaption>
 </figure>
 
@@ -326,7 +326,7 @@ De participanten die bewust letten op de te maken stappen, vonden de aanduiding 
 Het successcherm wordt in de stappen weergegeven als stap 4. Dit kan een bewuste keuze zijn, maar regulier wordt deze niet meegeteld in de te nemen stappen voor de gebruiker. Dit omdat het formulier al verzonden is in dit scherm (dan zou het zijn, stap 1,2,3 en succes).
 
 <figure>
-    <img src="https://github.com/nl-design-system/gebruikersonderzoeken/assets/877246/a57a266e-68b1-4dcd-85c2-535aec20b954"/>
+    <img src="https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/vng-online-formulieren__stappen-indicator.png"/>
     <figcaption>Figuur 9. Stapaanduiding</figcaption>
 </figure>
 
@@ -344,7 +344,7 @@ Alle participanten spreken hun waardering uit over de opmaak en gebruikerservari
 MijnOmgeving (figuur 12). Het ontwerp is duidelijk en overzichtelijk en de gebruikte kleuren werd als prettig ervaren.
 
 <figure>
-    <img src="https://github.com/nl-design-system/gebruikersonderzoeken/assets/877246/e0ec768d-5f3c-4a78-b3b1-d0aa8a2bc617"/>
+    <img src="https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/vng-online-formulieren__mijn-omgeving-startpagina.png"/>
     <figcaption>Figuur 12. Scherm met daarop de startpagina van de MijnOmgeving</figcaption>
 </figure>
 
@@ -353,7 +353,7 @@ Het was voor de participanten even zoeken naar de juiste plek om de reactie te l
 Alle participanten ervaarden in de mock-up wat onduidelijkheid met betrekking tot wat klikbaar was en wat niet, vooral in het status-overzicht en de detailbalk (Figuur 13). Voor de doorontwikkeling is het daarom aan te raden om meer affordances mee te geven aan interactieve elementen zodat deze duidelijker hun rol communiceren. Dit houdt in dat elementen waar geen interactie mee gepland is duidelijker als niet-interactief moeten overkomen bij de gebruikers en interactieve elementen juist duidelijker moeten overkomen.
 
 <figure>
-    <img src="https://github.com/nl-design-system/gebruikersonderzoeken/assets/877246/aaf810f2-5e17-4a04-8160-7b543bed4c1e"/>
+    <img src="https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/vng-online-formulieren__mijn-omgeving-zaak-pagina.png"/>
     <figcaption>Figuur 13. Scherm van de MijnOmgeving met daarin d e reactie op de vraag uit het online formulier</figcaption>
 </figure>
 
