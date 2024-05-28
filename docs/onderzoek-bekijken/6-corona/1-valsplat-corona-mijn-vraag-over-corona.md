@@ -1,10 +1,11 @@
 ---
-title: Gebruikerstest MijnVraagOverCorona.nl
+title: Concept MijnVraagOverCorona.nl
 hide_title: true
 hide_table_of_contents: false
-sidebar_label: Gebruikerstest MijnVraagOverCorona.nl
-pagination_label: Gebruikerstest MijnVraagOverCorona.nl
-description: Gebruikerstest MijnVraagOverCorona.nl
+sidebar_label: Concept MijnVraagOverCorona.nl
+pagination_label: Concept MijnVraagOverCorona.nl
+description: Concept MijnVraagOverCorona.nl
+slug: /onderzoek-bekijken/valsplat-corona
 keywords:
   - corona
   - valsplat
@@ -29,7 +30,7 @@ tags:
 
 ## Doel
 
-Antwoord geven op de volgende onderzeoeksvragen:
+Antwoord geven op de volgende onderzoeksvragen:
 
 - In hoeverre kan de gebruiker het gewenste antwoord achterhalen, informatie vinden, een vervolg bepalen en adviezen krijgen op het herontwerp van MijnVraagOverCorona.nl?
 - Hoe makkelijk is het nieuwe concept te leren?
