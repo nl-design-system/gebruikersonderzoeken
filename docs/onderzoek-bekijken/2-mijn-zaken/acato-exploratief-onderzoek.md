@@ -110,4 +110,4 @@ Alle verzamelde inzichten per persoon per vraag zijn geanonimiseerd terug te vin
 
 ## Contactinformatie
 
-Vragen over dit onderzoek kunnen gestuurd worden naar de opdrachtgever Vincent van Beek [vincent.vanbeek@denhaag.nl](vincent.vanbeek@denhaag.nl) of onderzoeker Rico van der Sloot [ricovandersloot@acato.nl](ricovandersloot@acato.nl).
+Vragen over dit onderzoek kunnen gestuurd worden naar de opdrachtgever Vincent van Beek [vincent.vanbeek@denhaag.nl](mailto:vincent.vanbeek@denhaag.nl) of onderzoeker Rico van der Sloot [ricovandersloot@acato.nl](mailto:ricovandersloot@acato.nl).
