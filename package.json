@@ -20,8 +20,8 @@
     "update-major": "npm-check-updates --configFileName .ncurc.major.cjs"
   },
   "dependencies": {
-    "@docusaurus/core": "3.3.0",
-    "@docusaurus/preset-classic": "3.3.0",
+    "@docusaurus/core": "3.4.0",
+    "@docusaurus/preset-classic": "3.4.0",
     "@mdx-js/react": "3.0.1",
     "clsx": "2.1.1",
     "prism-react-renderer": "2.3.1",
@@ -30,16 +30,16 @@
   },
   "devDependencies": {
     "@algolia/client-search": "4.23.3",
-    "@docusaurus/module-type-aliases": "3.3.0",
-    "@docusaurus/theme-common": "3.3.0",
-    "@docusaurus/theme-search-algolia": "3.3.0",
-    "@docusaurus/types": "3.3.0",
-    "@nl-design-system-unstable/nlds-design-tokens": "1.0.0-alpha.207",
+    "@docusaurus/module-type-aliases": "3.4.0",
+    "@docusaurus/theme-common": "3.4.0",
+    "@docusaurus/theme-search-algolia": "3.4.0",
+    "@docusaurus/types": "3.4.0",
+    "@nl-design-system-unstable/nlds-design-tokens": "1.0.0-alpha.258",
     "@tsconfig/docusaurus": "2.0.3",
-    "@types/react": "18.3.1",
+    "@types/react": "18.3.3",
     "@types/react-dom": "18.3.0",
     "npm-check-updates": "16.14.20",
-    "search-insights": "2.13.0",
+    "search-insights": "2.14.0",
     "typescript": "5.4.5"
   },
   "browserslist": {
