@@ -25,7 +25,7 @@ tags:
 
 # Zichtbaarheid en toegankelijkheid initiatievenfonds
 
-*Onderzoek uitgevoerd in 2023 door de Stadskamer - Gemeente Utrecht*
+_Onderzoek uitgevoerd in 2023 door de Stadskamer - Gemeente Utrecht_
 
 **Samengevat: Het initiatievenfonds is een mooie manier voor inwoners om proactief aan de slag te gaan, maar helderheid over het proces en menselijk contact voor ondersteuning missen nog.**
 
@@ -34,7 +34,7 @@ tags:
 De doelen zijn:
 
 - Op basis van de gevonden inzichten, adviezen uit te brengen waardoor er na uitvoering minder/geen mensen afhaken bij kleinere initiatieven.
-- de klantbeleving bij initiatieven te verbeteren en de procedure laagdrempeliger te maken zodat meer mensen gebruik gaan maken van het initiatievenfonds.  
+- de klantbeleving bij initiatieven te verbeteren en de procedure laagdrempeliger te maken zodat meer mensen gebruik gaan maken van het initiatievenfonds.
 
 ## Resultaten en inzichten
 
@@ -44,12 +44,12 @@ De experts gaven aan dat een duidelijk tijdspad, goede richtlijnen en heldere co
 
 ### Menselijk contact is cruciaal en mist nog (te) vaak
 
-Zowel in de diepte-interviews als in de data zien we terug dat persoonlijk contact enorm belangrijk is voor de klantbeleving van de inwoner in het aanvraagproces. In de diepte-interviews wordt aangegeven dat het als een zwaar gemis wordt ervaren wanneer er geen of weinig persoonlijk contact is met medewerkers van het wijkbureau. Ook wordt het positieve effect ervan benadrukt wanneer dit contact er wel is. Het wordt gekenmerkt als warm en begripvol en hierdoor is de algemene ervaring van het aanvraagproces positief.  
+Zowel in de diepte-interviews als in de data zien we terug dat persoonlijk contact enorm belangrijk is voor de klantbeleving van de inwoner in het aanvraagproces. In de diepte-interviews wordt aangegeven dat het als een zwaar gemis wordt ervaren wanneer er geen of weinig persoonlijk contact is met medewerkers van het wijkbureau. Ook wordt het positieve effect ervan benadrukt wanneer dit contact er wel is. Het wordt gekenmerkt als warm en begripvol en hierdoor is de algemene ervaring van het aanvraagproces positief.
 
 ### Communicatie gedurende het proces ontbreekt - het portaal is niet altijd een oplossing
 
 Respondenten geven als groot obstakel aan dat de communicatie gedurende het aanvraagproces vaak ontbreekt. Het proces wordt aan de voorkant niet goed genoeg uitgelegd waardoor de wederzijdse verwachtingen niet duidelijk zijn. Ook is de aanvrager vaak niet op de hoogte van de status van de aanvraag. Daardoor weten ze niet waar ze aan toe zijn. Het portaal als communicatiemiddel werkt heel goed bij aanvragers die digivaardig zijn en reeds bekend met het initiatievenfonds. Aanvragers die niet digivaardig zijn hebben geen alternatief waardoor aanvragen vertragen. Verder is het niet algemeen bekend dat de communicatie via het portaal verloopt.
-  
+
 ### Sommige aanvragen lopen heel erg lang
 
 De wachttijden zijn een beladen onderwerp tijdens de interviews. Velen geven aan dat ze van tevoren geen idee hadden hoe lang ze moesten wachten op de uitvoering van hun initiatief. Vervolgens worden ze tijdens deze wachtperiode niet op de hoogte gehouden van de status van hun aanvraag, en daarmee de verwachtte wachttijd. Hierdoor verliezen ze snel vertrouwen in het proces.
@@ -70,7 +70,7 @@ Uit de data van de kennisbank van het klantcontactcentrum en uit het KCS (o.a. z
 
 ### Klantreis initiatief met experts
 
-We hebben de experts van Wijken en Stadsbedrijven een klantreis laten maken en de ervaringen hiervan, evenals de ervaringen uit de praktijk, meegenomen in deze klantreis.  
+We hebben de experts van Wijken en Stadsbedrijven een klantreis laten maken en de ervaringen hiervan, evenals de ervaringen uit de praktijk, meegenomen in deze klantreis.
 
 ### Interviews met bewoners die een initiatief hebben ingediend
 
