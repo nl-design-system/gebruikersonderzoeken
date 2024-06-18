@@ -18,6 +18,8 @@ tags:
   - navigatie
 ---
 
+<!-- @license CC0-1.0 -->
+
 # Gebruikerstest van een concept voor MijnVraagOverCorona.nl (MVOC)
 
 ![Screenshot van de homepage van mijnvraagovercorona.nl](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/valsplat-corona.png)

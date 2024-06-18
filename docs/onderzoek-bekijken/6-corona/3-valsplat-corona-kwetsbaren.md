@@ -14,6 +14,8 @@ tags:
   - valsplat
 ---
 
+<!-- @license CC0-1.0 -->
+
 # Spreken met kwetsbaren
 
 _Als er in deze rapportage wordt gesproken over kwetsbaren wordt daarmee bedoeld ‘mensen met een kwetsbare gezondheid’_-

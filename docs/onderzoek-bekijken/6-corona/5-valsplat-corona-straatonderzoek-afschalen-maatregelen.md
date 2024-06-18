@@ -11,6 +11,8 @@ keywords:
   - straatonderzoek
 ---
 
+<!-- @license CC0-1.0 -->
+
 # Straatonderzoek over het afschalen van corona maatregelen
 
 **Samengevat: De gesproken burgers zijn nog weinig bezig met de maatregelen rondom corona. Wel heeft het een stempel achtergelaten.**

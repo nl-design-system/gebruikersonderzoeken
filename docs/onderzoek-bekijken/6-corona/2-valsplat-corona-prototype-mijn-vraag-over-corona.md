@@ -16,6 +16,8 @@ tags:
   - navigatie
 ---
 
+<!-- @license CC0-1.0 -->
+
 # Gebruikerstest van een prototype voor MijnVraagOverCorona.nl (MVOC)
 
 **Samengevat: Het prototype van MijnVraagOverCorona.nl is over het algemeen makkelijk in gebruik. De navigatie werkt intuïtief, hoewel sommige situaties soms lastiger te vinden zijn door onduidelijkheden rondom de filters. Binnen het thema 'kwetsbare gezondheid' mist men soms nog extra context, en zichtbaarheid van de optie 'ik heb geen van deze klachten'.**

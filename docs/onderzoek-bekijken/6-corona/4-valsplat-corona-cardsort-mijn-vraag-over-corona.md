@@ -19,6 +19,8 @@ tags:
   - categorie
 ---
 
+<!-- @license CC0-1.0 -->
+
 # Card sort voor het indelen van situaties onder categorieën/filters op mijnvraagovercorona.nl
 
 **Samengevat: Dit card-sort onderzoek heeft geleid tot de indeling van mijnvraagovercorona.nl in zes subthema's. De inzichten hebben algemeen begrip en associaties rondom de gebruikte terminologie in kaart gebracht. Binnen vaccinatiegerelateerde onderwerpen was niet direct een duidelijke schikking in subcategorieën. Deze konden uiteindelijk obv de aanvullende interviews wel worden geïdentificeerd.**
