@@ -17,7 +17,6 @@ tags:
   - ((tag 3))
 ---
 
-
 # ((Titel van het onderzoek hier))
 
 **Samengevat: ((Hier staat in één of twee zinnen superkort wat de conclusie is van het onderzoek, voor iemand die een korte blik werkt op de resultaten))**

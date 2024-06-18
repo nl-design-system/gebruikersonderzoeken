@@ -29,6 +29,8 @@ Een [Markdown](https://www.markdownguide.org/) bestand is het handigst, maar een
 
 We gebruiken Markdown zodat de onderzoeken toegankelijk zijn en in de toekomst makkelijk te exporteren zijn naar andere systemen en bestandsformaten.
 
+Je kunt onze [onderzoek template op Hackmd](https://hackmd.io/@nlds/HkyqEgy80) gebruiken.
+
 ## Wat gebeurt er met mijn onderzoek als ik het deel?
 
 We knippen het onderzoek zo op dat het dezelfde structuur aanhoudt als ons template, dus mogelijk verandert de volgorde. We zullen de inhoud van het onderzoek niet veranderen en zetten, indien van toepassing, altijd een link naar het originele bestand in het onderzoek. (creative commons refefentie?) Je kan op elk moment je onderzoek laten verwijderen van deze site.
