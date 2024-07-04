@@ -14,6 +14,7 @@
     "test-update": "pnpm run --if-present lint && pnpm run --if-present test && pnpm run --if-present build && pnpm run --if-present lint-build && pnpm run --if-present test-build",
     "write-translations": "docusaurus write-translations",
     "write-heading-ids": "docusaurus write-heading-ids",
+    "prettier": "prettier --write .",
     "typecheck": "tsc",
     "update-patch": "npm-check-updates --configFileName .ncurc.patch.cjs",
     "update-minor": "npm-check-updates --configFileName .ncurc.minor.cjs",
@@ -39,6 +40,7 @@
     "@types/react": "18.3.3",
     "@types/react-dom": "18.3.0",
     "npm-check-updates": "16.14.20",
+    "prettier": "3.3.2",
     "search-insights": "2.14.0",
     "typescript": "5.4.5"
   },
@@ -58,5 +60,5 @@
     "node": "^20",
     "pnpm": "^9"
   },
-  "packageManager": "pnpm@9.1.1+sha256.9551e803dcb7a1839fdf5416153a844060c7bce013218ce823410532504ac10b"
+  "packageManager": "pnpm@9.4.0+sha256.b6fd0bfda555e7e584ad7e56b30c68b01d5a04f9ee93989f4b93ca8473c49c74"
 }
