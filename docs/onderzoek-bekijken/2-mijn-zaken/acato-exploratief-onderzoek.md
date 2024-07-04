@@ -27,9 +27,10 @@ tags:
 ---
 
 <!-- @license CC0-1.0 -->
+
 # Exploratief onderzoek naar de ontwikkeling van de Profielservice voor Mijn-Omgeving voor Gemeenten en andere Overheden
 
-*Dit onderzoek is uitgevoerd in 2024 door VNG in samenwerking met de Gemeente Den Haag in het kader van het Omnichannel Mijn Services traject.*
+_Dit onderzoek is uitgevoerd in 2024 door VNG in samenwerking met de Gemeente Den Haag in het kader van het Omnichannel Mijn Services traject._
 
 ## Doel van het onderzoek
 
@@ -39,12 +40,12 @@ Dit rapport biedt een analyse van de behoeften en verwachtingen van inwoners en 
 
 Op basis van de verzamelde data en analyse worden de volgende aanbevelingen gedaan:
 
-* Uniforme Inlogmethode: Implementeer DigiD en SSO om de inlogprocedure te vereenvoudigen en de veiligheid te vergroten.
-* Gegevensbeveiliging en Privacy: Versterk het gevoel van veiligheid door te laten zien hoe de beveiliging geregeld is.
-* Gebruiksvriendelijke Interface: Ontwikkel een intuïtieve en eenvoudige gebruikersinterface die makkelijk te navigeren is. Voer usability tests uit om dit te verifiëren.
-* Notificatiesysteem: Implementeer een flexibel notificatiesysteem waarbij gebruikers hun voorkeuren kunnen instellen en die dubbel notificeren voorkomt.
-* Toegankelijkheid en Inclusiviteit: Zorg ervoor dat de diensten toegankelijk zijn voor alle inwoners, inclusief ouderen en mensen met beperkingen. Let op B1 taalniveau, ontwikkel volgens de WCAG 2.2 AA standaard en en voer inclusieve usability onderzoeken uit.
-* Gebruikersgerichte Ontwikkeling: Betrek inwoners en ondernemers bij het ontwikkelingsproces van de Mijn-Omgeving door middel van feedbacksessies en gebruikerstests om ervoor te zorgen dat de diensten aansluiten bij hun behoeften.
+- Uniforme Inlogmethode: Implementeer DigiD en SSO om de inlogprocedure te vereenvoudigen en de veiligheid te vergroten.
+- Gegevensbeveiliging en Privacy: Versterk het gevoel van veiligheid door te laten zien hoe de beveiliging geregeld is.
+- Gebruiksvriendelijke Interface: Ontwikkel een intuïtieve en eenvoudige gebruikersinterface die makkelijk te navigeren is. Voer usability tests uit om dit te verifiëren.
+- Notificatiesysteem: Implementeer een flexibel notificatiesysteem waarbij gebruikers hun voorkeuren kunnen instellen en die dubbel notificeren voorkomt.
+- Toegankelijkheid en Inclusiviteit: Zorg ervoor dat de diensten toegankelijk zijn voor alle inwoners, inclusief ouderen en mensen met beperkingen. Let op B1 taalniveau, ontwikkel volgens de WCAG 2.2 AA standaard en en voer inclusieve usability onderzoeken uit.
+- Gebruikersgerichte Ontwikkeling: Betrek inwoners en ondernemers bij het ontwikkelingsproces van de Mijn-Omgeving door middel van feedbacksessies en gebruikerstests om ervoor te zorgen dat de diensten aansluiten bij hun behoeften.
 
 ## Resultaten en inzichten
 
@@ -56,11 +57,11 @@ Uit de gegevens blijkt dat er hoge verwachtingen zijn voor de functionaliteiten 
 
 De essentiële functies die door zowel inwoners als experts zijn benoemd, omvatten:
 
-* Zaakoverzicht en Tracking: Inwoners willen de mogelijkheid hebben om de status van hun aanvragen en lopende zaken te volgen. Dit biedt transparantie en vermindert de noodzaak voor fysieke bezoeken of telefonische opvolging.
-* Persoonlijke Gegevens: Het is cruciaal dat gebruikers eenvoudig hun persoonlijke gegevens kunnen bekijken en aanpassen. Dit omvat adreswijzigingen, contactinformatie, en andere relevante persoonlijke gegevens zoals burgerlijke staat.
-* Notificatiesysteem: Een efficiënt notificatiesysteem is essentieel voor het informeren van inwoners over de status van hun aanvragen en andere relevante updates. Inwoners moeten de mogelijkheid hebben om hun notificatievoorkeuren aan te passen, bijvoorbeeld via e-mail, SMS of pushmeldingen.
-* Veiligheid en Privacy: Gebruik van gestandaardiseerde en veilige inlogmethoden zoals DigiD en Single Sign-On (SSO) is noodzakelijk om de veiligheid van gebruikersgegevens te waarborgen. Daarnaast moeten gegevensbeveiliging en privacy gewaarborgd worden door middel van encryptie en regelmatige beveiligingsupdates.
-* Gebruikersvoorkeuren: Gebruikers willen hun persoonlijke voorkeuren voor communicatie en dienstverlening kunnen instellen, zodat de dienstverlening aansluit op hun behoeften.
+- Zaakoverzicht en Tracking: Inwoners willen de mogelijkheid hebben om de status van hun aanvragen en lopende zaken te volgen. Dit biedt transparantie en vermindert de noodzaak voor fysieke bezoeken of telefonische opvolging.
+- Persoonlijke Gegevens: Het is cruciaal dat gebruikers eenvoudig hun persoonlijke gegevens kunnen bekijken en aanpassen. Dit omvat adreswijzigingen, contactinformatie, en andere relevante persoonlijke gegevens zoals burgerlijke staat.
+- Notificatiesysteem: Een efficiënt notificatiesysteem is essentieel voor het informeren van inwoners over de status van hun aanvragen en andere relevante updates. Inwoners moeten de mogelijkheid hebben om hun notificatievoorkeuren aan te passen, bijvoorbeeld via e-mail, SMS of pushmeldingen.
+- Veiligheid en Privacy: Gebruik van gestandaardiseerde en veilige inlogmethoden zoals DigiD en Single Sign-On (SSO) is noodzakelijk om de veiligheid van gebruikersgegevens te waarborgen. Daarnaast moeten gegevensbeveiliging en privacy gewaarborgd worden door middel van encryptie en regelmatige beveiligingsupdates.
+- Gebruikersvoorkeuren: Gebruikers willen hun persoonlijke voorkeuren voor communicatie en dienstverlening kunnen instellen, zodat de dienstverlening aansluit op hun behoeften.
 
 ### Gebruiksvriendelijkheid en Toegankelijkheid
 
@@ -70,23 +71,23 @@ Er is een sterke behoefte aan verbetering van de gebruiksvriendelijkheid en toeg
 
 #### Algemene Verwachtingen
 
-* Inwoners: Verwachten een breed scala aan digitale diensten. Voorbeelden zijn de mogelijkheid om vergunningen aan te vragen, meldingen doen en persoonlijke documenten zoals ID-kaarten en rijbewijzen te vernieuwen.
-* Experts: Benadrukken de noodzaak van een geïntegreerde aanpak waarbij verschillende diensten op een gebruiksvriendelijke manier worden samengebracht.
+- Inwoners: Verwachten een breed scala aan digitale diensten. Voorbeelden zijn de mogelijkheid om vergunningen aan te vragen, meldingen doen en persoonlijke documenten zoals ID-kaarten en rijbewijzen te vernieuwen.
+- Experts: Benadrukken de noodzaak van een geïntegreerde aanpak waarbij verschillende diensten op een gebruiksvriendelijke manier worden samengebracht.
 
 #### Gebruiksvriendelijkheid
 
-* Inwoners: Ervaren vaak problemen met de huidige digitale diensten, zoals ingewikkelde processen en een gebrek aan duidelijke instructies.
-* Experts: Adviseren een intuïtieve interface die gemakkelijk te navigeren is en duidelijke instructies biedt voor elke stap in het proces.
+- Inwoners: Ervaren vaak problemen met de huidige digitale diensten, zoals ingewikkelde processen en een gebrek aan duidelijke instructies.
+- Experts: Adviseren een intuïtieve interface die gemakkelijk te navigeren is en duidelijke instructies biedt voor elke stap in het proces.
 
 #### Veiligheid
 
-* Inwoners: Hebben zorgen over de veiligheid van hun persoonlijke gegevens online.
-* Experts: Aanbevelen het gebruik van sterke authenticatiemethoden zoals DigiD en SSO, en het implementeren van regelmatige beveiligingsupdates en encryptie.
+- Inwoners: Hebben zorgen over de veiligheid van hun persoonlijke gegevens online.
+- Experts: Aanbevelen het gebruik van sterke authenticatiemethoden zoals DigiD en SSO, en het implementeren van regelmatige beveiligingsupdates en encryptie.
 
 #### Notificaties
 
-* Inwoners: Willen op de hoogte gehouden worden van de status van hun aanvragen en andere belangrijke updates via verschillende kanalen zoals e-mail en SMS.
-* Experts: Suggereer een flexibel notificatiesysteem dat gebruikers in staat stelt hun voorkeuren aan te passen.
+- Inwoners: Willen op de hoogte gehouden worden van de status van hun aanvragen en andere belangrijke updates via verschillende kanalen zoals e-mail en SMS.
+- Experts: Suggereer een flexibel notificatiesysteem dat gebruikers in staat stelt hun voorkeuren aan te passen.
 
 ### Overlap tussen MijnOverheid en de gemeentelijke Mijn-Omgeving
 

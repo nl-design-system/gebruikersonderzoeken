@@ -23,7 +23,7 @@ tags:
 
 # Uitzonderingen in het verhuisaangiften proces
 
-*Onderzoek uitgevoerd in 2023 door de Stadskamer - Gemeente Utrecht*
+_Onderzoek uitgevoerd in 2023 door de Stadskamer - Gemeente Utrecht_
 
 **Samengevat: Bij de meeste inwoners verloopt het verhuisaangifteproces probleemloos. Voor degenen bij wie het niet in één keer goed loopt, is het een onnodig moeizaam en lang proces.**
 
@@ -67,7 +67,7 @@ Naar aanleiding van dit onderzoek, zijn de volgende stappen gezet:
 
 ### Data
 
-Uit de data van de Kennisbank van het Klanten Contact Centrum zijn meerdere analyses getrokken. Deze zijn gepresenteerd door data-analist Ilona Hulshof.  
+Uit de data van de Kennisbank van het Klanten Contact Centrum zijn meerdere analyses getrokken. Deze zijn gepresenteerd door data-analist Ilona Hulshof.
 
 ### Interviews met experts
 
@@ -84,11 +84,11 @@ Er zijn 7 interviews telefonisch gehouden met inwoners die het proces van het di
 - [Ilona Hulshof, Data-analist](mailto:i.hulshof@utrecht.nl) - Gemeente Utrecht
 - [Cato Zantman, UX Researcher](mailto:cato.zantman@utrecht.nl) - Gemeente Utrecht
 - [Daniëlle van der Heiden, Verbetermanager](mailto:d.van.der.heiden@utrecht.nl) - Gemeente Utrecht
-  
+
 ### KCC miniteam Burgerzaken
 
 - Suriya Rajalingham, Specialist dienstverlening - Gemeente Utrecht
-  
+
 ### Afdeling Burgerzaken - Gemeente Utrecht
 
 - Herman Achterberg, specialist Burgerzaken - Gemeente Utrecht
