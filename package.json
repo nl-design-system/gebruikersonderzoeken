@@ -41,7 +41,7 @@
     "@types/react-dom": "18.3.0",
     "npm-check-updates": "16.14.20",
     "prettier": "3.3.2",
-    "search-insights": "2.14.0",
+    "search-insights": "2.15.0",
     "typescript": "5.5.3"
   },
   "browserslist": {
