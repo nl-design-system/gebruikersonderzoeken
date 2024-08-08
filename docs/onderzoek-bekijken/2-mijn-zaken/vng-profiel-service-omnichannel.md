@@ -1,11 +1,5 @@
 ---
 title: Uitkomsten UX onderzoek Mijn Profiel Service Omnichannel
-tags: [Mijn omgeving, Omnichannel, VNG, Gemeente Den Haag, Service Design, Gebruikersonderzoek]
-
----
-
----
-title: Uitkomsten UX onderzoek Mijn Profiel Service Omnichannel
 hide_title: true
 hide_table_of_contents: false
 sidebar_label: Mijn Profiel Service Omnichannel
