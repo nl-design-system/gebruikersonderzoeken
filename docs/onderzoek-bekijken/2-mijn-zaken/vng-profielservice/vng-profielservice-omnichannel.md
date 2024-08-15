@@ -1,27 +1,28 @@
 ---
-title: Uitkomsten UX onderzoek Mijn Profiel Service Omnichannel
+title: Uitkomsten UX onderzoek | Profielservice | Mijn Omgeving
 hide_title: true
 hide_table_of_contents: false
-sidebar_label: Mijn Profiel Service Omnichannel
+sidebar_label: Uitkomsten UX onderzoek
 sidebar_position: 2
-pagination_label: Mijn Profiel Service Omnichannel
-description: Mijn Profiel Service Omnichannel
+pagination_label: Uitkomsten UX onderzoek
+description: Uitkomsten UX onderzoek Profielservice Mijn Omgeving
+slug: /onderzoek-bekijken/mijn-zaken/vng-profiel-service-omnichannel
 keywords:
   - onderzoek
   - mijnomgeving
   - vng
   - omnichannel
-  - profiel service
+  - profielservice
 tags:
   - vng
   - mijn omgeving
-  - mijn profiel service
+  - mijn profielservice
   - omnichannel
 ---
 
 <!-- @license CC0-1.0 -->
 
-# Uitkomsten UX onderzoek Mijn Profiel Service Omninchannel 
+# Uitkomsten UX onderzoek Mijn Profielservice Omninchannel 
 
 Samenvatting: Inwoners en ondernemers waarderen een profielservice met de naam ‘Mijn Gegevens’ met de onderdelen contactinformatie, meldingen, persoonsgegevens, adresgegevens, taal en bankgegevens. Er is een sterke voorkeur voor een gebruikersinterface die gebruik maakt van ‘expansion panels’. 
 

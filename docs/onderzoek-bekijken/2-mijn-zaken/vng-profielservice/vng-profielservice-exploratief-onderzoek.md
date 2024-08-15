@@ -1,11 +1,12 @@
 ---
-title: Profielservice Mijn-Omgeving
+title: Exploratief-onderzoek | Profielservice | Mijn Omgeving
 hide_title: true
 hide_table_of_contents: false
-sidebar_label: Profielservice Mijn-Omgeving
-sidebar_position: 2
-pagination_label: Profielservice Mijn-Omgeving
-description: Profielservice Mijn-Omgeving
+sidebar_label: Exploratief onderzoek
+sidebar_position: 1
+pagination_label: Exploratief onderzoek
+description: Exploratief onderzoek Profielservice Mijn Omgeving
+slug: /onderzoek-bekijken/mijn-zaken/acato-exploratief-onderzoek
 keywords:
   - onderzoek
   - mijnomgeving
