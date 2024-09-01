@@ -34,7 +34,7 @@
     "@docusaurus/module-type-aliases": "3.4.0",
     "@docusaurus/theme-common": "3.4.0",
     "@docusaurus/theme-search-algolia": "3.4.0",
-    "@docusaurus/types": "3.4.0",
+    "@docusaurus/types": "3.5.2",
     "@nl-design-system-unstable/nlds-design-tokens": "1.0.0-alpha.290",
     "@tsconfig/docusaurus": "2.0.3",
     "@types/react": "18.3.3",
