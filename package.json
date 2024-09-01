@@ -33,7 +33,7 @@
     "@algolia/client-search": "4.24.0",
     "@docusaurus/module-type-aliases": "3.4.0",
     "@docusaurus/theme-common": "3.4.0",
-    "@docusaurus/theme-search-algolia": "3.4.0",
+    "@docusaurus/theme-search-algolia": "3.5.2",
     "@docusaurus/types": "3.4.0",
     "@nl-design-system-unstable/nlds-design-tokens": "1.0.0-alpha.290",
     "@tsconfig/docusaurus": "2.0.3",
