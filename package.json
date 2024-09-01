@@ -21,7 +21,7 @@
     "update-major": "npm-check-updates --configFileName .ncurc.major.cjs"
   },
   "dependencies": {
-    "@docusaurus/core": "3.4.0",
+    "@docusaurus/core": "3.5.2",
     "@docusaurus/preset-classic": "3.4.0",
     "@mdx-js/react": "3.0.1",
     "clsx": "2.1.1",
