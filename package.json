@@ -30,7 +30,7 @@
     "react-dom": "18.3.1"
   },
   "devDependencies": {
-    "@algolia/client-search": "5.5.0",
+    "@algolia/client-search": "5.7.0",
     "@docusaurus/module-type-aliases": "3.5.2",
     "@docusaurus/theme-common": "3.5.2",
     "@docusaurus/theme-search-algolia": "3.5.2",
