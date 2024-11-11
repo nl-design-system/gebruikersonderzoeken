@@ -21,8 +21,8 @@
     "update-major": "npm-check-updates --configFileName .ncurc.major.cjs"
   },
   "dependencies": {
-    "@docusaurus/core": "3.5.2",
-    "@docusaurus/preset-classic": "3.5.2",
+    "@docusaurus/core": "3.6.1",
+    "@docusaurus/preset-classic": "3.6.1",
     "@mdx-js/react": "3.0.1",
     "clsx": "2.1.1",
     "prism-react-renderer": "2.4.0",
@@ -31,10 +31,11 @@
   },
   "devDependencies": {
     "@algolia/client-search": "5.8.1",
-    "@docusaurus/module-type-aliases": "3.5.2",
-    "@docusaurus/theme-common": "3.5.2",
-    "@docusaurus/theme-search-algolia": "3.5.2",
-    "@docusaurus/types": "3.5.2",
+    "@docusaurus/faster": "3.6.1",
+    "@docusaurus/module-type-aliases": "3.6.1",
+    "@docusaurus/theme-common": "3.6.1",
+    "@docusaurus/theme-search-algolia": "3.6.1",
+    "@docusaurus/types": "3.6.1",
     "@nl-design-system-unstable/nlds-design-tokens": "1.0.0-alpha.290",
     "@tsconfig/docusaurus": "2.0.3",
     "@types/react": "18.3.10",

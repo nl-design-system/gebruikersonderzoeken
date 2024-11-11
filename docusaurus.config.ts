@@ -92,6 +92,9 @@ const config: Config = {
         to: '/',
       },
     },
+    future: {
+      experimental_faster: true,
+    },
   } satisfies ThemeConfig,
 };
 
