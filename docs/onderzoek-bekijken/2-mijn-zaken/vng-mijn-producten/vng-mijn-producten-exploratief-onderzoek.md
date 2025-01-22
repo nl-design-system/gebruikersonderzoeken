@@ -9,7 +9,7 @@ description: Exploratief onderzoek Mijn Producten in een Mijn Omgeving
 slug: /onderzoek-bekijken/mijn-zaken/mijn-producten/exploratief-onderzoek-vng
 keywords:
   - onderzoek
-  - mijnomgeving
+  - Mijn omgeving
   - mijn omgeving
   - mijn-omgeving
   - status
@@ -29,53 +29,53 @@ tags:
 
 _Dit onderzoek is uitgevoerd in 2025 door VNG in samenwerking met de Gemeente Den Haag in het kader van het Omnichannel Mijn Services traject._
 
-**Samengevat: Inwoners maken minder gebruik van de MijnOmgeving en hebben hierdoor lagere verwachtingen mbt functionaliteiten, ondernemers hebben complexere behoeften en zien de MijnOmgeving als een handige mogelijkheid om al hun zaken met de gemeente centraal te regelen.**
+**Samengevat: Inwoners maken minder gebruik van de Mijn omgeving en hebben daardoor lagere verwachtingen ten aanzien van de beschikbare functionaliteiten. Ondernemers daarentegen hebben complexere behoeften en beschouwen de Mijn omgeving als een praktische centrale plek om al hun gemeentelijke zaken te beheren.**
 
-![Voorpagina van het onderzoek met een foto van een flip-over en de tekst: Onderzoeksrapportage Exploratief onderzoek MijnOmgeving - Wat verwachten inwoners en ondernemers van een MijnOmgeving? Wat willen ze hierin terug kunnen vinden en welke handelingen willen ze vanuit het portaal kunnen doen? - Onderzoekers: Daniël Vellinga. Margo Welling | Ondernemersprogramma | nov](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/refs/heads/assets/vng-mijn-producten__intro.png)
+![Voorpagina van het onderzoek met een foto van een flip-over en de tekst: Onderzoeksrapportage Exploratief onderzoek Mijn omgeving - Wat verwachten inwoners en ondernemers van een Mijn omgeving? Wat willen ze hierin terug kunnen vinden en welke handelingen willen ze vanuit het portaal kunnen doen? - Onderzoekers: Daniël Vellinga. Margo Welling | Ondernemersprogramma | nov](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/refs/heads/assets/vng-mijn-producten__intro.png)
 
 ## Doel van het onderzoek
 
-Het doel van dit onderzoek was om op te halen wat inwoners en ondernemers verwachten van een MijnOmgeving, wat ze hierin terug willen vinden en welke handelingen ze vanuit het portaal willen kunnen doen.
+Het doel van dit onderzoek was om inzicht te krijgen in de verwachtingen van inwoners en ondernemers ten aanzien van een Mijn omgeving: wat zij hierin willen terugvinden en welke handelingen zij via het portaal willen uitvoeren.
 
 Hierbij horen de volgende onderzoeksvragen:
 
 1. **Navigatie en vindbaarheid van producten**: Hoe gaan inwoners/ondernemers op zoek naar producten en welke details en informatie verwachten zij hier te vinden?
 2. **Openstaande taken**: Hoe kunnen we het voor inwoners/ondernemers zo eenvoudig mogelijk maken om hun openstaande taken op producten snel en te vinden en begrijpen?
-3. **Zelf regelen**: Wat willen inwoners/ondernemers zelf regelen rondom producten in de MijnOmgeving? En waar verwachten zij dit te vinden?
-4. **Contact**: Welke behoefte hebben inwoners/ondernemers m.b.t. contact vanuit de MijnOmgeving?
+3. **Zelf regelen**: Wat willen inwoners/ondernemers zelf regelen rondom producten in de Mijn omgeving? En waar verwachten zij dit te vinden?
+4. **Contact**: Welke behoefte hebben inwoners/ondernemers m.b.t. contact vanuit de Mijn omgeving?
 
 ## Advies
 
-Inwoners en ondernemers zien een meerwaarde in het terugvinden van de ‘producten’ en bijbehorende informatie, taken en acties in de MijnOmgeving. De volgende stap is om de resultaten van dit onderzoek om te zetten in uitgewerkte prototypes, zodat deze voorgelegd kunnen worden bij inwoners en ondernemers.
+Inwoners en ondernemers ervaren de meerwaarde van het kunnen terugvinden van ‘producten’, bijbehorende informatie, taken en acties in de Mijn omgeving. De volgende stap is om de resultaten van dit onderzoek te vertalen naar uitgewerkte prototypes, die vervolgens kunnen worden voorgelegd aan inwoners en ondernemers voor feedback.
 
 Uit het onderzoek zijn dit de belangrijkste adviezen:
 
-- Zorg dat inwoners toegang hebben tot persoonlijke thema’s zoals Mijn huis, Mijn auto, etc.
+- Zorg dat inwoners toegang hebben tot persoonlijke thema’s zoals Mijn huis en Mijn auto.
 - Zorg bij ondernemers voor goede zoek- en filterfuncties, omdat zij vaak op zoek gaan naar specifiekere informatie en ook veel producten hebben.
-- Zorg dat alle relevante informatie vanuit het portaal te vinden is. Staat bepaalde informatie op de website? Zorg dan dat je vanuit het portaal hier naar doorverwijst.
-- Plaats de meest recente producten op de hoofdpagina, maar zorg ook dat ‘oude’ producten bewaard blijven in een soort archief.
-- Plaats acties bij het product zelf.
+- Zorg ervoor dat alle relevante informatie te vinden is vanuit het portaal. Staat bepaalde informatie op de website? Zorg dan voor een duidelijke verwijzing vanuit het portaal
+- Plaats de meest recente producten op de hoofdpagina, maar zorg tegelijkertijd dat ‘oude’ producten bewaard blijven in een soort archief.
+- Plaats bij ieder product de bijbehorende acties.
 
 ## Resultaten en inzichten
 
-### Er is een verschil in behoeften en verwachtingen van de MijnOmgeving tussen inwoners en ondernemers
+### Er is een verschil in behoeften en verwachtingen van de Mijn omgeving tussen inwoners en ondernemers
 
-Inwoners komen niet vaak uit zichzelf in de MijnOmgeving en hebben weinig verwachtingen. Zij gebruiken de MijnOmgeving vooral wanneer ze iets specifieks moeten regelen. Inwoners zien alleen reden om in te loggen als er een directe aanleiding/noodzaak is. De MijnOmgeving wordt niet gezien als dagelijks hulpmiddel.
+Inwoners maken niet vaak uit zichzelf gebruik van de Mijn omgeving en hebben weinig verwachtingen. Ze loggen voornamelijk in wanneer ze iets specifieks moeten regelen. De Mijn omgeving wordt niet beschouwd als een dagelijks hulpmiddel.
 
 - Aanleidingen zijn vooral reisdocumenten en parkeervergunningen of een bericht vanuit de gemeente
 - Andere informatie wordt meestal gevonden op het publieke deel van de site
-- Ze hebben geen duidelijke behoeften of verwachtingen m.b.t. functionaliteiten binnen de MijnOmgeving
+- Ze hebben geen duidelijke behoeften of verwachtingen m.b.t. functionaliteiten binnen de Mijn omgeving
 
-### Ondernemers hebben complexere behoeften en zien de MijnOmgeving als een kans om hen te ondersteunen
+### Ondernemers hebben complexere behoeften en zien de Mijn omgeving als een kans om hen te ondersteunen
 
-Niet alle ondernemers maken op het moment veel gebruik van de MijnOmgeving. Wel hebben zij veel zaken, producten en contact met de gemeente. Zij zien de MijnOmgeving dan ook wel als een mogelijkheid om alles centraal te regelen.
+Niet alle ondernemers maken op het moment veel gebruik van de Mijn omgeving. Wel hebben zij veel zaken, producten en contact met de gemeente. Zij zien de Mijn omgeving dan ook wel als een mogelijkheid om alles centraal te regelen.
 
-- Ze benoemen dat de MijnOmgeving dan 1 plek voor alles moet zijn.
+- Ze benoemen dat de Mijn omgeving dan 1 plek voor alles moet zijn.
 - Ook zien ze het als een plek om contact te leggen, aanvragen te doen, dingen te verlengen, herhalen of wijzigen
 
 ### Inwoners willen snel toegang tot informatie die relevant is voor hun persoonlijke situatie.
 
-Inwoners denken in persoonlijke thema’s zoals Mijn huis, auto en gezin. Zij zien de MijnOmgeving echt als iets persoonlijks, dit zie je ook terug in de thema’s die zij benoemen.
+Inwoners denken in persoonlijke thema’s zoals Mijn huis, auto en gezin. Zij zien de Mijn omgeving echt als iets persoonlijks, dit zie je ook terug in de thema’s die zij benoemen.
 
 - Inwoners focussen op persoonlijke thema's zoals huis, auto, gezin
   - Binnen deze categorieën verwachten zij de relevante producten te vinden
@@ -106,7 +106,7 @@ Ondernemers hebben te maken met veel meer producten en zaken en hebben behoefte 
 
 Het woord 'producten’ wordt geassocieerd met commerciële activiteiten, hierdoor vinden inwoners en ondernemers het niet passen bij gemeentelijke diensten.
 
-- Het taalgebruik in de MijnOmgeving moet aansluiten bij de verwachtingen van de gebruikers. Termen moeten duidelijk en herkenbaar zijn.
+- Het taalgebruik in de Mijn omgeving moet aansluiten bij de verwachtingen van de gebruikers. Termen moeten duidelijk en herkenbaar zijn.
 - Associatie met commercie maakt het verwarrend
 - Voorkeur voor termen als 'Diensten' of 'Zaken’
 
@@ -146,7 +146,7 @@ Inwoners verwachten dat de productpagina's alle relevante informatie bevatten om
 
 Ondernemers zouden alle taken of acties het liefste allemaal vanuit het portaal kunnen regelen.
 
-- Zij zien de MijnOmgeving als centrale plek voor alle acties.
+- Zij zien de Mijn omgeving als centrale plek voor alle acties.
   - Herhalen, verlengen, wijzigen van diensten direct vanuit het portaal.
   - Ze verwachten dit vanaf het product te kunnen doen.
 - Als een bepaalde actie niet kan, maar ondernemers verwachten dit wel in het portaal. Zorg dan dat de actie wel te vinden is (denk aan aanvragen), en dat hier wordt benoemd waar ze dit kunnen doen.
@@ -158,7 +158,7 @@ De onderzoeksresultaten zijn gebruikt om schermen te ontwerpen. Deze schermen wo
 
 ## Opzet onderzoek
 
-We hebben 5 ondernemers, 5 inwoners en 5 experts gesproken in uitgebreide 1 op 1 gesprekken en een focusgroep met ondernemers. Hierbij hebben we ervaringen en verwachtingen opgehaald met betrekking tot de MijnOmgeving en hebben we een Card Sort oefening gedaan om te begrijpen hoe zij verschillende informatie zouden indelen.
+We hebben uitgebreide één-op-één gesprekken gevoerd met 5 ondernemers, 5 inwoners en 5 experts, aangevuld met een focusgroep met ondernemers. Tijdens deze sessies hebben we ervaringen en verwachtingen met betrekking tot de Mijn omgeving verzameld. Daarnaast hebben we een card sort-oefening uitgevoerd om inzicht te krijgen in hoe zij verschillende informatie zouden structureren en indelen.
 
 ## Contactinformatie
 
