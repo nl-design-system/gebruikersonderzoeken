@@ -1,0 +1,173 @@
+---
+title: Exploratief-onderzoek | Mijn Producten | Mijn Omgeving
+hide_title: true
+hide_table_of_contents: false
+sidebar_label: Exploratief onderzoek
+sidebar_position: 1
+pagination_label: Exploratief onderzoek
+description: Exploratief onderzoek Mijn Producten in een Mijn Omgeving
+slug: /onderzoek-bekijken/mijn-zaken/mijn-producten/exploratief-onderzoek-vng
+keywords:
+  - onderzoek
+  - mijnomgeving
+  - mijn omgeving
+  - mijn-omgeving
+  - status
+  - mijn zaken
+  - mijnproducten
+  - producten
+tags:
+  - mijn omgeving
+  - mijn zaken
+  - status component
+  - mijn producten
+---
+
+<!-- @license CC0-1.0 -->
+
+# Exploratief UX onderzoek MijnProducten
+
+_Dit onderzoek is uitgevoerd in 2025 door VNG in samenwerking met de Gemeente Den Haag in het kader van het Omnichannel Mijn Services traject._
+
+**Samengevat: Inwoners maken minder gebruik van de MijnOmgeving en hebben hierdoor lagere verwachtingen mbt functionaliteiten, ondernemers hebben complexere behoeften en zien de MijnOmgeving als een handige mogelijkheid om al hun zaken met de gemeente centraal te regelen.**
+
+![Voorpagina van het onderzoek met een foto van een flip-over en de tekst: Onderzoeksrapportage Exploratief onderzoek MijnOmgeving - Wat verwachten inwoners en ondernemers van een MijnOmgeving? Wat willen ze hierin terug kunnen vinden en welke handelingen willen ze vanuit het portaal kunnen doen? - Onderzoekers: Daniël Vellinga. Margo Welling | Ondernemersprogramma | nov](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/refs/heads/assets/vng-mijn-producten__intro.png)
+
+## Doel van het onderzoek
+
+Het doel van dit onderzoek was om op te halen wat inwoners en ondernemers verwachten van een MijnOmgeving, wat ze hierin terug willen vinden en welke handelingen ze vanuit het portaal willen kunnen doen.
+
+Hierbij horen de volgende onderzoeksvragen:
+
+1. **Navigatie en vindbaarheid van producten**: Hoe gaan inwoners/ondernemers op zoek naar producten en welke details en informatie verwachten zij hier te vinden?
+2. **Openstaande taken**: Hoe kunnen we het voor inwoners/ondernemers zo eenvoudig mogelijk maken om hun openstaande taken op producten snel en te vinden en begrijpen?
+3. **Zelf regelen**: Wat willen inwoners/ondernemers zelf regelen rondom producten in de MijnOmgeving? En waar verwachten zij dit te vinden?
+4. **Contact**: Welke behoefte hebben inwoners/ondernemers m.b.t. contact vanuit de MijnOmgeving?
+
+## Advies
+
+Inwoners en ondernemers zien een meerwaarde in het terugvinden van de ‘producten’ en bijbehorende informatie, taken en acties in de MijnOmgeving. De volgende stap is om de resultaten van dit onderzoek om te zetten in uitgewerkte prototypes, zodat deze voorgelegd kunnen worden bij inwoners en ondernemers.
+
+Uit het onderzoek zijn dit de belangrijkste adviezen:
+
+- Zorg dat inwoners toegang hebben tot persoonlijke thema’s zoals Mijn huis, Mijn auto, etc.
+- Zorg bij ondernemers voor goede zoek- en filterfuncties, omdat zij vaak op zoek gaan naar specifiekere informatie en ook veel producten hebben.
+- Zorg dat alle relevante informatie vanuit het portaal te vinden is. Staat bepaalde informatie op de website? Zorg dan dat je vanuit het portaal hier naar doorverwijst.
+- Plaats de meest recente producten op de hoofdpagina, maar zorg ook dat ‘oude’ producten bewaard blijven in een soort archief.
+- Plaats acties bij het product zelf.
+
+## Resultaten en inzichten
+
+### Er is een verschil in behoeften en verwachtingen van de MijnOmgeving tussen inwoners en ondernemers
+
+Inwoners komen niet vaak uit zichzelf in de MijnOmgeving en hebben weinig verwachtingen. Zij gebruiken de MijnOmgeving vooral wanneer ze iets specifieks moeten regelen. Inwoners zien alleen reden om in te loggen als er een directe aanleiding/noodzaak is. De MijnOmgeving wordt niet gezien als dagelijks hulpmiddel.
+
+- Aanleidingen zijn vooral reisdocumenten en parkeervergunningen of een bericht vanuit de gemeente
+- Andere informatie wordt meestal gevonden op het publieke deel van de site
+- Ze hebben geen duidelijke behoeften of verwachtingen m.b.t. functionaliteiten binnen de MijnOmgeving
+
+### Ondernemers hebben complexere behoeften en zien de MijnOmgeving als een kans om hen te ondersteunen
+
+Niet alle ondernemers maken op het moment veel gebruik van de MijnOmgeving. Wel hebben zij veel zaken, producten en contact met de gemeente. Zij zien de MijnOmgeving dan ook wel als een mogelijkheid om alles centraal te regelen.
+
+- Ze benoemen dat de MijnOmgeving dan 1 plek voor alles moet zijn.
+- Ook zien ze het als een plek om contact te leggen, aanvragen te doen, dingen te verlengen, herhalen of wijzigen
+
+### Inwoners willen snel toegang tot informatie die relevant is voor hun persoonlijke situatie.
+
+Inwoners denken in persoonlijke thema’s zoals Mijn huis, auto en gezin. Zij zien de MijnOmgeving echt als iets persoonlijks, dit zie je ook terug in de thema’s die zij benoemen.
+
+- Inwoners focussen op persoonlijke thema's zoals huis, auto, gezin
+  - Binnen deze categorieën verwachten zij de relevante producten te vinden
+  - Vergunningen en betalingen worden als belangrijke, aparte categorieën gezien
+  - Hier verwachten zij ook relevante tips en informatie terug te vinden. Denk aan tips voor een relevante subsidie als je een aanvraag voor een verbouwing hebt.
+- Thema's en producttypen worden door elkaar gebruikt
+  - ‘Vergunningen’ (type product) kan naast ‘Wonen’ (thema) staan
+
+### Inwoners vinden een apart menu voor producten niet logisch.
+
+Doordat inwoners minder producten hebben zouden zij gaan zoeken via de menustructuur en verwachten hier de passende producten te vinden. Zij zien geen meerwaarde in een aparte ‘bak’ met producten, omdat je dan juist meer moet gaan zoeken.
+
+- Meerdere routes naar dezelfde informatie zijn acceptabel, dus de ‘bak’ zou niet storend zijn als zij hun producten ook via de thema’s terug kunnen vinden.
+- Inwoners verwachten zelf niet veel producten te hebben en zouden het prettig vinden deze op de voorpagina te zien, vooral wanneer ze actueel of nieuw zijn.
+- Inwoners en ondernemers vinden het niet storend als informatie op meerdere plaatsen toegankelijk is. Ze willen snel en eenvoudig bij de benodigde informatie kunnen komen, ongeacht de navigatiestructuur.
+
+### Ondernemers hebben behoefte aan goede sorteer- en filtermogelijkheden.
+
+Ondernemers hebben te maken met veel meer producten en zaken en hebben behoefte aan een gestructureerde omgeving die hen ondersteunt bij hun zakelijke activiteiten.
+
+- Ondernemers gebruiken het portaal intensiever en hebben meer behoefte aan een duidelijke en efficiënte structuur
+  - Meer functionaliteiten nodig voor complexe en diverse taken waarbij ze op een efficiënte manier bij het juiste product terecht willen komen
+  - Ondernemers benaderen producten op veel verschillende manieren. Denk aan benaderen op basis van pand, onderneming en/of type product
+- Meer verschillen in persoonlijke voorkeuren voor indelingen. Een goede sorteer- en filterfunctie zorgt ervoor dat de indeling bij iedereen aansluit
+  - De wensen voor filters zijn sterk afhankelijk van de context en het type product. Dit is vooral belangrijk voor ondernemers met veel gegevens. Er is aanvullend onderzoek nodig om een beter begrip van dit zoekgedrag te krijgen.
+  - Denk aan filteren op kenteken voor verkeersboetes of filteren op jaar en adres voor WOZ-beschikkingen.
+  - Naast producten zouden ze ook op bijv. lopende zaken willen zoeken
+
+Het woord 'producten’ wordt geassocieerd met commerciële activiteiten, hierdoor vinden inwoners en ondernemers het niet passen bij gemeentelijke diensten.
+
+- Het taalgebruik in de MijnOmgeving moet aansluiten bij de verwachtingen van de gebruikers. Termen moeten duidelijk en herkenbaar zijn.
+- Associatie met commercie maakt het verwarrend
+- Voorkeur voor termen als 'Diensten' of 'Zaken’
+
+### Er is behoefte aan een archief voor alle producten, inclusief verlopen producten
+
+Recente producten zouden hierbij makkelijk te vinden moeten zijn via de hoofdpagina. Een archieffunctie verhoogt het gebruiksgemak en vermindert de administratieve last. Inwoners hebben een grote behoefte aan overzichtelijkheid en willen zaken die niet meer relevant zijn, uit beeld zien verdwijnen. Tegelijkertijd willen ze altijd de mogelijkheid hebben om hun oude zaken terug te vinden wanneer dat nodig is. Bij inloggen willen ze meteen zien wat actueel is, met gemakkelijke toegang tot hun eerdere zaken indien gewenst.
+
+- Archief als digitale 'multomap'
+  - Toegang tot historische gegevens voor bewijs en referentie.
+- Recente producten op de overzichtspagina; oudere producten in het archief
+  - Lopende aanvragen en recent verkregen producten op de overzichtspagina.
+  - Oudere producten verhuizen naar het archief voor overzichtelijkheid.
+  - Onder afgehandelde zaken verwachten zij zowel verkregen als niet verkregen dingen.
+
+### De informatie die ze per product terug willen vinden verschilt per type product
+
+Niet alle producten hebben hetzelfde soort informatie, je merkt dan ook dat hier verschillende verwachtingen over zijn.
+
+- Vaker genoemde informatie is:
+  - Duidelijke status en details van producten
+  - Status van aanvragen en vergunningen.
+  - Geldigheidsduur, voorwaarden en eventuele benodigde acties.
+- Sommige informatie is erg product specifiek:
+  - Denk aan een foto bij een boete om te controleren of jij dit wel bent.
+
+### Inwoners willen efficiënt hun zaken regelen zonder onnodige stappen.
+
+Inwoners verwachten dat de productpagina's alle relevante informatie bevatten om acties te kunnen ondernemen.
+
+- Ze hebben geen duidelijk beeld bij wat ze in een portaal verwachten.
+- Wanneer er acties (dit hoeven geen taken te zijn) mogelijk zijn vanuit een product zoals verlengen, opnieuw aanvragen dan verwacht men deze bij het product.
+- Het verschil tussen een actie en een taak is niet altijd duidelijk. Bijvoorbeeld bij het doorgeven van je vakantie aan de gemeente. Dit is voor sommige regelingen wel verplicht, maar niet een taak, omdat de gemeente niet weet wanneer jij op vakantie gaat. Voor mensen voelt dit wel als een taak.
+- Wel lijkt het hen handig om verplichte taken eenvoudig vanuit het portaal te kunnen regelen:
+  - Betalingen doen, documenten aanleveren.
+
+### Ondernemers kunnen veel taken of acties bedenken die zij doen
+
+Ondernemers zouden alle taken of acties het liefste allemaal vanuit het portaal kunnen regelen.
+
+- Zij zien de MijnOmgeving als centrale plek voor alle acties.
+  - Herhalen, verlengen, wijzigen van diensten direct vanuit het portaal.
+  - Ze verwachten dit vanaf het product te kunnen doen.
+- Als een bepaalde actie niet kan, maar ondernemers verwachten dit wel in het portaal. Zorg dan dat de actie wel te vinden is (denk aan aanvragen), en dat hier wordt benoemd waar ze dit kunnen doen.
+  - Dit sluit ook aan op de vindbaarheid van producten. Door de gefaseerde live gang zullen sommige ‘producten’ straks wel te vinden zijn en anderen niet. Leg de oorzaak uit op de plek waar mensen zouden zoeken en verwijs ze door naar de juiste plek.
+
+## Wat is er mee gedaan?
+
+De onderzoeksresultaten zijn gebruikt om schermen te ontwerpen. Deze schermen worden vervolgens, aan de hand van verschillende scenario’s, voorgelegd aan inwoners en ondernemers.
+
+## Opzet onderzoek
+
+We hebben 5 ondernemers, 5 inwoners en 5 experts gesproken in uitgebreide 1 op 1 gesprekken en een focusgroep met ondernemers. Hierbij hebben we ervaringen en verwachtingen opgehaald met betrekking tot de MijnOmgeving en hebben we een Card Sort oefening gedaan om te begrijpen hoe zij verschillende informatie zouden indelen.
+
+## Contactinformatie
+
+Vragen over dit onderzoek kunnen gestuurd worden naar:
+
+- [Margo Welling](mailto:margo.welling@denhaag.nl) - Onderzoeker – Gemeente Den Haag
+- [Lieneke van der Laan](mailto:lieneke.vanderlaan@denhaag.nl) – Service Designer – Gemeente Den Haag
+- [Ananta Mulyono](mailto:ananta.mulyono@denhaag.nl) – UX Designer – Gemeente Den Haag
+
+## Bijlagen
+
+- [Eindversie rapport 1e inzichten 10 dec.pdf](https://github.com/user-attachments/files/18359689/Eindversie.rapport.1e.inzichten.10.dec.pdf)
