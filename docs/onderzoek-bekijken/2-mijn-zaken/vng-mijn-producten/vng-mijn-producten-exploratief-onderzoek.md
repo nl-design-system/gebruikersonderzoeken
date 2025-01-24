@@ -158,7 +158,7 @@ De onderzoeksresultaten zijn gebruikt om schermen te ontwerpen. Deze schermen wo
 
 ## Opzet onderzoek
 
-We hebben uitgebreide één-op-één gesprekken gevoerd met 5 ondernemers, 5 inwoners en 5 experts, aangevuld met een focusgroep met ondernemers. Tijdens deze sessies hebben we ervaringen en verwachtingen met betrekking tot de Mijn omgeving verzameld. Daarnaast hebben we een card sort-oefening uitgevoerd om inzicht te krijgen in hoe zij verschillende informatie zouden structureren en indelen.
+We hebben uitgebreide één-op-één gesprekken gevoerd met 5 inwoners en 5 experts, en daarnaast een focusgroep georganiseerd met ondernemers. Tijdens deze sessies hebben we ervaringen en verwachtingen met betrekking tot de Mijn omgeving verzameld. Daarnaast hebben we een card sort-oefening uitgevoerd om inzicht te krijgen in hoe zij verschillende informatie zouden structureren en indelen.
 
 ## Contactinformatie
 
