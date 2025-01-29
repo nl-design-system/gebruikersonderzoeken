@@ -185,7 +185,7 @@ Tijdens dit onderzoek zijn enkele belangrijke punten naar voren gekomen die verd
 
 Wil je meer weten over dit onderzoek of heb je een idee voor vervolgonderzoek? Neem dan contact met ons op.
 
-- Yasmin Hoekstra, Procesmanager Klantcontact - <ym.hoekstra@rotterdam.nl>
-- Jeffrey Lauwers, UX-designer - <jeffrey.lauwers@ictu.nl>
-- René Olling, UX-designer - <r.olling@utrecht.nl>
-- Jeroen du Chatinier, UX-researcher - <j.du.chatinier@utrecht.nl>
+- Yasmin Hoekstra, Procesmanager Klantcontact-[ym.hoekstra@rotterdam.nl](mailto:ym.hoekstra@rotterdam.nl) - Gemeente Rotterdam
+- Jeffrey Lauwers, UX-designer -[jeffrey.lauwers@ictu.nl](mailto:jeffrey.lauwers@ictu.nl) - Vals Plat
+- René Olling, UX Designer - [r.olling@utrecht.nl](mailto:r.olling@utrecht.nl) - Gemeente Utrecht
+- Jeroen du Chatinier, UX Researcher - [j.du.chatinier@utrecht.nl](mailto:j.du.chatinier@utrecht.nl) - Gemeente Utrecht
