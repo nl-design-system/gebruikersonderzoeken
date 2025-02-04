@@ -36,7 +36,7 @@
     "@docusaurus/theme-common": "3.7.0",
     "@docusaurus/theme-search-algolia": "3.7.0",
     "@docusaurus/types": "3.7.0",
-    "@nl-design-system-unstable/nlds-design-tokens": "1.0.0-alpha.290",
+    "@nl-design-system-unstable/nlds-design-tokens": "1.0.0",
     "@tsconfig/docusaurus": "2.0.3",
     "@types/node": "22.13.0",
     "@types/react": "18.3.10",

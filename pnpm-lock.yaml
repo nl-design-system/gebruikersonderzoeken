@@ -49,8 +49,8 @@ importers:
         specifier: 3.7.0
         version: 3.7.0(acorn@8.14.0)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)
       '@nl-design-system-unstable/nlds-design-tokens':
-        specifier: 1.0.0-alpha.290
-        version: 1.0.0-alpha.290
+        specifier: 1.0.0
+        version: 1.0.0
       '@tsconfig/docusaurus':
         specifier: 2.0.3
         version: 2.0.3
@@ -1172,11 +1172,11 @@ packages:
     resolution: {integrity: sha512-e7zcB6TPnVzyUaHMJyLSArKa2AG3h9+4CfvKXKKWNx6hRs+p0a+u7HHTJBgo6KW2m+vqDnuIHK4X+bhmoghAFA==}
     engines: {node: '>=18.0'}
 
-  '@fontsource/fira-sans@5.0.20':
-    resolution: {integrity: sha512-inmUjoKPrgnO4uUaZTAgP0b6YdhDfA52axHXvdTwgLvwd2kn3ZgK52UZoxD0VnrvTOjLA/iE4oC0tNtz4nyb5g==}
+  '@fontsource/fira-sans@5.1.0':
+    resolution: {integrity: sha512-qfAjF5WcrL6qQh9eIWLK7lOh9wbCgCnVWh2Nu2gozrTgsUgYBLR8sbCGYwlK1K0yZoQsR2i9VSiQ16wwPCBkSw==}
 
-  '@fontsource/source-sans-pro@5.0.8':
-    resolution: {integrity: sha512-5U2UvIYRkCMozZ388gCE73PEpa2MFgN/0t9O4a1FF7bGT/MIneQWSL1XpWZ8iMVYdh6ntxRf3iFA6slCIuFgkg==}
+  '@fontsource/source-sans-pro@5.1.0':
+    resolution: {integrity: sha512-GJijHmnPKwA1G8MqUVOZzbIW8jLBFsJGugAb5/IikvTHHmLp+pJy+g8EhyWbfR8pI04i/EStzW0AzOv0KQEhzg==}
 
   '@hapi/hoek@9.3.0':
     resolution: {integrity: sha512-/c6rf4UJlmHlC9b5BaNvzAcFv7HZ2QHaV0D4/HNlBdvFnvQq8RI4kYdhyPCl7Xj+oWvTWQ8ujhqS53LIgAe6KQ==}
@@ -1240,8 +1240,8 @@ packages:
   '@module-federation/webpack-bundler-runtime@0.8.4':
     resolution: {integrity: sha512-HggROJhvHPUX7uqBD/XlajGygMNM1DG0+4OAkk8MBQe4a18QzrRNzZt6XQbRTSG4OaEoyRWhQHvYD3Yps405tQ==}
 
-  '@nl-design-system-unstable/nlds-design-tokens@1.0.0-alpha.290':
-    resolution: {integrity: sha512-KbTVmqnGAJaGe52tLsjzXch2PVHplD6tqap8BpRI7qOGTLEFxyiEG/4hVSzb+W3Ux6jc3RKZTa3uinAhYe5Krg==}
+  '@nl-design-system-unstable/nlds-design-tokens@1.0.0':
+    resolution: {integrity: sha512-g1DA7WsJhXXT3IbHI/YLslwWHZnpEclYct5v4wvHUSBbPgvZsaz8IHcfAVHvDgA0QvAAGIUKBOXdY6vH445asA==}
 
   '@nodelib/fs.scandir@2.1.5':
     resolution: {integrity: sha512-vq24Bq3ym5HEQm2NKCr3yXDwjc7vTsEThRDnkp2DK9p1uqLR+DHurm/NOTo0KG7HYHU7eppKZj3MyqYuMBf62g==}
@@ -7345,9 +7345,9 @@ snapshots:
       - uglify-js
       - webpack-cli
 
-  '@fontsource/fira-sans@5.0.20': {}
+  '@fontsource/fira-sans@5.1.0': {}
 
-  '@fontsource/source-sans-pro@5.0.8': {}
+  '@fontsource/source-sans-pro@5.1.0': {}
 
   '@hapi/hoek@9.3.0': {}
 
@@ -7449,10 +7449,10 @@ snapshots:
       '@module-federation/runtime': 0.8.4
       '@module-federation/sdk': 0.8.4
 
-  '@nl-design-system-unstable/nlds-design-tokens@1.0.0-alpha.290':
+  '@nl-design-system-unstable/nlds-design-tokens@1.0.0':
     dependencies:
-      '@fontsource/fira-sans': 5.0.20
-      '@fontsource/source-sans-pro': 5.0.8
+      '@fontsource/fira-sans': 5.1.0
+      '@fontsource/source-sans-pro': 5.1.0
       firacode: 6.2.0
 
   '@nodelib/fs.scandir@2.1.5':
