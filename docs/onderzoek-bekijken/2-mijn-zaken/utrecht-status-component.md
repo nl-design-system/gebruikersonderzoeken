@@ -73,7 +73,7 @@ We hebben de volgende inzichten uit het onderzoek gehaald.
 
 De volgende inzichten gaan over het proces als geheel.
 
-#### De combinatie van notificaties en status pagina zorgen voor toegveogde waarde
+#### De combinatie van notificaties en status pagina zorgen voor toegevoegde waarde
 
 De geinterviewden vinden de combinatie van het mailtje wat ze toegestuurd wordt en het zelf kunnen opzoeken als ze zich afvragen hoe het er voor staat perfect. Alleen het één of het ander is niet voldoende. De combinatie er van voegt veel waarde voor ze toe.
 
