@@ -163,11 +163,11 @@ De gesprekken werden gevoerd aan de hand van dezelfde scenario’s. Deze scenari
 
 ## Contactinformatie
 
-- Margo Welling - [margo.welling@denhaag.nl](margo.welling@denhaag.nl) - Onderzoeker – Gemeente Den Haag
-- Lieneke van der Laan - [lieneke.vanderlaan@denhaag.nl](lieneke.vanderlaan@denhaag.nl) - Service Designer – Gemeente Den Haag
-- Ananta Mulyono - [ananta.mulyono@denhaag.nl](ananta.mulyono@denhaag.nl) - UX Designer – Gemeente Den Haag
-- Vincent van Beek - [vincent.vanbeek@vng.nl](vincent.vanbeek@vng.nl) - projectmanager - VNG
-- Wendy van Duijvenvoorde - [wendy.vanduijvenvoorde@denhaag.nl](wendy.vanduijvenvoorde@denhaag.nl) - PO MijnOmgeving – Gemeente Den Haag
+- Margo Welling - [margo.welling@denhaag.nl](mailto:margo.welling@denhaag.nl) - Onderzoeker – Gemeente Den Haag
+- Lieneke van der Laan - [lieneke.vanderlaan@denhaag.nl](mailto:lieneke.vanderlaan@denhaag.nl) - Service Designer – Gemeente Den Haag
+- Ananta Mulyono - [ananta.mulyono@denhaag.nl](mailto:ananta.mulyono@denhaag.nl) - UX Designer – Gemeente Den Haag
+- Vincent van Beek - [vincent.vanbeek@vng.nl](mailto:vincent.vanbeek@vng.nl) - projectmanager - VNG
+- Wendy van Duijvenvoorde - [wendy.vanduijvenvoorde@denhaag.nl](mailto:wendy.vanduijvenvoorde@denhaag.nl) - PO MijnOmgeving – Gemeente Den Haag
 
 ## Bijlage
 
