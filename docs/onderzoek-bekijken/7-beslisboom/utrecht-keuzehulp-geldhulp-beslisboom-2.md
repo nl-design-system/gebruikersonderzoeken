@@ -188,3 +188,15 @@ De doelgroep is inwoners die een laag inkomen en kinderen hebben. Kinderen die z
 - Zoontje van 7
 - Lesgeld nodig om je kind te laten sporten op de voetbalclub
 - Verhaal: "Je wilt je kind op voetbal doen en je kan wel wat hulp gebruiken om het te betalen. Een vriend vertelt je dat de gemeente je hier vaak bij kan helpen. Hij stuurt je een website door met een keuzehulp. Als je die invult, zie je wat de gemeente voor je kan doen
+
+## Partners
+
+Het [Public Health Practice Team van UMC Utrecht](https://www.linkedin.com/company/public-health-practice-team-umc-utrecht/) is partner geweest bij het ontwikkelen van de keuzehulp.
+
+## Contactinformatie
+
+Wil je meer weten over dit onderzoek? Neem dan contact met ons op.
+
+- Jeroen du Chatinier, UX Researcher - [j.du.chatinier@utrecht.nl](mailto:j.du.chatinier@utrecht.nl) - Gemeente Utrecht
+- Wijnand van Eijndthoven, Onderzoeker & Adviseur - [wijnand.van.eijndthoven@utrecht.nl](mailto:j.du.chatinier@utrecht.nl) - Gemeente Utrecht
+- Iana Hilhorst, Beleidsadviseur- [iana.hilhorst@utrecht.nl](mailto:iana.hilhorst@utrecht.nl) - Gemeente Utrecht
