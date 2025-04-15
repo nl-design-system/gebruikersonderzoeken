@@ -198,5 +198,5 @@ Het [Public Health Practice Team van UMC Utrecht](https://www.linkedin.com/compa
 Wil je meer weten over dit onderzoek? Neem dan contact met ons op.
 
 - Jeroen du Chatinier, UX Researcher - [j.du.chatinier@utrecht.nl](mailto:j.du.chatinier@utrecht.nl) - Gemeente Utrecht
-- Wijnand van Eijndthoven, Onderzoeker & Adviseur - [wijnand.van.eijndthoven@utrecht.nl](mailto:j.du.chatinier@utrecht.nl) - Gemeente Utrecht
+- Wijnand van Eijndthoven, Onderzoeker & Adviseur - [wijnand.van.eijndthoven@utrecht.nl](mailto: wijnand.van.eijndthoven@utrecht.nl) - Gemeente Utrecht
 - Iana Hilhorst, Beleidsadviseur- [iana.hilhorst@utrecht.nl](mailto:iana.hilhorst@utrecht.nl) - Gemeente Utrecht
