@@ -206,6 +206,10 @@ We vragen je je in te leven in één van deze personen:
 
 Je vindt op de website van de U-pas een checker, die je zou moeten helpen om erachter te komen wat je moet doen. Ga met de checker op zoek naar hoe je verder moet om geldhulp te krijgen.
 
+## Partners
+
+Het [Public Health Practice Team van UMC Utrecht](https://www.linkedin.com/company/public-health-practice-team-umc-utrecht/) is partner geweest bij het ontwikkelen van de keuzehulp.
+
 ## Contactinformatie
 
 Wil je meer weten over dit onderzoek? Neem dan contact met ons op.
