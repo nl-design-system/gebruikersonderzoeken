@@ -1,25 +1,31 @@
 ---
-title: Dark mode gebruik op utrecht.nl
+title: Gebruik vertaaloptie op website
 hide_title: true
 hide_table_of_contents: false
-sidebar_label: Dark mode gebruik op utrecht.nl
-pagination_label: Dark mode gebruik op utrecht.nl
-description: Dark mode gebruik op utrecht.nl
+sidebar_label: Gebruik vertaaloptie op website
+pagination_label: Gebruik vertaaloptie op website
+description: Gebruik vertaaloptie op website
 keywords:
-  - contrast
-  - google
-  - Dark mode
-  - light mode
-  - matomo
+  - taalswitch
+  - taalswitcher
+  - languages
+  - vertalen
+  - google translate
+  - translate
+  - gebruikersonderzoek
+  - logius
 tags:
-  - contrast
-  - google
-  - Dark mode
-  - light mode
-  - matomo
+  - taalswitch
+  - taalswitcher
+  - languages
+  - vertalen
+  - google translate
+  - translate
+  - gebruikersonderzoek
+  - logius
 ---
 
-# Taalswitch
+# Gebruik vertaaloptie op website (Taalswitch)
 
 ![Plaatje van onderzoekers die met respondenten het onderzoek aan het uitvoeren zijn.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/logius-taalswitcher__onderzoek-in-actie.png)
 
