@@ -2,8 +2,6 @@
  * @type {import('prettier').Config}
  */
 module.exports = {
-  printWidth: 120,
-  singleQuote: true,
   overrides: [
     {
       files: ['*.yml', '*.yaml'],
@@ -24,4 +22,6 @@ module.exports = {
       },
     },
   ],
+  printWidth: 120,
+  singleQuote: true,
 };
