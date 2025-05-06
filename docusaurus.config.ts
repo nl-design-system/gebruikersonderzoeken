@@ -65,8 +65,8 @@ const config: Config = {
         {
           items: [
             {
-              href: 'mailto:yolijn@frameless.io',
-              label: 'Yolijn van der Kolk - yolijn@frameless.io',
+              href: 'mailto:info@nldesignsystem.nl',
+              label: 'NL Design System kernteam - info@nldesignsystem.nl',
             },
             {
               href: 'mailto:j.du.chatinier@utrecht.nl',
