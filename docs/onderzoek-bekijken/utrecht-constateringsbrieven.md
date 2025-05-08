@@ -23,7 +23,7 @@ tags:
 
 _Onderzoek uitgevoerd in 2025 door de Gemeente Utrecht._
 
-**Samengevat: De boodschap van de constateringsbrief komt bij het grootste deel van de ondernemers niet of niet helemaal over door de toon en gebruikte woorden van de brief en omdat het taalgebruik te ingewikkeld is.**
+**Samengevat: De boodschap van de constateringsbrief komt bij het grootste deel van de ondernemers niet of niet helemaal over. Dit komt door de toon van de brief, de juridische termen in de brief en omdat het taalgebruik te ingewikkeld is.**
 
 ## Doel van het onderzoek
 
