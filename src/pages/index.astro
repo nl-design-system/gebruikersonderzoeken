@@ -1,0 +1,51 @@
+---
+import { getCollection } from "astro:content";
+const onderzoeken = await getCollection('onderzoekBekijken')
+
+import Base from '../layouts/base.astro'
+
+import { ColorSample as ColorSampleReact } from '@nl-design-system-candidate/color-sample-react'
+
+import '@nl-design-system-candidate/code-block-css/code-block.css'
+import '@rijkshuisstijl-community/design-tokens/dist/index.css'
+
+const codeBlockContent = `
+function addNumbers(a, b) {
+	return a + b
+}
+`
+---
+
+<script>
+	import {ButtonWebComponent} from '@rijkshuisstijl-community/web-components'
+	customElements.define('rhc-button', ButtonWebComponent)
+</script>
+
+<Base>
+	<nav>
+		<ul>
+			{onderzoeken.map(onderzoek => (
+				<li>
+					<a href={`/docs/onderzoek-bekijken/${onderzoek.id}`}>{onderzoek.data.title}</a>
+				</li>
+			))}
+		</ul>
+	</nav>
+
+	<div class="rhc-theme">
+	  <rhc-button>Click Here!</rhc-button>
+	</div>
+
+	<pre dir="ltr" translate="no" class="nl-code-block">
+		<code class="nl-code-block__code">
+			{codeBlockContent}
+		</code>
+	</pre>
+
+	<figure>
+		<ColorSampleReact value="deeppink" />
+		<figcaption>
+			Roze
+		</figcaption>
+	</figure>
+</Base>
