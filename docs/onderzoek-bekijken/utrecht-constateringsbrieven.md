@@ -36,10 +36,10 @@ Snapt de lezer van de constateringsbrief wat er in de brief staat en wat er van 
 
 ## Advies
 
-- Voeg een zogenaamd 'key info' blok toe boven aan de brief. Zet in dit blok puntsgewijs in simpele, heldere punten neer waar deze brief over gaat. Zet als eerste punt vetgedrukt de belangrijkste boodschap die de brief wil overbrengen. Gebruik de [leessimpel app](www.leessimpel.nl) om dit blok te genereren, denk zelf na over de belangrijkste boodschap van de brief, en voeg deze dan toe. Hieronder een eerste schets van hoe zoiets er uit zou kunnen zien.
+- Voeg een zogenaamd 'key info' blok toe boven aan de brief. Zet in dit blok puntsgewijs in simpele, heldere punten neer waar deze brief over gaat. Zet als eerste punt vetgedrukt de belangrijkste boodschap die de brief wil overbrengen. Gebruik de [leessimpel app](http://www.leessimpel.nl) om dit blok te genereren, denk zelf na over de belangrijkste boodschap van de brief, en voeg deze dan toe. Hieronder een eerste schets van hoe zoiets er uit zou kunnen zien.
   ![weergve van de brief met een key-info blok waarin de belangrijkste informatie van de brief kort en bondig is opgeschreven](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/utrecht-constateringsbrieven__keyinfo.png)
 - Blijf kopjes gebruiken met korte paragrafen per kopje. Dit helpt de ondernemers de brief te snappen in kleine 'brokken' tot zich te nemen.
-- Gebruik simpele woorden en geen jargon. Check bij twijfel [is het B1](www.ishetb1.nl)?. Als er toch ingewikkelde termen worden gebruik, leg ze dan uit.
+- Gebruik simpele woorden en geen jargon. Check bij twijfel [is het B1](http://www.ishetb1.nl)?. Als er toch ingewikkelde termen worden gebruik, leg ze dan uit.
 - Verkom vage, algemene termen. Als er een boete genoemd wordt, vertel wat de boete is. Als iets 'op tijd' moet gebeuren noem dan een specifieke tijdsspanne of datum. Als in het onderwerp staat 'we hebben een overtreding geconstateerd', geef dan aan wat de constatering is.
 - Combineer de hevigere termen zoals bijvoorbeeld 'last onder dwangsom' en het gebruik van wetsartikelen met empathie om aan te geven dat we begrijpen dat het grootste gedeelte van de ondernemers het echt wel goed bedoelen.
 - Noem niet alleen een wetsartikel, maar beschrijf waarom dat wetsartikel relevant is.
