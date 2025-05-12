@@ -1,16 +1,10 @@
 {
-  "$ref": "#/definitions/onderzoekBekijken",
+  "$ref": "#/definitions/infoPages",
   "definitions": {
-    "onderzoekBekijken": {
+    "infoPages": {
       "type": "object",
       "properties": {
         "title": {
-          "type": "string"
-        },
-        "description": {
-          "type": "string"
-        },
-        "slug": {
           "type": "string"
         },
         "$schema": {
@@ -18,8 +12,7 @@
         }
       },
       "required": [
-        "title",
-        "description"
+        "title"
       ],
       "additionalProperties": false
     }

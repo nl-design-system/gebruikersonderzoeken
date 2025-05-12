@@ -104,4 +104,3 @@ We zijn de straat op gegaan om bij 57 bewoners te peilen of zij bekend zijn met 
 
 Dit onderzoek is uitgevoerd door leden van het Stadskamerteam bij de gemeente Utrecht. Ons team zet zich in om inwoner en organisatie bij elkaar te brengen door signalen samen te brengen en te komen tot duurzame oplossingen. Wij doen dit met goed onderbouwde argumenten en verfrissende adviezen op basis van data en kennis van de klant.  
 Een klantreis is een middel om dit doel te bereiken. Door het uitzetten van de ervaringen van de inwoner en het definiëren van kansen brengen wij adviezen uit aan de organisatie om klantbeleving te verbeteren. Zo brengen wij de ervaringen, obstakels en winsten van de klant van A tot Z in beeld: dit noemen wij een klantreis. Op basis van deze klantreis kunnen wij advies uitbrengen waar de organisatie kansen kan pakken en daarmee de klantbeleving kan verbeteren.
-

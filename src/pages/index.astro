@@ -1,6 +1,7 @@
 ---
 import { getCollection } from "astro:content";
 const onderzoeken = await getCollection('onderzoekBekijken')
+const infoPages = await getCollection('infoPages')
 
 import Base from '../layouts/base.astro'
 
@@ -21,30 +22,46 @@ function addNumbers(a, b) {
 <Base>
 	<nav>
 		<ul>
-			{onderzoeken.map(onderzoek => (
+			{infoPages.map(page => (
 				<li>
-					<a href={`/docs/onderzoek-bekijken/${onderzoek.id}`}>{onderzoek.data.title}</a>
+					<a href={`/docs/${page.id}`}>{page.data.title}</a>
 				</li>
 			))}
 		</ul>
 	</nav>
 
+	<h2>Vue component</h2>
 	<TestVue greeting="Hallo" />
 
+	<h2>Web component</h2>
 	<div class="rhc-theme">
 	  <rhc-button>Ik ben een RHC Button</rhc-button>
 	</div>
 
+	<h2>Css component</h2>
 	<pre dir="ltr" translate="no" class="nl-code-block">
 		<code class="nl-code-block__code">
 			{codeBlockContent}
 		</code>
 	</pre>
 
+	<h2>React component</h2>
 	<figure>
 		<ColorSampleReact value="deeppink" />
 		<figcaption>
 			Roze
 		</figcaption>
 	</figure>
+
+	<h2>Navigatie</h2>
+	<nav>
+		<ul>
+			{onderzoeken.map(onderzoek => (
+				<li>
+					<a href={`/docs/${onderzoek.id}`}>{onderzoek.data.title}</a>
+				</li>
+			))}
+		</ul>
+	</nav>
+
 </Base>

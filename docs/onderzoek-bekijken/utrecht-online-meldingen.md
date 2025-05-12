@@ -113,4 +113,3 @@ Van de respondenten waren er drie blind of slechtziend en drie ex-laaggeletterd.
 - [René Olling, UX Designer](mailto:r.olling@utrecht.nl) - Gemeente Utrecht
 - [Jeroen du Chatinier, UX Designer](mailto:j.du.chatinier@utrecht.nl) - Gemeente Utrecht
 - Rosaly Buitendijk, UX Designer - Gemeente Utrecht (niet meer werkzaam bij de Gemeente Utrecht)
-
