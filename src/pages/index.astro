@@ -6,6 +6,8 @@ import Base from '../layouts/base.astro'
 
 import { ColorSample as ColorSampleReact } from '@nl-design-system-candidate/color-sample-react'
 
+import TestVue from '../components/vue/Test.vue'
+
 import '@nl-design-system-candidate/code-block-css/code-block.css'
 import '@rijkshuisstijl-community/design-tokens/dist/index.css'
 
@@ -15,11 +17,6 @@ function addNumbers(a, b) {
 }
 `
 ---
-
-<script>
-	import {ButtonWebComponent} from '@rijkshuisstijl-community/web-components'
-	customElements.define('rhc-button', ButtonWebComponent)
-</script>
 
 <Base>
 	<nav>
@@ -32,8 +29,10 @@ function addNumbers(a, b) {
 		</ul>
 	</nav>
 
+	<TestVue greeting="Hallo" />
+
 	<div class="rhc-theme">
-	  <rhc-button>Click Here!</rhc-button>
+	  <rhc-button>Ik ben een RHC Button</rhc-button>
 	</div>
 
 	<pre dir="ltr" translate="no" class="nl-code-block">
