@@ -1,0 +1,33 @@
+---
+	import { getEntry, getCollection } from "astro:content"
+
+	const { id } = Astro.props	
+	
+	const item = await getEntry('menu', id)
+	const onderzoek = await getEntry('onderzoekBekijken', `onderzoek-bekijken/${id}`)
+	const children = await getCollection('menu', (item => item.data.parent === id))
+
+---
+
+{children.length === 0 && onderzoek 
+	? <a href={`docs/${onderzoek.id}`}>
+		{item.data.label || onderzoek?.data?.title}
+  	  </a>
+	: null
+}
+
+{children.length 
+? <details>
+	<summary>
+		{item.data.label || onderzoek?.data?.title}
+	</summary>
+	<ul>
+		{children.map(item => (
+			<li>
+				<Astro.self id={item.id} />
+			</li>
+		))}
+	  </ul>
+  </details>
+: null
+}

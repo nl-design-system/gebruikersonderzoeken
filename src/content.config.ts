@@ -1,4 +1,7 @@
+import fs from "node:fs/promises";
+import path from "node:path";
 import { defineCollection, z } from "astro:content";
+import { getMenuCollection } from "./lib/menu-collection";
 
 import { glob } from "astro/loaders";
 
@@ -37,4 +40,12 @@ const infoPages = defineCollection({
 	}),
 });
 
-export const collections = { onderzoekBekijken, infoPages };
+const menu = defineCollection({
+	loader: getMenuCollection,
+	schema: z.object({
+		label: z.optional(z.string()),
+		parent: z.optional(z.string()),
+	}),
+});
+
+export const collections = { onderzoekBekijken, infoPages, menu };

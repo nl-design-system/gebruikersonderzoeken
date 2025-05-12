@@ -1,9 +1,10 @@
 ---
 import { getCollection } from "astro:content";
-const onderzoeken = await getCollection('onderzoekBekijken')
 const infoPages = await getCollection('infoPages')
+const menu = await getCollection('menu', (item) => item.data.parent === undefined)
 
 import Base from '../layouts/base.astro'
+import MenuItem from '../components/menu-item.astro';
 
 import { ColorSample as ColorSampleReact } from '@nl-design-system-candidate/color-sample-react'
 
@@ -18,6 +19,15 @@ function addNumbers(a, b) {
 }
 `
 ---
+
+
+<ul>
+	{menu.map(item => (
+		<li>
+			<MenuItem id={item.id} />
+		</li>
+	))}
+</ul>
 
 <Base>
 	<nav>
@@ -52,16 +62,4 @@ function addNumbers(a, b) {
 			Roze
 		</figcaption>
 	</figure>
-
-	<h2>Navigatie</h2>
-	<nav>
-		<ul>
-			{onderzoeken.map(onderzoek => (
-				<li>
-					<a href={`/docs/${onderzoek.id}`}>{onderzoek.data.title}</a>
-				</li>
-			))}
-		</ul>
-	</nav>
-
 </Base>

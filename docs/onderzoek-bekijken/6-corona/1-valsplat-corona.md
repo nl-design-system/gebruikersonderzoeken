@@ -5,7 +5,6 @@ hide_table_of_contents: false
 sidebar_label: Concept MijnVraagOverCorona.nl
 pagination_label: Concept MijnVraagOverCorona.nl
 description: Concept MijnVraagOverCorona.nl
-slug: /onderzoek-bekijken/valsplat-corona
 keywords:
   - corona
   - valsplat
