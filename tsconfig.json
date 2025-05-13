@@ -1,9 +1,14 @@
 {
-  "extends": "astro/tsconfigs/base",
-  "compilerOptions": {
-    "stricktNullChecks": true,
-    "allowJs": true,
-    "jsx": "react-jsx",
-    "jsxImportSource": "preact"
-  }
+	"extends": "astro/tsconfigs/base",
+	"compilerOptions": {
+		"stricktNullChecks": true,
+		"allowJs": true,
+		"jsx": "react-jsx",
+		"jsxImportSource": "preact",
+		"plugins": [
+			{
+				"name": "@astrojs/ts-plugin"
+			}
+		]
+	}
 }

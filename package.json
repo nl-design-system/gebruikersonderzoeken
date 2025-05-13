@@ -16,6 +16,7 @@
 	"dependencies": {
 		"@astrojs/mdx": "^4.2.6",
 		"@astrojs/react": "^4.2.7",
+		"@astrojs/ts-plugin": "^1.10.4",
 		"@astrojs/vue": "^5.0.13",
 		"@nl-design-system-candidate/code-block-css": "^1.1.2",
 		"@nl-design-system-candidate/color-sample-react": "^1.1.1",

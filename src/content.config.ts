@@ -1,7 +1,5 @@
-import fs from "node:fs/promises";
-import path from "node:path";
 import { defineCollection, z } from "astro:content";
-import { getMenuCollection } from "./lib/menu-collection";
+import { getMenuCollection } from "./lib/menu-collection.js";
 
 import { glob } from "astro/loaders";
 
@@ -26,6 +24,7 @@ const onderzoekBekijken = defineCollection({
 		title: z.string(),
 		description: z.string(),
 		slug: z.optional(z.string()),
+		keywords: z.array(z.string()).optional(),
 	}),
 });
 
