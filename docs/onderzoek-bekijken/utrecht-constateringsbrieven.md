@@ -104,7 +104,7 @@ Bij alle bovenstaande voorbeelden verwacht de ondernemer concreet te lezen waar 
 
 #### Kleine foutjes verlagen vertrouwen
 
-De ondernemers pikken kleine foutjes er direct uit. Alhoewel ze de brief wel begrijpen, verlagen deze foutjes wel het vertrouwen dat in de gemeente wat minder.
+De ondernemers pikken kleine foutjes er direct uit. Alhoewel ze de brief wel begrijpen, zorgen deze foutjes voor minder vertrouwen in de gemeente.
 
 > "Ik moet alles perfect doen, en jullie gooien er met de pet naar."
 
