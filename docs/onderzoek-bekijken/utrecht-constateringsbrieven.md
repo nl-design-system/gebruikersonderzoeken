@@ -81,7 +81,7 @@ Ondernemers verwachten een telefoonnummer bij de contactinformatie en vinden ner
 
 #### E-mail als documentatie
 
-De enige uitzondering wanner de ondernemer wil mailen in plaats van bellen is als ze alles zwart op wit willen hebben. Maar na het mailen zouden ze alsnog bellen vanwege de snelheid.
+De enige uitzondering wanneer de ondernemer wil mailen in plaats van bellen is als ze alles zwart op wit willen hebben. Maar na het mailen zouden ze alsnog bellen vanwege de snelheid.
 
 ### Duidelijkheid & Correctheid
 
