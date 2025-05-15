@@ -1,0 +1,25 @@
+{
+	"name": "gebruikersonderzoeken",
+	"version": "1.0.0",
+	"description": "",
+	"main": "index.js",
+	"type": "module",
+	"scripts": {
+		"build": "pnpm exec eleventy",
+		"start": "tsx node_modules/@11ty/eleventy/cmd.cjs --watch='_includes/*' --config=eleventy.config.js --serve --incremental"
+	},
+	"keywords": [],
+	"author": "",
+	"license": "ISC",
+	"packageManager": "pnpm@10.10.0",
+	"dependencies": {
+		"@11ty/eleventy": "^3.1.0",
+		"@11ty/eleventy-plugin-vite": "^6.0.0",
+		"jsx-async-runtime": "^1.0.1",
+		"react": "^19.1.0",
+		"react-dom": "^19.1.0",
+		"tsx": "^4.19.4",
+		"typescript": "^5.8.3",
+		"vue": "^3.5.14"
+	}
+}
