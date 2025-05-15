@@ -29,6 +29,8 @@ tags:
 
 # Onderzoek lettertype bij neurodiversiteitsnetwerk
 
+![Screenshot van de 'Paspoort en identiteitskaart aanvragen' pagina uit het prototype die gemaakt is met het lettertype Noto Sans.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/utrecht-lettertype__prototype.png)
+
 _Onderzoek uitgevoerd in 2025 door de Gemeente Utrecht._
 
 **Samengevat: Het Noto Sans lettertype werkt prima voor onze neurodiverse collega's.**
@@ -53,7 +55,7 @@ Bij navragen geven de respondenten aan dat ze het lettertype prima vinden om de 
 - Het is prettig dat het lettertype sober en simpel is en daardoor niet afleid van de boodschap.
 - het lettertype  door de rondingen zacht en vriendelijk overkomt.
 
-> "Ik denk dat deze prettiger dan op de website, huidige is wat dikker en hoekerige, deze is wat zachter."
+> "Ik denk dat deze prettiger is dan op de website, de huidige is wat dikker en hoekerige, deze is wat zachter."
 
 ### Bijvangst - design van de pagina
 
