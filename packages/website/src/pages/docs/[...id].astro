@@ -1,0 +1,15 @@
+---
+import { getCollection, render } from 'astro:content';
+// 1. Generate a new path for every collection entry
+export async function getStaticPaths() {
+  const onderzoeken = await getCollection('onderzoeken');
+  return onderzoeken.map(onderzoek => ({
+    params: { id: onderzoek.id },
+    props: { onderzoek },
+  }));
+}
+// 2. For your template, you can get the entry directly from the prop
+const { onderzoek } = Astro.props;
+const { Content } = await render(onderzoek);
+---
+<Content />

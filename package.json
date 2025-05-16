@@ -22,7 +22,8 @@
     "typecheck": "tsc",
     "update-patch": "npm-check-updates --configFileName .ncurc.patch.cjs",
     "update-minor": "npm-check-updates --configFileName .ncurc.minor.cjs",
-    "update-major": "npm-check-updates --configFileName .ncurc.major.cjs"
+    "update-major": "npm-check-updates --configFileName .ncurc.major.cjs",
+    "dev": "pnpm --filter @gebruikersonderzoeken/website run dev"
   },
   "dependencies": {
     "@docusaurus/core": "3.7.0",
