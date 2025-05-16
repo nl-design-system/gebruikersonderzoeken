@@ -1,5 +1,6 @@
 ---
-
+import { getCollection } from 'astro:content';
+const onderzoeken = await getCollection('onderzoeken');
 ---
 
 <html lang="en">
@@ -12,5 +13,10 @@
 	</head>
 	<body>
 		<h1>Astro</h1>
+    <ul>
+    {onderzoeken.map(onderzoek => (
+      <li><a href={`/docs/${onderzoek.id}`}>{onderzoek.data.title}</a></li>
+    ))}
+    </ul>
 	</body>
 </html>
