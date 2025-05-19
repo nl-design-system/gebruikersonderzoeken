@@ -11,6 +11,7 @@ coverage/
 dist/
 tmp/
 .docusaurus/
+.astro/
 
 # Ignore archives
 *.7z

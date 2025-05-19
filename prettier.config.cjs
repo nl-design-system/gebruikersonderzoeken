@@ -2,26 +2,27 @@
  * @type {import('prettier').Config}
  */
 module.exports = {
+  // Overrides for the deviations from the defaults above
   overrides: [
     {
+      // for YAML files:
       files: ['*.yml', '*.yaml'],
       options: {
+        // Use double quotes (")
         singleQuote: false,
       },
     },
     {
+      // for CSS and SCSS files:
       files: ['*.css', '*.scss'],
       options: {
-        singleQuote: false,
-      },
-    },
-    {
-      files: ['*.md', '*.mdx'],
-      options: {
+        // Use double quotes (")
         singleQuote: false,
       },
     },
   ],
+  // Use a printWith of 120 characters which is different from the default 80
   printWidth: 120,
+  // Use single quotes (') instead of the default double quotes ("), but see below.
   singleQuote: true,
 };
