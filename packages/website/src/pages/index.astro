@@ -1,9 +1,10 @@
 ---
 import { getCollection } from 'astro:content';
+import '@nl-design-system-community/ma-design-tokens/dist/theme.css'
 const onderzoeken = await getCollection('onderzoeken');
 ---
 
-<html lang="en">
+<html lang="en" class="ma-theme">
 	<head>
 		<meta charset="utf-8" />
 		<link rel="icon" type="image/svg+xml" href="/favicon.ico" />
