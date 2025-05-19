@@ -122,6 +122,10 @@ importers:
         version: 8.31.1(eslint@9.26.0(jiti@1.21.7))(typescript@5.8.3)
 
   packages/website:
+    dependencies:
+      '@nl-design-system-community/ma-design-tokens':
+        specifier: 1.0.0
+        version: 1.0.0
     devDependencies:
       '@astrojs/react':
         specifier: 4.2.7
@@ -1776,6 +1780,9 @@ packages:
 
   '@module-federation/webpack-bundler-runtime@0.8.4':
     resolution: {integrity: sha512-HggROJhvHPUX7uqBD/XlajGygMNM1DG0+4OAkk8MBQe4a18QzrRNzZt6XQbRTSG4OaEoyRWhQHvYD3Yps405tQ==}
+
+  '@nl-design-system-community/ma-design-tokens@1.0.0':
+    resolution: {integrity: sha512-DGjTMgOrDLaBXeJrKyUL95KF0brCIQTIU/HdfDgy164GAse7G5MI9AFGKFeMOiQnqgQuGT24tqJClBuEdSmB+A==}
 
   '@nl-design-system-unstable/nlds-design-tokens@1.0.1':
     resolution: {integrity: sha512-b4/MNyMF+Ku4nla6bAMZjNqld0BTEfUr94gzpCUzYOFl2aj06aHSNy4tW/pSAoGuf6PvHsxtqlKLSdXLG3rkzg==}
@@ -10232,6 +10239,8 @@ snapshots:
     dependencies:
       '@module-federation/runtime': 0.8.4
       '@module-federation/sdk': 0.8.4
+
+  '@nl-design-system-community/ma-design-tokens@1.0.0': {}
 
   '@nl-design-system-unstable/nlds-design-tokens@1.0.1':
     dependencies:
