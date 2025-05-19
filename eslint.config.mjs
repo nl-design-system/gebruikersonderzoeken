@@ -9,7 +9,7 @@ import globals from 'globals';
 import tseslint from 'typescript-eslint';
 
 export default defineConfig([
-  globalIgnores(['**/dist/', '**/build/', '**/coverage/', '.docusaurus/']),
+  globalIgnores(['**/dist/', '**/build/', '**/coverage/', '.docusaurus/', '**/.astro/']),
   {
     files: ['*.cjs'],
     languageOptions: {
