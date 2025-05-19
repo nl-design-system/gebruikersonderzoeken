@@ -1,6 +1,9 @@
 ---
 import { getCollection } from 'astro:content';
-import '@nl-design-system-community/ma-design-tokens/dist/theme.css'
+
+import { Heading } from '@nl-design-system-candidate/heading-react'
+import { Paragraph } from '@nl-design-system-candidate/paragraph-react';
+
 const onderzoeken = await getCollection('onderzoeken');
 ---
 
@@ -12,8 +15,9 @@ const onderzoeken = await getCollection('onderzoeken');
 		<meta name="generator" content={Astro.generator} />
 		<title>Astro</title>
 	</head>
-	<body>
-		<h1>Astro</h1>
+  <body>
+      <Heading level={1}>Gebruikersonderzoek</Heading>
+      <Paragraph>Door gebruikersonderzoek met elkaar te delen worden we allemaal slimmer.</Paragraph>
     <ul>
     {onderzoeken.map(onderzoek => (
       <li><a href={`/docs/${onderzoek.id}`}>{onderzoek.data.title}</a></li>

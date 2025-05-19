@@ -121,31 +121,11 @@ importers:
         specifier: 8.31.1
         version: 8.31.1(eslint@9.26.0(jiti@1.21.7))(typescript@5.8.3)
 
-  packages/ma-components/heading:
-    dependencies:
-      '@nl-design-system-candidate/heading-css':
-        specifier: 1.1.0
-        version: 1.1.0
-
-  packages/ma-components/heading-group: {}
-
-  packages/ma-components/paragraph:
-    dependencies:
-      '@nl-design-system-candidate/paragraph-css':
-        specifier: 2.1.0
-        version: 2.1.0
-
   packages/website:
     dependencies:
-      '@ma-components/heading':
-        specifier: workspace:*
-        version: link:../ma-components/heading
-      '@ma-components/heading-group':
-        specifier: workspace:*
-        version: link:../ma-components/heading-group
-      '@ma-components/paragraph':
-        specifier: workspace:*
-        version: link:../ma-components/paragraph
+      '@astrojs/ts-plugin':
+        specifier: 1.10.4
+        version: 1.10.4
       '@nl-design-system-candidate/heading-css':
         specifier: 1.1.0
         version: 1.1.0
