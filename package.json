@@ -34,7 +34,10 @@
     "npm-package-json-lint": "8.0.0",
     "prism-react-renderer": "2.4.1",
     "react": "18.3.1",
-    "react-dom": "18.3.1"
+    "react-dom": "18.3.1",
+    "stylelint": "16.19.1",
+    "stylelint-config-standard-scss": "15.0.1",
+    "stylelint-order": "7.0.0"
   },
   "devDependencies": {
     "@algolia/client-search": "5.24.0",
