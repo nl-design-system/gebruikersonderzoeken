@@ -115,7 +115,7 @@ importers:
   packages/website:
     dependencies:
       astro:
-        specifier: ^5.7.13
+        specifier: 5.7.13
         version: 5.7.13(@types/node@22.15.3)(jiti@1.21.7)(lightningcss@1.29.1)(rollup@4.40.2)(terser@5.37.0)(typescript@5.8.3)(yaml@2.7.1)
 
 packages:
@@ -9809,7 +9809,7 @@ snapshots:
 
   '@rollup/pluginutils@5.1.4(rollup@4.40.2)':
     dependencies:
-      '@types/estree': 1.0.6
+      '@types/estree': 1.0.7
       estree-walker: 2.0.2
       picomatch: 4.0.2
     optionalDependencies:
@@ -12169,7 +12169,7 @@ snapshots:
 
   estree-walker@3.0.3:
     dependencies:
-      '@types/estree': 1.0.6
+      '@types/estree': 1.0.7
 
   esutils@2.0.3: {}
 
