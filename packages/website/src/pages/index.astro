@@ -1,6 +1,7 @@
 ---
 import { getCollection } from 'astro:content';
 
+import '@assets/styles.css'
 import { Heading } from '@nl-design-system-candidate/heading-react'
 import { Paragraph } from '@nl-design-system-candidate/paragraph-react';
 
@@ -16,8 +17,10 @@ const onderzoeken = await getCollection('onderzoeken');
 		<title>Astro</title>
 	</head>
   <body>
+    <hgroup class="utrecht-heading-group">
       <Heading level={1}>Gebruikersonderzoek</Heading>
       <Paragraph>Door gebruikersonderzoek met elkaar te delen worden we allemaal slimmer.</Paragraph>
+    </hgroup>
     <ul>
     {onderzoeken.map(onderzoek => (
       <li><a href={`/docs/${onderzoek.id}`}>{onderzoek.data.title}</a></li>

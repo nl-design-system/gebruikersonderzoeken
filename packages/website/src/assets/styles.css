@@ -1,0 +1,7 @@
+/* MA Design Token CSS */
+@import '@nl-design-system-community/ma-design-tokens/dist/theme.css';
+
+/* Styles from used components */
+@import '@nl-design-system-candidate/heading-css/heading.css';
+@import '@nl-design-system-candidate/paragraph-css/paragraph.css';
+@import '@utrecht/heading-group-css'
