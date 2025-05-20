@@ -117,6 +117,10 @@ importers:
       astro:
         specifier: 5.7.13
         version: 5.7.13(@types/node@22.15.3)(jiti@1.21.7)(lightningcss@1.29.1)(rollup@4.40.2)(terser@5.37.0)(typescript@5.8.3)(yaml@2.7.1)
+    devDependencies:
+      '@nl-design-system/tsconfig':
+        specifier: 1.0.3
+        version: 1.0.3(typescript@5.8.3)
 
 packages:
 
@@ -1663,6 +1667,11 @@ packages:
     resolution: {integrity: sha512-UZeV1mz5ivqjQ7T67aGyYrLSrlWrvyBm2c6vgM6oJyGy/p1aMbjHNpjGT8VbRdnJB0OXvVN4RSRTBH9BfVUfjA==}
     peerDependencies:
       eslint: ^9.22.0
+
+  '@nl-design-system/tsconfig@1.0.3':
+    resolution: {integrity: sha512-Ejt9+yETgYXjE3O5WQEeiVOVE/BFU2MSgS0WIIq+kgiaBWduN0f+ze5F+s2VzvFNYimMAWwaYE4a+cqrphcm8Q==}
+    peerDependencies:
+      typescript: ^5.4
 
   '@nodelib/fs.scandir@2.1.5':
     resolution: {integrity: sha512-vq24Bq3ym5HEQm2NKCr3yXDwjc7vTsEThRDnkp2DK9p1uqLR+DHurm/NOTo0KG7HYHU7eppKZj3MyqYuMBf62g==}
@@ -9778,6 +9787,10 @@ snapshots:
     transitivePeerDependencies:
       - supports-color
       - typescript
+
+  '@nl-design-system/tsconfig@1.0.3(typescript@5.8.3)':
+    dependencies:
+      typescript: 5.8.3
 
   '@nodelib/fs.scandir@2.1.5':
     dependencies:
