@@ -1,0 +1,8 @@
+{
+  "name": "@nl-design-system-community/ma-components",
+  "type": "module",
+  "version": "0.0.1",
+  "dependencies": {
+    "@utrecht/heading-group-css": "1.5.1"
+  }
+}
