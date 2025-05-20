@@ -139,27 +139,27 @@ importers:
         specifier: 2.1.2
         version: 2.1.2(@babel/runtime@7.27.0)(react@19.1.0)
       '@nl-design-system-community/ma-design-tokens':
-        specifier: 1.0.0
-        version: 1.0.0
+        specifier: 1.1.0
+        version: 1.1.0
       '@utrecht/heading-group-css':
         specifier: 1.5.1
         version: 1.5.1
+      astro:
+        specifier: 5.7.13
+        version: 5.7.13(@types/node@22.15.3)(jiti@1.21.7)(lightningcss@1.29.1)(rollup@4.40.2)(terser@5.37.0)(typescript@5.8.3)(yaml@2.7.1)
     devDependencies:
       '@astrojs/react':
         specifier: 4.2.7
         version: 4.2.7(@types/node@22.15.3)(@types/react-dom@19.1.5(@types/react@19.1.4))(@types/react@19.1.4)(jiti@1.21.7)(lightningcss@1.29.1)(react-dom@19.1.0(react@19.1.0))(react@19.1.0)(terser@5.37.0)(yaml@2.7.1)
+      '@nl-design-system/tsconfig':
+        specifier: 1.0.3
+        version: 1.0.3(typescript@5.8.3)
       '@types/react':
         specifier: 19.1.4
         version: 19.1.4
       '@types/react-dom':
         specifier: 19.1.5
         version: 19.1.5(@types/react@19.1.4)
-      '@nl-design-system/tsconfig':
-        specifier: 1.0.3
-        version: 1.0.3(typescript@5.8.3)
-      astro:
-        specifier: 5.7.13
-        version: 5.7.13(@types/node@22.15.3)(jiti@1.21.7)(lightningcss@1.29.1)(rollup@4.40.2)(terser@5.37.0)(typescript@5.8.3)(yaml@2.7.1)
       react:
         specifier: 19.1.0
         version: 19.1.0
@@ -1823,8 +1823,8 @@ packages:
       '@babel/runtime': ^7
       react: ^18
 
-  '@nl-design-system-community/ma-design-tokens@1.0.0':
-    resolution: {integrity: sha512-DGjTMgOrDLaBXeJrKyUL95KF0brCIQTIU/HdfDgy164GAse7G5MI9AFGKFeMOiQnqgQuGT24tqJClBuEdSmB+A==}
+  '@nl-design-system-community/ma-design-tokens@1.1.0':
+    resolution: {integrity: sha512-W/GeetSbYNMBg0jWOQfR/SmIosK0BxcfDYxMfmEGxXatRdg60qrENMPxhbrFWjvpX2+NQtmZ2T0Dm7e7OPAIBw==}
 
   '@nl-design-system-unstable/nlds-design-tokens@1.0.1':
     resolution: {integrity: sha512-b4/MNyMF+Ku4nla6bAMZjNqld0BTEfUr94gzpCUzYOFl2aj06aHSNy4tW/pSAoGuf6PvHsxtqlKLSdXLG3rkzg==}
@@ -10333,7 +10333,7 @@ snapshots:
       clsx: 2.1.1
       react: 19.1.0
 
-  '@nl-design-system-community/ma-design-tokens@1.0.0': {}
+  '@nl-design-system-community/ma-design-tokens@1.1.0': {}
 
   '@nl-design-system-unstable/nlds-design-tokens@1.0.1':
     dependencies:
