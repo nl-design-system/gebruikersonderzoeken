@@ -10,5 +10,8 @@
   },
   "dependencies": {
     "astro": "5.7.13"
+  },
+  "devDependencies": {
+    "@nl-design-system/tsconfig": "1.0.3"
   }
 }
