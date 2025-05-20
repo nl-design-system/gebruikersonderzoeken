@@ -7,7 +7,7 @@
     "docusaurus": "docusaurus",
     "start": "docusaurus start",
     "build": "docusaurus build",
-    "build:astro": "pnpm --filter @gebruikersonderzoeken/website run build",
+    "build:astro": "pnpm --filter @nl-design-system-community/gebruikersonderzoeken.nl run build",
     "swizzle": "docusaurus swizzle",
     "deploy": "docusaurus deploy",
     "clear": "docusaurus clear",
@@ -24,7 +24,7 @@
     "update-patch": "npm-check-updates --configFileName .ncurc.patch.cjs",
     "update-minor": "npm-check-updates --configFileName .ncurc.minor.cjs",
     "update-major": "npm-check-updates --configFileName .ncurc.major.cjs",
-    "dev": "pnpm --filter @gebruikersonderzoeken/website run dev"
+    "dev": "pnpm --filter @nl-design-system-community/gebruikersonderzoeken.nl run dev"
   },
   "dependencies": {
     "@docusaurus/core": "3.7.0",
