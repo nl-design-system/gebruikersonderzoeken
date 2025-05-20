@@ -1,4 +1,5 @@
 autoInstallPeers: false
+savePrefix: ""
 
 packages:
   - "packages/*"
