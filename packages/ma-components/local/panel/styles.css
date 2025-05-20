@@ -1,0 +1,6 @@
+.ma-panel {
+  padding-block-end: var(--ma-space-block-end, 0);
+  padding-block-start: var(--ma-space-block-start, 0);
+  padding-inline-end: var(--ma-space-inline-end, 0);
+  padding-inline-start: var(--ma-space-inline-start, 0);
+}
