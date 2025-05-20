@@ -1,3 +1,4 @@
+import type { JSX, CSSProperties, PropsWithChildren } from 'react'
 import './styles.css'
 
 type SpaceValues =
@@ -14,7 +15,6 @@ type SpaceValues =
   | '6xl'
 
 interface PanelProps {
-  children: JSX.Element | JSX.Element[]
   space?: SpaceValues
   spaceBlock?: SpaceValues
   spaceBlockStart?: SpaceValues
@@ -24,14 +24,14 @@ interface PanelProps {
   spaceInlineEnd?: SpaceValues
 }
 
-export function Panel(props: PanelProps): JSX.Element {
+export function Panel(props: PropsWithChildren<PanelProps>): JSX.Element {
 
   const spaceInlineStart = props.spaceInlineStart || props.spaceInline || props.space;
   const spaceInlineEnd = props.spaceInlineEnd || props.spaceInline || props.space;
   const spaceBlockStart = props.spaceBlockStart || props.spaceBlock || props.space;
   const spaceBlockEnd = props.spaceBlockEnd || props.spaceBlock || props.space;
 
-  const style: React.CSSProperties = {}
+  const style: CSSProperties = {}
 
   if (spaceInlineStart) {
     style['--ma-space-inline-start'] = `var(--basis-space-inline-${spaceInlineStart})`
