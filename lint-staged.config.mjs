@@ -12,9 +12,8 @@
  **/
 
 export default {
-  // @TODO: Fix existing stylelint issues first before including this (#342)
   // If needed, auto-fix problems using stylelint and format the result with prettier:
-  // '*.{css,scss}': ['stylelint --allow-empty-input --fix', 'prettier --write'],
+  '*.{css,scss}': ['stylelint --allow-empty-input --fix', 'prettier --write'],
 
   // @TODO: Fix existing package.json issues first before including this (#343)
   // If needed, auto-fix problems using eslint and format the result with prettier:
