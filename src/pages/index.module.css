@@ -5,20 +5,21 @@
 
 .heroBanner {
   --ifm-container-width: 800px;
-  padding: 4rem 0;
-  text-align: center;
-  position: relative;
+
   overflow: hidden;
+  padding: 4rem 0;
+  position: relative;
+  text-align: center;
 }
 
-@media screen and (max-width: 996px) {
+@media screen and (width <= 996px) {
   .heroBanner {
     padding: 2rem;
   }
 }
 
 .buttons {
-  display: flex;
   align-items: center;
+  display: flex;
   justify-content: center;
 }
