@@ -15,9 +15,8 @@ export default {
   // If needed, auto-fix problems using stylelint and format the result with prettier:
   '*.{css,scss}': ['stylelint --allow-empty-input --fix', 'prettier --write'],
 
-  // @TODO: Fix existing package.json issues first before including this (#343)
   // If needed, auto-fix problems using eslint and format the result with prettier:
-  // '*.{js,cjs,mjs,json,jsx,mdx,ts,tsx,astro}': ['eslint --no-error-on-unmatched-pattern --fix', 'prettier --write'],
+  '*.{js,cjs,mjs,json,jsx,mdx,ts,tsx,astro}': ['eslint --no-error-on-unmatched-pattern --fix', 'prettier --write'],
 
   // If needed, format YAML files using prettier:
   '*.{yml,yaml}': 'prettier --write',
