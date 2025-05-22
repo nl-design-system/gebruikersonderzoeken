@@ -2,6 +2,7 @@ import eslint from '@eslint/js';
 import json from '@eslint/json';
 import nlDesignSystemConfig from '@nl-design-system/eslint-config/configs/nl-design-system.config.mjs';
 import prettier from 'eslint-config-prettier';
+import astro from 'eslint-plugin-astro';
 import perfectionist from 'eslint-plugin-perfectionist';
 import react from 'eslint-plugin-react';
 import { defineConfig, globalIgnores } from 'eslint/config';
@@ -18,7 +19,7 @@ export default defineConfig([
   },
   {
     name: 'perfectionist/recommended/natural',
-    files: ['**/*.{js,cjs,mjs,jsx,ts,tsx}'],
+    files: ['**/*.{js,cjs,mjs,jsx,ts,tsx,astro}'],
     plugins: { perfectionist },
     ...perfectionist.configs['recommended/natural'],
     rules: {
@@ -42,9 +43,8 @@ export default defineConfig([
     },
   },
   {
-    name: 'eslint/js/recommended',
-    files: ['**/*.{js,cjs,mjs,jsx,ts,tsx}'],
-    ...eslint.configs.recommended,
+    extends: [astro.configs.recommended],
+    files: ['**/*.astro'],
   },
   {
     extends: [tseslint.configs.recommended],
