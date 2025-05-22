@@ -4,6 +4,8 @@
  * work well for content-centric websites.
  */
 
+/* stylelint-disable selector-class-pattern -- Allow non nl-design-system classes in this file. */
+
 /* You can override the default Infima variables here. */
 :root {
   --ifm-color-primary: #323aa8;
