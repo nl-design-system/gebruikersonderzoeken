@@ -23,6 +23,7 @@
     "lint:eslint": "eslint",
     "lint:prettier": "prettier --check .",
     "lint:styles": "stylelint --fix '**/*.{css,scss}'",
+    "lint:package-json": "npmPkgJsonLint '**/package.json'",
     "lint-fix": "pnpm run '/^lint-fix:.*/'",
     "lint-fix:eslint": "eslint --fix",
     "lint-fix:prettier": "pnpm run prettier",
