@@ -1,4 +1,12 @@
 {
+  "overrides": [
+    {
+      "patterns": ["./package.json"],
+      "rules": {
+        "valid-values-name-scope": "off"
+      }
+    }
+  ],
   "rules": {
     "bin-type": "error",
     "config-type": "error",
@@ -30,11 +38,12 @@
     "require-license": "error",
     "require-name": "error",
     "require-repository": "off",
+    "require-repository-directory": "error",
     "require-version": "error",
     "scripts-type": "error",
     "valid-values-author": "off",
     "valid-values-license": ["error", ["EUPL-1.2"]],
-    "valid-values-name-scope": ["error", ["@example"]],
+    "valid-values-name-scope": ["error", ["@nl-design-system-community"]],
     "valid-values-private": "off",
     "version-format": "error",
     "version-type": "error"
