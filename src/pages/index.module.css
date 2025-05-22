@@ -7,14 +7,16 @@
   --ifm-container-width: 800px;
 
   overflow: hidden;
-  padding: 4rem 0;
+  padding-block: 4rem;
+  padding-inline: 0;
   position: relative;
   text-align: center;
 }
 
 @media screen and (width <= 996px) {
   .heroBanner {
-    padding: 2rem;
+    padding-block: 2rem;
+    padding-inline: 2rem;
   }
 }
 
