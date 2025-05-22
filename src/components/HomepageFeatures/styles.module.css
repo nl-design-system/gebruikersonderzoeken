@@ -1,3 +1,5 @@
+/* stylelint-disable selector-class-pattern -- Allow non nl-design-system classes in this file. */
+
 .features {
   align-items: center;
   display: flex;

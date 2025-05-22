@@ -3,6 +3,8 @@
  * and scoped locally.
  */
 
+/* stylelint-disable selector-class-pattern -- Allow non nl-design-system classes in this file. */
+
 .heroBanner {
   --ifm-container-width: 800px;
 
