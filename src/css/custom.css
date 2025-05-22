@@ -4,6 +4,7 @@
  * work well for content-centric websites.
  */
 
+/* stylelint-disable custom-property-pattern -- Allow docusaurus and Infima variables for this file. */
 /* stylelint-disable selector-class-pattern -- Allow non nl-design-system classes in this file. */
 
 /* You can override the default Infima variables here. */

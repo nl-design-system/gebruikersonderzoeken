@@ -3,6 +3,7 @@
  * and scoped locally.
  */
 
+/* stylelint-disable custom-property-pattern -- Allow docusaurus and Infima variables for this file. */
 /* stylelint-disable selector-class-pattern -- Allow non nl-design-system classes in this file. */
 
 .heroBanner {
