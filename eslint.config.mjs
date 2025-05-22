@@ -1,4 +1,3 @@
-import eslint from '@eslint/js';
 import json from '@eslint/json';
 import nlDesignSystemConfig from '@nl-design-system/eslint-config/configs/nl-design-system.config.mjs';
 import prettier from 'eslint-config-prettier';
