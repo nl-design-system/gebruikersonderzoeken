@@ -25,7 +25,6 @@ export default {
   // If needed, lint Markdown files using markdownlint and format the result with prettier:
   // '*.md': ['markdownlint', 'prettier --write'],
 
-  // @TODO: Fix existing package.json issues first before including this (#339)
   // If needed, lint package.json files using npm-package-json-lint:
-  // 'package.json': 'npmPkgJsonLint --allowEmptyTargets',
+  'package.json': 'npmPkgJsonLint "**/package.json"',
 };
