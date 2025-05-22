@@ -1,7 +1,19 @@
 {
   "name": "@nl-design-system-community/gebruikersonderzoeken.nl",
-  "type": "module",
   "version": "0.0.1",
+  "author": "Community for NL Design System",
+  "description": "Website for shared user research of the NL Design System community",
+  "keywords": [
+    "nl-design-system",
+    "user-research"
+  ],
+  "license": "EUPL-1.2",
+  "repository": {
+    "type": "git+ssh",
+    "url": "git@github.com:nl-design-system/gebruikersonderzoeken.git",
+    "directory": "packages/website"
+  },
+  "type": "module",
   "scripts": {
     "dev": "astro dev",
     "build": "astro build",
