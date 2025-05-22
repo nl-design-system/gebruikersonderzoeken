@@ -1,7 +1,18 @@
 {
   "name": "@nl-design-system-community/ma-components",
-  "type": "module",
   "version": "0.0.1",
+  "author": "Community for NL Design System",
+  "description": "\"Mooi & Anders\": components for NL Design System communications",
+  "keywords": [
+    "nl-design-system"
+  ],
+  "license": "EUPL-1.2",
+  "repository": {
+    "type": "git+ssh",
+    "url": "git@github.com:nl-design-system/gebruikersonderzoeken.git",
+    "directory": "packages/ma-components"
+  },
+  "type": "module",
   "dependencies": {
     "@utrecht/heading-group-css": "1.5.1"
   }
