@@ -9,6 +9,8 @@
       "@pages/*": ["src/pages/*"]
     },
     "plugins": [{ "name": "@astrojs/ts-plugin" }],
-    "verbatimModuleSyntax": true
+    "verbatimModuleSyntax": true,
+    "allowSyntheticDefaultImports": true,
+    "checkJs": true
   }
 }
