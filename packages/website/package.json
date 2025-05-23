@@ -21,6 +21,7 @@
     "astro": "astro"
   },
   "dependencies": {
+    "@astrojs/markdown-remark": "6.3.2",
     "@astrojs/ts-plugin": "1.10.4",
     "@nl-design-system-candidate/heading-css": "1.1.0",
     "@nl-design-system-candidate/heading-react": "1.1.2",
@@ -33,9 +34,9 @@
   },
   "devDependencies": {
     "@astrojs/react": "4.2.7",
+    "@nl-design-system/tsconfig": "1.0.3",
     "@types/react": "19.1.4",
     "@types/react-dom": "19.1.5",
-    "@nl-design-system/tsconfig": "1.0.3",
     "astro": "5.7.13",
     "react": "19.1.0",
     "react-dom": "19.1.0"
