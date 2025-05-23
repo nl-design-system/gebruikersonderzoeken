@@ -1,11 +1,10 @@
 ---
 import { Heading } from '@nl-design-system-candidate/heading-react';
 import { Paragraph } from '@nl-design-system-candidate/paragraph-react';
+import { Menu } from '@nl-design-system-community/ma-components/local/menu';
 import { Panel } from '@nl-design-system-community/ma-components/local/panel';
-import { getCollection } from 'astro:content';
 import '@assets/styles.css';
-
-const onderzoeken = await getCollection('onderzoeken');
+import menuItems from '../../.config/menu.json';
 ---
 
 <html lang="en" class="ma-theme">
@@ -17,6 +16,8 @@ const onderzoeken = await getCollection('onderzoeken');
     <title>Astro</title>
   </head>
   <body>
+    <Menu items={menuItems} />
+
     <Panel spaceBlock="6xl">
       <hgroup class="utrecht-heading-group">
         <Heading level={1}>Gebruikersonderzoek</Heading>
@@ -30,15 +31,5 @@ const onderzoeken = await getCollection('onderzoeken');
       <div>Card 3</div>
       <div>Card 4</div>
     </Panel>
-
-    <ul>
-      {
-        onderzoeken.map((onderzoek) => (
-          <li>
-            <a href={`/docs/${onderzoek.id}`}>{onderzoek.data.title}</a>
-          </li>
-        ))
-      }
-    </ul>
   </body>
 </html>

@@ -1,5 +1,7 @@
 ---
+import { Menu } from '@nl-design-system-community/ma-components/local/menu';
 import { getCollection, render } from 'astro:content';
+import menuItems from '../../../.config/menu.json';
 
 // 1. Generate a new path for every collection entry
 export async function getStaticPaths() {
@@ -14,5 +16,7 @@ export async function getStaticPaths() {
 const { onderzoek } = Astro.props;
 const { Content } = await render(onderzoek);
 ---
+
+<Menu items={menuItems} />
 
 <Content />
