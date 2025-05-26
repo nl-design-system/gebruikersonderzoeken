@@ -4,10 +4,9 @@ import { Paragraph } from '@nl-design-system-candidate/paragraph-react';
 import { Menu } from '@nl-design-system-community/ma-components/local/menu/index.tsx';
 import { Panel } from '@nl-design-system-community/ma-components/local/panel/index.tsx';
 import '@assets/styles.css';
-import menuItems from '../../.config/menu.json';
-import { markActiveMenuItems } from '../utils/mark-active-menu-items.ts';
+import { getMenuItems } from '../utils/menu';
 
-const menuItemsWithActiveMarks = markActiveMenuItems(menuItems, Astro.url);
+const menuItems = getMenuItems(Astro.url);
 ---
 
 <html lang="en" class="ma-theme">
@@ -19,7 +18,7 @@ const menuItemsWithActiveMarks = markActiveMenuItems(menuItems, Astro.url);
     <title>Astro</title>
   </head>
   <body>
-    <Menu items={menuItemsWithActiveMarks} />
+    <Menu items={menuItems} />
 
     <Panel spaceBlock="6xl">
       <hgroup class="utrecht-heading-group">

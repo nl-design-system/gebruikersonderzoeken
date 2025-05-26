@@ -15,14 +15,10 @@
   },
   "type": "module",
   "scripts": {
-    "predev": "pnpm run build-menu-structure",
     "dev": "astro dev",
-    "prebuild": "pnpm run build-menu-structure",
     "build": "astro build",
-    "prepreview": "pnpm run build-menu-structure",
     "preview": "astro preview",
-    "astro": "astro",
-    "build-menu-structure": "node ./script/build-menu-structure.js"
+    "astro": "astro"
   },
   "dependencies": {
     "@astrojs/markdown-remark": "6.3.2",

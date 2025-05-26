@@ -2,7 +2,7 @@ interface MenuProps {
   items: MenuItem[];
 }
 
-interface MenuItemFolder {
+export interface MenuItemFolder {
   id: string;
   label: string;
   collapsible: boolean;
@@ -11,7 +11,7 @@ interface MenuItemFolder {
   children: Array<MenuItemFolder | MenuItemPage>;
 }
 
-interface MenuItemPage {
+export interface MenuItemPage {
   id: string;
   label: string;
   slug: string;
