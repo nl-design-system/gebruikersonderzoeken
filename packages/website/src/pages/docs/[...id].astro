@@ -1,7 +1,10 @@
 ---
-import { Menu } from '@nl-design-system-community/ma-components/local/menu';
+import { Menu } from '@nl-design-system-community/ma-components/local/menu/index.tsx';
 import { getCollection, render } from 'astro:content';
 import menuItems from '../../../.config/menu.json';
+import { markActiveMenuItems } from '../../utils/mark-active-menu-items.ts';
+
+const menuItemsWithActiveMarks = markActiveMenuItems(menuItems, Astro.url);
 
 // 1. Generate a new path for every collection entry
 export async function getStaticPaths() {
@@ -17,6 +20,6 @@ const { onderzoek } = Astro.props;
 const { Content } = await render(onderzoek);
 ---
 
-<Menu items={menuItems} />
+<Menu items={menuItemsWithActiveMarks} />
 
 <Content />

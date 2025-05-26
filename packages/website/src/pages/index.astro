@@ -1,10 +1,13 @@
 ---
 import { Heading } from '@nl-design-system-candidate/heading-react';
 import { Paragraph } from '@nl-design-system-candidate/paragraph-react';
-import { Menu } from '@nl-design-system-community/ma-components/local/menu';
-import { Panel } from '@nl-design-system-community/ma-components/local/panel';
+import { Menu } from '@nl-design-system-community/ma-components/local/menu/index.tsx';
+import { Panel } from '@nl-design-system-community/ma-components/local/panel/index.tsx';
 import '@assets/styles.css';
 import menuItems from '../../.config/menu.json';
+import { markActiveMenuItems } from '../utils/mark-active-menu-items.ts';
+
+const menuItemsWithActiveMarks = markActiveMenuItems(menuItems, Astro.url);
 ---
 
 <html lang="en" class="ma-theme">
@@ -16,7 +19,7 @@ import menuItems from '../../.config/menu.json';
     <title>Astro</title>
   </head>
   <body>
-    <Menu items={menuItems} />
+    <Menu items={menuItemsWithActiveMarks} />
 
     <Panel spaceBlock="6xl">
       <hgroup class="utrecht-heading-group">

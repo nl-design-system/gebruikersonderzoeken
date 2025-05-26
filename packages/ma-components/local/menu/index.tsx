@@ -7,6 +7,7 @@ interface MenuItemFolder {
   label: string;
   collapsible: boolean;
   collapsed: boolean;
+  current?: boolean;
   children: Array<MenuItemFolder | MenuItemPage>;
 }
 
@@ -14,6 +15,7 @@ interface MenuItemPage {
   id: string;
   label: string;
   slug: string;
+  current?: 'page';
 }
 
 export type MenuItem = MenuItemFolder | MenuItemPage;
@@ -31,7 +33,11 @@ export function isMenuItem(item: unknown): item is MenuItem {
 }
 
 function Page(props: Readonly<MenuItemPage>) {
-  return <a href={props.slug}>{props.label}</a>;
+  return (
+    <a href={props.slug} aria-current={props.current || null}>
+      {props.current ? <b>{props.label}</b> : props.label}
+    </a>
+  );
 }
 
 function Folder(props: Readonly<MenuItemFolder>) {
@@ -39,8 +45,8 @@ function Folder(props: Readonly<MenuItemFolder>) {
   const pages = props.children.filter(isPage);
 
   return (
-    <details open={props.collapsed === false}>
-      <summary>{props.label}</summary>
+    <details open={props.collapsed === false || props.current}>
+      <summary>{props.current ? <b>{props.label}</b> : props.label}</summary>
       <ul>
         {[...folders, ...pages].map((child) => (
           <li key={child.id}>
