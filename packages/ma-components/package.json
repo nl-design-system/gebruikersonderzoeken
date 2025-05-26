@@ -15,5 +15,8 @@
   "type": "module",
   "dependencies": {
     "@utrecht/heading-group-css": "1.5.1"
+  },
+  "devDependencies": {
+    "react": "18.3.1"
   }
 }
