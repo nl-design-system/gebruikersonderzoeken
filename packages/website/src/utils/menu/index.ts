@@ -5,13 +5,15 @@ import { getMenuStructure } from './_build-menu-structure.ts';
 const menuItems = await getMenuStructure();
 
 function isActivePage(item: MenuItem, pathName: string) {
-  return isPage(item) && pathName.includes(item.slug);
+  // The replace is because there is a space in one of the folders that is not
+  // escaped
+  return isPage(item) && pathName.includes(item.slug.replace(' ', '%20'));
 }
 
 function isActiveFolder(children: MenuItem[], pathName: string): boolean {
   if (children.length === 0) return false;
 
-  if (children.find((child) => isActivePage(child, pathName))) {
+  if (children.some((child) => isActivePage(child, pathName))) {
     return true;
   }
 
