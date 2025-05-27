@@ -8,7 +8,7 @@ export interface MenuItemFolder {
   expandable: true;
   expanded: boolean;
   current?: boolean;
-  children: Array<MenuItemFolder | MenuItemPage>;
+  items: Array<MenuItemFolder | MenuItemPage>;
 }
 
 export interface MenuItemPage {
@@ -41,8 +41,8 @@ function Page(props: Readonly<MenuItemPage>) {
 }
 
 function Folder(props: Readonly<MenuItemFolder>) {
-  const folders = props.children.filter(isFolder);
-  const pages = props.children.filter(isPage);
+  const folders = props.items.filter(isFolder);
+  const pages = props.items.filter(isPage);
 
   return (
     <details open={props.expanded || props.current}>
