@@ -10,14 +10,14 @@ function isActivePage(item: MenuItem, pathName: string) {
   return isPage(item) && pathName.includes(item.slug.replace(' ', '%20'));
 }
 
-function isActiveFolder(children: MenuItem[], pathName: string): boolean {
-  if (children.length === 0) return false;
+function isActiveFolder(items: MenuItem[], pathName: string): boolean {
+  if (items.length === 0) return false;
 
-  if (children.some((child) => isActivePage(child, pathName))) {
+  if (items.some((item) => isActivePage(item, pathName))) {
     return true;
   }
 
-  if (children.find((child) => isFolder(child) && isActiveFolder(child.children, pathName))) {
+  if (items.find((item) => isFolder(item) && isActiveFolder(item.items, pathName))) {
     return true;
   }
 
@@ -39,9 +39,9 @@ export function getMenuItems(currentUrl?: URL) {
         item.current = 'page';
       }
 
-      if (isFolder(item) && isActiveFolder(item.children, pathName)) {
+      if (isFolder(item) && isActiveFolder(item.items, pathName)) {
         item.current = true;
-        item.children.forEach(markItem);
+        item.items.forEach(markItem);
       }
     }
   }

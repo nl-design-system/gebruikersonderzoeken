@@ -53,10 +53,10 @@ const getLabelFromPath = (path: string) =>
 const getParentId = (path: string) => path.split('/').reverse().splice(1).reverse().join('/') || undefined;
 
 /**
- * Get all children that have a specific parentId. When no parent is specified
- * the children with a missing parentId (root level items) are returned
+ * Get all items that have a specific parentId. When no parent is specified
+ * the items with a missing parentId (root level items) are returned
  */
-const getChildrenOfParent = (collection: Item[], parent?: string): Item[] =>
+const getItemsInFolder = (collection: Item[], parent?: string): Item[] =>
   collection.filter((item) => item.parentId === parent);
 
 /**
@@ -70,9 +70,9 @@ async function buildFolder(path: string) {
 
   const folder: Folder = {
     id: path,
-    children: [],
     expandable: true,
     expanded: false,
+    items: [],
     label,
     parentId: getParentId(path),
   };
@@ -136,18 +136,18 @@ export const getMenuStructure = () =>
       ),
     )
     .then((collection: Item[]) => {
-      const menu = getChildrenOfParent(collection, undefined);
+      const menu = getItemsInFolder(collection);
 
-      function collectChildrenInItems(children: Item[]) {
-        children.forEach((item) => {
+      function assignItemsToFolders(folder: Item[]) {
+        folder.forEach((item) => {
           if (item.expandable === true) {
-            item.children = getChildrenOfParent(collection, item.id);
-            collectChildrenInItems(item.children);
+            item.items = getItemsInFolder(collection, item.id);
+            assignItemsToFolders(item.items);
           }
         });
       }
 
-      collectChildrenInItems(menu);
+      assignItemsToFolders(menu);
 
       return menu;
     });
