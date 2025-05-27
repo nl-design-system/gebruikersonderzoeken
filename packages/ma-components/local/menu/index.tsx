@@ -5,8 +5,8 @@ interface MenuProps {
 export interface MenuItemFolder {
   id: string;
   label: string;
-  collapsible: boolean;
-  collapsed: boolean;
+  expandable: true;
+  expanded: boolean;
   current?: boolean;
   children: Array<MenuItemFolder | MenuItemPage>;
 }
@@ -25,7 +25,7 @@ export function isPage(item: unknown): item is MenuItemPage {
 }
 
 export function isFolder(item: unknown): item is MenuItemFolder {
-  return (item as MenuItemFolder)?.collapsible === true;
+  return (item as MenuItemFolder)?.expandable === true;
 }
 
 export function isMenuItem(item: unknown): item is MenuItem {
@@ -45,7 +45,7 @@ function Folder(props: Readonly<MenuItemFolder>) {
   const pages = props.children.filter(isPage);
 
   return (
-    <details open={props.collapsed === false || props.current}>
+    <details open={props.expanded || props.current}>
       <summary>{props.current ? <b>{props.label}</b> : props.label}</summary>
       <ul>
         {[...folders, ...pages].map((child) => (

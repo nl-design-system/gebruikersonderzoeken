@@ -14,24 +14,19 @@ import { parseFrontmatter } from '@astrojs/markdown-remark';
 import { readdir, lstat, readFile } from 'node:fs/promises';
 import path from 'node:path';
 
-interface Category {
-  label: string;
-  collapsible: true;
-  collapsed: boolean;
-}
-
 interface Folder extends MenuItemFolder {
   parentId?: string;
 }
 
 interface Page extends MenuItemPage {
-  collapsible?: false;
+  expandable?: false;
   parentId?: string;
 }
 
 type Item = Folder | Page;
 
 const DOCS_DIR = path.join(process.cwd(), '../../docs/');
+const isString = (value: unknown) => typeof value === 'string';
 
 /**
  * Ignore files starting with an underscore
@@ -68,19 +63,18 @@ const getChildrenOfParent = (collection: Item[], parent?: string): Item[] =>
  * Build a Folder object for a given path.
  */
 async function buildFolder(path: string) {
-  const category = (await readFile(`${DOCS_DIR}${path}/_category_.json`, { encoding: 'utf-8' })
-    .then((content) => JSON.parse(content))
-    .catch(() => ({
-      collapsed: false,
-      collapsible: true,
-      label: getLabelFromPath(path),
-    }))) as Category;
+  const label = await readFile(`${DOCS_DIR}${path}/_category_.json`, { encoding: 'utf-8' })
+    .then((json) => JSON.parse(json))
+    .then((data) => (isString(data.label) ? data.label : getLabelFromPath(path)))
+    .catch(() => getLabelFromPath(path));
 
   const folder: Folder = {
     id: path,
     children: [],
+    expandable: true,
+    expanded: false,
+    label,
     parentId: getParentId(path),
-    ...category,
   };
 
   return folder;
@@ -99,7 +93,7 @@ async function buildPage(path: string): Promise<Page> {
 
   return {
     id,
-    collapsible: false,
+    expandable: false,
     label,
     parentId: getParentId(path),
     slug,
@@ -146,7 +140,7 @@ export const getMenuStructure = () =>
 
       function collectChildrenInItems(children: Item[]) {
         children.forEach((item) => {
-          if (item.collapsible === true) {
+          if (item.expandable === true) {
             item.children = getChildrenOfParent(collection, item.id);
             collectChildrenInItems(item.children);
           }
