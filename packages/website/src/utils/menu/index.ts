@@ -1,28 +1,20 @@
-import type { MenuItem } from '@nl-design-system-community/ma-components/local/menu/index.tsx';
+import type {
+  MenuItem,
+  MenuItemFolder,
+  MenuItemPage,
+} from '@nl-design-system-community/ma-components/local/menu/index.tsx';
 import { isPage, isFolder } from '@nl-design-system-community/ma-components/local/menu/index.tsx';
 import { getMenuStructure } from './_build-menu-structure.ts';
 
 const menuItems = await getMenuStructure();
 
-const isActivePage = (item: MenuItem, pathName: string) => {
-  // The replace is because there is a space in one of the folders that is not
-  // escaped
-  return isPage(item) && pathName.includes(item.slug.replace(' ', '%20'));
-};
+// The replace is because there is a space in one of the folders that is not
+// escaped
+const isActivePage = (item: MenuItem, pathName: string): item is MenuItemPage =>
+  isPage(item) && pathName.includes(item.slug.replace(' ', '%20'));
 
-const isActiveFolder = (items: MenuItem[], pathName: string) => {
-  if (items.length === 0) return false;
-
-  if (items.some((item) => isActivePage(item, pathName))) {
-    return true;
-  }
-
-  if (items.find((item) => isFolder(item) && isActiveFolder(item.items, pathName))) {
-    return true;
-  }
-
-  return false;
-};
+const isActiveFolder = (folder: MenuItem, pathName: string): folder is MenuItemFolder =>
+  isFolder(folder) && folder.items.some((item) => isActiveFolder(item, pathName) || isActivePage(item, pathName));
 
 /**
  * Get a data structure for the menu items. When the `currentUrl` is provided,
@@ -30,23 +22,26 @@ const isActiveFolder = (items: MenuItem[], pathName: string) => {
  */
 export function getMenuItems(currentUrl?: URL) {
   const pathName = currentUrl?.pathname;
+  const clonedItems = structuredClone(menuItems);
 
-  const itemsClone = structuredClone(menuItems);
-
-  function markItem(item: MenuItem) {
-    if (pathName) {
-      if (isActivePage(item, pathName)) {
-        item.current = 'page';
-      }
-
-      if (isFolder(item) && isActiveFolder(item.items, pathName)) {
-        item.current = true;
-        item.items.forEach(markItem);
-      }
+  function markItem(item: MenuItem): MenuItem {
+    if (pathName && isActivePage(item, pathName)) {
+      return {
+        ...item,
+        current: 'page',
+      };
     }
+
+    if (pathName && isActiveFolder(item, pathName)) {
+      return {
+        ...item,
+        current: true,
+        items: item.items.map(markItem),
+      };
+    }
+
+    return item;
   }
 
-  itemsClone.forEach(markItem);
-
-  return itemsClone;
+  return clonedItems.map(markItem);
 }
