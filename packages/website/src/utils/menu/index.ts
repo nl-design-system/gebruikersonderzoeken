@@ -4,13 +4,13 @@ import { getMenuStructure } from './_build-menu-structure.ts';
 
 const menuItems = await getMenuStructure();
 
-function isActivePage(item: MenuItem, pathName: string) {
+const isActivePage = (item: MenuItem, pathName: string) => {
   // The replace is because there is a space in one of the folders that is not
   // escaped
   return isPage(item) && pathName.includes(item.slug.replace(' ', '%20'));
-}
+};
 
-function isActiveFolder(items: MenuItem[], pathName: string): boolean {
+const isActiveFolder = (items: MenuItem[], pathName: string) => {
   if (items.length === 0) return false;
 
   if (items.some((item) => isActivePage(item, pathName))) {
@@ -22,7 +22,7 @@ function isActiveFolder(items: MenuItem[], pathName: string): boolean {
   }
 
   return false;
-}
+};
 
 /**
  * Get a data structure for the menu items. When the `currentUrl` is provided,
