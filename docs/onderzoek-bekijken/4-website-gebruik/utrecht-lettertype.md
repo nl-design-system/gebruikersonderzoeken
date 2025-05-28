@@ -55,15 +55,15 @@ Bij navragen geven de respondenten aan dat ze het lettertype prima vinden om de 
 - Het is prettig dat het lettertype sober en simpel is en daardoor niet afleid van de boodschap.
 - het lettertype  door de rondingen zacht en vriendelijk overkomt.
 
-> "Ik denk dat deze prettiger is dan op de website, de huidige is wat dikker en hoekerige, deze is wat zachter."
+> "Ik denk dat deze prettiger is dan op de website, de huidige is wat dikker en hoekiger, deze is wat zachter."
 
 ### Bijvangst - design van de pagina
 
-Omdat we het lettertype getest hebben getest door een prototype te bouwen van een bestaande pagina, hebben we ook inzichten gekregen in hoe de respondenten het design van de pagina ervaren.
+Omdat we het lettertype hebben getest door een prototype te bouwen van een bestaande pagina, hebben we ook inzichten gekregen in hoe de respondenten het ontwerp van de pagina ervaren.
 
 #### Korte lijstjes points geven overzicht
 
-De korte lijstjes (unsorted lists) helpen met het doornemen van de pagina en snel de juiste informatie vinden. Ze geven overzicht.
+De korte lijstjes (unordered lists) helpen met het doornemen van de pagina en snel de juiste informatie vinden. Ze geven overzicht.
 
 #### Informatie in de tabel wordt snel gevonden
 
@@ -81,7 +81,7 @@ Goede koppen en een duidelijke hierarchische indeling die duidelijk maakt dat de
 
 #### Een onlogische indeling van de pagina leidt af van de inhoud
 
-Als de tekst op de pagina niet logisch is qua volgorde van indeling of beschreven inhoud, leid dit heel erg af. Hoe goed het lettertype of het design van de pagina ook is, de onlogische inhoud voert de boventoon en het kost de respondent enorm veel moeite om de inhoud tot zich te nemen.
+Als de tekst op de pagina niet logisch is qua volgorde van indeling of beschreven inhoud, leidt dit heel erg af. Hoe goed het lettertype of het design van de pagina ook is, de onlogische inhoud voert de boventoon en het kost de respondent enorm veel moeite om de inhoud tot zich te nemen.
 
 #### Kosten worden genoemd op twee verschillende plekken en dat leid af
 
@@ -89,22 +89,22 @@ Dat er twee keer op dezelfde pagina kosten wordt genoemd voelt gek voor de respo
 
 #### Grote lappen tekst worden niet of nauwelijks gelezen
 
-De respondenten geven aan dat ze grote lappen tekst met moeite of niet zouden lezen
+De respondenten geven aan dat ze grote lappen tekst met moeite of niet zouden lezen.
 
 > "Lappen tekst begin ik gewoon niet aan."
 
 ### Testen met neurodiverse collega's
 
-Uit sommige interviews hebben we en paar inzichten kunnen halen op het gebied van types neurodiversiteit..
+Uit sommige interviews hebben we en paar inzichten kunnen halen op het gebied van types neurodiversiteit.
 
 #### Dyslexie
 
 Uit het interview met de collega met dyslexie kwam naar voren dat het lezen van webpagina's makkelijker werd door:
 
-- Het gebruik van korte zinnen. Liever twee korte zinnen dan één iets langere waar het zelfde in staat
-- Het gebruik van lijstjes (bullet points)
-- Een goed, sterk contrast tussen tekst en achtergrond
-- Veel ruimte tussen de regels (lineheight)
+- Het gebruik van korte zinnen. Liever twee korte zinnen dan één iets langere waar het zelfde in staat.
+- Het gebruik van lijstjes (bullet points).
+- Een goed, sterk contrast tussen tekst en achtergrond.
+- Veel ruimte tussen de regels (line-height).
 
 #### ADHD
 
