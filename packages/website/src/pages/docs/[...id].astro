@@ -1,4 +1,5 @@
 ---
+import Layout from '@layouts/default.astro';
 import { Menu } from '@nl-design-system-community/ma-components/local/menu/index.tsx';
 import { getCollection, render } from 'astro:content';
 import { getMenuItems } from '../../utils/menu';
@@ -39,6 +40,8 @@ const { onderzoek } = Astro.props;
 const { Content } = await render(onderzoek);
 ---
 
-<Menu items={menuItems} />
+<Layout title={onderzoek.data.title}>
+  <Menu items={menuItems} />
 
-<Content />
+  <Content />
+</Layout>
