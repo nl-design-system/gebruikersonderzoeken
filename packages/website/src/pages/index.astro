@@ -1,4 +1,5 @@
 ---
+import { Default as Layout } from '@layouts/default.tsx';
 import { Heading } from '@nl-design-system-candidate/heading-react';
 import { Paragraph } from '@nl-design-system-candidate/paragraph-react';
 import { Menu } from '@nl-design-system-community/ma-components/local/menu/index.tsx';
@@ -9,29 +10,20 @@ import { getMenuItems } from '../utils/menu';
 const menuItems = getMenuItems(Astro.url);
 ---
 
-<html lang="en" class="ma-theme">
-  <head>
-    <meta charset="utf-8" />
-    <link rel="icon" type="image/svg+xml" href="/favicon.ico" />
-    <meta name="viewport" content="width=device-width" />
-    <meta name="generator" content={Astro.generator} />
-    <title>Astro</title>
-  </head>
-  <body>
-    <Menu items={menuItems} />
+<Layout>
+  <Menu items={menuItems} />
 
-    <Panel spaceBlock="6xl">
-      <hgroup class="utrecht-heading-group">
-        <Heading level={1}>Gebruikersonderzoek</Heading>
-        <Paragraph>Door gebruikersonderzoek met elkaar te delen worden we allemaal slimmer.</Paragraph>
-      </hgroup>
-    </Panel>
+  <Panel spaceBlock="6xl">
+    <hgroup class="utrecht-heading-group">
+      <Heading level={1}>Gebruikersonderzoek</Heading>
+      <Paragraph>Door gebruikersonderzoek met elkaar te delen worden we allemaal slimmer.</Paragraph>
+    </hgroup>
+  </Panel>
 
-    <Panel spaceBlock="5xl">
-      <div>Card 1</div>
-      <div>Card 2</div>
-      <div>Card 3</div>
-      <div>Card 4</div>
-    </Panel>
-  </body>
-</html>
+  <Panel spaceBlock="5xl">
+    <div>Card 1</div>
+    <div>Card 2</div>
+    <div>Card 3</div>
+    <div>Card 4</div>
+  </Panel>
+</Layout>
