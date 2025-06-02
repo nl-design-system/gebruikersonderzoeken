@@ -25,6 +25,9 @@ export function Default(props: PropsWithChildren<Props>) {
         <link rel="canonical" href={canonical.href} />
         <link rel="icon" type="image/svg+xml" href="/favicon.ico" />
 
+        <meta name="color-scheme" content="light only" />
+        <meta name="theme-color" content="#ffffff" />
+
         {/* OpenGraph data */}
         <meta property="og:url" content={canonical.href} />
         <meta property="og:locale" content={lang} />
