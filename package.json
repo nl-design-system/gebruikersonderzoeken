@@ -15,6 +15,7 @@
     "start": "docusaurus start",
     "build": "docusaurus build",
     "build:astro": "pnpm --filter @nl-design-system-community/gebruikersonderzoeken.nl run build",
+    "preview": "pnpm --filter @nl-design-system-community/gebruikersonderzoeken.nl run preview",
     "swizzle": "docusaurus swizzle",
     "deploy": "docusaurus deploy",
     "clear": "docusaurus clear",
