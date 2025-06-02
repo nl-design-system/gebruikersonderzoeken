@@ -29,8 +29,10 @@
     "@nl-design-system-candidate/paragraph-react": "2.1.2",
     "@nl-design-system-community/ma-components": "workspace:*",
     "@nl-design-system-community/ma-design-tokens": "1.1.0",
+    "@types/mdast": "4.0.4",
     "@utrecht/heading-group-css": "1.5.1",
-    "astro": "5.7.13"
+    "astro": "5.7.13",
+    "vfile": "6.0.3"
   },
   "devDependencies": {
     "@astrojs/react": "4.2.7",
