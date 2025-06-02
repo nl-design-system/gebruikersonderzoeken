@@ -40,7 +40,7 @@ const { onderzoek } = Astro.props;
 const { Content } = await render(onderzoek);
 ---
 
-<Layout title={onderzoek.data.title}>
+<Layout canonical={Astro.url} title={onderzoek.data.title}>
   <Menu items={menuItems} />
 
   <Content />
