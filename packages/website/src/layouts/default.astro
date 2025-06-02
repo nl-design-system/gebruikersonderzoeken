@@ -1,10 +1,25 @@
-<!doctype html>
-<html lang="en" class="ma-theme">
+---
+interface Props {
+  title?: string;
+  description?: string;
+}
+
+const { description: pageDescription, title: pageTitle = 'gebruikersonderzoeken' } = Astro.props;
+
+const lang = 'nl';
+const title = `${pageTitle} | Gebruikersonderzoeken`;
+const description = pageDescription ?? 'Gedeelde gebruikersonderzoeken voor de overheid';
+const canonical = Astro.url.href;
+---
+
+<html lang={lang} dir="ltr" class="ma-theme">
   <head>
-    <meta charset="utf-8" />
+    <meta charset="UTF-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>{title}</title>
+    <meta name="description" content={description} />
+    <link rel="canonical" href={canonical} />
     <link rel="icon" type="image/svg+xml" href="/favicon.ico" />
-    <meta name="viewport" content="width=device-width" />
-    <title>Astro</title>
   </head>
   <body>
     <slot />
