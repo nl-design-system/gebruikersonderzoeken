@@ -9,7 +9,6 @@ interface Props {
 }
 
 export function Default(props: PropsWithChildren<Props>) {
-
   const { canonical, cover: pageCover, description, title: pageTitle } = props;
 
   const fallbackCover: Cover = {
@@ -54,7 +53,6 @@ export function Default(props: PropsWithChildren<Props>) {
         <meta name="twitter:card" content="summary_large_image" />
         {cover && <meta property="twitter:image" content={cover.url} />}
         {cover && <meta property="twitter:image:alt" content={cover.alt} />}
-
       </head>
       <body>{props.children}</body>
     </html>
