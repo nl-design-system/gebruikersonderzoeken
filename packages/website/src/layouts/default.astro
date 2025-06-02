@@ -1,17 +1,16 @@
 ---
-interface Cover {
-  url: string;
-  alt: string;
-}
+import { z } from 'astro:content';
+import { CoverSchema, PageSchema } from '../content.config.ts';
 
-interface Props {
-  description?: string;
-  cover?: Cover;
-  title?: string;
-}
+// Type is automatically determined based on schema!
+type Props = z.infer<typeof PageSchema>;
+type Cover = z.infer<typeof CoverSchema>;
 
-const isCover = (object: unknown): object is Cover =>
-  typeof (object as Cover)?.url === 'string' && typeof (object as Cover)?.alt === 'string';
+// Validates object ensuring it conforms to the Cover schema.
+const isCover = (maybeCover: unknown): maybeCover is Cover => {
+  const result = CoverSchema.safeParse(maybeCover);
+  return result.success;
+};
 
 const fallbackCover = {
   alt: 'Grafisch vergrootglas over document',
@@ -25,6 +24,8 @@ const title = `${pageTitle} | Gebruikersonderzoeken`;
 const description = pageDescription ?? 'Gedeelde gebruikersonderzoeken voor de overheid';
 const canonical = Astro.url.href;
 const cover = isCover(pageCover) ? pageCover : fallbackCover;
+
+console.log(cover);
 ---
 
 <html lang={lang} dir="ltr" class="ma-theme">
