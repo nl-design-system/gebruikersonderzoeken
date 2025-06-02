@@ -1,10 +1,6 @@
 ---
-import { z } from 'astro:content';
-import { CoverSchema, PageSchema } from '../content.config.ts';
-
-// Type is automatically determined based on schema!
-type Props = z.infer<typeof PageSchema>;
-type Cover = z.infer<typeof CoverSchema>;
+import { CoverSchema, type Cover } from 'src/schemas/cover.ts';
+import { type Page as Props } from 'src/schemas/page.ts';
 
 // Validates object ensuring it conforms to the Cover schema.
 const isCover = (maybeCover: unknown): maybeCover is Cover => {
@@ -24,8 +20,6 @@ const title = `${pageTitle} | Gebruikersonderzoeken`;
 const description = pageDescription ?? 'Gedeelde gebruikersonderzoeken voor de overheid';
 const canonical = Astro.url.href;
 const cover = isCover(pageCover) ? pageCover : fallbackCover;
-
-console.log(cover);
 ---
 
 <html lang={lang} dir="ltr" class="ma-theme">
