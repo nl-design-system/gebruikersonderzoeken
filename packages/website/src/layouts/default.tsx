@@ -1,17 +1,25 @@
+import type { Cover } from '@schemas/cover.ts';
 import type { PropsWithChildren } from 'react';
 
 interface Props {
-  title?: string;
-  description?: string;
   canonical: URL;
+  cover?: Cover;
+  description?: string;
+  title?: string;
 }
 
 export function Default(props: PropsWithChildren<Props>) {
 
-  const { canonical, description, title: pageTitle } = props;
+  const { canonical, cover: pageCover, description, title: pageTitle } = props;
+
+  const fallbackCover: Cover = {
+    alt: 'Grafisch vergrootglas over document',
+    url: new URL('/placeholder.png', canonical.origin).toString(),
+  };
 
   const lang = 'nl';
   const title = pageTitle ? `${pageTitle} | Gebruikersonderzoeken` : 'Gebruikersonderzoeken';
+  const cover = pageCover ?? fallbackCover;
 
   return (
     <html lang={lang} dir="ltr" className="ma-theme">
@@ -39,9 +47,14 @@ export function Default(props: PropsWithChildren<Props>) {
         <meta property="og:locale" content={lang} />
         <meta property="og:title" content={title} />
         {description && <meta property="og:description" content={description} />}
+        {cover && <meta property="og:image" content={cover.url} />}
+        {cover && <meta property="og:image:alt" content={cover.alt} />}
 
         {/* X */}
         <meta name="twitter:card" content="summary_large_image" />
+        {cover && <meta property="twitter:image" content={cover.url} />}
+        {cover && <meta property="twitter:image:alt" content={cover.alt} />}
+
       </head>
       <body>{props.children}</body>
     </html>
