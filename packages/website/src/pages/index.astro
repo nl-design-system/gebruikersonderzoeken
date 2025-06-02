@@ -10,7 +10,7 @@ import { getMenuItems } from '../utils/menu';
 const menuItems = getMenuItems(Astro.url);
 ---
 
-<Layout>
+<Layout canonical={Astro.url} description="Gedeelde gebruikersonderzoeken voor de overheid">
   <Menu items={menuItems} />
 
   <Panel spaceBlock="6xl">

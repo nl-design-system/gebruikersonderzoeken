@@ -1,13 +1,28 @@
 import type { PropsWithChildren } from 'react';
 
-export function Default(props: PropsWithChildren) {
+interface Props {
+  title?: string;
+  description?: string;
+  canonical: URL;
+}
+
+export function Default(props: PropsWithChildren<Props>) {
+
+  const { canonical, description, title: pageTitle } = props;
+
+  const lang = 'nl';
+  const title = pageTitle ? `${pageTitle} | Gebruikersonderzoeken` : 'Gebruikersonderzoeken';
+
   return (
-    <html lang="en" className="ma-theme">
+    <html lang={lang} dir="ltr" className="ma-theme">
       <head>
-        <meta charSet="utf-8" />
+        <meta charSet="UTF-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>{title}</title>
+        {description && <meta name="description" content={description} />}
+
+        <link rel="canonical" href={canonical.href} />
         <link rel="icon" type="image/svg+xml" href="/favicon.ico" />
-        <meta name="viewport" content="width=device-width" />
-        <title>Astro</title>
       </head>
       <body>{props.children}</body>
     </html>
