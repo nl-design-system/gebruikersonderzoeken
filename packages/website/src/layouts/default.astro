@@ -16,10 +16,21 @@ const canonical = Astro.url.href;
   <head>
     <meta charset="UTF-8" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+
     <title>{title}</title>
     <meta name="description" content={description} />
+
     <link rel="canonical" href={canonical} />
     <link rel="icon" type="image/svg+xml" href="/favicon.ico" />
+
+    <!-- OpenGraph data -->
+    <meta property="og:url" content={canonical} />
+    <meta property="og:locale" content={lang} />
+    <meta property="og:title" content={title} />
+    <meta property="og:description" content={description} />
+
+    <!-- X -->
+    <meta name="twitter:card" content="summary_large_image" />
   </head>
   <body>
     <slot />
