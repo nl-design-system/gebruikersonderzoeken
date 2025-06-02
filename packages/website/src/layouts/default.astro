@@ -1,15 +1,30 @@
 ---
-interface Props {
-  title?: string;
-  description?: string;
+interface Cover {
+  url: string;
+  alt: string;
 }
 
-const { description: pageDescription, title: pageTitle = 'gebruikersonderzoeken' } = Astro.props;
+interface Props {
+  description?: string;
+  cover?: Cover;
+  title?: string;
+}
+
+const isCover = (object: unknown): object is Cover =>
+  typeof (object as Cover)?.url === 'string' && typeof (object as Cover)?.alt === 'string';
+
+const fallbackCover = {
+  alt: 'Grafisch vergrootglas over document',
+  url: new URL('/placeholder.png', Astro.url).toString(),
+};
+
+const { cover: pageCover, description: pageDescription, title: pageTitle = 'gebruikersonderzoeken' } = Astro.props;
 
 const lang = 'nl';
 const title = `${pageTitle} | Gebruikersonderzoeken`;
 const description = pageDescription ?? 'Gedeelde gebruikersonderzoeken voor de overheid';
 const canonical = Astro.url.href;
+const cover = isCover(pageCover) ? pageCover : fallbackCover;
 ---
 
 <html lang={lang} dir="ltr" class="ma-theme">
@@ -37,9 +52,13 @@ const canonical = Astro.url.href;
     <meta property="og:locale" content={lang} />
     <meta property="og:title" content={title} />
     <meta property="og:description" content={description} />
+    {cover && <meta property="og:image" content={cover.url} />}
+    {cover && <meta property="og:image:alt" content={cover.alt} />}
 
     <!-- X -->
     <meta name="twitter:card" content="summary_large_image" />
+    {cover && <meta property="twitter:image" content={cover.url} />}
+    {cover && <meta property="twitter:image:alt" content={cover.alt} />}
   </head>
   <body>
     <slot />
