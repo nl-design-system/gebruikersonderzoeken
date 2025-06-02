@@ -1,12 +1,6 @@
 ---
-import { CoverSchema, type Cover } from 'src/schemas/cover.ts';
+import { isCover } from 'src/schemas/cover.ts';
 import { type Page as Props } from 'src/schemas/page.ts';
-
-// Validates object ensuring it conforms to the Cover schema.
-const isCover = (maybeCover: unknown): maybeCover is Cover => {
-  const result = CoverSchema.safeParse(maybeCover);
-  return result.success;
-};
 
 const fallbackCover = {
   alt: 'Grafisch vergrootglas over document',
