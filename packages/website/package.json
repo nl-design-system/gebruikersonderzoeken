@@ -31,15 +31,15 @@
     "@nl-design-system-community/ma-design-tokens": "1.1.0",
     "@types/mdast": "4.0.4",
     "@utrecht/heading-group-css": "1.5.1",
-    "astro": "5.7.13",
+    "astro": "5.8.1",
     "vfile": "6.0.3"
   },
   "devDependencies": {
-    "@astrojs/react": "4.2.7",
+    "@astrojs/react": "4.3.0",
     "@nl-design-system/tsconfig": "1.0.3",
     "@types/react": "19.1.4",
     "@types/react-dom": "19.1.5",
-    "astro": "5.7.13",
+    "astro": "5.8.1",
     "react": "19.1.0",
     "react-dom": "19.1.0"
   }
