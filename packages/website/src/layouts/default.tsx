@@ -1,5 +1,6 @@
 import type { Cover } from '@schemas/cover.ts';
 import type { PropsWithChildren } from 'react';
+import { cspValue } from '@utils/csp.ts';
 
 interface Props {
   canonical: URL;
@@ -25,6 +26,7 @@ export function Default(props: PropsWithChildren<Props>) {
       <head>
         <meta charSet="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <meta httpEquiv="Content-Security-Policy" content={cspValue} />
 
         <title>{title}</title>
         {description && <meta name="description" content={description} />}

@@ -1,4 +1,5 @@
 {
+  "$schema": "https://json.schemastore.org/tsconfig",
   "extends": ["astro/tsconfigs/strict", "@nl-design-system/tsconfig"],
   "include": [".astro/types.d.ts", "**/*"],
   "exclude": ["dist", "node_modules"],
@@ -8,7 +9,8 @@
       "@assets/*": ["src/assets/*"],
       "@layouts/*": ["src/layouts/*"],
       "@pages/*": ["src/pages/*"],
-      "@schemas/*": ["src/schemas/*"]
+      "@schemas/*": ["src/schemas/*"],
+      "@utils/*": ["src/utils/*"]
     },
     "plugins": [{ "name": "@astrojs/ts-plugin" }],
     "verbatimModuleSyntax": true,
