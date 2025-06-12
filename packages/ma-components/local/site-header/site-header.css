@@ -1,0 +1,50 @@
+.ma-site-header {
+  /* @QUESTION: Do we have box shadow tokens? */
+  box-shadow: 0 2px 6px 0 rgb(0 0 0 / 10%);
+
+  & > section {
+    padding-block: var(--basis-space-block-2xl);
+    padding-inline: var(--basis-space-inline-xl);
+  }
+
+  & > section > * {
+    margin-inline: auto;
+    max-inline-size: 1280px;
+  }
+
+  & > section + section {
+    border-block-start: 1px solid var(--ma-color-paars-4);
+  }
+
+  & nav {
+    align-items: center;
+    display: flex;
+    gap: var(--basis-space-inline-xl);
+  }
+
+  & search {
+    display: flex;
+    gap: var(--basis-space-inline-md);
+  }
+
+  & .utrecht-textbox {
+    --utrecht-textbox-border-radius: var(--basis-border-radius-sm);
+
+    /* @FIXME: Value taken from Figma should be more descriptive */
+    min-inline-size: 304px;
+  }
+
+  & button {
+    /* Undo utrecht-root styles */
+    hyphens: initial;
+    min-inline-size: initial;
+    word-break: initial;
+  }
+}
+
+.ma-site-header__content {
+  align-items: center;
+  display: flex;
+  inline-size: 100%;
+  justify-content: space-between;
+}
