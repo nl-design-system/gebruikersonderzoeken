@@ -23,7 +23,7 @@ export function Default(props: PropsWithChildren<Props>) {
   const cover = pageCover ?? fallbackCover;
 
   return (
-    <html lang={lang} dir="ltr" className="ma-theme">
+    <html lang={lang} dir="ltr" className="ma-theme utrecht-root">
       <head>
         <meta charSet="UTF-8" />
         <meta name="viewport" content="width=device-width, initial-scale=1.0" />
@@ -57,8 +57,8 @@ export function Default(props: PropsWithChildren<Props>) {
         {cover && <meta property="twitter:image" content={cover.url} />}
         {cover && <meta property="twitter:image:alt" content={cover.alt} />}
       </head>
-      <body>
-        {props.children}
+      <body className="utrecht-body">
+        <main>{props.children}</main>
         <div dangerouslySetInnerHTML={{ __html: logo }} />
       </body>
     </html>
