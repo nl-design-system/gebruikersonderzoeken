@@ -1,6 +1,7 @@
 import type { Cover } from '@schemas/cover.ts';
 import type { PropsWithChildren } from 'react';
 import logo from '@nl-design-system-community/ma-components/local/logo/logo.svg?raw';
+import { SiteHeader } from '@nl-design-system-community/ma-components/local/site-header/site-header.tsx';
 import { cspValue } from '@utils/csp.ts';
 
 interface Props {
@@ -58,6 +59,7 @@ export function Default(props: PropsWithChildren<Props>) {
         {cover && <meta property="twitter:image:alt" content={cover.alt} />}
       </head>
       <body className="utrecht-body">
+        <SiteHeader />
         <main>{props.children}</main>
         <div dangerouslySetInnerHTML={{ __html: logo }} />
       </body>
