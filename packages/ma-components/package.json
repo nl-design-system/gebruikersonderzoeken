@@ -17,6 +17,9 @@
     "@utrecht/heading-group-css": "1.5.1"
   },
   "devDependencies": {
+    "@utrecht/button-css": "2.3.1",
+    "@utrecht/link-css": "1.6.1",
+    "@utrecht/textbox-css": "1.7.1",
     "react": "18.3.1"
   }
 }
