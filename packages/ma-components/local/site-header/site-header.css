@@ -1,0 +1,90 @@
+.ma-site-header {
+  background-color: var(--basis-root-background-color);
+  container-name: ma-site-header;
+  container-type: inline-size;
+  inline-size: 100%;
+  position: relative;
+  z-index: 0;
+
+  & > section {
+    background-color: inherit;
+    padding-block: var(--basis-space-block-lg);
+    padding-inline: var(--basis-space-inline-xl);
+    position: relative;
+  }
+
+  & > section > * {
+    margin-inline: auto;
+    max-inline-size: var(--ma-max-page-width);
+  }
+
+  & section:has(.ma-site-header__content) {
+    border-block-end: 1px solid var(--ma-color-paars-4);
+    z-index: 1;
+  }
+
+  & section:has(.ma-site-header__navigation) {
+    box-shadow: var(--basis-box-shadow-sm);
+    display: none;
+    z-index: -1;
+  }
+}
+
+.ma-site-header__content {
+  align-items: center;
+  column-gap: var(--basis-space-inline-xl);
+  display: grid;
+  grid-template-columns: 1fr 1fr 1fr;
+
+  & .ma-logo[data-version="visual"] {
+    margin-inline: auto;
+  }
+
+  & > :first-child,
+  & .ma-logo[data-version="text"] {
+    margin-inline-end: auto;
+  }
+
+  & > :last-child {
+    margin-inline-start: auto;
+  }
+
+  & .ma-logo[data-version="text"] {
+    display: none;
+  }
+}
+
+@container ma-site-header (width <= 700px) {
+  .ma-site-header__content {
+    & .utrecht-button {
+      --utrecht-button-padding-block-start: var(--basis-space-block-md);
+      --utrecht-button-padding-block-end: var(--basis-space-block-md);
+      --utrecht-button-padding-inline-start: var(--basis-space-inline-md);
+      --utrecht-button-padding-inline-end: var(--basis-space-inline-md);
+      --_utrecht-button-border-color: transparent;
+    }
+  }
+}
+
+@container ma-site-header (width > 700px) {
+  .ma-site-header > section {
+    padding-block: var(--basis-space-block-2xl);
+  }
+
+  .ma-site-header__content {
+    grid-template-columns: auto 1fr;
+
+    & .ma-logo[data-version="text"] {
+      display: unset;
+    }
+
+    & .ma-logo[data-version="visual"],
+    & [data-menu-trigger] {
+      display: none;
+    }
+  }
+
+  .ma-site-header section:has(.ma-site-header__navigation) {
+    display: block;
+  }
+}
