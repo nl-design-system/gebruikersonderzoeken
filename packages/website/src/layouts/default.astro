@@ -61,6 +61,6 @@ const cover = pageCover ?? fallbackCover;
   <body class="utrecht-body">
     <SiteHeader />
     <main><slot /></main>
-    <div set:html={logo} />
+    <div hidden set:html={logo} />
   </body>
 </html>
