@@ -30,6 +30,7 @@
     "@nl-design-system-community/ma-components": "workspace:*",
     "@nl-design-system-community/ma-design-tokens": "1.1.0",
     "@types/mdast": "4.0.4",
+    "@utrecht/component-library-react": "10.2.0",
     "@utrecht/heading-group-css": "1.5.1",
     "astro": "5.7.13",
     "vfile": "6.0.3"
@@ -37,9 +38,11 @@
   "devDependencies": {
     "@astrojs/react": "4.2.7",
     "@nl-design-system/tsconfig": "1.0.3",
+    "@tabler/icons-react": "3.34.0",
     "@types/react": "19.1.4",
     "@types/react-dom": "19.1.5",
     "@utrecht/body-css": "1.2.1",
+    "@utrecht/breadcrumb-nav-css": "1.5.0",
     "@utrecht/root-css": "1.2.1",
     "astro": "5.7.13",
     "react": "19.1.0",
