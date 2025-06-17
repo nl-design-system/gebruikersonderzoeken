@@ -8,6 +8,9 @@ export default defineConfig({
   build: {
     inlineStylesheets: 'never',
   },
+  devToolbar: {
+    enabled: false,
+  },
   integrations: [react()],
   markdown: {
     remarkPlugins: [coverPlugin],
