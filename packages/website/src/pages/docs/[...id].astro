@@ -1,10 +1,12 @@
 ---
+import { Breadcrumb } from '@components/breadcrumb/breadcumb';
 import Layout from '@layouts/default.astro';
 import { Menu } from '@nl-design-system-community/ma-components/local/menu/index.tsx';
 import { getCollection, render } from 'astro:content';
-import { getMenuItems } from '../../utils/menu';
+import { getMenuItems, getCurrentMenuItems } from '../../utils/menu';
 
 const menuItems = getMenuItems(Astro.url);
+const currentMenuItems = getCurrentMenuItems(menuItems);
 
 // 1. Generate a new path for every collection entry
 export async function getStaticPaths() {
@@ -43,6 +45,6 @@ const cover = onderzoek.data.cover ?? remarkPluginFrontmatter['cover'];
 
 <Layout canonical={Astro.url} title={onderzoek.data.title} cover={cover}>
   <Menu items={menuItems} />
-
+  <Breadcrumb items={currentMenuItems} />
   <Content />
 </Layout>
