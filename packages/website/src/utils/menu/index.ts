@@ -45,3 +45,26 @@ export function getMenuItems(currentUrl?: URL) {
 
   return clonedItems.map(markItem);
 }
+
+/**
+ * Get a list of the current `MenuItem`s
+ */
+export function getCurrentMenuItems(menu: MenuItem[]) {
+  const currentItems: MenuItem[] = [];
+
+  function findCurrentItem(items: MenuItem[]) {
+    const currentItem: MenuItem | undefined = items?.find((item) => item.current);
+
+    if (currentItem) {
+      currentItems.push(currentItem);
+    }
+
+    if (isFolder(currentItem)) {
+      findCurrentItem(currentItem.items);
+    }
+  }
+
+  findCurrentItem(menu);
+
+  return currentItems;
+}
