@@ -6,8 +6,15 @@
 
 import vercelConfig from '../../vercel.json' with { type: 'json' };
 
-const { key, value } = vercelConfig.headers[0].headers[0];
+const { key } = vercelConfig.headers[0].headers[0];
+let { value } = vercelConfig.headers[0].headers[0];
 
 if (key !== 'Content-Security-Policy') throw new Error('vercel.json is changed, CSP value not found');
+
+// Allow HMR styles and scripts from Vites dev server
+if (process.env['NODE_ENV'] === 'development') {
+  value += "style-src-elem 'self' 'unsafe-inline';";
+  value += "script-src-elem 'self' 'unsafe-inline';";
+}
 
 export const cspValue = value;
