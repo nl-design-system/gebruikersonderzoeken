@@ -1,6 +1,3 @@
-/* MA Design Token CSS */
-@import "@nl-design-system-community/ma-design-tokens/dist/theme.css";
-
 /* Styles from used components */
 @import "@utrecht/root-css/dist/index.css";
 @import "@utrecht/body-css/dist/index.css";
