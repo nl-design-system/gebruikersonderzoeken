@@ -1,6 +1,69 @@
 .ma-panel {
-  padding-block-end: var(--ma-space-block-end, 0);
-  padding-block-start: var(--ma-space-block-start, 0);
-  padding-inline-end: var(--ma-space-inline-end, 0);
-  padding-inline-start: var(--ma-space-inline-start, 0);
+  &[data-space-inline="2xs"] {
+    padding-inline: var(--basis-space-inline-2xs, 0);
+  }
+  &[data-space-inline="xs"] {
+    padding-inline: var(--basis-space-inline-xs, 0);
+  }
+  &[data-space-inline="sm"] {
+    padding-inline: var(--basis-space-inline-sm, 0);
+  }
+  &[data-space-inline="md"] {
+    padding-inline: var(--basis-space-inline-md, 0);
+  }
+  &[data-space-inline="lg"] {
+    padding-inline: var(--basis-space-inline-lg, 0);
+  }
+  &[data-space-inline="xl"] {
+    padding-inline: var(--basis-space-inline-xl, 0);
+  }
+  &[data-space-inline="2xl"] {
+    padding-inline: var(--basis-space-inline-2xl, 0);
+  }
+  &[data-space-inline="3xl"] {
+    padding-inline: var(--basis-space-inline-3xl, 0);
+  }
+  &[data-space-inline="4xl"] {
+    padding-inline: var(--basis-space-inline-4xl, 0);
+  }
+  &[data-space-inline="5xl"] {
+    padding-inline: var(--basis-space-inline-5xl, 0);
+  }
+  &[data-space-inline="6xl"] {
+    padding-inline: var(--basis-space-inline-6xl, 0);
+  }
+
+  &[data-space-block="2xs"] {
+    padding-block: var(--basis-space-block-2xs, 0);
+  }
+  &[data-space-block="xs"] {
+    padding-block: var(--basis-space-block-xs, 0);
+  }
+  &[data-space-block="sm"] {
+    padding-block: var(--basis-space-block-sm, 0);
+  }
+  &[data-space-block="md"] {
+    padding-block: var(--basis-space-block-md, 0);
+  }
+  &[data-space-block="lg"] {
+    padding-block: var(--basis-space-block-lg, 0);
+  }
+  &[data-space-block="xl"] {
+    padding-block: var(--basis-space-block-xl, 0);
+  }
+  &[data-space-block="2xl"] {
+    padding-block: var(--basis-space-block-2xl, 0);
+  }
+  &[data-space-block="3xl"] {
+    padding-block: var(--basis-space-block-3xl, 0);
+  }
+  &[data-space-block="4xl"] {
+    padding-block: var(--basis-space-block-4xl, 0);
+  }
+  &[data-space-block="5xl"] {
+    padding-block: var(--basis-space-block-5xl, 0);
+  }
+  &[data-space-block="6xl"] {
+    padding-block: var(--basis-space-block-6xl, 0);
+  }
 }
