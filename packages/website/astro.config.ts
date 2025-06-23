@@ -1,5 +1,5 @@
 import react from '@astrojs/react';
-// @ts-check
+import sitemap from '@astrojs/sitemap';
 import { defineConfig } from 'astro/config';
 import { coverPlugin } from './remark-cover-plugin.ts';
 
@@ -11,7 +11,13 @@ export default defineConfig({
   devToolbar: {
     enabled: false,
   },
-  integrations: [react()],
+  integrations: [
+    react(),
+    sitemap({
+      changefreq: 'weekly',
+      priority: 0.5,
+    }),
+  ],
   markdown: {
     remarkPlugins: [coverPlugin],
   },
