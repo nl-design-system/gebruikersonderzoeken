@@ -3,7 +3,7 @@ import { Breadcrumb } from '@components/breadcrumb/breadcumb';
 import Layout from '@layouts/default.astro';
 import { Menu } from '@nl-design-system-community/ma-components/local/menu/index.tsx';
 import { getCollection, render } from 'astro:content';
-import { getMenuItems, getCurrentMenuItems } from '../../utils/menu';
+import { getMenuItems, getCurrentMenuItems, toCleanRoute } from '../../utils/menu';
 
 const menuItems = getMenuItems(Astro.url);
 const currentMenuItems = getCurrentMenuItems(menuItems);
@@ -13,15 +13,7 @@ export async function getStaticPaths() {
   const onderzoeken = await getCollection('onderzoeken')
     .then((onderzoeken) =>
       onderzoeken.map((onderzoek) => {
-        const id = onderzoek.id
-          // The docs folder has one folder with a space in it. Astro slugifies
-          // that, but Docusaurus left that as is. We need to convert urls to
-          // that folder back to the legacy way of working to keep the urls the
-          // same
-          .replace('5-18-jaar-worden', '5-18-jaar worden')
-
-          // Transform README routes to index routes
-          .replace('/readme', '');
+        const id = toCleanRoute(onderzoek.id);
 
         return {
           ...onderzoek,

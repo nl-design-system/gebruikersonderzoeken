@@ -13,6 +13,7 @@ import type { MenuItemFolder, MenuItemPage } from '@nl-design-system-community/m
 import { parseFrontmatter } from '@astrojs/markdown-remark';
 import { readdir, lstat, readFile } from 'node:fs/promises';
 import path from 'node:path';
+import { toCleanRoute } from './to-clean-route.ts';
 
 interface Folder extends MenuItemFolder {
   parentId?: string;
@@ -87,7 +88,8 @@ async function buildPage(path: string): Promise<Page> {
   const contents = await readFile(`${DOCS_DIR}${path}`, { encoding: 'utf-8' });
   const { frontmatter } = parseFrontmatter(contents);
 
-  const id = path.replace('.md', '').replace('/README', '');
+  const id = toCleanRoute(path);
+
   const label = frontmatter?.['pagination_label'] ?? frontmatter?.['title'] ?? getLabelFromPath(path);
   const slug = frontmatter['slug'] ? `/docs${frontmatter?.['slug']}` : `/docs/${id}`;
 
