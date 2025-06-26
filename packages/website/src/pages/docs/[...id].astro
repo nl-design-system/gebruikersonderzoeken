@@ -1,8 +1,10 @@
 ---
 import { Breadcrumb } from '@components/breadcrumb/breadcumb';
 import { RespondToOnderzoek } from '@components/respond-to-onderzoek/respond-to-onderzoek';
+import { TagList } from '@components/tag-list/tag-list';
 import Layout from '@layouts/default.astro';
 import { Menu } from '@nl-design-system-community/ma-components/local/menu/index.tsx';
+import { getTags } from '@utils/tags';
 import { getCollection, render } from 'astro:content';
 import { getMenuItems, getCurrentMenuItems, toCleanRoute } from '../../utils/menu';
 
@@ -35,11 +37,13 @@ const { onderzoek } = Astro.props;
 const { Content, remarkPluginFrontmatter } = await render(onderzoek);
 const cover = onderzoek.data.cover ?? remarkPluginFrontmatter['cover'];
 const filePath = onderzoek.filePath;
+const tags = await getTags(onderzoek.data.tags);
 ---
 
 <Layout canonical={Astro.url} title={onderzoek.data.title} cover={cover}>
   <Menu items={menuItems} />
   <Breadcrumb items={currentMenuItems} />
+  <TagList tags={tags} />
   <Content />
   <RespondToOnderzoek filePath={filePath} />
 </Layout>
