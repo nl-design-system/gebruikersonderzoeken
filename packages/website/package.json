@@ -24,6 +24,7 @@
     "@astrojs/markdown-remark": "6.3.2",
     "@astrojs/sitemap": "3.4.1",
     "@astrojs/ts-plugin": "1.10.4",
+    "@nl-design-system-candidate/data-badge-css": "1.0.2",
     "@nl-design-system-candidate/heading-css": "1.1.0",
     "@nl-design-system-candidate/heading-react": "1.1.2",
     "@nl-design-system-candidate/link-css": "2.0.0",

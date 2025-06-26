@@ -157,6 +157,9 @@ importers:
       '@astrojs/ts-plugin':
         specifier: 1.10.4
         version: 1.10.4
+      '@nl-design-system-candidate/data-badge-css':
+        specifier: 1.0.2
+        version: 1.0.2
       '@nl-design-system-candidate/heading-css':
         specifier: 1.1.0
         version: 1.1.0
@@ -1881,6 +1884,9 @@ packages:
 
   '@module-federation/webpack-bundler-runtime@0.8.4':
     resolution: {integrity: sha512-HggROJhvHPUX7uqBD/XlajGygMNM1DG0+4OAkk8MBQe4a18QzrRNzZt6XQbRTSG4OaEoyRWhQHvYD3Yps405tQ==}
+
+  '@nl-design-system-candidate/data-badge-css@1.0.2':
+    resolution: {integrity: sha512-504WE8ZS/9fYpTa8b9KqMwO7Is1DfZVydZVnfQDBTji85TJ6jpVy9R+sXIJz+kAce6gcUACBRFjaFJusKd+Dvg==}
 
   '@nl-design-system-candidate/heading-css@1.1.0':
     resolution: {integrity: sha512-qld3Uja10vurQPjRqYrSoisQGdGMfG2uiKB3JxNtIxauGZjiCex0Hbo2KqROan96egZEVlCmc6dZHU0T4I5H8w==}
@@ -10967,6 +10973,8 @@ snapshots:
     dependencies:
       '@module-federation/runtime': 0.8.4
       '@module-federation/sdk': 0.8.4
+
+  '@nl-design-system-candidate/data-badge-css@1.0.2': {}
 
   '@nl-design-system-candidate/heading-css@1.1.0': {}
 
