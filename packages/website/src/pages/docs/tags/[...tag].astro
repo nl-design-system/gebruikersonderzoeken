@@ -1,0 +1,44 @@
+---
+import Layout from '@layouts/default.astro';
+import { toCleanRoute } from '@utils/menu';
+import { getTagIds, getTag } from '@utils/tags';
+
+export async function getStaticPaths() {
+  const tagIds = await getTagIds();
+
+  return Promise.all(
+    [...tagIds].map(async (tagId) => ({
+      params: { tag: tagId },
+      props: { tag: await getTag(tagId) },
+    })),
+  );
+}
+
+const { tag } = Astro.props;
+---
+
+<Layout canonical={Astro.url} title={tag.label}>
+  {
+    tag.onderzoeken.length > 1 ? (
+      <h1 class="nl-heading nl-heading--level-1">
+        {tag.onderzoeken.length} getagged met "{tag.label}"
+      </h1>
+    ) : (
+      <h1 class="nl-heading nl-heading--level-1">Een artikel getagged met "{tag.label}"</h1>
+    )
+  }
+
+  <a class="nl-link" href="/docs/tags">Laat alle tags zien</a>
+  <ul>
+    {
+      tag.onderzoeken.map((onderzoek) => (
+        <li>
+          <a class="nl-link" href={`/docs/${toCleanRoute(onderzoek.id)}`}>
+            {onderzoek.data.title}
+          </a>
+          <span>{onderzoek.data.description}</span>
+        </li>
+      ))
+    }
+  </ul>
+</Layout>
