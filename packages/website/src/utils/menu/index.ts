@@ -5,7 +5,7 @@ import type {
 } from '@nl-design-system-community/ma-components/local/menu/index.tsx';
 import { isPage, isFolder } from '@nl-design-system-community/ma-components/local/menu/index.tsx';
 import { getMenuStructure } from './_build-menu-structure.ts';
-export { toCleanRoute } from './to-clean-route.ts';
+export { toCleanRoute, toCleanTag } from './to-clean-route.ts';
 
 const menuItems = await getMenuStructure();
 

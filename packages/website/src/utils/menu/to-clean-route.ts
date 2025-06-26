@@ -34,3 +34,11 @@ export function toCleanRoute(path: string) {
       .replace('18-jaar-worden', '18-jaar worden')
   );
 }
+
+/**
+ * In the tag b1, docusaurus adds a dash between `b` and `1`, we need to mimic
+ * that behaviour for the urls to match
+ */
+export function toCleanTag(tag: string) {
+  return tag.replace(/^b1$/, 'b-1');
+}
