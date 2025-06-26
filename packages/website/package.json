@@ -32,6 +32,7 @@
     "@nl-design-system-candidate/paragraph-react": "2.1.2",
     "@nl-design-system-community/ma-components": "workspace:*",
     "@nl-design-system-community/ma-design-tokens": "1.1.0",
+    "@sindresorhus/slugify": "2.2.1",
     "@types/mdast": "4.0.4",
     "@utrecht/component-library-react": "10.2.0",
     "@utrecht/heading-group-css": "1.5.1",
