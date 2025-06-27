@@ -1,0 +1,25 @@
+---
+import Layout from '@layouts/default.astro';
+import { getTagIds, getTag } from '@utils/tags';
+
+const tagIds = await getTagIds();
+---
+
+<Layout canonical={Astro.url} title="TAG">
+  <h1 class="nl-heading nl-heading--level-1">Tags</h1>
+
+  <ul>
+    {
+      tagIds.map(async (tagId) => {
+        const tag = await getTag(tagId);
+        return (
+          <li>
+            <a class="nl-link" href={tag.slug}>
+              {tag.label} ({tag.onderzoeken.length})
+            </a>
+          </li>
+        );
+      })
+    }
+  </ul>
+</Layout>
