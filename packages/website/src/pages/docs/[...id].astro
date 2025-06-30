@@ -1,5 +1,6 @@
 ---
 import { Breadcrumb } from '@components/breadcrumb/breadcumb';
+import { RespondToOnderzoek } from '@components/respond-to-onderzoek/respond-to-onderzoek';
 import Layout from '@layouts/default.astro';
 import { Menu } from '@nl-design-system-community/ma-components/local/menu/index.tsx';
 import { getCollection, render } from 'astro:content';
@@ -33,10 +34,12 @@ export async function getStaticPaths() {
 const { onderzoek } = Astro.props;
 const { Content, remarkPluginFrontmatter } = await render(onderzoek);
 const cover = onderzoek.data.cover ?? remarkPluginFrontmatter['cover'];
+const filePath = onderzoek.filePath;
 ---
 
 <Layout canonical={Astro.url} title={onderzoek.data.title} cover={cover}>
   <Menu items={menuItems} />
   <Breadcrumb items={currentMenuItems} />
   <Content />
+  <RespondToOnderzoek filePath={filePath} />
 </Layout>

@@ -1,0 +1,8 @@
+.ma-respond-to-onderzoek {
+  border-block-start: 1px solid var(--ma-color-paars-4);
+  display: flex;
+  flex-direction: column;
+  padding-block-end: var(--basis-space-block-3xl);
+  padding-block-start: var(--basis-space-block-5xl);
+  row-gap: var(--basis-space-row-3xl);
+}
