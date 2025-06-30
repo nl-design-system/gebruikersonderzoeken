@@ -4,6 +4,7 @@
 @import "@utrecht/heading-group-css/dist/index.css";
 @import "@nl-design-system-candidate/heading-css/heading.css";
 @import "@nl-design-system-candidate/paragraph-css/paragraph.css";
+@import "@nl-design-system-candidate/link-css/link.css";
 
 .ma-theme {
   /* @TODO: When this value is included in ma-design-tokens, remove thise lines */
