@@ -1,11 +1,11 @@
 /* Styles from used components */
-@import "@utrecht/root-css/dist/index.css";
-@import "@utrecht/body-css/dist/index.css";
-@import "@utrecht/heading-group-css/dist/index.css";
-@import "@nl-design-system-candidate/heading-css/heading.css";
-@import "@nl-design-system-candidate/paragraph-css/paragraph.css";
-@import "@nl-design-system-candidate/link-css/link.css";
 @import "@nl-design-system-candidate/data-badge-css/data-badge.css";
+@import "@nl-design-system-candidate/heading-css/heading.css";
+@import "@nl-design-system-candidate/link-css/link.css";
+@import "@nl-design-system-candidate/paragraph-css/paragraph.css";
+@import "@utrecht/body-css/dist/index.min.css";
+@import "@utrecht/heading-group-css/dist/index.min.css";
+@import "@utrecht/root-css/dist/index.min.css";
 
 .ma-theme {
   /* @TODO: When this value is included in ma-design-tokens, remove thise lines */
