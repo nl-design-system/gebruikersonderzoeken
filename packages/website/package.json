@@ -37,7 +37,8 @@
     "@types/mdast": "4.0.4",
     "@utrecht/component-library-react": "10.2.0",
     "@utrecht/heading-group-css": "1.5.1",
-    "@utrecht/ordered-list-css": "1.5.2"
+    "@utrecht/ordered-list-css": "1.5.2",
+    "@utrecht/unordered-list-css": "1.5.1"
   },
   "devDependencies": {
     "@astrojs/react": "4.2.7",
