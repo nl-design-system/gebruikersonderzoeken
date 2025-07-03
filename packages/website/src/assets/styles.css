@@ -5,6 +5,7 @@
 @import "@nl-design-system-candidate/paragraph-css/paragraph.css";
 @import "@utrecht/body-css/dist/index.min.css";
 @import "@utrecht/heading-group-css/dist/index.min.css";
+@import "@utrecht/ordered-list-css/dist/index.min.css";
 @import "@utrecht/root-css/dist/index.min.css";
 
 .ma-theme {
