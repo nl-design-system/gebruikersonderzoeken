@@ -196,6 +196,9 @@ importers:
       '@utrecht/heading-group-css':
         specifier: 1.5.1
         version: 1.5.1
+      '@utrecht/ordered-list-css':
+        specifier: 1.5.2
+        version: 1.5.2
       astro:
         specifier: 5.7.13
         version: 5.7.13(@types/node@22.15.3)(jiti@1.21.7)(lightningcss@1.29.1)(rollup@4.40.2)(terser@5.37.0)(typescript@5.8.3)(yaml@2.7.1)
