@@ -190,6 +190,9 @@ importers:
       '@types/mdast':
         specifier: 4.0.4
         version: 4.0.4
+      '@utrecht/blockquote-css':
+        specifier: 1.6.1
+        version: 1.6.1
       '@utrecht/component-library-react':
         specifier: 10.2.0
         version: 10.2.0(@babel/runtime@7.27.0)(date-fns@2.30.0)(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
