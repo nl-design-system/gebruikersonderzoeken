@@ -37,13 +37,13 @@
     "@types/mdast": "4.0.4",
     "@utrecht/component-library-react": "10.2.0",
     "@utrecht/heading-group-css": "1.5.1",
-    "astro": "5.7.13",
-    "vfile": "6.0.3"
+    "astro": "5.7.13"
   },
   "devDependencies": {
     "@astrojs/react": "4.2.7",
     "@nl-design-system/tsconfig": "1.0.3",
     "@tabler/icons-react": "3.34.0",
+    "@types/hast": "3.0.4",
     "@types/react": "19.1.4",
     "@types/react-dom": "19.1.5",
     "@utrecht/body-css": "1.2.1",
@@ -52,6 +52,7 @@
     "astro": "5.7.13",
     "postcss": "8.5.3",
     "react": "19.1.0",
-    "react-dom": "19.1.0"
+    "react-dom": "19.1.0",
+    "vfile": "6.0.3"
   }
 }
