@@ -7,6 +7,7 @@
 @import "@utrecht/heading-group-css/dist/index.min.css";
 @import "@utrecht/ordered-list-css/dist/index.min.css";
 @import "@utrecht/root-css/dist/index.min.css";
+@import "@utrecht/unordered-list-css/dist/index.min.css";
 
 .ma-theme {
   /* @TODO: When this value is included in ma-design-tokens, remove thise lines */
