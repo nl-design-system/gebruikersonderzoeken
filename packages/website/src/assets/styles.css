@@ -30,4 +30,15 @@
   /* The maximum width of elements containing content. Usually the padding of
    * these elements limit the with of the actual content further */
   --ma-max-page-content-width: 848px;
+
+  /** The padding around page content */
+  --ma-page-content-space-block: var(--basis-space-block-xl);
+  --ma-page-content-space-inline: var(--basis-space-inline-xl);
+}
+
+@media (width > 768px) {
+  .ma-theme {
+    --ma-page-content-space-block: var(--basis-space-block-5xl);
+    --ma-page-content-space-inline: var(--basis-space-inline-5xl);
+  }
 }
