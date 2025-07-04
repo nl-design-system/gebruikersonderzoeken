@@ -4,6 +4,7 @@ import { blockquote } from './blockquote.ts';
 import { code } from './code.ts';
 import { emphasis } from './emphasis.ts';
 import { heading } from './heading.ts';
+import { hr } from './hr.ts';
 
 /**
  * A rehype plugin to transform HTML generated from Markdown so that it uses
@@ -16,6 +17,7 @@ export function nldsComponentsPlugin() {
       code(node, parent);
       emphasis(node);
       heading(node);
+      hr(node);
     });
   };
 }
