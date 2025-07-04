@@ -9,6 +9,7 @@ import { image } from './image.ts';
 import { link } from './link.ts';
 import { orderedList } from './ordered-list.ts';
 import { paragraph } from './paragraph.ts';
+import { pre } from './pre.ts';
 
 /**
  * A rehype plugin to transform HTML generated from Markdown so that it uses
@@ -26,6 +27,7 @@ export function nldsComponentsPlugin() {
       link(node);
       orderedList(node);
       paragraph(node);
+      pre(node);
     });
   };
 }
