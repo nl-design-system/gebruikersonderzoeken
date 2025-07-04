@@ -1,5 +1,6 @@
 import type { Root } from 'hast';
 import { visit } from 'unist-util-visit'
+import { blockquote } from './blockquote.ts';
 
 /**
  * A rehype plugin to transform HTML generated from Markdown so that it uses
@@ -8,6 +9,7 @@ import { visit } from 'unist-util-visit'
 export function nldsComponentsPlugin() {
   return function transform(tree: Root): void {
     visit(tree, 'element', function(node, _index, parent) {
+      blockquote(node)
     })
   };
 }
