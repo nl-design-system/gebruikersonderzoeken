@@ -5,6 +5,7 @@ import { code } from './code.ts';
 import { emphasis } from './emphasis.ts';
 import { heading } from './heading.ts';
 import { hr } from './hr.ts';
+import { image } from './image.ts';
 
 /**
  * A rehype plugin to transform HTML generated from Markdown so that it uses
@@ -18,6 +19,7 @@ export function nldsComponentsPlugin() {
       emphasis(node);
       heading(node);
       hr(node);
+      image(node);
     });
   };
 }
