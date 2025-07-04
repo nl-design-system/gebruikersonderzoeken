@@ -53,6 +53,7 @@
     "postcss": "8.5.3",
     "react": "19.1.0",
     "react-dom": "19.1.0",
+    "unist-util-visit": "5.0.0",
     "vfile": "6.0.3"
   }
 }
