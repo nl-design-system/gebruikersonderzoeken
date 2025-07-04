@@ -7,6 +7,7 @@ import { heading } from './heading.ts';
 import { hr } from './hr.ts';
 import { image } from './image.ts';
 import { link } from './link.ts';
+import { orderedList } from './ordered-list.ts';
 
 /**
  * A rehype plugin to transform HTML generated from Markdown so that it uses
@@ -14,7 +15,7 @@ import { link } from './link.ts';
  */
 export function nldsComponentsPlugin() {
   return function transform(tree: Root): void {
-    visit(tree, 'element', function (node, _index, parent) {
+    visit(tree, 'element', function(node, _index, parent) {
       blockquote(node);
       code(node, parent);
       emphasis(node);
@@ -22,6 +23,7 @@ export function nldsComponentsPlugin() {
       hr(node);
       image(node);
       link(node);
+      orderedList(node);
     });
   };
 }
