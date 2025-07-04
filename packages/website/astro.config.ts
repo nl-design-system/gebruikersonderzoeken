@@ -1,7 +1,8 @@
 import react from '@astrojs/react';
 import sitemap from '@astrojs/sitemap';
 import { defineConfig } from 'astro/config';
-import { coverPlugin } from './remark-cover-plugin.ts';
+import { nldsComponentsPlugin } from './markdown-plugins/rehype-nlds-components/index.ts';
+import { coverPlugin } from './markdown-plugins/remark-cover/index.ts';
 
 // https://astro.build/config
 export default defineConfig({
@@ -19,6 +20,7 @@ export default defineConfig({
     }),
   ],
   markdown: {
+    rehypePlugins: [nldsComponentsPlugin],
     remarkPlugins: [coverPlugin],
   },
   site: 'https://gebruikersonderzoeken.nl',

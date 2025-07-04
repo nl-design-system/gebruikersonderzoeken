@@ -1,11 +1,20 @@
 /* Styles from used components */
-@import "@utrecht/root-css/dist/index.css";
-@import "@utrecht/body-css/dist/index.css";
-@import "@utrecht/heading-group-css/dist/index.css";
-@import "@nl-design-system-candidate/heading-css/heading.css";
-@import "@nl-design-system-candidate/paragraph-css/paragraph.css";
-@import "@nl-design-system-candidate/link-css/link.css";
 @import "@nl-design-system-candidate/data-badge-css/data-badge.css";
+@import "@nl-design-system-candidate/heading-css/heading.css";
+@import "@nl-design-system-candidate/link-css/link.css";
+@import "@nl-design-system-candidate/paragraph-css/paragraph.css";
+@import "@utrecht/blockquote-css/dist/index.min.css";
+@import "@utrecht/body-css/dist/index.min.css";
+@import "@utrecht/emphasis-css/dist/index.min.css";
+@import "@utrecht/separator-css/dist/index.min.css";
+@import "@utrecht/heading-group-css/dist/index.min.css";
+@import "@utrecht/img-css/dist/index.min.css";
+@import "@utrecht/ordered-list-css/dist/index.min.css";
+@import "@utrecht/root-css/dist/index.min.css";
+@import "@utrecht/unordered-list-css/dist/index.min.css";
+
+/* Styles from local components */
+@import "./strong.css";
 
 .ma-theme {
   /* @TODO: When this value is included in ma-design-tokens, remove thise lines */
@@ -21,4 +30,15 @@
   /* The maximum width of elements containing content. Usually the padding of
    * these elements limit the with of the actual content further */
   --ma-max-page-content-width: 848px;
+
+  /** The padding around page content */
+  --ma-page-content-space-block: var(--basis-space-block-xl);
+  --ma-page-content-space-inline: var(--basis-space-inline-xl);
+}
+
+@media (width > 768px) {
+  .ma-theme {
+    --ma-page-content-space-block: var(--basis-space-block-5xl);
+    --ma-page-content-space-inline: var(--basis-space-inline-5xl);
+  }
 }
