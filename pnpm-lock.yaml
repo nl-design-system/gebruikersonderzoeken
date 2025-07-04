@@ -196,6 +196,9 @@ importers:
       '@utrecht/component-library-react':
         specifier: 10.2.0
         version: 10.2.0(@babel/runtime@7.27.0)(date-fns@2.30.0)(react-dom@19.1.0(react@19.1.0))(react@19.1.0)
+      '@utrecht/emphasis-css':
+        specifier: 1.5.1
+        version: 1.5.1
       '@utrecht/heading-group-css':
         specifier: 1.5.1
         version: 1.5.1
