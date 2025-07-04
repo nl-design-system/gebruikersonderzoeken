@@ -11,6 +11,7 @@ import { orderedList } from './ordered-list.ts';
 import { paragraph } from './paragraph.ts';
 import { pre } from './pre.ts';
 import { strong } from './strong.ts';
+import { unorderedList } from './unordered-list.ts';
 
 /**
  * A rehype plugin to transform HTML generated from Markdown so that it uses
@@ -18,7 +19,7 @@ import { strong } from './strong.ts';
  */
 export function nldsComponentsPlugin() {
   return function transform(tree: Root): void {
-    visit(tree, 'element', function(node, _index, parent) {
+    visit(tree, 'element', function (node, _index, parent) {
       blockquote(node);
       code(node, parent);
       emphasis(node);
@@ -30,6 +31,7 @@ export function nldsComponentsPlugin() {
       paragraph(node);
       pre(node);
       strong(node);
+      unorderedList(node);
     });
   };
 }
