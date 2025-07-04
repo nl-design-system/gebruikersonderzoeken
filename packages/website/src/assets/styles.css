@@ -13,6 +13,9 @@
 @import "@utrecht/root-css/dist/index.min.css";
 @import "@utrecht/unordered-list-css/dist/index.min.css";
 
+/* Styles from local components */
+@import "./strong.css";
+
 .ma-theme {
   /* @TODO: When this value is included in ma-design-tokens, remove thise lines */
   --basis-color-accent-1-color-default: var(--ma-color-paars-10);
