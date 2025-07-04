@@ -1,5 +1,6 @@
 ---
 import { Breadcrumb } from '@components/breadcrumb/breadcumb';
+import { ContentWrapper } from '@components/content-wrapper/content-wrapper';
 import { RespondToOnderzoek } from '@components/respond-to-onderzoek/respond-to-onderzoek';
 import { TagList } from '@components/tag-list/tag-list';
 import Layout from '@layouts/default.astro';
@@ -44,6 +45,8 @@ const tags = await getTags(onderzoek.data.tags);
   <Menu items={menuItems} />
   <Breadcrumb items={currentMenuItems} />
   <TagList tags={tags} />
-  <Content />
+  <ContentWrapper>
+    <Content />
+  </ContentWrapper>
   <RespondToOnderzoek filePath={filePath} />
 </Layout>
