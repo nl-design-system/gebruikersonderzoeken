@@ -208,6 +208,9 @@ importers:
       '@utrecht/ordered-list-css':
         specifier: 1.5.2
         version: 1.5.2
+      '@utrecht/separator-css':
+        specifier: 1.5.1
+        version: 1.5.1
       '@utrecht/unordered-list-css':
         specifier: 1.5.1
         version: 1.5.1
