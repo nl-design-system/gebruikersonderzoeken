@@ -1,0 +1,3 @@
+.ma-strong {
+  font-weight: var(--ma-strong-font-weight, bold);
+}
