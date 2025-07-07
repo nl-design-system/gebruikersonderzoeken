@@ -217,10 +217,10 @@ importers:
     devDependencies:
       '@astrojs/react':
         specifier: 4.2.7
-        version: 4.2.7(@types/node@22.15.3)(@types/react-dom@19.1.5(@types/react@19.1.4))(@types/react@19.1.4)(react-dom@19.1.0(react@19.1.0))(react@19.1.0)(yaml@2.7.1)
+        version: 4.2.7(@types/node@22.15.3)(@types/react-dom@19.1.5(@types/react@19.1.4))(@types/react@19.1.4)(jiti@1.21.7)(lightningcss@1.29.1)(react-dom@19.1.0(react@19.1.0))(react@19.1.0)(terser@5.37.0)(yaml@2.7.1)
       '@nl-design-system/tsconfig':
         specifier: 1.0.3
-        version: 1.0.3
+        version: 1.0.3(typescript@5.8.3)
       '@tabler/icons-react':
         specifier: 3.34.0
         version: 3.34.0(react@19.1.0)
@@ -7229,9 +7229,6 @@ packages:
   remark-parse@11.0.0:
     resolution: {integrity: sha512-FCxlKLNGknS5ba/1lmpYijMUzX2esxW5xQqjWxw2eHFfS2MSdaHVINFmhjo+qN1WhZhNimq0dZATN9pH0IDrpA==}
 
-  remark-rehype@11.1.1:
-    resolution: {integrity: sha512-g/osARvjkBXb6Wo0XvAeXQohVta8i84ACbenPpoSsxTOQH/Ae0/RGP4WZgnMH5pMLpsj4FG7OHmcIcXxpza8eQ==}
-
   remark-rehype@11.1.2:
     resolution: {integrity: sha512-Dh7l57ianaEoIpzbp0PC9UKAdCSVklD8E5Rpw7ETfbTl3FqcOOgq5q2LVDhgGCkaBv7p24JXikPdvhhmHvKMsw==}
 
@@ -8644,7 +8641,7 @@ snapshots:
       rehype-stringify: 10.0.1
       remark-gfm: 4.0.1
       remark-parse: 11.0.0
-      remark-rehype: 11.1.1
+      remark-rehype: 11.1.2
       remark-smartypants: 3.0.2
       shiki: 3.4.2
       smol-toml: 1.3.4
@@ -8684,21 +8681,21 @@ snapshots:
 
   '@astrojs/prism@3.2.0':
     dependencies:
-      prismjs: 1.29.0
+      prismjs: 1.30.0
 
   '@astrojs/prism@3.3.0':
     dependencies:
       prismjs: 1.30.0
 
-  '@astrojs/react@4.2.7(@types/node@22.15.3)(@types/react-dom@19.1.5(@types/react@19.1.4))(@types/react@19.1.4)(react-dom@19.1.0(react@19.1.0))(react@19.1.0)(yaml@2.7.1)':
+  '@astrojs/react@4.2.7(@types/node@22.15.3)(@types/react-dom@19.1.5(@types/react@19.1.4))(@types/react@19.1.4)(jiti@1.21.7)(lightningcss@1.29.1)(react-dom@19.1.0(react@19.1.0))(react@19.1.0)(terser@5.37.0)(yaml@2.7.1)':
     dependencies:
       '@types/react': 19.1.4
       '@types/react-dom': 19.1.5(@types/react@19.1.4)
-      '@vitejs/plugin-react': 4.4.1(vite@6.3.5(@types/node@22.15.3)(yaml@2.7.1))
+      '@vitejs/plugin-react': 4.4.1(vite@6.3.5(@types/node@22.15.3)(jiti@1.21.7)(lightningcss@1.29.1)(terser@5.37.0)(yaml@2.7.1))
       react: 19.1.0
       react-dom: 19.1.0(react@19.1.0)
       ultrahtml: 1.6.0
-      vite: 6.3.5(@types/node@22.15.3)(yaml@2.7.1)
+      vite: 6.3.5(@types/node@22.15.3)(jiti@1.21.7)(lightningcss@1.29.1)(terser@5.37.0)(yaml@2.7.1)
     transitivePeerDependencies:
       - '@types/node'
       - jiti
@@ -11071,7 +11068,9 @@ snapshots:
       - supports-color
       - typescript
 
-  '@nl-design-system/tsconfig@1.0.3': {}
+  '@nl-design-system/tsconfig@1.0.3(typescript@5.8.3)':
+    dependencies:
+      typescript: 5.8.3
 
   '@nodelib/fs.scandir@2.1.5':
     dependencies:
@@ -12394,14 +12393,14 @@ snapshots:
 
   '@utrecht/vega-visualization-css@1.4.1': {}
 
-  '@vitejs/plugin-react@4.4.1(vite@6.3.5(@types/node@22.15.3)(yaml@2.7.1))':
+  '@vitejs/plugin-react@4.4.1(vite@6.3.5(@types/node@22.15.3)(jiti@1.21.7)(lightningcss@1.29.1)(terser@5.37.0)(yaml@2.7.1))':
     dependencies:
       '@babel/core': 7.27.1
       '@babel/plugin-transform-react-jsx-self': 7.27.1(@babel/core@7.27.1)
       '@babel/plugin-transform-react-jsx-source': 7.27.1(@babel/core@7.27.1)
       '@types/babel__core': 7.20.5
       react-refresh: 0.17.0
-      vite: 6.3.5(@types/node@22.15.3)(yaml@2.7.1)
+      vite: 6.3.5(@types/node@22.15.3)(jiti@1.21.7)(lightningcss@1.29.1)(terser@5.37.0)(yaml@2.7.1)
     transitivePeerDependencies:
       - supports-color
 
@@ -12705,7 +12704,7 @@ snapshots:
     transitivePeerDependencies:
       - supports-color
 
-  astro@5.7.13(@types/node@22.15.3)(rollup@4.40.2)(yaml@2.7.1):
+  astro@5.7.13(@types/node@22.15.3)(jiti@1.21.7)(lightningcss@1.29.1)(rollup@4.40.2)(terser@5.37.0)(typescript@5.8.3)(yaml@2.7.1):
     dependencies:
       '@astrojs/compiler': 2.12.0
       '@astrojs/internal-helpers': 0.6.1
@@ -12753,20 +12752,20 @@ snapshots:
       shiki: 3.4.2
       tinyexec: 0.3.2
       tinyglobby: 0.2.13
-      tsconfck: 3.1.5
+      tsconfck: 3.1.5(typescript@5.8.3)
       ultrahtml: 1.6.0
       unifont: 0.5.0
       unist-util-visit: 5.0.0
       unstorage: 1.16.0
       vfile: 6.0.3
-      vite: 6.3.5(@types/node@22.15.3)(yaml@2.7.1)
-      vitefu: 1.0.6(vite@6.3.5(@types/node@22.15.3)(yaml@2.7.1))
+      vite: 6.3.5(@types/node@22.15.3)(jiti@1.21.7)(lightningcss@1.29.1)(terser@5.37.0)(yaml@2.7.1)
+      vitefu: 1.0.6(vite@6.3.5(@types/node@22.15.3)(jiti@1.21.7)(lightningcss@1.29.1)(terser@5.37.0)(yaml@2.7.1))
       xxhash-wasm: 1.1.0
       yargs-parser: 21.1.1
       yocto-spinner: 0.2.2
       zod: 3.24.3
       zod-to-json-schema: 3.24.5(zod@3.24.3)
-      zod-to-ts: 1.2.0(zod@3.24.3)
+      zod-to-ts: 1.2.0(typescript@5.8.3)(zod@3.24.3)
     optionalDependencies:
       sharp: 0.33.5
     transitivePeerDependencies:
@@ -15458,8 +15457,8 @@ snapshots:
 
   magicast@0.3.5:
     dependencies:
-      '@babel/parser': 7.26.7
-      '@babel/types': 7.26.7
+      '@babel/parser': 7.27.2
+      '@babel/types': 7.27.1
       source-map-js: 1.2.1
 
   map-obj@1.0.1: {}
@@ -17364,14 +17363,6 @@ snapshots:
     transitivePeerDependencies:
       - supports-color
 
-  remark-rehype@11.1.1:
-    dependencies:
-      '@types/hast': 3.0.4
-      '@types/mdast': 4.0.4
-      mdast-util-to-hast: 13.2.0
-      unified: 11.0.5
-      vfile: 6.0.3
-
   remark-rehype@11.1.2:
     dependencies:
       '@types/hast': 3.0.4
@@ -18239,7 +18230,9 @@ snapshots:
     dependencies:
       typescript: 5.8.3
 
-  tsconfck@3.1.5: {}
+  tsconfck@3.1.5(typescript@5.8.3):
+    optionalDependencies:
+      typescript: 5.8.3
 
   tslib@2.8.1: {}
 
@@ -18521,7 +18514,7 @@ snapshots:
       '@types/unist': 3.0.3
       vfile-message: 4.0.2
 
-  vite@6.3.5(@types/node@22.15.3)(yaml@2.7.1):
+  vite@6.3.5(@types/node@22.15.3)(jiti@1.21.7)(lightningcss@1.29.1)(terser@5.37.0)(yaml@2.7.1):
     dependencies:
       esbuild: 0.25.4
       fdir: 6.4.4(picomatch@4.0.2)
@@ -18532,11 +18525,14 @@ snapshots:
     optionalDependencies:
       '@types/node': 22.15.3
       fsevents: 2.3.3
+      jiti: 1.21.7
+      lightningcss: 1.29.1
+      terser: 5.37.0
       yaml: 2.7.1
 
-  vitefu@1.0.6(vite@6.3.5(@types/node@22.15.3)(yaml@2.7.1)):
+  vitefu@1.0.6(vite@6.3.5(@types/node@22.15.3)(jiti@1.21.7)(lightningcss@1.29.1)(terser@5.37.0)(yaml@2.7.1)):
     optionalDependencies:
-      vite: 6.3.5(@types/node@22.15.3)(yaml@2.7.1)
+      vite: 6.3.5(@types/node@22.15.3)(jiti@1.21.7)(lightningcss@1.29.1)(terser@5.37.0)(yaml@2.7.1)
 
   vscode-languageserver-textdocument@1.0.12: {}
 
@@ -18824,8 +18820,9 @@ snapshots:
     dependencies:
       zod: 3.24.3
 
-  zod-to-ts@1.2.0(zod@3.24.3):
+  zod-to-ts@1.2.0(typescript@5.8.3)(zod@3.24.3):
     dependencies:
+      typescript: 5.8.3
       zod: 3.24.3
 
   zod@3.24.3: {}
