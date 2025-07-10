@@ -27,8 +27,7 @@ tags:
 
 ![Het design van het publicatieportaal van Tilburg](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/tilburg-publicatieportaal__design-publicatieportaal.jpeg)
 
-
-*Onderzoek uitgevoerd in 2025 door de Gemeente Tilburg.*
+_Onderzoek uitgevoerd in 2025 door de Gemeente Tilburg._
 
 **Samegevat: Gemeente Tilburg heeft met 18 testgebruikers (inwoners, externe en interne professionals) het nieuwe publicatieplatform voor de Wet open overheid getest. Het onderzoek toont aan dat het platform gebruiksvriendelijk is en goed herkenbaar als gemeente-website, maar dat het doel van de website en navigatie tussen pagina's onduidelijk kunnen zijn voor gebruikers. Op basis van de testresultaten zijn concrete aanpassingen doorgevoerd in het design om de gebruikerservaring te verbeteren. Het platform heeft nu een solide basis en voldoet aan de Woo-vereisten, met een backlog voor verdere optimalisatie.**
 
@@ -228,11 +227,13 @@ We hebben de gebruikerstesten op de volgende manier opgezet:
 
 1. **Bepalen doelstelling van de test**  
    We hebben vastgesteld op welke vragen we in iedere geval een antwoord wilden vinden:
+
    - In hoeverre is het publicatieportaal gebruiksvriendelijk?
    - In hoeverre is het duidelijk waar het publicatieportaal voor dient?
 
 2. **Formuleren onderzoeksvragen**  
    We hebben onderzoeksvragen en deelvragen opgesteld als basis voor de gebruikerstesten:
+
    - In hoeverre is het zoekpad duidelijk? (zoekbalk, filters, thema's, categorieën, document preview)
    - In hoeverre is de uitstraling open en toegankelijk (visueel aantrekkelijk, B1 content/begrippen, contrast)
    - In hoeverre is er ondersteuning in vervolgstappen? (downloaden/favorieten/contact/delen)
@@ -399,6 +400,7 @@ De beheeromgeving van de publicatievoorziening gaat in de toekomst gebruikt word
 
 1. **Bepalen doelstelling van de test**  
    De beheeromgeving geeft geautoriseerde medewerkers de mogelijkheid om kwaliteitscontroles uit te voeren en publicaties vanuit Gemeente Tilburg te structureren en actief te publiceren. Tijdens de test willen we vooral een eerste indruk van en mening over de gebruiksvriendelijkheid van de beheeromgeving ophalen. in ieder geval antwoord op de volgende vraag:
+
    - In hoeverre is de beheeromgeving gebruiksvriendelijk?
 
 2. **Formuleren onderzoeksvragen**  
