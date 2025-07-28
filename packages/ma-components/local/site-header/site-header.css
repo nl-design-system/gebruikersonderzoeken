@@ -1,5 +1,5 @@
 .ma-site-header {
-  background-color: var(--basis-root-background-color);
+  background-color: var(--basis-color-default-bg-document);
   container-name: ma-site-header;
   container-type: inline-size;
   inline-size: 100%;
