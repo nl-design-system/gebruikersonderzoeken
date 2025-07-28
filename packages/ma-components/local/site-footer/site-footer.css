@@ -3,7 +3,7 @@
 
   background-color: var(--ma-page-footer-background-color);
   box-sizing: border-box;
-  color: var(--basis-color-text-inverse-text-2);
+  color: var(--basis-color-default-inverse-color-document);
   container-name: ma-site-footer;
   container-type: inline-size;
   inline-size: 100%;
@@ -51,7 +51,7 @@
 }
 
 .ma-site-footer-graphic {
-  background-color: var(--basis-root-background-color);
+  background-color: var(--basis-color-default-bg-document);
 
   & > * {
     display: flex;

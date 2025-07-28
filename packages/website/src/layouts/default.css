@@ -11,7 +11,7 @@ html.ma-theme::after {
 }
 
 body {
-  background-color: var(--basis-root-background-color);
+  background-color: var(--basis-color-default-bg-document);
   display: flex;
   flex-direction: column;
 }
