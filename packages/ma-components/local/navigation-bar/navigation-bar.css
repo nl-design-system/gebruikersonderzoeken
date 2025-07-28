@@ -1,0 +1,92 @@
+.ma-navigation-bar {
+  background-color: var(--ma-navigation-bar-background-color);
+  display: flex;
+  font-family: var(--ma-navigation-bar-font-family);
+  font-size: var(--ma-navigation-bar-font-size);
+  font-weight: var(--ma-navigation-bar-font-weight);
+  line-height: var(--ma-navigation-bar-line-height);
+}
+
+.ma-navigation-bar__content {
+  display: flex;
+  inline-size: 100%;
+  margin-inline: auto;
+  max-inline-size: var(--ma-navigation-bar-content-max-inline-size);
+  padding-block-end: var(--ma-navigation-bar-content-padding-block-end);
+  padding-block-start: var(--ma-navigation-bar-content-padding-block-start);
+  padding-inline-end: var(--ma-navigation-bar-content-padding-inline-end);
+  padding-inline-start: var(--ma-navigation-bar-content-padding-inline-start);
+}
+
+.ma-navigation-bar__list {
+  display: flex;
+  list-style: none;
+  margin-block: 0;
+  margin-inline: 0;
+  padding-inline: 0;
+}
+
+.ma-navigation-bar__item {
+  background-color: var(--ma-navigation-bar-item-background-color);
+  border-block-start-style: solid;
+  border-block-start-width: var(--ma-navigation-bar-item-border-block-start-width);
+  border-color: var(--ma-navigation-bar-item-border-color);
+  box-sizing: border-box;
+  color: var(--ma-navigation-bar-item-color);
+  display: flex;
+  min-block-size: var(--ma-navigation-bar-item-min-block-size);
+  padding-block-end: var(--ma-navigation-bar-item-padding-block-end);
+  padding-block-start: calc(
+    var(--ma-navigation-bar-item-padding-block-start) - var(--ma-navigation-bar-item-border-block-start-width)
+  );
+  padding-inline-end: var(--ma-navigation-bar-item-padding-inline-end);
+  padding-inline-start: var(--ma-navigation-bar-item-padding-inline-start);
+  text-decoration: none;
+
+  &[aria-current] {
+    background-color: var(--ma-navigation-bar-item-current-background-color);
+    border-color: var(--ma-navigation-bar-item-current-border-color);
+    color: var(--ma-navigation-bar-item-current-color);
+  }
+
+  &:focus {
+    background-color: var(--ma-navigation-bar-item-focus-visible-background-color);
+    border-color: var(--ma-navigation-bar-item-focus-visible-border-color);
+    color: var(--ma-navigation-bar-item-focus-visible-color);
+    outline-style: dashed;
+    outline-width: 2px;
+  }
+
+  @supports selector(*:focus-visible) {
+    &:focus {
+      outline: none;
+    }
+    &:focus-visible {
+      background-color: var(--ma-navigation-bar-item-focus-visible-background-color);
+      border-color: var(--ma-navigation-bar-item-focus-visible-border-color);
+      color: var(--ma-navigation-bar-item-focus-visible-color);
+      outline-style: dashed;
+      outline-width: var(--basis-focus-outline-width);
+    }
+  }
+
+  /* The :hover styles need to be below the :focus styles */
+  &:hover {
+    background-color: var(--ma-navigation-bar-item-hover-background-color);
+    border-color: var(--ma-navigation-bar-item-hover-border-color);
+    color: var(--ma-navigation-bar-item-hover-color);
+  }
+
+  &:active {
+    background-color: var(--ma-navigation-bar-item-active-background-color);
+    border-color: var(--ma-navigation-bar-item-active-border-color);
+    color: var(--ma-navigation-bar-item-active-color);
+  }
+}
+
+@media (forced-colors: active) {
+  .ma-navigation-bar__item:not([aria-current]) {
+    border-block-start-style: initial;
+    padding-block-start: var(--ma-navigation-bar-item-padding-block-start);
+  }
+}
