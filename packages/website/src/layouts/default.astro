@@ -1,7 +1,6 @@
 ---
 import type { Cover } from '@schemas/cover.ts';
 import logo from '@nl-design-system-community/ma-components/local/logo/logo.svg?raw';
-import { SiteFooter } from '@nl-design-system-community/ma-components/local/site-footer/site-footer.tsx';
 import { SiteHeader } from '@nl-design-system-community/ma-components/local/site-header/site-header.tsx';
 import { cspValue } from '@utils/csp.ts';
 import { getMenuItems } from '@utils/menu';
@@ -79,7 +78,6 @@ const navigationBarItems = menuItems
   <body class="utrecht-body">
     <SiteHeader navigationBarItems={navigationBarItems} />
     <main><slot /></main>
-    <SiteFooter />
     <div hidden set:html={logo} />
   </body>
 </html>
