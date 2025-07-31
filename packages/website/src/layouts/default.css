@@ -1,6 +1,6 @@
-/* Add a solid colour (same as ma-site-footer background) behind the body to prevent white as the overscroll colour  */
+/* Add a solid colour (same as ma-page-footer background) behind the body to prevent white as the overscroll colour  */
 html.ma-theme::after {
-  background-color: var(--ma-page-footer-background-color);
+  background-color: var(--ma-page-footer-meta-background-color);
   block-size: 50%;
   content: "";
   display: block;

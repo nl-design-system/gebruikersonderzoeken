@@ -19,7 +19,6 @@
 .ma-theme {
   /* @TODO: When this value is included in ma-design-tokens, remove thise lines */
   --basis-color-accent-1-color-default: var(--ma-color-paars-10);
-  --ma-page-footer-background-color: var(--ma-color-neutral-12);
 
   /* Site specific tokens not found in ma-design-tokens */
   --ma-logo-color: var(--basis-color-accent-1-color-default);
