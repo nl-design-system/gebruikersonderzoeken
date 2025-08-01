@@ -1,40 +1,26 @@
-import { Logo } from '../logo/logo';
-import { MaNavigationBar, MaNavigationBarItem, type MaNavigationBarItemProps } from '../navigation-bar/navigation-bar';
+import { ReactElement } from 'react';
 import './page-header.css';
 import '@utrecht/link-css/dist/index.css';
 import '@utrecht/textbox-css/dist/index.css';
 import '@utrecht/button-css/dist/index.css';
-import { Search } from '../search/search';
 
 export interface PageHeaderProps {
-  navigationBarItems?: MaNavigationBarItemProps[];
+  leftGroup?: ReactElement;
+  centerGroup?: ReactElement;
+  rightGroup?: ReactElement;
+  navigationBar?: ReactElement;
 }
 
-export function PageHeader(props: PageHeaderProps) {
+export function MaPageHeader(props: PageHeaderProps) {
   return (
     <header className="ma-page-header">
-      <section>
-        <div className="ma-page-header__content">
-          <button data-menu-trigger className="utrecht-button">
-            Menu
-          </button>
-
-          <Logo version="text" />
-          <Logo version="visual" />
-
-          <Search />
-        </div>
+      <section className="ma-page-header__content">
+        <div className="ma-page-header__group ma-page-header__group--left">{props.leftGroup}</div>
+        <div className="ma-page-header__group ma-page-header__group--center">{props.centerGroup}</div>
+        <div className="ma-page-header__group ma-page-header__group--right">{props.rightGroup}</div>
       </section>
 
-      <section className="ma-page-header__navigation">
-        <MaNavigationBar>
-          {(props.navigationBarItems || []).map((item) => (
-            <MaNavigationBarItem key={item.href} href={item.href} aria-current={item.current || null}>
-              {item.children}
-            </MaNavigationBarItem>
-          ))}
-        </MaNavigationBar>
-      </section>
+      {props.navigationBar && <section className="ma-page-header__navigation">{props.navigationBar}</section>}
     </header>
   );
 }
