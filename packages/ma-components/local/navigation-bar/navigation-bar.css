@@ -8,6 +8,7 @@
 }
 
 .ma-navigation-bar__content {
+  box-sizing: border-box;
   display: flex;
   inline-size: 100%;
   margin-inline: auto;
