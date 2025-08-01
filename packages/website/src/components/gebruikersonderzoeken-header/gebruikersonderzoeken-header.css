@@ -1,0 +1,11 @@
+.ma-gebruikersonderzoeken-header {
+  @container ma-page-header (width >= 768px) {
+    .ma-page-header__group--center {
+      flex-basis: 184px;
+      flex-grow: 0;
+    }
+    .ma-logo {
+      flex: 1;
+    }
+  }
+}
