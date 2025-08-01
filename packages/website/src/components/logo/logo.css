@@ -1,0 +1,32 @@
+.ma-logo {
+  color: var(--ma-logo-color);
+  container-name: gebruikersonderzoeken-logo;
+  container-type: inline-size;
+  display: flex;
+  inline-size: 100%;
+}
+
+.ma-logo svg {
+  display: block;
+}
+
+.ma-logo svg[data-version="visual"] {
+  align-self: center;
+  margin-inline: auto;
+}
+
+.ma-logo svg[data-version="text"] {
+  align-self: center;
+  display: none;
+  justify-self: start;
+}
+
+@container gebruikersonderzoeken-logo (width >= 184px) {
+  .ma-logo svg[data-version="visual"] {
+    display: none;
+  }
+
+  .ma-logo svg[data-version="text"] {
+    display: unset;
+  }
+}
