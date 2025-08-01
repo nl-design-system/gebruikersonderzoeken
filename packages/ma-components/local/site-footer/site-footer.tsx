@@ -1,6 +1,5 @@
 import './site-footer.css';
 import { Fragment } from 'react/jsx-runtime';
-import { Logo } from '../logo/logo';
 import graphic from './graphic.svg?raw';
 
 export function SiteFooter() {
@@ -11,11 +10,6 @@ export function SiteFooter() {
       </div>
       <footer className="ma-site-footer">
         <div className="ma-site-footer__content">
-          <div className="ma-site-footer__logo">
-            <Logo version="visual" scaleFactor={1.6} />
-            <Logo version="text" scaleFactor={1.6} />
-          </div>
-
           <nav className="ma-site-footer__contact-links">
             <b>Contact</b>
             <a href="mailto:info@nldesignsystem.nl">
