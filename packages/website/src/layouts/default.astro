@@ -1,8 +1,8 @@
 ---
 import type { Cover } from '@schemas/cover.ts';
-import { GebruikersonderzoekenFooter } from '@components/gebruikersonderzoeken-footer/gebruikersonderzoeken-footer';
 import logo from '@nl-design-system-community/ma-components/local/logo/logo.svg?raw';
-import { SiteHeader } from '@nl-design-system-community/ma-components/local/site-header/site-header.tsx';
+import { GebruikersonderzoekenFooter } from '@components/gebruikersonderzoeken-footer/gebruikersonderzoeken-footer';
+import { PageHeader } from '@nl-design-system-community/ma-components/local/page-header/page-header.tsx';
 import { cspValue } from '@utils/csp.ts';
 import { getMenuItems } from '@utils/menu';
 import '@assets/styles.css';
@@ -77,7 +77,7 @@ const navigationBarItems = menuItems
     {cover && <meta property="twitter:image:alt" content={cover.alt} />}
   </head>
   <body class="utrecht-body">
-    <SiteHeader navigationBarItems={navigationBarItems} />
+    <PageHeader navigationBarItems={navigationBarItems} />
     <main><slot /></main>
     <GebruikersonderzoekenFooter />
     <div hidden set:html={logo} />
