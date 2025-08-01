@@ -1,40 +1,27 @@
-import { Logo } from '../logo/logo';
-import { MaNavigationBar, MaNavigationBarItem, type MaNavigationBarItemProps } from '../navigation-bar/navigation-bar';
+import { ReactNode } from 'react';
 import './page-header.css';
 import '@utrecht/link-css/dist/index.css';
 import '@utrecht/textbox-css/dist/index.css';
 import '@utrecht/button-css/dist/index.css';
-import { Search } from '../search/search';
 
 export interface PageHeaderProps {
-  navigationBarItems?: MaNavigationBarItemProps[];
+  className?: string;
+  startGroup?: ReactNode;
+  centerGroup?: ReactNode;
+  endGroup?: ReactNode;
+  navigationBar?: ReactNode;
 }
 
-export function PageHeader(props: PageHeaderProps) {
+export function MaPageHeader(props: PageHeaderProps) {
   return (
-    <header className="ma-page-header">
-      <section>
-        <div className="ma-page-header__content">
-          <button data-menu-trigger className="utrecht-button">
-            Menu
-          </button>
-
-          <Logo version="text" />
-          <Logo version="visual" />
-
-          <Search />
-        </div>
+    <header className={`ma-page-header ${props.className ?? ''}`.trim()}>
+      <section className="ma-page-header__content">
+        <div className="ma-page-header__group ma-page-header__group--start">{props.startGroup}</div>
+        <div className="ma-page-header__group ma-page-header__group--center">{props.centerGroup}</div>
+        <div className="ma-page-header__group ma-page-header__group--end">{props.endGroup}</div>
       </section>
 
-      <section className="ma-page-header__navigation">
-        <MaNavigationBar>
-          {(props.navigationBarItems || []).map((item) => (
-            <MaNavigationBarItem key={item.href} href={item.href} aria-current={item.current || null}>
-              {item.children}
-            </MaNavigationBarItem>
-          ))}
-        </MaNavigationBar>
-      </section>
+      {props.navigationBar && <section className="ma-page-header__navigation">{props.navigationBar}</section>}
     </header>
   );
 }
