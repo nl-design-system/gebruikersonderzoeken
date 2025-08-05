@@ -14,6 +14,9 @@
 @import "@utrecht/separator-css/dist/index.min.css";
 @import "@utrecht/unordered-list-css/dist/index.min.css";
 
+/* Styles from ma-components */
+@import "@nl-design-system-community/ma-components/local/sr-only/sr-only.css";
+
 /* Styles from local components */
 @import "./strong.css";
 
