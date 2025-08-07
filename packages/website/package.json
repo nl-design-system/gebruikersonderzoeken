@@ -36,6 +36,7 @@
     "@sindresorhus/slugify": "2.2.1",
     "@types/mdast": "4.0.4",
     "@utrecht/blockquote-css": "1.6.1",
+    "@utrecht/button-link-css": "1.3.1",
     "@utrecht/component-library-react": "10.2.0",
     "@utrecht/emphasis-css": "1.5.1",
     "@utrecht/heading-group-css": "1.5.1",
