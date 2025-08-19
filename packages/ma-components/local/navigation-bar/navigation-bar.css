@@ -28,60 +28,48 @@
 }
 
 .ma-navigation-bar__item {
-  background-color: var(--ma-navigation-bar-item-background-color);
-  border-block-start-style: solid;
-  border-block-start-width: var(--ma-navigation-bar-item-border-block-start-width);
-  border-color: var(--ma-navigation-bar-item-border-color);
+  --_ma-border-color: var(--ma-navigation-bar-item-border-color);
+  --_ma-background-color: var(--ma-navigation-bar-item-background-color);
+  --_ma-border-size: var(--ma-navigation-bar-item-border-block-start-width);
+  --_ma-color: var(--ma-navigation-bar-item-color);
+  --ma-focus-indicator-background-image: linear-gradient(
+    var(--ma-navigation-bar-item-focus-visible-border-color)
+      calc(var(--_ma-border-size) + var(--basis-focus-outline-width)),
+    var(--ma-navigation-bar-item-focus-visible-background-color)
+      calc(var(--_ma-border-size) + var(--basis-focus-outline-width))
+  );
+
+  background: linear-gradient(
+    var(--_ma-border-color) var(--_ma-border-size),
+    var(--_ma-background-color) var(--_ma-border-size)
+  );
   box-sizing: border-box;
-  color: var(--ma-navigation-bar-item-color);
+  color: var(--_ma-color);
   display: flex;
   min-block-size: var(--ma-navigation-bar-item-min-block-size);
   padding-block-end: var(--ma-navigation-bar-item-padding-block-end);
-  padding-block-start: calc(
-    var(--ma-navigation-bar-item-padding-block-start) - var(--ma-navigation-bar-item-border-block-start-width)
-  );
+  padding-block-start: var(--ma-navigation-bar-item-padding-block-start);
   padding-inline-end: var(--ma-navigation-bar-item-padding-inline-end);
   padding-inline-start: var(--ma-navigation-bar-item-padding-inline-start);
   text-decoration: none;
 
   &[aria-current] {
-    background-color: var(--ma-navigation-bar-item-current-background-color);
-    border-color: var(--ma-navigation-bar-item-current-border-color);
-    color: var(--ma-navigation-bar-item-current-color);
-  }
-
-  &:focus {
-    background-color: var(--ma-navigation-bar-item-focus-visible-background-color);
-    border-color: var(--ma-navigation-bar-item-focus-visible-border-color);
-    color: var(--ma-navigation-bar-item-focus-visible-color);
-    outline-style: dashed;
-    outline-width: 2px;
-  }
-
-  @supports selector(*:focus-visible) {
-    &:focus {
-      outline: none;
-    }
-    &:focus-visible {
-      background-color: var(--ma-navigation-bar-item-focus-visible-background-color);
-      border-color: var(--ma-navigation-bar-item-focus-visible-border-color);
-      color: var(--ma-navigation-bar-item-focus-visible-color);
-      outline-style: dashed;
-      outline-width: var(--basis-focus-outline-width);
-    }
+    --_ma-border-color: var(--ma-navigation-bar-item-current-border-color);
+    --_ma-background-color: var(--ma-navigation-bar-item-current-background-color);
+    --_ma-color: var(--ma-navigation-bar-item-current-color);
   }
 
   /* The :hover styles need to be below the :focus styles */
   &:hover {
-    background-color: var(--ma-navigation-bar-item-hover-background-color);
-    border-color: var(--ma-navigation-bar-item-hover-border-color);
-    color: var(--ma-navigation-bar-item-hover-color);
+    --_ma-border-color: var(--ma-navigation-bar-item-hover-border-color);
+    --_ma-background-color: var(--ma-navigation-bar-item-hover-background-color);
+    --_ma-color: var(--ma-navigation-bar-item-hover-color);
   }
 
   &:active {
-    background-color: var(--ma-navigation-bar-item-active-background-color);
-    border-color: var(--ma-navigation-bar-item-active-border-color);
-    color: var(--ma-navigation-bar-item-active-color);
+    --_ma-border-color: var(--ma-navigation-bar-item-active-border-color);
+    --_ma-background-color: var(--ma-navigation-bar-item-active-background-color);
+    --_ma-color: var(--ma-navigation-bar-item-active-color);
   }
 }
 
