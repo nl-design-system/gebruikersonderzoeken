@@ -1,0 +1,63 @@
+/**
+ * The focus indicator uses a `background-image` with a `linear-gradient` to give the elements a background color.
+ * A `background-image` lays on top of a `background-color`, so if an element already has a `background-image` set,
+ * the focus background color does not appear.
+ *
+ * The --ma-focus-indicator-background-color is used to color the whole gradient, so overriding that color has the same
+ * effect as if a `background-color` whould have been used
+ *
+ * There is still a fallback for browsers that don't support :focus-visible. iOS Safari 12.0 in particular, since
+ * devices on that operating system are not able to upgrade.
+ */
+.ma-focus-indicator {
+  --ma-focus-indicator-background-color: var(--basis-focus-background-color);
+  --ma-focus-indicator-background-image: linear-gradient(var(--ma-focus-indicator-background-color));
+  --ma-focus-indicator-color: var(--basis-focus-color);
+  --ma-focus-indicator-inverse-outline-color: var(--basis-focus-inverse-outline-color);
+  --ma-focus-indicator-outline-color: var(--ma-focus-indicator-background-color);
+  --ma-focus-indicator-outline-offset: var(--basis-focus-outline-offset);
+  --ma-focus-indicator-outline-style: var(--basis-focus-outline-style);
+  --ma-focus-indicator-outline-width: var(--basis-focus-outline-width);
+
+  & :focus {
+    background-image: var(--ma-focus-indicator-background-image) !important;
+    box-shadow: 0 0 0 var(--ma-focus-indicator-outline-width) var(--ma-focus-indicator-inverse-outline-color) !important;
+    color: var(--ma-focus-indicator-color) !important;
+    outline-color: var(--ma-focus-indicator-outline-color) !important;
+    outline-offset: var(--ma-focus-indicator-outline-offset) !important;
+    outline-style: var(--ma-focus-indicator-outline-style) !important;
+    outline-width: var(--ma-focus-indicator-outline-width) !important;
+  }
+
+  & .ma-focus-indicator-inset:focus,
+  & .ma-focus-indicator-inset :focus {
+    box-shadow: 0 0 0 var(--ma-focus-indicator-outline-width) var(--ma-focus-indicator-inverse-outline-color) inset !important;
+    outline-offset: calc(var(--ma-focus-indicator-outline-width) * -1) !important;
+  }
+
+  @supports selector(*:focus-visible) {
+    & .ma-focus-indicator-inset:focus,
+    & :focus {
+      box-shadow: unset;
+      color: unset;
+    }
+
+    & :focus-visible {
+      background-image: var(--ma-focus-indicator-background-image) !important;
+      box-shadow: 0 0 0 var(--ma-focus-indicator-outline-width) var(--ma-focus-indicator-inverse-outline-color) !important;
+      color: var(--ma-focus-indicator-color) !important;
+      outline-color: var(--ma-focus-indicator-outline-color) !important;
+      outline-offset: var(--ma-focus-indicator-outline-offset) !important;
+      outline-style: var(--ma-focus-indicator-outline-style) !important;
+      outline-width: var(--ma-focus-indicator-outline-width) !important;
+      text-decoration: none;
+      z-index: 1;
+    }
+
+    & .ma-focus-indicator-inset:focus-visible,
+    & .ma-focus-indicator-inset :focus-visible {
+      box-shadow: 0 0 0 var(--ma-focus-indicator-outline-width) var(--ma-focus-indicator-inverse-outline-color) inset !important;
+      outline-offset: calc(var(--ma-focus-indicator-outline-width) * -1) !important;
+    }
+  }
+}
