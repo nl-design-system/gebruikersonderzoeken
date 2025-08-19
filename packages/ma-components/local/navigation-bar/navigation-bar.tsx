@@ -21,7 +21,11 @@ export function MaNavigationBarItem(props: MaNavigationBarItemProps) {
 
   return (
     <li>
-      <a className={`ma-navigation-bar__item ${className}`.trim()} aria-current={_current || null} {...elementAttrs}>
+      <a
+        className={`ma-navigation-bar__item ma-focus-indicator-inset ${className}`.trim()}
+        aria-current={_current || null}
+        {...elementAttrs}
+      >
         {children}
       </a>
     </li>
