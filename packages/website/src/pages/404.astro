@@ -1,0 +1,34 @@
+---
+import CenterColumnLayout from '@layouts/center-column.astro';
+import { Heading } from '@nl-design-system-candidate/heading-react';
+import { Paragraph } from '@nl-design-system-candidate/paragraph-react';
+import { BodyCopy } from '@nl-design-system-community/ma-components/local/body-copy/body-copy.tsx';
+import { Panel } from '@nl-design-system-community/ma-components/local/panel';
+---
+
+<CenterColumnLayout title="Pagina niet gevonden">
+  <Panel>
+    <BodyCopy small>
+      <Heading level={1}>Pagina niet gevonden</Heading>
+      <Paragraph>
+        De pagina die je wilt bezoeken bestaat niet, of niet meer.<br />
+        Geen zorgen, we helpen je graag weer op weg.
+      </Paragraph>
+    </BodyCopy>
+  </Panel>
+
+  <Panel>
+    <BodyCopy small>
+      <Heading level={2}>Wat kun je doen?</Heading>
+      <ul class="utrecht-unordered-list">
+        <li>Ga naar de <a class="nl-link" href="/">homepagina</a>.</li>
+        <li>Gebruik het menu.</li>
+        <li>Gebruik de zoekfunctie in de menubalk om te vinden wat je zoekt.</li>
+      </ul>
+      <Paragraph>
+        Denk je dat het een fout in de website is? Meld ons de gebroken link alsjeblieft door een e-mail te sturen naar:
+        <a class="nl-link" href="mailto:info@nldesignsystem.nl">info@nldesignsystem.nl</a>.
+      </Paragraph>
+    </BodyCopy>
+  </Panel>
+</CenterColumnLayout>
