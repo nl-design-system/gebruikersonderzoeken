@@ -1,0 +1,14 @@
+---
+import DefaultLayout, { type Props as DefaultLayoutProps } from '@layouts/default.astro';
+import './center-column.css';
+
+export interface Props extends DefaultLayoutProps {}
+
+const { title } = Astro.props;
+---
+
+<DefaultLayout title={title} mainClass="ma-center-column-layout">
+  <div class="ma-center-column-layout__content">
+    <slot />
+  </div>
+</DefaultLayout>
