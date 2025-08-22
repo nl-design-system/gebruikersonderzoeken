@@ -1,0 +1,22 @@
+---
+import type { GetStaticPaths } from 'astro';
+import CenterColumnLayout from '@layouts/center-column.astro';
+import { getCollection, render } from 'astro:content';
+
+export const getStaticPaths = (async () => {
+  const themes = await getCollection('themes');
+  return themes.map((theme) => ({
+    params: { theme: theme.id },
+    props: { theme },
+  }));
+}) satisfies GetStaticPaths;
+
+const { theme } = Astro.props;
+const { Content } = await render(theme);
+---
+
+<CenterColumnLayout>
+  {theme.data.title}
+
+  <Content />
+</CenterColumnLayout>
