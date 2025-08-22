@@ -7,6 +7,7 @@ import Layout from '@layouts/default.astro';
 import { Menu } from '@nl-design-system-community/ma-components/local/menu/index.tsx';
 import { getTags } from '@utils/tags';
 import { getCollection, render } from 'astro:content';
+import { getEntries } from 'astro:content';
 import { getMenuItems, getCurrentMenuItems, toCleanRoute } from '../../utils/menu';
 
 const menuItems = getMenuItems(Astro.url);
@@ -39,6 +40,14 @@ const { Content, remarkPluginFrontmatter } = await render(onderzoek);
 const cover = onderzoek.data.cover ?? remarkPluginFrontmatter['cover'];
 const filePath = onderzoek.filePath;
 const tags = await getTags(onderzoek.data.tags);
+
+let themes = await getEntries(onderzoek.data.themes || []);
+
+/** Astro should do this check, but as of now, it does not. See https://github.com/withastro/astro/issues/13268 */
+// @ts-expect-error - themes can contain an undefined value if a wrong value is provided
+if (themes.includes(undefined)) {
+  throw new Error(`The themes in ${onderzoek.id} contain an invalid value`);
+}
 ---
 
 <Layout canonical={Astro.url} title={onderzoek.data.title} cover={cover}>
