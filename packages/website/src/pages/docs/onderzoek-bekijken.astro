@@ -10,7 +10,9 @@ const themes = await getCollection('themes')
       items: await getOnderzoekenByTheme(theme.id),
     })),
   )
-  .then((promises) => Promise.all(promises));
+  .then(async (promises) => await Promise.all(promises))
+  .then((themes) => themes.toSorted((a, b) => (a.items.length > b.items.length ? 1 : -1)))
+  .then((themes) => themes.toSorted((a, b) => (a.data.order < b.data.order ? 1 : -1)));
 ---
 
 <CenterColumnLayout>

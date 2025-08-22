@@ -16,6 +16,7 @@ const onderzoeken = defineCollection({
 const themes = defineCollection({
   loader: glob({ base: '../../_themes/', pattern: '**/!(_)(*).md' }),
   schema: z.object({
+    order: z.number().default(0),
     title: z.string(),
   }),
 });
