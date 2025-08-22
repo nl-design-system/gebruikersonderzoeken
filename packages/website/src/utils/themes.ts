@@ -1,7 +1,10 @@
 import { getCollection } from 'astro:content';
 
 export async function getOnderzoekenByTheme(themeId: string) {
-  return (await getCollection('onderzoeken')).filter((onderzoek) =>
-    onderzoek.data.themes.some((theme) => theme.id === themeId),
-  );
+  const onderzoeken = await getCollection('onderzoeken');
+
+  return onderzoeken.filter((onderzoek) => {
+    const themeIds = (onderzoek.data.themes || []).map((theme) => theme.id);
+    return themeIds.includes(themeId);
+  });
 }
