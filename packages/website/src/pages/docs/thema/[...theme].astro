@@ -1,6 +1,8 @@
 ---
 import type { GetStaticPaths } from 'astro';
 import CenterColumnLayout from '@layouts/center-column.astro';
+import { toCleanRoute } from '@utils/menu/to-clean-route';
+import { getOnderzoekenByTheme } from '@utils/themes';
 import { getCollection, render } from 'astro:content';
 
 export const getStaticPaths = (async () => {
@@ -13,10 +15,23 @@ export const getStaticPaths = (async () => {
 
 const { theme } = Astro.props;
 const { Content } = await render(theme);
+const onderzoeken = await getOnderzoekenByTheme(theme.id);
 ---
 
 <CenterColumnLayout>
   {theme.data.title}
 
   <Content />
+
+  <ul>
+    {
+      onderzoeken.map((onderzoek) => (
+        <li>
+          <a class="nl-link" href={`/docs/${toCleanRoute(onderzoek.id)}`}>
+            {onderzoek.data.title}
+          </a>
+        </li>
+      ))
+    }
+  </ul>
 </CenterColumnLayout>

@@ -1,8 +1,16 @@
 ---
 import CenterColumnLayout from '@layouts/center-column.astro';
+import { getOnderzoekenByTheme } from '@utils/themes';
 import { getCollection } from 'astro:content';
 
-const themes = await getCollection('themes');
+const themes = await getCollection('themes')
+  .then((themes) =>
+    themes.map(async (theme) => ({
+      ...theme,
+      items: await getOnderzoekenByTheme(theme.id),
+    })),
+  )
+  .then((promises) => Promise.all(promises));
 ---
 
 <CenterColumnLayout>
