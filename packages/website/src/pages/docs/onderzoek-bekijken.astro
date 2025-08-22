@@ -1,0 +1,21 @@
+---
+import CenterColumnLayout from '@layouts/center-column.astro';
+import { getCollection } from 'astro:content';
+
+const themes = await getCollection('themes');
+---
+
+<CenterColumnLayout>
+  <p>Onderzoeken bekijken</p>
+  <ul>
+    {
+      themes.map((theme) => (
+        <li>
+          <a class="nl-link" href={`/docs/thema/${theme.id}`}>
+            {theme.data.title} ({theme.items.length})
+          </a>
+        </li>
+      ))
+    }
+  </ul>
+</CenterColumnLayout>
