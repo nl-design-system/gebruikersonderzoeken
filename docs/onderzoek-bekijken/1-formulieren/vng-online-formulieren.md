@@ -21,6 +21,8 @@ tags:
   - DigiD
   - contactformulier
   - MijnOmgeving
+themes:
+  - formulieren
 ---
 
 # Contactformulier voor WMEBV

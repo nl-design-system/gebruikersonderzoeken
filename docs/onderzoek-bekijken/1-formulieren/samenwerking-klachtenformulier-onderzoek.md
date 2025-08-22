@@ -20,6 +20,8 @@ tags:
   - openForms
   - inloggen
   - invoerveld
+themes:
+  - formulieren
 ---
 
 <!-- @license CC0-1.0 -->
