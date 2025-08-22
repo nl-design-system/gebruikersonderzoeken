@@ -7,7 +7,6 @@ const onderzoeken = defineCollection({
   schema: z.object({
     cover: CoverSchema.optional(),
     description: z.string(),
-    tags: z.array(z.string()).optional(),
     themes: z.array(reference('themes')).default(['overig']),
     title: z.string(),
   }),
