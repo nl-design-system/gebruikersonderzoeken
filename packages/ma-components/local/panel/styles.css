@@ -1,4 +1,11 @@
 .ma-panel {
+  --ma-panel-gap: var(--basis-space-block-xl);
+  --ma-panel-direction: column;
+
+  display: flex;
+  flex-direction: var(--ma-panel-direction);
+  gap: var(--ma-panel-gap);
+
   &[data-space-inline="2xs"] {
     padding-inline: var(--basis-space-inline-2xs, 0);
   }
