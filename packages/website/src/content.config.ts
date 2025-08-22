@@ -1,5 +1,5 @@
 import { CoverSchema } from '@schemas/cover.ts';
-import { defineCollection, z } from 'astro:content';
+import { defineCollection, reference, z } from 'astro:content';
 import { glob } from 'astro/loaders'; // Not available with legacy API
 
 const onderzoeken = defineCollection({
@@ -8,6 +8,7 @@ const onderzoeken = defineCollection({
     cover: CoverSchema.optional(),
     description: z.string(),
     tags: z.array(z.string()).optional(),
+    themes: z.array(reference('themes')).optional(),
     title: z.string(),
   }),
 });

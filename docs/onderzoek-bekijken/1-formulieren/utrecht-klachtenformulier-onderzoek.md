@@ -18,6 +18,9 @@ tags:
   - klachtenformulier
   - openForms
   - U-lab
+themes:
+  - formulieren
+  - content-en-begrijpelijkheid
 ---
 
 <!-- @license CC0-1.0 -->
