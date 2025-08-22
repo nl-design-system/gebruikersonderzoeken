@@ -12,4 +12,11 @@ const onderzoeken = defineCollection({
   }),
 });
 
-export const collections = { onderzoeken };
+const themes = defineCollection({
+  loader: glob({ base: '../../_themes/', pattern: '**/!(_)(*).md' }),
+  schema: z.object({
+    title: z.string(),
+  }),
+});
+
+export const collections = { onderzoeken, themes };
