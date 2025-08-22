@@ -9,14 +9,14 @@ import '@assets/styles.css';
 import './default.css';
 
 interface Props {
-  canonical: URL;
+  canonical?: URL;
   cover?: Cover;
   description?: string;
   title?: string;
   mainClass?: string;
 }
 
-const { canonical, cover: pageCover, description, mainClass, title: pageTitle } = Astro.props;
+const { canonical = Astro.url, cover: pageCover, description, mainClass, title: pageTitle } = Astro.props;
 
 const fallbackCover: Cover = {
   alt: 'Grafisch vergrootglas over document',
