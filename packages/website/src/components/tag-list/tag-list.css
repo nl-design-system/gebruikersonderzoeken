@@ -1,7 +1,0 @@
-.ma-tag-list ul {
-  column-gap: var(--basis-space-inline-md);
-  display: flex;
-  list-style: none;
-  margin-block: 0;
-  padding-inline: 0;
-}
