@@ -1,6 +1,7 @@
 ---
 import { ContentWrapper } from '@components/content-wrapper/content-wrapper';
 import { RespondToOnderzoek } from '@components/respond-to-onderzoek/respond-to-onderzoek';
+import { ThemeList } from '@components/theme-list/theme-list.tsx';
 import Layout from '@layouts/default.astro';
 import { toCleanRoute } from '@utils/menu';
 import { getCollection, render } from 'astro:content';
@@ -41,6 +42,7 @@ if (themes.includes(undefined)) {
 ---
 
 <Layout canonical={Astro.url} title={onderzoek.data.title} cover={cover}>
+  <ThemeList themes={themes} />
   <ContentWrapper>
     <Content />
   </ContentWrapper>
