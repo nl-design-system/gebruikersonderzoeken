@@ -21,6 +21,7 @@ export function toCleanRoute(path: string) {
       // Remove the leading digit in the /onderzoek-bekijken subfolders to keep
       // the Docusaurus url structure
       .replaceAll(/\/\d-/g, '/')
+      .replaceAll(/^\d-/g, '')
 
       // Docusaurus removed the leading digits, but appearantly does not do that
       // when the next secion is also a digit. So we need to readd the `5-` we just
