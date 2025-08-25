@@ -4,7 +4,6 @@ import { GebruikersonderzoekenFooter } from '@components/gebruikersonderzoeken-f
 import { GebruikersonderzoekenHeader } from '@components/gebruikersonderzoeken-header/gebruikersonderzoeken-header';
 import logo from '@components/logo/logo.svg?raw';
 import { cspValue } from '@utils/csp.ts';
-import { getMenuItems } from '@utils/menu';
 import '@assets/styles.css';
 import './default.css';
 
@@ -27,18 +26,28 @@ const lang = 'nl';
 const title = pageTitle ? `${pageTitle} | Gebruikersonderzoeken` : 'Gebruikersonderzoeken';
 const cover = pageCover ?? fallbackCover;
 
-const menuItems = getMenuItems(Astro.url);
-const navigationBarItems = menuItems
-  .map((menuItem) => ({
-    children: menuItem.label,
-    current: Astro.url.pathname.includes(menuItem.id) ? 'true' : undefined,
-    href: `/docs/${menuItem.id}`,
-  }))
-  .toSpliced(0, 0, {
+const navigationBarItems = [
+  {
     children: 'Home',
     current: Astro.url.pathname === '/' ? 'true' : undefined,
     href: '/',
-  });
+  },
+  {
+    children: 'Onderzoek bekijken',
+    current: Astro.url.pathname.includes('onderzoek-bekijken') || Astro.url.pathname.includes('thema'),
+    href: '/docs/onderzoek-bekijken/',
+  },
+  {
+    children: 'Onderzoek delen',
+    current: Astro.url.pathname.includes('onderzoek-delen'),
+    href: '/docs/onderzoek-delen/',
+  },
+  {
+    children: 'Vragen',
+    current: Astro.url.pathname.includes('vragen'),
+    href: '/docs/vragen/',
+  },
+];
 ---
 
 <html lang={lang} dir="ltr" class="ma-theme utrecht-root">
