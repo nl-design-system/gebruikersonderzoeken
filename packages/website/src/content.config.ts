@@ -13,6 +13,15 @@ const onderzoeken = defineCollection({
   }),
 });
 
+const pages = defineCollection({
+  loader: glob({ base: '../../docs/', pattern: '!(onderzoek-bekijken)/**/!(_)(*).md' }),
+  schema: z.object({
+    cover: CoverSchema.optional(),
+    description: z.string(),
+    title: z.string(),
+  }),
+});
+
 const themes = defineCollection({
   loader: glob({ base: '../../_themes/', pattern: '**/!(_)(*).md' }),
   schema: z.object({
@@ -21,4 +30,4 @@ const themes = defineCollection({
   }),
 });
 
-export const collections = { onderzoeken, themes };
+export const collections = { onderzoeken, pages, themes };
