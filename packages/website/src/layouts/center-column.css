@@ -4,8 +4,8 @@
   --ma-center-column-layout-margin-block-end: var(--basis-space-block-6xl);
   --ma-center-column-layout-gap: var(--basis-space-block-4xl);
 
-  margin-block-end: var(--ma-center-column-layout-margin-block-end);
-  margin-block-start: var(--ma-center-column-layout-margin-block-start);
+  padding-block-end: var(--ma-center-column-layout-margin-block-end);
+  padding-block-start: var(--ma-center-column-layout-margin-block-start);
 }
 
 .ma-center-column-layout__content {
