@@ -27,7 +27,7 @@ const onderzoeken = await getOnderzoekenByTheme(theme.id);
     {
       onderzoeken.map((onderzoek) => (
         <li>
-          <a class="nl-link" href={`/docs/${toCleanRoute(onderzoek.id)}`}>
+          <a class="nl-link" href={`/docs/onderzoek-bekijken/${toCleanRoute(onderzoek.id)}`}>
             {onderzoek.data.title}
           </a>
         </li>

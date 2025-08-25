@@ -5,28 +5,26 @@ import { RespondToOnderzoek } from '@components/respond-to-onderzoek/respond-to-
 import { TagList } from '@components/tag-list/tag-list';
 import Layout from '@layouts/default.astro';
 import { Menu } from '@nl-design-system-community/ma-components/local/menu/index.tsx';
+import { getMenuItems, getCurrentMenuItems, toCleanRoute } from '@utils/menu';
 import { getTags } from '@utils/tags';
 import { getCollection, render } from 'astro:content';
 import { getEntries } from 'astro:content';
-import { getMenuItems, getCurrentMenuItems, toCleanRoute } from '../../utils/menu';
 
 const menuItems = getMenuItems(Astro.url);
 const currentMenuItems = getCurrentMenuItems(menuItems);
 
 // 1. Generate a new path for every collection entry
 export async function getStaticPaths() {
-  const onderzoeken = await getCollection('onderzoeken')
-    .then((onderzoeken) =>
-      onderzoeken.map((onderzoek) => {
-        const id = toCleanRoute(onderzoek.id);
+  const onderzoeken = await getCollection('onderzoeken').then((onderzoeken) =>
+    onderzoeken.map((onderzoek) => {
+      const id = toCleanRoute(onderzoek.id);
 
-        return {
-          ...onderzoek,
-          id,
-        };
-      }),
-    )
-    .then();
+      return {
+        ...onderzoek,
+        id,
+      };
+    }),
+  );
 
   return onderzoeken.map((onderzoek) => ({
     params: { id: onderzoek.id },
