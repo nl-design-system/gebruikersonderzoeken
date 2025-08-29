@@ -157,6 +157,15 @@ importers:
       '@astrojs/ts-plugin':
         specifier: 1.10.4
         version: 1.10.4
+      '@fontsource/fira-code':
+        specifier: 5.2.6
+        version: 5.2.6
+      '@fontsource/fira-sans':
+        specifier: 5.2.6
+        version: 5.2.6
+      '@fontsource/source-sans-pro':
+        specifier: 5.2.5
+        version: 5.2.5
       '@nl-design-system-candidate/data-badge-css':
         specifier: 1.0.2
         version: 1.0.2
@@ -1713,11 +1722,20 @@ packages:
     resolution: {integrity: sha512-ZAoA40rNMPwSm+AeHpCq8STiNAwzWLJuP8Xv4CHIc9wv/PSuExjMrmjfYNj682vW0OOiZ1HKxzvjQr9XZIisQA==}
     engines: {node: ^18.18.0 || ^20.9.0 || >=21.1.0}
 
+  '@fontsource/fira-code@5.2.6':
+    resolution: {integrity: sha512-wCkIpPm0BqlkCPLYeY4Vui96ODmVUV0/GpEe3OfJ4v8EJn/BF2SlyxvarFsTs1CKiGjrO2cXlIZbBrKi9F+hUQ==}
+
   '@fontsource/fira-sans@5.1.1':
     resolution: {integrity: sha512-LdbPwcMEADFjbcMx5sdPcyLi0NnEzP34YO+4d2eOeIKjCu1SyJiG/bBz5K07qm4pyhh2cQveifhFrG7gQDG9wQ==}
 
+  '@fontsource/fira-sans@5.2.6':
+    resolution: {integrity: sha512-WsqXZCzlbifRoOLppDr6pwMRrZ4U+e+mv+oRZLrZOvkTv/q63B1CIUW+lfaaJuP15YBhOV1OCxS+n1pP8d3IhQ==}
+
   '@fontsource/source-sans-pro@5.1.0':
     resolution: {integrity: sha512-GJijHmnPKwA1G8MqUVOZzbIW8jLBFsJGugAb5/IikvTHHmLp+pJy+g8EhyWbfR8pI04i/EStzW0AzOv0KQEhzg==}
+
+  '@fontsource/source-sans-pro@5.2.5':
+    resolution: {integrity: sha512-ypendqc4pYUc+EgF7qqPY9iVYEz1t/Qr03VojKxG/2g3dnpHa1B6DOlDxWQjQXDj5QrG6inEqGT0g+edjALZyg==}
 
   '@hapi/hoek@9.3.0':
     resolution: {integrity: sha512-/c6rf4UJlmHlC9b5BaNvzAcFv7HZ2QHaV0D4/HNlBdvFnvQq8RI4kYdhyPCl7Xj+oWvTWQ8ujhqS53LIgAe6KQ==}
@@ -10777,9 +10795,15 @@ snapshots:
       '@eslint/core': 0.13.0
       levn: 0.4.1
 
+  '@fontsource/fira-code@5.2.6': {}
+
   '@fontsource/fira-sans@5.1.1': {}
 
+  '@fontsource/fira-sans@5.2.6': {}
+
   '@fontsource/source-sans-pro@5.1.0': {}
+
+  '@fontsource/source-sans-pro@5.2.5': {}
 
   '@hapi/hoek@9.3.0': {}
 
