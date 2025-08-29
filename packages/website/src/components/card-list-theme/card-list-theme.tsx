@@ -6,11 +6,11 @@ import { CardList } from '@nl-design-system-community/ma-components/local/card-l
 import { dynamicImports } from '@tabler/icons-react';
 
 interface ThemeEntryWithItems extends CollectionEntry<'themes'> {
-  items: object[]
+  items: object[];
 }
 
 export interface CardListThemeProps {
-  themes: ThemeEntryWithItems[]
+  themes: ThemeEntryWithItems[];
 }
 
 interface IconProps {
