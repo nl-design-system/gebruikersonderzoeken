@@ -1,8 +1,7 @@
 ---
-import { ContentWrapper } from '@components/content-wrapper/content-wrapper';
-import { RespondToOnderzoek } from '@components/respond-to-onderzoek/respond-to-onderzoek';
 import { ThemeList } from '@components/theme-list/theme-list.tsx';
-import Layout from '@layouts/default.astro';
+import CenterColumnLayout from '@layouts/center-column.astro';
+import { BodyCopy } from '@nl-design-system-community/ma-components/local/body-copy/body-copy';
 import { toCleanRoute } from '@utils/menu';
 import { getCollection, render } from 'astro:content';
 import { getEntries } from 'astro:content';
@@ -41,10 +40,10 @@ if (themes.includes(undefined)) {
 }
 ---
 
-<Layout canonical={Astro.url} title={onderzoek.data.title} cover={cover}>
-  <ThemeList themes={themes} />
-  <ContentWrapper>
+<CenterColumnLayout canonical={Astro.url} title={onderzoek.data.title} cover={cover}>
+  <BodyCopy large>
     <Content />
-  </ContentWrapper>
-  <RespondToOnderzoek filePath={filePath} />
-</Layout>
+    <hr class="utrecht-separator" />
+    <ThemeList themes={themes} />
+  </BodyCopy>
+</CenterColumnLayout>

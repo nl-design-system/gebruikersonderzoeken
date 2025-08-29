@@ -5,8 +5,17 @@
 
   display: contents;
 
-  & > * {
+  & > .utrecht-blockquote,
+  & > .nl-heading,
+  & > .utrecht-ordered-list,
+  & > .nl-paragraph,
+  & > .nl-code-block,
+  & > .utrecht-unordered-list {
     max-inline-size: var(--ma-body-copy-max-inline-size);
+  }
+
+  & > .utrecht-separator {
+    inline-size: 100%;
   }
 
   &.ma-body-copy__small {
