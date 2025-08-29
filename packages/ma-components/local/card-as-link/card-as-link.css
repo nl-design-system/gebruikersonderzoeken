@@ -1,0 +1,145 @@
+.ma-card-as-link {
+  --ma-card-as-link-background-color: var(--basis-color-default-bg-document);
+  --ma-card-as-link-border-color: var(--basis-color-default-border-subtle);
+  --ma-card-as-link-border-width: var(--basis-border-width-sm);
+  --ma-card-as-link-column-gap: var(--basis-space-column-md);
+  --ma-card-as-link-padding-block-end: var(--basis-space-block-xl);
+  --ma-card-as-link-padding-block-start: var(--basis-space-block-xl);
+  --ma-card-as-link-padding-inline-end: var(--basis-space-inline-xl);
+  --ma-card-as-link-padding-inline-start: var(--basis-space-inline-xl);
+  --ma-card-as-link-row-gap: var(--basis-space-row-xl);
+  --ma-card-as-link-heading-color: var(--basis-color-action-2-color-default);
+  --ma-card-as-link-heading-active-color: var(--basis-color-action-2-color-active);
+  --ma-card-as-link-heading-hover-color: var(--basis-color-action-2-color-hover);
+  --ma-card-as-link-icon-color: var(--basis-color-info-color-active);
+  --ma-card-as-link-icon-size: var(--basis-size-icon-xl);
+  --ma-card-as-link-icon-active-color: var(--basis-color-info-color-active);
+  --ma-card-as-link-icon-focus-visible-color: var(--basis-focus-color);
+  --ma-card-as-link-icon-hover-color: var(--basis-color-info-color-hover);
+  --ma-card-as-link-paragraph-max-inline-size: 480px;
+  --ma-card-as-link-content-row-gap: var(--basis-space-row-lg);
+
+  background-color: var(--ma-card-as-link-background-color);
+  border-color: var(--ma-card-as-link-border-color);
+  border-style: solid;
+  border-width: var(--ma-card-as-link-border-width);
+  column-gap: var(--ma-card-as-link-column-gap);
+  display: grid;
+  grid-template-areas:
+    "header"
+    "description"
+    "footer";
+  grid-template-columns: 1fr;
+  grid-template-rows: repeat(3, auto);
+  padding-block-end: var(--ma-card-as-link-padding-block-end);
+  padding-block-start: var(--ma-card-as-link-padding-block-start);
+  padding-inline-end: var(--ma-card-as-link-padding-inline-end);
+  padding-inline-start: var(--ma-card-as-link-padding-inline-start);
+  position: relative;
+  row-gap: var(--ma-card-as-link-row-gap);
+  z-index: 0; /* create a new stacking context for the links ::after to lay on top of */
+
+  & .ma-card-as-link__header {
+    --nl-link-color: var(--ma-card-as-link-heading-color);
+    --nl-link-active-color: var(--ma-card-as-link-heading-active-color);
+    --nl-link-hover-color: var(--ma-card-as-link-heading-hover-color);
+    --nl-heading-level-3-color: var(--ma-card-as-link-heading-color);
+
+    grid-area: header;
+
+    &:has(:where(.nl-link:active)) {
+      --nl-heading-level-3-color: var(--ma-card-as-link-heading-active-color);
+    }
+
+    &:has(:where(.nl-link:hover)) {
+      --nl-heading-level-3-color: var(--ma-card-as-link-heading-hover-color);
+    }
+
+    & .nl-link {
+      display: inline-block;
+      inline-size: max-content;
+    }
+
+    /**
+     * The ::after fills the whole card, making it clickable.
+     * This works because the card root creates a new stacking context.
+     * The position: absolute of this ::after is thus relative the the card
+     */
+    & .nl-link::after {
+      content: "";
+      display: block;
+      inset: 0;
+      position: absolute;
+      z-index: 1;
+    }
+  }
+
+  & .ma-card-as-link__description {
+    grid-area: description;
+    max-inline-size: var(--ma-card-as-link-paragraph-max-inline-size);
+  }
+
+  & .ma-card-as-link__footer {
+    grid-area: footer;
+  }
+
+  & .ma-card-as-link__metadata-list {
+    --ma-card-as-link-metadata-list-column-gap: var(--basis-space-column-lg);
+
+    display: flex;
+    gap: var(--ma-card-as-link-metadata-list-column-gap);
+    list-style: none;
+    margin-block: 0;
+    margin-inline: 0;
+    padding-block: 0;
+    padding-inline: 0;
+  }
+
+  & .ma-card-as-link__metadata {
+    --ma-card-as-link-metadata-color: var(--basis-color-default-color-subtle);
+    --ma-card-as-link-metadata-column-gap: var(--basis-space-column-sm);
+    --ma-card-as-link-metadata-font-family: var(--basis-text-font-family-default);
+    --ma-card-as-link-metadata-font-size: var(--basis-text-font-size-md);
+    --ma-card-as-link-metadata-font-weight: var(--basis-text-font-weight-default);
+    --ma-card-as-link-metadata-line-height: var(--basis-text-line-height-md);
+    --ma-card-as-link-metadata-icon-size: var(--basis-size-icon-md);
+
+    color: var(--ma-card-as-link-metadata-color);
+    column-gap: var(--ma-card-as-link-metadata-column-gap);
+    display: flex;
+    font-family: var(--ma-card-as-link-metadata-font-family);
+    font-size: var(--ma-card-as-link-metadata-font-size);
+    font-weight: var(--ma-card-as-link-metadata-font-weight);
+    line-height: var(--ma-card-as-link-metadata-line-height);
+  }
+
+  & .ma-card-as-link__metadata-icon {
+    block-size: var(--ma-card-as-link-metadata-icon-size);
+    inline-size: var(--ma-card-as-link-metadata-icon-size);
+  }
+}
+
+.ma-card-as-link-theme {
+  grid-template-areas:
+    "icon heading"
+    "icon description"
+    "icon footer";
+  grid-template-columns: 24px auto;
+
+  & .ma-card-as-link__header {
+    color: var(--nl-link-color);
+    display: contents;
+
+    &:has(:where(.nl-link:active)) {
+      --nl-link-color: var(--ma-card-as-link-heading-active-color);
+    }
+
+    &:has(:where(.nl-link:hover)) {
+      --nl-link-color: var(--ma-card-as-link-heading-hover-color);
+    }
+  }
+
+  & .ma-card-as-link-theme__icon {
+    grid-area: icon;
+  }
+}
