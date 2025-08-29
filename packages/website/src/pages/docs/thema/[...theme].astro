@@ -4,6 +4,12 @@ import CenterColumnLayout from '@layouts/center-column.astro';
 import { toCleanRoute } from '@utils/menu/to-clean-route';
 import { getOnderzoekenByTheme } from '@utils/themes';
 import { getCollection, render } from 'astro:content';
+import { BodyCopy } from '@nl-design-system-community/ma-components/local/body-copy/body-copy';
+import { CardAsLink } from '@nl-design-system-community/ma-components/local/card-as-link/card-as-link.tsx';
+import { Heading } from '@nl-design-system-candidate/heading-react';
+import { Paragraph } from '@nl-design-system-candidate/paragraph-react';
+import { CardListOnderzoek } from '@components/card-list-onderzoek/card-list-onderzoek';
+import './[...theme].css';
 
 export const getStaticPaths = (async () => {
   const themes = await getCollection('themes');
@@ -15,23 +21,26 @@ export const getStaticPaths = (async () => {
 
 const { theme } = Astro.props;
 const { Content } = await render(theme);
-const onderzoeken = await getOnderzoekenByTheme(theme.id);
+const onderzoeken = await getOnderzoekenByTheme(theme.id)
+  .then((onderzoeken) =>
+    onderzoeken.map(async (onderzoek) => {
+      const { Content } = await render(onderzoek);
+      return { ...onderzoek, description: Content };
+    }),
+  )
+  .then((onderzoekenPromises) => Promise.all(onderzoekenPromises));
 ---
 
 <CenterColumnLayout>
-  {theme.data.title}
+  <BodyCopy small>
+    <div class="ma-theme-page__header">
+      <Heading level={1}>{theme.data.title}</Heading>
+      <Content />
+      <Paragraph>
+        {onderzoeken.length} onderzoeken
+      </Paragraph>
+    </div>
+  </BodyCopy>
 
-  <Content />
-
-  <ul>
-    {
-      onderzoeken.map((onderzoek) => (
-        <li>
-          <a class="nl-link" href={`/docs/onderzoek-bekijken/${toCleanRoute(onderzoek.id)}`}>
-            {onderzoek.data.title}
-          </a>
-        </li>
-      ))
-    }
-  </ul>
+  <CardListOnderzoek onderzoeken={onderzoeken} />
 </CenterColumnLayout>
