@@ -1,5 +1,7 @@
 ---
+import { CardListTheme } from '@components/card-list-theme/card-list-theme.tsx';
 import CenterColumnLayout from '@layouts/center-column.astro';
+import { Heading } from '@nl-design-system-candidate/heading-react';
 import { getOnderzoekenByTheme } from '@utils/themes';
 import { getCollection } from 'astro:content';
 
@@ -11,21 +13,12 @@ const themes = await getCollection('themes')
     })),
   )
   .then(async (promises) => await Promise.all(promises))
+  .then((themes) => themes.filter((theme) => theme.items.length > 0))
   .then((themes) => themes.toSorted((a, b) => (a.items.length > b.items.length ? 1 : -1)))
   .then((themes) => themes.toSorted((a, b) => (a.data.order < b.data.order ? 1 : -1)));
 ---
 
 <CenterColumnLayout>
-  <p>Onderzoeken bekijken</p>
-  <ul>
-    {
-      themes.map((theme) => (
-        <li>
-          <a class="nl-link" href={`/docs/thema/${theme.id}`}>
-            {theme.data.title} ({theme.items.length})
-          </a>
-        </li>
-      ))
-    }
-  </ul>
+  <Heading level={1}>Onderzoeken bekijken</Heading>
+  <CardListTheme themes={themes} />
 </CenterColumnLayout>
