@@ -1,0 +1,29 @@
+.ma-tag {
+  background-color: var(--ma-tag-background-color);
+  border-color: var(--ma-tag-border-color);
+  border-radius: var(--ma-tag-border-radius);
+  border-style: solid;
+  border-width: var(--ma-tag-border-width);
+  color: var(--ma-tag-color);
+  display: inline-block;
+  font-family: var(--ma-tag-font-family);
+  font-size: var(--ma-tag-font-size);
+  font-weight: var(--ma-tag-font-weight);
+  padding-block-end: var(--ma-tag-padding-block-end);
+  padding-block-start: var(--ma-tag-padding-block-start);
+  padding-inline-end: var(--ma-tag-padding-inline-end);
+  padding-inline-start: var(--ma-tag-padding-inline-end);
+  text-decoration: none;
+
+  &:active {
+    background-color: var(--ma-tag-active-background-color);
+    border-color: var(--ma-tag-active-border-color);
+    color: var(--ma-tag-active-color);
+  }
+
+  &:hover {
+    background-color: var(--ma-tag-hover-background-color);
+    border-color: var(--ma-tag-hover-border-color);
+    color: var(--ma-tag-hover-color);
+  }
+}
