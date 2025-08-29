@@ -25,6 +25,7 @@ const pages = defineCollection({
 const themes = defineCollection({
   loader: glob({ base: '../../_themes/', pattern: '**/!(_)(*).md' }),
   schema: z.object({
+    description: z.string().optional(),
     icon: z.enum(iconList).optional(),
     order: z.number().default(0),
     title: z.string(),

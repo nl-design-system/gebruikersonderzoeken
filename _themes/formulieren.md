@@ -1,5 +1,5 @@
 ---
 title: Formulieren
+description: Onderzoeken naar het ontwerp, gebruik en optimalisatie van online formulieren.
 ---
 
-Onderzoeken naar het ontwerp, gebruik en optimalisatie van online formulieren.
