@@ -1,5 +1,4 @@
 import { Logo } from '@components/logo/logo.tsx';
-import { Search } from '@components/search/search.tsx';
 import {
   MaNavigationBar,
   MaNavigationBarItem,
@@ -24,7 +23,6 @@ export function GebruikersonderzoekenHeader(props: PageHeaderProps) {
         </Button>
       }
       centerGroup={<Logo />}
-      endGroup={<Search />}
       navigationBar={
         <MaNavigationBar>
           {(props.navigationBarItems || []).map((item) => (
