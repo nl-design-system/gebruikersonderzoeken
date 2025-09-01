@@ -14,7 +14,7 @@ export function GebruikersonderzoekenFooter() {
         <PageFooterSection
           key="1"
           action={
-            <ButtonLink href="#" appearance="primary-action-button">
+            <ButtonLink href="https://nldesignsystem.nl" appearance="primary-action-button">
               Ga naar NL Design System <IconArrowRight />
             </ButtonLink>
           }
@@ -31,7 +31,7 @@ export function GebruikersonderzoekenFooter() {
         <PageFooterSection
           key="2"
           action={
-            <ButtonLink href="#" appearance="primary-action-button">
+            <ButtonLink href="/docs/onderzoek-delen/" appearance="primary-action-button">
               Gebruikersonderzoek delen <IconArrowRight />
             </ButtonLink>
           }
@@ -50,29 +50,17 @@ export function GebruikersonderzoekenFooter() {
           </Heading>
           <ul className="utrecht-link-list utrecht-link-list--html-ul">
             <li className="utrecht-link-list__item">
-              <a className="utrecht-link-list__link" href="/#">
+              <a className="utrecht-link-list__link" href="/docs/vragen">
                 <IconChevronRight />
                 Veel gestelde vragen
-              </a>
-            </li>
-            <li className="utrecht-link-list__item">
-              <a className="utrecht-link-list__link" href="/#">
-                <IconChevronRight />
-                Contact
               </a>
             </li>
           </ul>
         </PageFooterSection>,
       ]}
       metaLinks={[
-        <a key="1" className="nl-link" href="/#">
-          Toegankelijkheid
-        </a>,
-        <a key="2" className="nl-link" href="/#">
+        <a key="1" className="nl-link" href="/docs/privacyverklaring">
           Privacyverklaring
-        </a>,
-        <a key="3" className="nl-link" href="/#">
-          Colofon
         </a>,
       ]}
     />
