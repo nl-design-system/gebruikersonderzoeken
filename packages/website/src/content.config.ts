@@ -1,4 +1,5 @@
 import { CoverSchema } from '@schemas/cover.ts';
+import iconList from '@tabler/icons-react/dist/esm/icons-list.mjs';
 import { defineCollection, reference, z } from 'astro:content';
 import { glob } from 'astro/loaders'; // Not available with legacy API
 
@@ -24,6 +25,7 @@ const pages = defineCollection({
 const themes = defineCollection({
   loader: glob({ base: '../../_themes/', pattern: '**/!(_)(*).md' }),
   schema: z.object({
+    icon: z.enum(iconList).optional(),
     order: z.number().default(0),
     title: z.string(),
   }),
