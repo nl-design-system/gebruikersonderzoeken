@@ -1,17 +1,11 @@
 ---
+import { Hero } from '@components/hero/hero.tsx';
 import Layout from '@layouts/default.astro';
-import { Heading } from '@nl-design-system-candidate/heading-react';
-import { Paragraph } from '@nl-design-system-candidate/paragraph-react';
 import { Panel } from '@nl-design-system-community/ma-components/local/panel/index.tsx';
 ---
 
 <Layout canonical={Astro.url} description="Gedeelde gebruikersonderzoeken voor de overheid">
-  <Panel spaceBlock="6xl">
-    <hgroup class="utrecht-heading-group">
-      <Heading level={1}>Gebruikersonderzoek</Heading>
-      <Paragraph>Door gebruikersonderzoek met elkaar te delen worden we allemaal slimmer.</Paragraph>
-    </hgroup>
-  </Panel>
+  <Hero />
 
   <Panel spaceBlock="5xl">
     <div>Card 1</div>
