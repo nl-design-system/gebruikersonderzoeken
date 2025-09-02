@@ -190,6 +190,9 @@ importers:
       '@types/mdast':
         specifier: 4.0.4
         version: 4.0.4
+      '@utrecht/action-group-css':
+        specifier: 1.0.0
+        version: 1.0.0
       '@utrecht/blockquote-css':
         specifier: 1.6.1
         version: 1.6.1
@@ -2781,6 +2784,9 @@ packages:
 
   '@utrecht/accordion-css@2.0.0':
     resolution: {integrity: sha512-U+NI6SXu5ULPjD+UDrdjh9f5AY+Hc3h5gIaqisDkogvmEDX7lkdOVxby0PrkBcVkEuiq9AIg9/RT0U3uFc7vwg==}
+
+  '@utrecht/action-group-css@1.0.0':
+    resolution: {integrity: sha512-EOBDaDRRrhT6hGj8aEL63fHL1aIe/vrV7HF32QQM36AIOO6ESnT4/x9cz9XVraDKdO6e/cEX3kH7VlJ0vSG1Kg==}
 
   '@utrecht/alert-css@2.3.0':
     resolution: {integrity: sha512-ATN820rMOASAJkkELuFqRW5hBO7WBxCd+yEFpIsLlm3ptTTnwOWl0MIBN3zNpgne3UM6U5R1YxSQwJ1FA0hEdA==}
@@ -11941,6 +11947,8 @@ snapshots:
   '@ungap/structured-clone@1.3.0': {}
 
   '@utrecht/accordion-css@2.0.0': {}
+
+  '@utrecht/action-group-css@1.0.0': {}
 
   '@utrecht/alert-css@2.3.0': {}
 
