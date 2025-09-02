@@ -1,0 +1,66 @@
+.ma-banner {
+  container-name: ma-banner;
+  container-type: inline-size;
+}
+
+.ma-banner__content {
+  column-gap: var(--ma-banner-content-column-gap);
+  display: grid;
+  grid-template-areas:
+    "image"
+    "header"
+    "copy"
+    "footer";
+  grid-template-columns: auto;
+  grid-template-rows: repeat(3, auto);
+  margin-inline: auto;
+  max-inline-size: var(--ma-banner-content-max-inline-size);
+  padding-block-end: var(--ma-banner-content-padding-block-end);
+  padding-block-start: var(--ma-banner-content-padding-block-start);
+  padding-inline-end: var(--ma-banner-content-padding-inline-end);
+  padding-inline-start: var(--ma-banner-content-padding-inline-start);
+  row-gap: var(--ma-banner-content-row-gap);
+
+  & .ma-banner__image {
+    grid-area: image;
+  }
+
+  & .ma-banner__header {
+    grid-area: header;
+  }
+
+  & .ma-banner__copy {
+    grid-area: copy;
+  }
+
+  & .ma-banner__footer {
+    grid-area: footer;
+  }
+
+  @container ma-banner (min-width: 700px) {
+    padding-block-end: var(--ma-banner-content-large-vw-padding-block-end);
+    padding-block-start: var(--ma-banner-content-large-vw-padding-block-start);
+    padding-inline-end: var(--ma-banner-content-large-vw-padding-inline-end);
+    padding-inline-start: var(--ma-banner-content-large-vw-padding-inline-start);
+  }
+}
+
+.ma-banner--image-appearance-small {
+  @container ma-banner (min-width: 700px) {
+    .ma-banner__content {
+      grid-template-areas:
+        "image header"
+        "image copy"
+        "image footer";
+      grid-template-columns: 1fr 1fr;
+    }
+  }
+}
+
+.ma-banner--hero {
+  background-color: var(--ma-banner-hero-background-color);
+}
+
+.ma-banner--updates {
+  background-color: var(--ma-banner-updates-background-color);
+}
