@@ -182,8 +182,8 @@ importers:
         specifier: workspace:*
         version: link:../ma-components
       '@nl-design-system-community/ma-design-tokens':
-        specifier: 2.2.1
-        version: 2.2.1
+        specifier: 2.3.0
+        version: 2.3.0
       '@sindresorhus/slugify':
         specifier: 2.2.1
         version: 2.2.1
@@ -1947,8 +1947,8 @@ packages:
       '@babel/runtime': ^7
       react: ^18
 
-  '@nl-design-system-community/ma-design-tokens@2.2.1':
-    resolution: {integrity: sha512-xeeg5Zhg2c0qqUt9nbPW4p4k6DRnws8f9kt9RI3fquIItEqqzrMt3aM+Nbpg4YFY5+u2YO6Q9FKySmx/epQlDw==}
+  '@nl-design-system-community/ma-design-tokens@2.3.0':
+    resolution: {integrity: sha512-W6NAZYa5rc57iMLx+hmHFvXLEdDbIcczPBJ34Dm9R6MwonsPKPG+78DXy6HNzALpDVyAvvDPyDr33w0haOauVw==}
 
   '@nl-design-system-unstable/nlds-design-tokens@1.0.1':
     resolution: {integrity: sha512-b4/MNyMF+Ku4nla6bAMZjNqld0BTEfUr94gzpCUzYOFl2aj06aHSNy4tW/pSAoGuf6PvHsxtqlKLSdXLG3rkzg==}
@@ -11016,7 +11016,7 @@ snapshots:
       clsx: 2.1.1
       react: 19.1.0
 
-  '@nl-design-system-community/ma-design-tokens@2.2.1': {}
+  '@nl-design-system-community/ma-design-tokens@2.3.0': {}
 
   '@nl-design-system-unstable/nlds-design-tokens@1.0.1':
     dependencies:
