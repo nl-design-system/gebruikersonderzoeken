@@ -3,6 +3,7 @@
 @import "@nl-design-system-candidate/heading-css/heading.css";
 @import "@nl-design-system-candidate/link-css/link.css";
 @import "@nl-design-system-candidate/paragraph-css/paragraph.css";
+@import "@utrecht/action-group-css/dist/index.min.css";
 @import "@utrecht/blockquote-css/dist/index.min.css";
 @import "@utrecht/body-css/dist/index.min.css";
 @import "@utrecht/button-link-css/dist/index.min.css";
