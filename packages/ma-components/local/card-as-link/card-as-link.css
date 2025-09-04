@@ -11,7 +11,7 @@
   column-gap: var(--ma-card-as-link-column-gap);
   display: grid;
   grid-template-columns: 1fr;
-  grid-template-rows: repeat(2, auto);
+  grid-template-rows: min-content auto;
   padding-block-end: var(--ma-card-as-link-padding-block-end);
   padding-block-start: var(--ma-card-as-link-padding-block-start);
   padding-inline-end: var(--ma-card-as-link-padding-inline-end);
@@ -125,6 +125,7 @@
   & .ma-card-as-link-theme__icon {
     grid-column-start: 1;
     grid-row-start: 1;
+    line-height: 0;
   }
 
   & .ma-card-as-link__description {
@@ -133,5 +134,10 @@
 
   & .ma-card-as-link__footer {
     grid-column-start: 2;
+  }
+
+  & .ma-card-as-link-theme__icon svg {
+    block-size: var(--ma-card-as-link-icon-size);
+    inline-size: var(--ma-card-as-link-icon-size);
   }
 }
