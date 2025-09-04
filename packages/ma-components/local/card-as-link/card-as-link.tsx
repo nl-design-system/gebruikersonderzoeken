@@ -16,22 +16,28 @@ export interface CardAsLinkProps {
 }
 
 export function CardAsLink(props: CardAsLinkProps) {
-  const metadata =
-    Array.isArray(props.metadata) === false ? (
-      <div className="ma-card-as-link__metadata">
-        {props.metadata.icon && <span className="ma-card-as-link__metadata-icon">{props.metadata.icon}</span>}
-        {props.metadata.label}
-      </div>
-    ) : (
-      <ul className="ma-card-as-link__metadata-list">
-        {props.metadata.map((metadata) => (
-          <li key={metadata.label} className="ma-card-as-link__metadata">
-            {metadata.icon && <span className="ma-card-as-link__metadata-icon">{metadata.icon}</span>}
-            {metadata.label}
-          </li>
-        ))}
-      </ul>
-    );
+  let metadata;
+  if (
+    (Array.isArray(props.metadata) && props.metadata.length > 0) ||
+    (Array.isArray(props.metadata) === false && Boolean(props.metadata))
+  ) {
+    metadata =
+      Array.isArray(props.metadata) === false ? (
+        <div className="ma-card-as-link__metadata">
+          {props.metadata.icon && <span className="ma-card-as-link__metadata-icon">{props.metadata.icon}</span>}
+          {props.metadata.label}
+        </div>
+      ) : (
+        <ul className="ma-card-as-link__metadata-list">
+          {props.metadata.map((metadata) => (
+            <li key={metadata.label} className="ma-card-as-link__metadata">
+              {metadata.icon && <span className="ma-card-as-link__metadata-icon">{metadata.icon}</span>}
+              {metadata.label}
+            </li>
+          ))}
+        </ul>
+      );
+  }
 
   return (
     <div className="ma-card-as-link__container">
@@ -48,7 +54,7 @@ export function CardAsLink(props: CardAsLinkProps) {
 
         <p className="ma-card-as-link__description nl-paragraph">{props.description}</p>
 
-        <footer className="ma-card-as-link__footer">{metadata}</footer>
+        {metadata && <footer className="ma-card-as-link__footer">{metadata}</footer>}
       </article>
     </div>
   );

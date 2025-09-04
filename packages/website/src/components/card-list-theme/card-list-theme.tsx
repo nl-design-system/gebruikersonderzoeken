@@ -6,7 +6,7 @@ import { CardList } from '@nl-design-system-community/ma-components/local/card-l
 import { dynamicImports } from '@tabler/icons-react';
 
 interface ThemeEntryWithItems extends CollectionEntry<'themes'> {
-  items: object[];
+  items?: object[];
 }
 
 export interface CardListThemeProps {
@@ -39,11 +39,13 @@ export async function CardListTheme(props: PropsWithChildren<CardListThemeProps>
           }
           href={`/docs/thema/${theme.id}`}
           description={theme.data.description}
-          metadata={[
-            {
-              label: `${theme.items.length} onderzoeken`,
-            },
-          ]}
+          metadata={
+            theme?.items && [
+              {
+                label: `${theme.items.length} onderzoeken`,
+              },
+            ]
+          }
         />
       ))}
     </CardList>
