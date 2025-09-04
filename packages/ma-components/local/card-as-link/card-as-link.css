@@ -116,6 +116,10 @@
     &:has(:where(.nl-link:hover)) {
       --nl-link-color: var(--ma-card-as-link-heading-hover-color);
     }
+
+    &:has(:where(.nl-link:focus-visible)) {
+      --nl-link-color: var(--ma-card-as-link-heading-focus-color);
+    }
   }
 
   & .ma-card-as-link-theme__icon {
