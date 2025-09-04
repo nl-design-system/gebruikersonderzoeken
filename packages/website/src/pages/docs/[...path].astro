@@ -1,5 +1,6 @@
 ---
 import CenterColumnLayout from '@layouts/center-column.astro';
+import { BodyCopy } from '@nl-design-system-community/ma-components/local/body-copy/body-copy.tsx';
 import { getCollection, render } from 'astro:content';
 import { toCleanRoute } from '../../utils/menu';
 
@@ -25,5 +26,7 @@ const cover = page.data.cover ?? remarkPluginFrontmatter['cover'];
 ---
 
 <CenterColumnLayout title={page.data.title} cover={cover}>
-  <Content />
+  <BodyCopy large>
+    <Content />
+  </BodyCopy>
 </CenterColumnLayout>
