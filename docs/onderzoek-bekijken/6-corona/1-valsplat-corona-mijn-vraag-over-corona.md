@@ -16,6 +16,11 @@ tags:
   - google
   - valsplat
   - navigatie
+themes:
+  - navigatie
+  - taal-en-begrijpelijkheid
+  - diensten-en-processen
+  - gedrag-en-conversie
 ---
 
 <!-- @license CC0-1.0 -->

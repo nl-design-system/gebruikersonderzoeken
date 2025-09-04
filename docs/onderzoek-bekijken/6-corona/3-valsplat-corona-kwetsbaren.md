@@ -12,6 +12,9 @@ keywords:
 tags:
   - corona
   - valsplat
+themes:
+  - doelgroep-specifiek
+  - diensten-en-processen
 ---
 
 <!-- @license CC0-1.0 -->

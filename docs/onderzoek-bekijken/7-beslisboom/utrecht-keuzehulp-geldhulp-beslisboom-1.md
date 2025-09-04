@@ -16,6 +16,14 @@ tags:
   - keuzehulp
   - beslisboom
   - geldhulp
+themes:
+  - navigatie
+  - formulieren
+  - taal-en-begrijpelijkheid
+  - mobiele-ervaring
+  - gedrag-en-conversie
+  - doelgroep-specifiek
+  - diensten-en-processen
 ---
 
 <!-- @license CC0-1.0 -->

@@ -19,6 +19,8 @@ tags:
   - verhuizen
   - verhuisaangifte
   - klantenreis
+themes:
+  - diensten-en-processen
 ---
 
 # Uitzonderingen in het verhuisaangiften proces

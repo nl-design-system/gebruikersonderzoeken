@@ -25,6 +25,8 @@ tags:
   - gemeenteraad
   - burgemeester
   - afval
+themes:
+  - taal-en-begrijpelijkheid
 ---
 
 <!-- @license CC0-1.0 -->

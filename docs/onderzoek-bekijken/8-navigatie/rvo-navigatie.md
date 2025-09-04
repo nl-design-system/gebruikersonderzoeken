@@ -32,6 +32,11 @@ tags:
   - financiële regelingen
   - contentstructuur
   - klantreis
+themes:
+  - navigatie
+  - diensten-en-processen
+  - taal-en-begrijpelijkheid
+  - gedrag-en-conversie
 ---
 
 <!-- @license CC0-1.0 -->

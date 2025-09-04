@@ -21,6 +21,9 @@ tags:
   - initiatievenfonds
   - klantenreis
   - vertrouwen
+themes:
+  - diensten-en-processen
+  - navigatie
 ---
 
 # Zichtbaarheid en toegankelijkheid initiatievenfonds

@@ -17,6 +17,9 @@ tags:
   - brieven
   - begrijpelijkheid
   - b1
+themes:
+  - taal-en-begrijpelijkheid
+  - diensten-en-processen
 ---
 
 # Begrijpelijkheid constateringsbrieven Vergunningen, Toezicht en Handhaving

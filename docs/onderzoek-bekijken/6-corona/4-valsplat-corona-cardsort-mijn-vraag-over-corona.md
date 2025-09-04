@@ -17,6 +17,10 @@ tags:
   - valsplat
   - card sort
   - categorie
+themes:
+  - navigatie
+  - taal-en-begrijpelijkheid
+  - diensten-en-processen
 ---
 
 <!-- @license CC0-1.0 -->

@@ -18,6 +18,8 @@ tags:
   - utrecht
   - icoon
   - parkeren
+themes:
+  - taal-en-begrijpelijkheid
 ---
 
 <!-- @license CC0-1.0 -->

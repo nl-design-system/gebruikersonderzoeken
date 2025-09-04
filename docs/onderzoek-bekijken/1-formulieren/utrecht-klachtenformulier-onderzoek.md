@@ -20,7 +20,9 @@ tags:
   - U-lab
 themes:
   - formulieren
-  - content-en-begrijpelijkheid
+  - taal-en-begrijpelijkheid
+  - mijn-omgeving
+  - doelgroep-specifiek
 ---
 
 <!-- @license CC0-1.0 -->

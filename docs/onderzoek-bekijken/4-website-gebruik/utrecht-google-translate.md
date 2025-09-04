@@ -16,6 +16,10 @@ tags:
   - utrecht
   - google translate
   - vertalen
+themes:
+  - taal-en-begrijpelijkheid
+  - gedrag-en-conversie
+  - doelgroep-specifiek
 ---
 
 # Google Translate gebruik op utrecht.nl
