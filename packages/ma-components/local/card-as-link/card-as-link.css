@@ -10,12 +10,8 @@
   border-width: var(--ma-card-as-link-border-width);
   column-gap: var(--ma-card-as-link-column-gap);
   display: grid;
-  grid-template-areas:
-    "header"
-    "description"
-    "footer";
   grid-template-columns: 1fr;
-  grid-template-rows: repeat(3, auto);
+  grid-template-rows: repeat(2, auto);
   padding-block-end: var(--ma-card-as-link-padding-block-end);
   padding-block-start: var(--ma-card-as-link-padding-block-start);
   padding-inline-end: var(--ma-card-as-link-padding-inline-end);
@@ -38,7 +34,7 @@
     --nl-link-hover-color: var(--ma-card-as-link-heading-hover-color);
     --nl-heading-level-3-color: var(--ma-card-as-link-heading-color);
 
-    grid-area: header;
+    grid-row-start: 1;
 
     &:has(:where(.nl-link:active)) {
       --nl-heading-level-3-color: var(--ma-card-as-link-heading-active-color);
@@ -68,12 +64,12 @@
   }
 
   & .ma-card-as-link__description {
-    grid-area: description;
+    grid-row-start: 2;
     max-inline-size: var(--ma-card-as-link-paragraph-max-inline-size);
   }
 
   & .ma-card-as-link__footer {
-    grid-area: footer;
+    grid-row-start: 3;
   }
 
   & .ma-card-as-link__metadata-list {
@@ -105,15 +101,13 @@
 .ma-card-as-link-theme {
   --ma-card-as-link-padding-inline-start: var(--ma-card-as-link-theme-padding-inline-start);
 
-  grid-template-areas:
-    "icon heading"
-    "icon description"
-    "icon footer";
   grid-template-columns: var(--ma-card-as-link-icon-size) 1fr;
 
   & .ma-card-as-link__header {
     color: var(--nl-link-color);
     display: contents;
+    grid-column-start: 2;
+    grid-row-start: 1;
 
     &:has(:where(.nl-link:active)) {
       --nl-link-color: var(--ma-card-as-link-heading-active-color);
@@ -125,6 +119,15 @@
   }
 
   & .ma-card-as-link-theme__icon {
-    grid-area: icon;
+    grid-column-start: 1;
+    grid-row-start: 1;
+  }
+
+  & .ma-card-as-link__description {
+    grid-column-start: 2;
+  }
+
+  & .ma-card-as-link__footer {
+    grid-column-start: 2;
   }
 }
