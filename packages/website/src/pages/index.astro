@@ -1,16 +1,42 @@
 ---
+import { BannerUpdate } from '@components/banner-update/banner-update.tsx';
+import { CardListOnderzoek } from '@components/card-list-onderzoek/card-list-onderzoek.tsx';
+import { CardListTheme } from '@components/card-list-theme/card-list-theme.tsx';
 import { Hero } from '@components/hero/hero.tsx';
+import { PageSection } from '@components/page-section/page-section.tsx';
 import Layout from '@layouts/default.astro';
-import { Panel } from '@nl-design-system-community/ma-components/local/panel/index.tsx';
+import { Heading } from '@nl-design-system-candidate/heading-react';
+import { getCollection } from 'astro:content';
+
+const themes = await getCollection('themes').then((themes) =>
+  themes.toSorted((a, b) => (a.data.order < b.data.order ? 1 : -1)),
+);
+
+const onderzoeken = await getCollection('onderzoeken').then((list) => list.toSpliced(3, Infinity));
 ---
 
 <Layout canonical={Astro.url} description="Gedeelde gebruikersonderzoeken voor de overheid">
   <Hero />
 
-  <Panel spaceBlock="5xl">
-    <div>Card 1</div>
-    <div>Card 2</div>
-    <div>Card 3</div>
-    <div>Card 4</div>
-  </Panel>
+  <PageSection>
+    <Heading level={2}>Thema's</Heading>
+    <CardListTheme columns={2} themes={themes} />
+  </PageSection>
+
+  <BannerUpdate
+    heading="Geef feedback op CIDO"
+    content="De Code Inclusief Digitaal Ontwerpen (CIDO) geeft praktische richtlijnen om digitale diensten toegankelijk en inclusief te maken. We vragen de community om CIDO te gebruiken bij gebruikersonderzoeken en feedback te delen, zodat we samen de code kunnen verbeteren en versterken."
+    footerActions={[
+      { href: 'https://github.com/nl-design-system/gebruikersonderzoeken/discussions/407', label: 'Geef feedback' },
+      { href: 'https://www.accessibility.nl/code-inclusief-digitaal-ontwerpen', label: 'Meer over CIDO' },
+    ]}
+  />
+
+  <PageSection>
+    <Heading level={2}>Nieuwste onderzoeken</Heading>
+    <div>
+      <a href="/docs/onderzoek-bekijken/" class="nl-link">Bekijk alle onderzoeken</a>
+    </div>
+    <CardListOnderzoek onderzoeken={onderzoeken} />
+  </PageSection>
 </Layout>
