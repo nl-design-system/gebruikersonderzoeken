@@ -52,6 +52,10 @@
       outline-width: var(--ma-focus-indicator-outline-width) !important;
       text-decoration: none;
       z-index: 1;
+
+      & * {
+        color: var(--ma-focus-indicator-color) !important;
+      }
     }
 
     & .ma-focus-indicator-inset:focus-visible,
