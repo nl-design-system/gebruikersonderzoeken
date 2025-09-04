@@ -25,6 +25,9 @@ tags:
   - autisme
   - begrijpelijkheid
   - b1
+themes:
+  - toegankelijkheid
+  - doelgroep-specifiek
 ---
 
 # Onderzoek lettertype bij neurodiversiteitsnetwerk

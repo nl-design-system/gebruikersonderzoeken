@@ -17,6 +17,9 @@ tags:
   - Dark mode
   - light mode
   - matomo
+themes:
+  - toegankelijkheid
+  - gedrag-en-conversie
 ---
 
 # Dark mode gebruik op utrecht.nl

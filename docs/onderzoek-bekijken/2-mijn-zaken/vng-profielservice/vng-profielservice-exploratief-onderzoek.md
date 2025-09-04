@@ -25,6 +25,10 @@ tags:
   - mijn zaken
   - status component
   - profielservice
+themes:
+  - mijn-omgeving
+  - toegankelijkheid
+  - diensten-en-processen
 ---
 
 <!-- @license CC0-1.0 -->

@@ -21,6 +21,11 @@ tags:
   - beheeromgeving
   - beheer
   - wet open overheid
+themes:
+  - navigatie
+  - mijn-omgeving
+  - diensten-en-processen
+  - taal-en-begrijpelijkheid
 ---
 
 # Gebruikersonderzoek Publicatievoorziening Wet open overheid

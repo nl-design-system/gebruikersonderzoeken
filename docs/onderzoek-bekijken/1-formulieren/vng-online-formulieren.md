@@ -23,6 +23,11 @@ tags:
   - MijnOmgeving
 themes:
   - formulieren
+  - toegankelijkheid
+  - taal-en-begrijpelijkheid
+  - mijn-omgeving
+  - doelgroep-specifiek
+  - navigatie
 ---
 
 # Contactformulier voor WMEBV

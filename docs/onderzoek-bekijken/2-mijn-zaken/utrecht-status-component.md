@@ -25,6 +25,13 @@ tags:
   - mijn omgeving
   - mijn zaken
   - status component
+themes:
+  - mijn-omgeving
+  - navigatie
+  - taal-en-begrijpelijkheid
+  - mobiele-ervaring
+  - diensten-en-processen
+  - gedrag-en-conversie
 ---
 
 <!-- @license CC0-1.0 -->

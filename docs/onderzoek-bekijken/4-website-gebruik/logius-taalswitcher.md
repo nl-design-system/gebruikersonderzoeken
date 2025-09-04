@@ -23,6 +23,9 @@ tags:
   - translate
   - gebruikersonderzoek
   - logius
+themes:
+  - navigatie
+  - taal-en-begrijpelijkheid
 ---
 
 # Gebruik vertaaloptie op website (Taalswitch)

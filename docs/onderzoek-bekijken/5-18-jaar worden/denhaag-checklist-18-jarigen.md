@@ -16,6 +16,9 @@ tags:
   - 18 jaar
   - informatiecampage
   - life event
+themes:
+  - taal-en-begrijpelijkheid
+  - doelgroep-specifiek
 ---
 
 <!-- @license CC0-1.0 -->

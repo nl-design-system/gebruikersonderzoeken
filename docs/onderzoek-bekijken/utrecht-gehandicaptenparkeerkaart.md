@@ -17,6 +17,11 @@ tags:
   - gebruikersonderzoek
   - gehandicaptenparkeerkaart
   - klantenreis
+themes:
+  - formulieren
+  - doelgroep-specifiek
+  - taal-en-begrijpelijkheid
+  - gedrag-en-conversie
 ---
 
 <!-- @license CC0-1.0 -->

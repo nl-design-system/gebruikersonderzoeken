@@ -18,6 +18,9 @@ tags:
   - mijn omgeving
   - mijn profielservice
   - omnichannel
+themes:
+  - mijn-omgeving
+  - toegankelijkheid
 ---
 
 <!-- @license CC0-1.0 -->

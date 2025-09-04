@@ -21,6 +21,10 @@ tags:
   - mijn zaken
   - status component
   - mijn producten
+themes:
+  - mijn-omgeving
+  - navigatie
+  - diensten-en-processen
 ---
 
 <!-- @license CC0-1.0 -->
