@@ -1,5 +1,6 @@
 ---
-title: Overig
-description: Alle onderzoeken die niet onder een ander thema vallen.
+title: Overige onderzoeken
+description: Onderzoeken die niet bij de bestaande thema's passen of nog geen thema hebben.
+icon: folders
 order: -1
 ---
