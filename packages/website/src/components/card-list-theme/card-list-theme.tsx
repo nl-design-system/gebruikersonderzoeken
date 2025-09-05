@@ -4,13 +4,15 @@ import { Heading } from '@nl-design-system-candidate/heading-react';
 import { CardAsLinkTheme } from '@nl-design-system-community/ma-components/local/card-as-link/card-as-link.tsx';
 import { CardList } from '@nl-design-system-community/ma-components/local/card-list/card-list.tsx';
 import { dynamicImports } from '@tabler/icons-react';
+import './card-list-theme.css';
 
 interface ThemeEntryWithItems extends CollectionEntry<'themes'> {
-  items: object[];
+  items?: object[];
 }
 
 export interface CardListThemeProps {
   themes: ThemeEntryWithItems[];
+  columns?: 1 | 2;
 }
 
 interface IconProps {
@@ -28,7 +30,7 @@ async function Icon(props: IconProps) {
 
 export async function CardListTheme(props: PropsWithChildren<CardListThemeProps>) {
   return (
-    <CardList>
+    <CardList className={`ma-card-list-theme ${props.columns === 2 ? 'ma-card-list-theme--columns-2' : ''}`.trim()}>
       {props.themes.map((theme) => (
         <CardAsLinkTheme
           icon={<Icon name={theme.data.icon} />}
@@ -39,11 +41,13 @@ export async function CardListTheme(props: PropsWithChildren<CardListThemeProps>
           }
           href={`/docs/thema/${theme.id}`}
           description={theme.data.description}
-          metadata={[
-            {
-              label: `${theme.items.length} onderzoeken`,
-            },
-          ]}
+          metadata={
+            theme?.items && [
+              {
+                label: `${theme.items.length} onderzoeken`,
+              },
+            ]
+          }
         />
       ))}
     </CardList>

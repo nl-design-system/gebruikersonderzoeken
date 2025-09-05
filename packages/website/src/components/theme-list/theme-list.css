@@ -6,7 +6,7 @@
 
 .ma-theme-list__list {
   display: flex;
-  gap: var(--basis-space-inline-xl);
+  gap: var(--basis-space-inline-md);
   list-style: none;
   margin-block: 0;
   margin-inline: 0;

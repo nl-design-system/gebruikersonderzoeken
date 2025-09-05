@@ -45,7 +45,7 @@
   }
 }
 
-.ma-banner--image-appearance-small {
+.ma-banner--image-appearance-small:has(.ma-banner__image) {
   @container ma-banner (min-width: 700px) {
     .ma-banner__content {
       grid-template-areas:
