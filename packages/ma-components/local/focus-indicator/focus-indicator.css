@@ -19,29 +19,25 @@
   --ma-focus-indicator-outline-style: var(--basis-focus-outline-style);
   --ma-focus-indicator-outline-width: var(--basis-focus-outline-width);
 
-  & :focus {
-    background-image: var(--ma-focus-indicator-background-image) !important;
-    box-shadow: 0 0 0 var(--ma-focus-indicator-outline-width) var(--ma-focus-indicator-inverse-outline-color) !important;
-    color: var(--ma-focus-indicator-color) !important;
-    outline-color: var(--ma-focus-indicator-outline-color) !important;
-    outline-offset: var(--ma-focus-indicator-outline-offset) !important;
-    outline-style: var(--ma-focus-indicator-outline-style) !important;
-    outline-width: var(--ma-focus-indicator-outline-width) !important;
-  }
+  @supports not selector(*:focus-visible) {
+    & :focus {
+      background-image: var(--ma-focus-indicator-background-image) !important;
+      box-shadow: 0 0 0 var(--ma-focus-indicator-outline-width) var(--ma-focus-indicator-inverse-outline-color) !important;
+      color: var(--ma-focus-indicator-color) !important;
+      outline-color: var(--ma-focus-indicator-outline-color) !important;
+      outline-offset: var(--ma-focus-indicator-outline-offset) !important;
+      outline-style: var(--ma-focus-indicator-outline-style) !important;
+      outline-width: var(--ma-focus-indicator-outline-width) !important;
+    }
 
-  & .ma-focus-indicator-inset:focus,
-  & .ma-focus-indicator-inset :focus {
-    box-shadow: 0 0 0 var(--ma-focus-indicator-outline-width) var(--ma-focus-indicator-inverse-outline-color) inset !important;
-    outline-offset: calc(var(--ma-focus-indicator-outline-width) * -1) !important;
+    & .ma-focus-indicator-inset:focus,
+    & .ma-focus-indicator-inset :focus {
+      box-shadow: 0 0 0 var(--ma-focus-indicator-outline-width) var(--ma-focus-indicator-inverse-outline-color) inset !important;
+      outline-offset: calc(var(--ma-focus-indicator-outline-width) * -1) !important;
+    }
   }
 
   @supports selector(*:focus-visible) {
-    & .ma-focus-indicator-inset:focus,
-    & :focus {
-      box-shadow: unset;
-      color: unset;
-    }
-
     & :focus-visible {
       background-image: var(--ma-focus-indicator-background-image) !important;
       box-shadow: 0 0 0 var(--ma-focus-indicator-outline-width) var(--ma-focus-indicator-inverse-outline-color) !important;
