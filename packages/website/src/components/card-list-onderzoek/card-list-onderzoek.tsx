@@ -12,18 +12,22 @@ export interface CardListThemeProps {
 export function CardListOnderzoek(props: PropsWithChildren<CardListThemeProps>) {
   return (
     <CardList>
-      {props.onderzoeken.map((onderzoek) => (
-        <CardAsLink
-          heading={
-            <Heading level={2} appearance="level-3">
-              {onderzoek.data.title}
-            </Heading>
-          }
-          href={`/docs/onderzoek-bekijken/${toCleanRoute(onderzoek.id)}`}
-          description={onderzoek.data.description}
-          metadata={[]}
-        />
-      ))}
+      {props.onderzoeken.map((onderzoek) => {
+        const metadata = onderzoek.data.conducted_by ? [{ label: onderzoek.data.conducted_by.join(', ') }] : undefined;
+
+        return (
+          <CardAsLink
+            heading={
+              <Heading level={2} appearance="level-3">
+                {onderzoek.data.title}
+              </Heading>
+            }
+            href={`/docs/onderzoek-bekijken/${toCleanRoute(onderzoek.id)}`}
+            description={onderzoek.data.description}
+            metadata={metadata}
+          />
+        );
+      })}
     </CardList>
   );
 }
