@@ -24,6 +24,12 @@ themes:
   - formulieren
   - toegankelijkheid
   - doelgroep-specifiek
+conducted_by:
+  - gemeente Den Haag
+  - gemeente Rotterdam
+  - gemeente Utrecht
+  - gemeente Venray
+  - NL Design System
 ---
 
 <!-- @license CC0-1.0 -->
