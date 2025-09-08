@@ -6,10 +6,14 @@ import { glob } from 'astro/loaders'; // Not available with legacy API
 const onderzoeken = defineCollection({
   loader: glob({ base: '../../docs/onderzoek-bekijken/', pattern: '**/!(_)(*).md' }),
   schema: z.object({
+    conducted_by: z.array(z.string()).optional(),
     cover: CoverSchema.optional(),
+    date: z.date().optional(),
     description: z.string(),
+    target_group: z.union([z.array(z.string()), z.string()]).optional(),
     themes: z.array(reference('themes')).default(['overig']),
     title: z.string(),
+    type: z.union([z.array(z.string()), z.string()]).optional(),
   }),
 });
 
