@@ -22,6 +22,9 @@ themes:
   - mobiele-ervaring
   - taal-en-begrijpelijkheid
   - gedrag-en-conversie
+conducted_by:
+  - gemeente Den Haag
+  - VNG
 ---
 
 <!-- @license CC0-1.0 -->

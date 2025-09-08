@@ -21,6 +21,9 @@ tags:
 themes:
   - mijn-omgeving
   - toegankelijkheid
+conducted_by:
+  - gemeente Den Haag
+  - VNG
 ---
 
 <!-- @license CC0-1.0 -->

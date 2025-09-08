@@ -26,6 +26,9 @@ themes:
   - mijn-omgeving
   - diensten-en-processen
   - taal-en-begrijpelijkheid
+conducted_by:
+  - Acato
+  - gemeente Tilburg
 ---
 
 # Gebruikersonderzoek Publicatievoorziening Wet open overheid

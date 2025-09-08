@@ -23,6 +23,9 @@ themes:
   - taal-en-begrijpelijkheid
   - mijn-omgeving
   - doelgroep-specifiek
+conducted_by:
+  - gemeente Utrecht
+  - TrueTalk
 ---
 
 <!-- @license CC0-1.0 -->
