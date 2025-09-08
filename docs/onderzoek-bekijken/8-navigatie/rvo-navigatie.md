@@ -37,6 +37,9 @@ themes:
   - diensten-en-processen
   - taal-en-begrijpelijkheid
   - gedrag-en-conversie
+conducted_by:
+  - Deloitte
+  - RVO
 ---
 
 <!-- @license CC0-1.0 -->

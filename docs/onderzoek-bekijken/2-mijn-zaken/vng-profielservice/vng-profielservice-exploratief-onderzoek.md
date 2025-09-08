@@ -29,6 +29,9 @@ themes:
   - mijn-omgeving
   - toegankelijkheid
   - diensten-en-processen
+conducted_by:
+  - gemeente Den Haag
+  - VNG
 ---
 
 <!-- @license CC0-1.0 -->

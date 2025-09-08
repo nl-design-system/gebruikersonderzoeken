@@ -32,6 +32,10 @@ themes:
   - mobiele-ervaring
   - diensten-en-processen
   - gedrag-en-conversie
+conducted_by:
+  - gemeente Den Haag
+  - gemeente Utrecht
+  - VNG
 ---
 
 <!-- @license CC0-1.0 -->

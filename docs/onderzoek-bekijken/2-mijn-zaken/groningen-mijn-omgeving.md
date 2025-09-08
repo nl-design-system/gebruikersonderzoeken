@@ -21,6 +21,9 @@ themes:
   - navigatie
   - taal-en-begrijpelijkheid
   - mobiele-ervaring
+conducted_by:
+  - gemeente Groningen
+  - Maykin Media
 ---
 
 <!-- @license CC0-1.0 -->

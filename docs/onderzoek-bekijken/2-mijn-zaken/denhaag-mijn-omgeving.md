@@ -22,6 +22,10 @@ themes:
   - toegankelijkheid
   - mobiele-ervaring
   - doelgroep-specifiek
+conducted_by:
+  - gemeente Den Haag
+  - gemeente Utrecht
+  - VNG
 ---
 
 <!-- @license CC0-1.0 -->
