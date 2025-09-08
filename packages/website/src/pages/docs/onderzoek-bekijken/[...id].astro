@@ -2,6 +2,10 @@
 import { ThemeList } from '@components/theme-list/theme-list.tsx';
 import CenterColumnLayout from '@layouts/center-column.astro';
 import { BodyCopy } from '@nl-design-system-community/ma-components/local/body-copy/body-copy';
+import {
+  DataSummary,
+  type DataSummaryItem,
+} from '@nl-design-system-community/ma-components/local/data-summary/data-summary';
 import { toCleanRoute } from '@utils/menu';
 import { getCollection, render } from 'astro:content';
 import { getEntries } from 'astro:content';
@@ -38,10 +42,39 @@ let themes = await getEntries(onderzoek.data.themes || []);
 if (themes.includes(undefined)) {
   throw new Error(`The themes in ${onderzoek.id} contain an invalid value`);
 }
+
+function formatDate(date: unknown) {
+  if (date instanceof Date) {
+    const months = [
+      'januari',
+      'februari',
+      'maart',
+      'april',
+      'mei',
+      'juni',
+      'juli',
+      'augustus',
+      'september',
+      'oktober',
+      'november',
+      'december',
+    ];
+    return `${months[date.getMonth()]} ${date.getFullYear()}`;
+  }
+  return;
+}
+
+const dataSummary: DataSummaryItem[] = [
+  { definition: formatDate(onderzoek.data.date), term: 'Datum onderzoek' },
+  { definition: onderzoek.data.conducted_by, term: 'Uitgevoerd door' },
+  { definition: onderzoek.data.type, term: 'Type onderzoek' },
+  { definition: onderzoek.data.target_group, term: 'Doelgroep' },
+];
 ---
 
 <CenterColumnLayout canonical={Astro.url} title={onderzoek.data.title} cover={cover}>
   <BodyCopy large>
+    <DataSummary appearance="rows" items={dataSummary} />
     <Content />
     <hr class="utrecht-separator" />
     <ThemeList themes={themes} />
