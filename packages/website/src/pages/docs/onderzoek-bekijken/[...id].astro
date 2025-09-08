@@ -1,6 +1,7 @@
 ---
 import { ThemeList } from '@components/theme-list/theme-list.tsx';
 import CenterColumnLayout from '@layouts/center-column.astro';
+import { Heading } from '@nl-design-system-candidate/heading-react';
 import { BodyCopy } from '@nl-design-system-community/ma-components/local/body-copy/body-copy';
 import {
   DataSummary,
@@ -74,6 +75,7 @@ const dataSummary: DataSummaryItem[] = [
 
 <CenterColumnLayout canonical={Astro.url} title={onderzoek.data.title} cover={cover}>
   <BodyCopy large>
+    <Heading level={1}>{onderzoek.data.title}</Heading>
     <DataSummary appearance="rows" items={dataSummary} />
     <Content />
     <hr class="utrecht-separator" />
