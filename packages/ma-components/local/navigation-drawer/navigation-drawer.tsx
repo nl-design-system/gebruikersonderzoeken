@@ -1,4 +1,9 @@
+import { ReactNode } from 'react';
 import './navigation-drawer.css';
+
+interface NavigationDrawerHeaderProps {
+  closeButton: ReactNode;
+}
 
 interface NavigationDrawerItemProps {
   expandable?: boolean;
@@ -7,17 +12,16 @@ interface NavigationDrawerItemProps {
   href: string;
 }
 
-function Header() {
-  return (
-    <header className="ma-navigation-drawer__header">
-      <button command="close" commandfor="ma-navigation-drawer">
-        sluiten
-      </button>
-    </header>
-  );
+interface NavigationDrawerProps {
+  header?: ReactNode;
+  children?: ReactNode;
 }
 
-function Item(props: NavigationDrawerItemProps) {
+export function NavigationDrawerHeader(props: NavigationDrawerHeaderProps) {
+  return <header className="ma-navigation-drawer__header">{props.closeButton}</header>;
+}
+
+export function NavigationDrawerItem(props: NavigationDrawerItemProps) {
   return (
     <li className="ma-navigation-drawer__item ma-focus-indicator-inset">
       <a href={props.href} aria-current={props.current ? 'page' : null}>
@@ -27,14 +31,12 @@ function Item(props: NavigationDrawerItemProps) {
   );
 }
 
-export function NavigationDrawer() {
+export function NavigationDrawer(props: NavigationDrawerProps) {
   return (
     <dialog id="ma-navigation-drawer" className="ma-navigation-drawer">
-      <Header />
+      {props.header}
       <ul className="ma-navigation-drawer__list" role="list">
-        <Item label="foo" href="#" />
-        <Item label="bar" href="#" current />
-        <Item label="baz" href="#" />
+        {props.children}
       </ul>
     </dialog>
   );

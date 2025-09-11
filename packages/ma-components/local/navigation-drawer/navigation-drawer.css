@@ -64,6 +64,7 @@
   column-gap: var(--ma-navigation-drawer-header-column-gap);
   display: flex;
   inset-block-start: 0;
+  justify-content: flex-end;
   padding-block-end: var(--ma-navigation-drawer-header-padding-block-end);
   padding-block-start: var(--ma-navigation-drawer-header-padding-block-start);
   padding-inline-end: var(--ma-navigation-drawer-header-padding-inline-end);
