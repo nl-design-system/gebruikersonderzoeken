@@ -18,7 +18,7 @@ export function GebruikersonderzoekenHeader(props: PageHeaderProps) {
     <MaPageHeader
       className="ma-gebruikersonderzoeken-header"
       startGroup={
-        <Button appearance="subtle-button">
+        <Button command="show-modal" commandfor="ma-navigation-drawer" appearance="subtle-button">
           <IconMenu /> Menu
         </Button>
       }
