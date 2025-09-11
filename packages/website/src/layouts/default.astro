@@ -95,6 +95,10 @@ const navigationBarItems = [
     <NavigationDrawer />
     <main class={mainClass}><slot /></main>
     <GebruikersonderzoekenFooter />
+
     <div hidden set:html={logo} />
+    <script>
+      import 'invokers-polyfill';
+    </script>
   </body>
 </html>
