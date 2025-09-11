@@ -1,4 +1,10 @@
 .ma-gebruikersonderzoeken-header {
+  /* unset utrecht button focus color because we have a focus indicator component */
+  .utrecht-button:focus:not(:disabled, [aria-disabled="true"], .utrecht-button--disabled) {
+    background-color: var(--utrecht-button-subtle-background-color);
+    color: var(--utrecht-button-subtle-color);
+  }
+
   @container ma-page-header (width >= 768px) {
     .ma-page-header__group--center {
       flex-basis: 184px;
