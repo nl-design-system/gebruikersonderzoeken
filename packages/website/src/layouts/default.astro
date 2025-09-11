@@ -2,8 +2,8 @@
 import type { Cover } from '@schemas/cover.ts';
 import { GebruikersonderzoekenFooter } from '@components/gebruikersonderzoeken-footer/gebruikersonderzoeken-footer';
 import { GebruikersonderzoekenHeader } from '@components/gebruikersonderzoeken-header/gebruikersonderzoeken-header';
+import { GebruikersonderzoekenNavigationDrawer } from '@components/gebruikersonderzoeken-navigation-drawer/gebruikersonderzoeken-navigation-drawer';
 import logo from '@components/logo/logo.svg?raw';
-import { NavigationDrawer } from '@nl-design-system-community/ma-components/local/navigation-drawer/navigation-drawer.tsx';
 import { cspValue } from '@utils/csp.ts';
 import '@assets/styles.css';
 import '@fontsource/fira-code';
@@ -92,7 +92,7 @@ const navigationBarItems = [
   </head>
   <body class="utrecht-body">
     <GebruikersonderzoekenHeader navigationBarItems={navigationBarItems} />
-    <NavigationDrawer />
+    <GebruikersonderzoekenNavigationDrawer navigationBarItems={navigationBarItems} />
     <main class={mainClass}><slot /></main>
     <GebruikersonderzoekenFooter />
 
