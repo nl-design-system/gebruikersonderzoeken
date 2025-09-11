@@ -1,0 +1,22 @@
+/**
+ * Component is a work in progress, not a finished design yet
+ */
+.ma-toolbar-button {
+  --ma-toolbar-button-background-color: var(--basis-space-text-xs);
+  --ma-toolbar-button-column-gap: var(--basis-space-text-xs);
+  --ma-toolbar-button-padding-block-end: var(--basis-space-block-lg);
+  --ma-toolbar-button-padding-block-start: var(--basis-space-block-lg);
+  --ma-toolbar-button-padding-inline-end: var(--basis-space-inline-md);
+  --ma-toolbar-button-padding-inline-start: var(--basis-space-inline-md);
+
+  align-items: center;
+  background-color: transparent;
+  border: none;
+  color: white;
+  column-gap: var(--ma-toolbar-button-column-gap);
+  display: flex;
+  padding-block-end: var(--ma-toolbar-button-padding-block-end);
+  padding-block-start: var(--ma-toolbar-button-padding-block-start);
+  padding-inline-end: var(--ma-toolbar-button-padding-inline-end);
+  padding-inline-start: var(--ma-toolbar-button-padding-inline-start);
+}
