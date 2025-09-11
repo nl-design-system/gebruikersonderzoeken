@@ -48,7 +48,8 @@
     "@utrecht/link-list-css": "2.3.1",
     "@utrecht/ordered-list-css": "1.5.2",
     "@utrecht/separator-css": "1.5.1",
-    "@utrecht/unordered-list-css": "1.5.1"
+    "@utrecht/unordered-list-css": "1.5.1",
+    "invokers-polyfill": "0.5.7"
   },
   "devDependencies": {
     "@astrojs/react": "4.3.0",

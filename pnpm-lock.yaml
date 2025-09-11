@@ -232,6 +232,9 @@ importers:
       '@utrecht/unordered-list-css':
         specifier: 1.5.1
         version: 1.5.1
+      invokers-polyfill:
+        specifier: 0.5.7
+        version: 0.5.7
     devDependencies:
       '@astrojs/react':
         specifier: 4.3.0
@@ -5232,6 +5235,9 @@ packages:
 
   invariant@2.2.4:
     resolution: {integrity: sha512-phJfQVBuaJM5raOpJjSfkiD6BpbCE4Ns//LaXl6wGYtUBY83nWS6Rf9tXm2e8VaK60JEjYldbPif/A2B1C2gNA==}
+
+  invokers-polyfill@0.5.7:
+    resolution: {integrity: sha512-T1MmQ40+ARzC0W3YgyVUyncXIi1G7jnUq1PVdsYNr1ql7etYGHWNr3RKvJABIiFO5Ktk3xK9/A8+1lFASvcrKw==}
 
   ipaddr.js@1.9.1:
     resolution: {integrity: sha512-0KI/607xoxSToH7GjN1FfSbLoU0+btTicjsQSWQlh/hZykN8KpmMf7uYwPW3R+akZ6R/w18ZlXSHBYXiYUPO3g==}
@@ -15014,6 +15020,8 @@ snapshots:
   invariant@2.2.4:
     dependencies:
       loose-envify: 1.4.0
+
+  invokers-polyfill@0.5.7: {}
 
   ipaddr.js@1.9.1: {}
 
