@@ -1,11 +1,22 @@
+@keyframes ma-navigation-drawer-slide-out {
+  to {
+    translate: -100% 0 0;
+  }
+}
+
+:root {
+  /* stylelint-disable-next-line unit-disallowed-list */
+  --ma-navigation-drawer-slide-in-duration: 0.2s;
+
+  /* stylelint-disable-next-line unit-disallowed-list */
+  --ma-navigation-drawer-slide-out-duration: 0.1s;
+}
+
 .ma-navigation-drawer {
   --ma-navigation-drawer-background-color: var(--basis-color-accent-1-inverse-bg-default);
   --ma-navigation-drawer-box-shadow: var(--basis-box-shadow-lg);
   --ma-navigation-drawer-min-inline-size: 312px;
   --ma-navigation-drawer-row-gap: var(--basis-space-row-xl);
-
-  /* stylelint-disable-next-line unit-disallowed-list */
-  --ma-navigation-drawer-slide-duration: 0.25s;
 
   background-color: var(--ma-navigation-drawer-background-color);
   block-size: 100vh;
@@ -23,11 +34,12 @@
   padding-inline: 0;
   row-gap: var(--ma-navigation-drawer-row-gap);
   translate: 0 0 0;
+  view-transition-name: ma-navigation-drawer;
 
   @media (prefers-reduced-motion: no-preference) {
     transition:
-      translate var(--ma-navigation-drawer-slide-duration) ease-in,
-      display var(--ma-navigation-drawer-slide-duration) ease-in allow-discrete;
+      translate var(--ma-navigation-drawer-slide-in-duration) ease-in,
+      display var(--ma-navigation-drawer-slide-in-duration) ease-in allow-discrete;
   }
 
   @starting-style {
@@ -37,6 +49,7 @@
   &:not(:modal) {
     display: none;
     max-block-size: 100vh;
+    transition-duration: var(--ma-navigation-drawer-slide-out-duration);
     transition-timing-function: ease-out;
     translate: -100% 0 0;
     z-index: 1;
@@ -45,6 +58,12 @@
   &:modal {
     max-block-size: 100vh;
   }
+}
+
+/* slude the open navigation drawer back out of view during page transitions */
+::view-transition-old(ma-navigation-drawer) {
+  /* stylelint-disable-next-line unit-disallowed-list */
+  animation: ma-navigation-drawer-slide-out 0.1s linear forwards;
 }
 
 .ma-navigation-drawer__header {
