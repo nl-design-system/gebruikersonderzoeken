@@ -23,6 +23,20 @@
 /* Styles from local components */
 @import "./strong.css";
 
+/* enable view transitions */
+@media (prefers-reduced-motion: no-preference) {
+  @view-transition {
+    navigation: auto;
+  }
+}
+
+/* disable the standard page wide fading transition */
+::view-transition-old(root),
+::view-transition-new(root) {
+  /* stylelint-disable-next-line unit-disallowed-list */
+  animation-duration: 0s;
+}
+
 .ma-theme {
   /* @TODO: When this value is included in ma-design-tokens, remove thise lines */
   --basis-color-accent-1-color-default: var(--ma-color-paars-10);
