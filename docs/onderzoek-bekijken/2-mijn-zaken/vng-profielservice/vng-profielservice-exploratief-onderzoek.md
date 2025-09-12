@@ -5,7 +5,7 @@ hide_table_of_contents: false
 sidebar_label: Exploratief onderzoek
 sidebar_position: 1
 pagination_label: Exploratief onderzoek
-description: Exploratief onderzoek Profielservice Mijn Omgeving
+description: Ontwikkeling van een profielgedeelte in de Mijn omgeving, waar inwoners hun persoonlijke gegevens en voorkeuren beheren.
 slug: /onderzoek-bekijken/mijn-zaken/acato-exploratief-onderzoek
 keywords:
   - onderzoek

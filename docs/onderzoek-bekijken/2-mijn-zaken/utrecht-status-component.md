@@ -5,7 +5,7 @@ hide_table_of_contents: false
 sidebar_label: Onderzoek Status Component van MijnZaken
 sidebar_position: 2
 pagination_label: Onderzoek Status Component van MijnZaken
-description: Onderzoek Status Component van MijnZaken
+description: Rol van de Status component in de Mijn omgeving en hoe dit inwoners vertrouwen geeft in hun aanvraag.
 keywords:
   - onderzoek
   - product dienst status

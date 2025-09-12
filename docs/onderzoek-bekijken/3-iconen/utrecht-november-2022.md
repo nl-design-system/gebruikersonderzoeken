@@ -5,7 +5,7 @@ hide_table_of_contents: false
 sidebar_label: Energietoeslag, millieuzone, rioolheffing, thuiswerken en parkeren icoon
 sidebar_position: 2
 pagination_label: Energietoeslag, millieuzone, rioolheffing, thuiswerken en parkeren icoon
-description: Gebruikersonderzoek iconen November 2022
+description: Herkenbaarheid van iconen bij onderwerpen zoals energietoeslag, milieuzone, rioolheffing, thuiswerken en parkeren.
 keywords:
   - icoon
   - icon

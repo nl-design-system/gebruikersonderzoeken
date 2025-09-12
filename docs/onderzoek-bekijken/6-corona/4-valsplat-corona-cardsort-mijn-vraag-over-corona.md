@@ -4,7 +4,7 @@ hide_title: true
 hide_table_of_contents: false
 sidebar_label: Card sort MijnVraagOverCorona.nl
 pagination_label: Card sort MijnVraagOverCorona.nl
-description: Card sort MijnVraagOverCorona.nl
+description: Indeling van coronagerelateerde situaties in categorieën en filters, om de navigatie en themastructuur van de site te verbeteren.
 keywords:
   - corona
   - valsplat

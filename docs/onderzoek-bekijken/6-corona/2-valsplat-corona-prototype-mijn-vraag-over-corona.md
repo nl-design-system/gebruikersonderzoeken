@@ -4,7 +4,7 @@ hide_title: true
 hide_table_of_contents: false
 sidebar_label: Prototype MijnVraagOverCorona.nl
 pagination_label: Prototype MijnVraagOverCorona.nl
-description: Prototype MijnVraagOverCorona.nl
+description: Gebruiksgemak van het MVOC-prototype, met aandacht voor navigatie, filtergebruik en begrijpelijkheid van thema’s zoals ‘kwetsbare gezondheid’.
 keywords:
   - corona
   - valsplat

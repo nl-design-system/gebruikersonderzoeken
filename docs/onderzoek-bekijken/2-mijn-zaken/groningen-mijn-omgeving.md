@@ -5,7 +5,7 @@ hide_table_of_contents: false
 sidebar_label: Onderzoek MijnAanvragen in Open Inwoner Platform (OIP) – Mijn Omgeving
 sidebar_position: 2
 pagination_label: Onderzoek MijnAanvragen in Open Inwoner Platform (OIP) – Mijn Omgeving
-description: Onderzoek MijnAanvragen in Open Inwoner Platform (OIP) – Mijn Omgeving
+description: Onderzoek naar hoe inwoners documenten uploaden en de status volgen bij lopende aanvragen in de Mijn omgeving.
 keywords:
   - onderzoek
   - mijnomgeving

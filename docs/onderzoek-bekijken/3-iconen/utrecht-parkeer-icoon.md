@@ -4,7 +4,7 @@ hide_title: true
 hide_table_of_contents: false
 sidebar_label: Parkeer icoon
 pagination_label: Parkeer icoon
-description: Gebruikersonderzoek naar parkeer icoon.
+description: Herkenbaarheid en duidelijkheid van een parkeericoon.
 keywords:
   - icoon
   - icon

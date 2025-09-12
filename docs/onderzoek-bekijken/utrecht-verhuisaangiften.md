@@ -4,7 +4,7 @@ hide_title: true
 hide_table_of_contents: false
 sidebar_label: Uitzonderingen in het verhuisaangiften proces
 pagination_label: Uitzonderingen in het verhuisaangiften proces
-description: Klantreisonderzoek verhuisaangiften
+description: Bijzondere verhuisgevallen buiten standaardprocedures, waarbij situaties begrijpelijk en toegankelijk moeten worden afgehandeld.
 keywords:
   - stadskamer
   - utrecht

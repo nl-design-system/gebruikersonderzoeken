@@ -4,7 +4,7 @@ hide_title: true
 hide_table_of_contents: false
 sidebar_label: Spreken met kwetsbaren
 pagination_label: Spreken met kwetsbaren
-description: Spreken met kwetsbaren
+description: Ervaringen van mensen met een kwetsbare gezondheid bij de afschaling van coronamaatregelen, met aandacht voor communicatie en informatievoorziening.
 keywords:
   - corona
   - valsplat

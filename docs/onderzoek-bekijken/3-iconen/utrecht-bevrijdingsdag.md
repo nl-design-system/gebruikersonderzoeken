@@ -5,7 +5,7 @@ hide_table_of_contents: false
 sidebar_label: Bevrijdingsdag, koningsdag en melding icoon
 sidebar_position: 2
 pagination_label: Bevrijdingsdag, koningsdag en melding icoon
-description: Gebruikersonderzoek icoon bevrijdingsdag, koningsdag en melding
+description: Begrijpelijkheid van iconen voor feestdagen en meldingen.
 keywords:
   - icoon
   - icon

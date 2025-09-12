@@ -4,7 +4,7 @@ hide_title: true
 hide_table_of_contents: false
 sidebar_label: Zichtbaarheid en toegankelijkheid initiatievenfonds
 pagination_label: Zichtbaarheid en toegankelijkheid initiatievenfonds
-description: Klantreisonderzoek initiatieven
+description: Zichtbaarheid en toegankelijkheid van het initiatievenfonds, met aandacht voor communicatie, procesinzicht en ondersteuning bij aanvragen.
 keywords:
   - stadskamer
   - utrecht

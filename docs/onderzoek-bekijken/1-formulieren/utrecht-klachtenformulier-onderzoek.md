@@ -4,7 +4,7 @@ hide_title: true
 hide_table_of_contents: false
 sidebar_label: Nieuwe klachtenformulier Gemeente Utrecht
 pagination_label: Nieuwe klachtenformulier Gemeente Utrecht
-description: Nieuwe klachtenformulier Gemeente Utrecht
+description: Gebruik van het vernieuwde klachtenformulier van de gemeente Utrecht, met aandacht voor taal en structuur.
   - utrecht
   - gebruikersonderzoek
   - klantenreis
