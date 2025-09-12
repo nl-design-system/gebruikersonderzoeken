@@ -4,7 +4,7 @@ hide_title: true
 hide_table_of_contents: false
 sidebar_label: Checklist 18 jarigen
 pagination_label: Checklist 18 jarigen
-description: Checklist 18 jarigen
+description: Checklist voor jongeren die 18 worden, met aandacht voor inhoudelijke bruikbaarheid en vormgeving die aansluit bij hun leefwereld.
 keywords:
   - informatiecampagne
   - gemeente den haag

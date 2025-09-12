@@ -5,7 +5,7 @@ hide_table_of_contents: false
 sidebar_label: Exploratief onderzoek
 sidebar_position: 1
 pagination_label: Exploratief onderzoek
-description: Exploratief onderzoek Mijn Producten in een Mijn Omgeving
+description: Verwachtingen van inwoners en ondernemers van een Mijn omgeving, met nadruk op thema’s, taken en filters.
 slug: /onderzoek-bekijken/mijn-zaken/mijn-producten/exploratief-onderzoek-vng
 keywords:
   - onderzoek

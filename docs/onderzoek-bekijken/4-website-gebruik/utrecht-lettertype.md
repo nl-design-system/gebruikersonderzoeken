@@ -4,7 +4,7 @@ hide_title: true
 hide_table_of_contents: false
 sidebar_label: Onderzoek lettertype bij neurodiversiteitsnetwerk
 pagination_label: Onderzoek lettertype bij neurodiversiteitsnetwerk
-description: Onderzoek lettertype bij neurodiversiteitsnetwerk
+description: Gebruik van Noto Sans als lettertype en de leesbaarheid voor neurodiverse collega’s.
 keywords:
   - utrecht
   - gebruikersonderzoek

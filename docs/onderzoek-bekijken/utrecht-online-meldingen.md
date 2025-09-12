@@ -4,7 +4,7 @@ hide_title: true
 hide_table_of_contents: false
 sidebar_label: Online meldingen
 pagination_label: Online meldingen
-description: Gebruikersonderzoek potentiele nieuwe versie online melding bij de gemeente Utrecht.
+description: Online meldformulier (Signalen) in Utrecht, met nadruk op toegankelijkheid voor blinde en slechtziende gebruikers en bevestiging via e-mail.
 keywords:
   - toegankelijkheid
   - online melding

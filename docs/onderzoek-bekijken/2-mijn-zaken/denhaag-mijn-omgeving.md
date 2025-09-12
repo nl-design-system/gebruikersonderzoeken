@@ -5,7 +5,7 @@ hide_table_of_contents: false
 sidebar_label: Ontwerp en usability onderzoek Mijn-omgevingen
 sidebar_position: 2
 pagination_label: Ontwerp en usability onderzoek Mijn-omgevingen
-description: Ontwerp en usability onderzoek Mijn-omgevingen
+description: Gebruikservaring van generieke onderdelen in de Mijn omgeving, zoals notificaties, berichten, taken en contactmomenten
 keywords:
   - onderzoek
   - mijnomgeving

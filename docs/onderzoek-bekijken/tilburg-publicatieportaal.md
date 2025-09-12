@@ -4,7 +4,7 @@ hide_title: true
 hide_table_of_contents: false
 sidebar_label: Gebruikersonderzoek Publicatievoorziening Wet open overheid
 pagination_label: Gebruikersonderzoek Publicatievoorziening Wet open overheid
-description: Gebruikersonderzoek Publicatievoorziening Wet open overheid
+description: Gebruik van het nieuwe publicatieportaal voor Woo-documenten in Tilburg, met aandacht voor gebruiksvriendelijkheid, herkenbaarheid en navigatie.
 keywords:
   - tilburg
   - gebruikersonderzoek

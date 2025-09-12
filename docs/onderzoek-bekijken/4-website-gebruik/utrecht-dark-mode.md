@@ -4,7 +4,7 @@ hide_title: true
 hide_table_of_contents: false
 sidebar_label: Dark mode gebruik op utrecht.nl
 pagination_label: Dark mode gebruik op utrecht.nl
-description: Dark mode gebruik op utrecht.nl
+description: Ervaringen van inwoners met de dark mode-optie en de invloed op gebruiksgemak en voorkeuren.
 keywords:
   - contrast
   - google

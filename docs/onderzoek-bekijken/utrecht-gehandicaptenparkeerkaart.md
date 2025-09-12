@@ -4,7 +4,7 @@ hide_title: true
 hide_table_of_contents: false
 sidebar_label: Aanvraagproces van de gehandicaptenparkeerkaart
 pagination_label: Aanvraagproces van de gehandicaptenparkeerkaart
-description: Klantreisonderzoek gehandicaptenparkeerkaart
+description: Proces van het aanvragen van een gehandicaptenparkeerkaart, met aandacht voor communicatie en ondersteuning van ouderen met beperkte digitale vaardigheden.
 keywords:
   - stadskamer
   - utrecht

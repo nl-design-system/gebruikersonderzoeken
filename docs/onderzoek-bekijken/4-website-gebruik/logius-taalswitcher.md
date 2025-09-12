@@ -4,7 +4,7 @@ hide_title: true
 hide_table_of_contents: false
 sidebar_label: Gebruik vertaaloptie op website
 pagination_label: Gebruik vertaaloptie op website
-description: Gebruik vertaaloptie op website
+description: Verwachtingen en voorkeuren voor een taalswitch op websites, zoals locatie, vorm en herkenbaarheid.
 keywords:
   - taalswitch
   - taalswitcher

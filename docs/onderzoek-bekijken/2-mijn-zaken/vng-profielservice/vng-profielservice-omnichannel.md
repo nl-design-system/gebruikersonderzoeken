@@ -5,7 +5,7 @@ hide_table_of_contents: false
 sidebar_label: Uitkomsten UX onderzoek
 sidebar_position: 2
 pagination_label: Uitkomsten UX onderzoek
-description: Uitkomsten UX onderzoek Profielservice Mijn Omgeving
+description: Ervaringen en wensen van inwoners en experts bij het gebruik van de Profielservice in de Mijn omgeving.
 slug: /onderzoek-bekijken/mijn-zaken/vng-profiel-service-omnichannel
 keywords:
   - onderzoek

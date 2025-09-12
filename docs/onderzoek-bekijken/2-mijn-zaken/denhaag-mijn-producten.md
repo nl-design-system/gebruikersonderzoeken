@@ -5,7 +5,7 @@ hide_table_of_contents: false
 sidebar_label: Uitkomsten Vervolgonderzoek MijnProducten
 sidebar_position: 2
 pagination_label: Uitkomsten Vervolgonderzoek MijnProducten
-description: Uitkomsten Vervolgonderzoek MijnProducten
+description: Onderzoek naar hoe inwoners en ondernemers producten terugvinden en gebruiken binnen de Mijn omgeving, zowel op desktop als mobiel.
 keywords:
   - onderzoek
   - mijnomgeving

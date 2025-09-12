@@ -4,7 +4,8 @@ hide_title: true
 hide_table_of_contents: false
 sidebar_label: Gebruikersonderzoek keuzehulp geldhulp bij kind laten sporten - deel 2
 pagination_label: Gebruikersonderzoek keuzehulp geldhulp bij kind laten sporten - deel 2
-description: Gebruikersonderzoek keuzehulp geldhulp bij kind laten sporten - deel 2
+description: Verbeterde versie van een digitale keuzehulp voor kinderondersteuning bij sport, gericht op helderheid, vertrouwen en gebruiksgemak op mobiel.
+keywords:
   - utrecht
   - gebruikersonderzoek
   - keuzehulp

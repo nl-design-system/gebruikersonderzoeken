@@ -4,7 +4,7 @@ hide_title: true
 hide_table_of_contents: false
 sidebar_label: Informatiecampagne 18 jaar
 pagination_label: Informatiecampagne 18 jaar
-description: Gebruikersonderzoek informatiecampagne 18 jaar bij de gemeente Utrecht
+description: Informatiecampagne voor 18-jarigen, waarbij een verjaardagskaart is getest als middel om jongeren te bereiken met belangrijke regelzaken.
 keywords:
   - informatiecampagne
   - gemeente utrecht

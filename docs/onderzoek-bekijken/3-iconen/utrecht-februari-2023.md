@@ -5,7 +5,7 @@ hide_table_of_contents: false
 sidebar_label: Gemeenteraad, burgemeester, afval icoon
 sidebar_position: 2
 pagination_label: Gemeenteraad, burgemeester, afval icoon
-description: Gebruikersonderzoek iconen Februari 2023
+description: Interpretatie en duidelijkheid van iconen voor de gemeenteraad, burgemeester en afval.
 keywords:
   - icoon
   - icon

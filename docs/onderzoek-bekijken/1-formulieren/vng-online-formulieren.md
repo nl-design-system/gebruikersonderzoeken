@@ -4,7 +4,7 @@ hide_title: true
 hide_table_of_contents: false
 sidebar_label: Contactformulier voor WMEBV
 pagination_label: Contactformulier voor WMEBV
-description: Onderzoek naar contactformulier dat voldoet aan Wet modernisering elektronisch bestuurlijk verkeer door VNG
+description: Gebruiksvriendelijkheid en toegankelijkheid van een online contactformulier, inclusief ervaringen van specifieke doelgroepen.
 keywords:
   - wmebv
   - VNG

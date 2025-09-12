@@ -4,7 +4,8 @@ hide_title: true
 hide_table_of_contents: false
 sidebar_label: Usability onderzoek Subsidiewijzer en nieuwe navigatie
 pagination_label: Usability onderzoek Subsidiewijzer en nieuwe navigatie
-description: Usability onderzoek Subsidiewijzer en nieuwe navigatie
+description: Nieuwe navigatie van de Subsidiewijzer op RVO.nl, met aandacht voor vindbaarheid van regelingen, filtergebruik en gebruiksgemak.
+keywords:
   - rvo
   - gebruikersonderzoek
   - subsidie

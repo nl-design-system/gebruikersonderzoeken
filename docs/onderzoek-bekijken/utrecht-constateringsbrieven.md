@@ -4,7 +4,7 @@ hide_title: true
 hide_table_of_contents: false
 sidebar_label: Begrijpelijkheid constateringsbrieven Vergunningen, Toezicht en Handhaving
 pagination_label: Begrijpelijkheid constateringsbrieven Vergunningen, Toezicht en Handhaving
-description: Begrijpelijkheid constateringsbrieven Vergunningen, Toezicht en Handhaving
+description: Begrijpelijkheid van constateringsbrieven voor ondernemers, met aandacht voor taal, structuur en duidelijke informatie.
 keywords:
   - utrecht
   - gebruikersonderzoek

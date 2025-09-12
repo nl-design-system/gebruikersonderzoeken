@@ -4,7 +4,7 @@ hide_title: true
 hide_table_of_contents: false
 sidebar_label: Straatonderzoek afschalen corona maatregelen
 pagination_label: Straatonderzoek afschalen corona maatregelen
-description: Straatonderzoek afschalen corona maatregelen
+description: Beleving van passanten bij het afbouwen van coronamaatregelen, met aandacht voor digitale zichtbaarheid, mentale gezondheid en inclusieve communicatie.
 keywords:
   - corona
   - valsplat

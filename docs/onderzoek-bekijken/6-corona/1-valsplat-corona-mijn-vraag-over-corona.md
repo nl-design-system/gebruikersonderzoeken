@@ -4,7 +4,7 @@ hide_title: true
 hide_table_of_contents: false
 sidebar_label: Concept MijnVraagOverCorona.nl
 pagination_label: Concept MijnVraagOverCorona.nl
-description: Concept MijnVraagOverCorona.nl
+description: Navigatie en gebruiksgemak van het concept voor MijnVraagOverCorona.nl, met aandacht voor thema-indeling en vindbaarheid via Google.
 slug: /onderzoek-bekijken/valsplat-corona
 keywords:
   - corona
