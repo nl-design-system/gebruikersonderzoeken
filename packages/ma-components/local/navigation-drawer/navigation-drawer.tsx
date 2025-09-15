@@ -33,7 +33,10 @@ export function NavigationDrawerItem(props: NavigationDrawerItemProps) {
 
 export function NavigationDrawer(props: NavigationDrawerProps) {
   return (
-    <dialog id="ma-navigation-drawer" className="ma-navigation-drawer">
+    <dialog
+      id="ma-navigation-drawer"
+      className="ma-navigation-drawer ma-focus-indicator-outline-only ma-focus-indicator-inset"
+    >
       {props.header}
       <ul className="ma-navigation-drawer__list" role="list">
         {props.children}
