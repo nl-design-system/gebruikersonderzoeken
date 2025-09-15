@@ -11,6 +11,7 @@ interface ThemeEntryWithItems extends CollectionEntry<'themes'> {
 }
 
 export interface CardListThemeProps {
+  headingLevels?: 2 | 3 | 4 | 5 | 6;
   themes: ThemeEntryWithItems[];
   columns?: 1 | 2;
 }
@@ -29,6 +30,7 @@ async function Icon(props: IconProps) {
 }
 
 export async function CardListTheme(props: PropsWithChildren<CardListThemeProps>) {
+  const headingLevels = props.headingLevels || 2;
   return (
     <CardList
       className={`
@@ -41,7 +43,7 @@ export async function CardListTheme(props: PropsWithChildren<CardListThemeProps>
         <CardAsLinkTheme
           icon={<Icon name={theme.data.icon} />}
           heading={
-            <Heading level={2} appearance="level-3">
+            <Heading level={headingLevels} appearance="level-3">
               {theme.data.title}
             </Heading>
           }

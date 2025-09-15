@@ -6,10 +6,12 @@ import { toCleanRoute } from '@utils/menu';
 import { type CollectionEntry } from 'astro:content';
 
 export interface CardListThemeProps {
+  headingLevels?: 2 | 3 | 4 | 5 | 6;
   onderzoeken: CollectionEntry<'onderzoeken'>[];
 }
 
 export function CardListOnderzoek(props: PropsWithChildren<CardListThemeProps>) {
+  const headingLevels = props.headingLevels || 2;
   return (
     <CardList>
       {props.onderzoeken.map((onderzoek) => {
@@ -18,7 +20,7 @@ export function CardListOnderzoek(props: PropsWithChildren<CardListThemeProps>) 
         return (
           <CardAsLink
             heading={
-              <Heading level={2} appearance="level-3">
+              <Heading level={headingLevels} appearance="level-3">
                 {onderzoek.data.title}
               </Heading>
             }

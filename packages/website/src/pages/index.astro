@@ -20,7 +20,7 @@ const onderzoeken = await getCollection('onderzoeken').then((list) => list.toSpl
 
   <PageSection>
     <Heading level={2}>Thema's</Heading>
-    <CardListTheme columns={2} themes={themes} />
+    <CardListTheme headingLevels={3} columns={2} themes={themes} />
   </PageSection>
 
   <BannerUpdate
@@ -37,6 +37,6 @@ const onderzoeken = await getCollection('onderzoeken').then((list) => list.toSpl
     <div>
       <a href="/docs/onderzoek-bekijken/" class="nl-link">Bekijk alle onderzoeken</a>
     </div>
-    <CardListOnderzoek onderzoeken={onderzoeken} />
+    <CardListOnderzoek headingLevels={3} onderzoeken={onderzoeken} />
   </PageSection>
 </Layout>
