@@ -56,7 +56,7 @@
   --ma-page-content-space-inline: var(--basis-space-inline-xl);
 }
 
-@media (width > 768px) {
+@media (width > 48rem) {
   .ma-theme {
     --ma-page-content-space-block: var(--basis-space-block-5xl);
     --ma-page-content-space-inline: var(--basis-space-inline-5xl);

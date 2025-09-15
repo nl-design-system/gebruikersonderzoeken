@@ -42,7 +42,7 @@
   display: none;
 }
 
-@container ma-page-header (width >= 768px) {
+@container ma-page-header (width >= 48rem) {
   .ma-page-header__content {
     border-block-end-style: none;
     padding-block-end: var(--ma-page-header-content-large-vw-padding-block-end);
