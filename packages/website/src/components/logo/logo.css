@@ -22,7 +22,7 @@
   justify-self: start;
 }
 
-@container gebruikersonderzoeken-logo (width >= 184px) {
+@container gebruikersonderzoeken-logo (width >= 11.5rem) {
   .ma-logo svg[data-version="visual"] {
     display: none;
   }

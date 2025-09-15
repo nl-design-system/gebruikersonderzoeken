@@ -43,7 +43,7 @@
   padding-inline-start: var(--ma-page-footer-content-padding-inline-start);
   row-gap: var(--ma-page-footer-content-row-gap);
 
-  @container ma-page-footer (width >= 830px) {
+  @container ma-page-footer (width >= 51.875rem) {
     column-gap: var(--ma-page-footer-content-large-vw-column-gap);
     flex-direction: row;
     padding-block-end: var(--ma-page-footer-content-large-vw-padding-block-end);
@@ -96,7 +96,7 @@
   padding-inline-start: var(--ma-page-footer-meta-content-padding-inline-start);
   row-gap: var(--ma-page-footer-meta-content-row-gap);
 
-  @container ma-page-footer (width >= 830px) {
+  @container ma-page-footer (width >= 51.875rem) {
     column-gap: var(--ma-page-footer-meta-content-large-vw-column-gap);
     flex-direction: row;
     padding-block-end: var(--ma-page-footer-meta-content-large-vw-padding-block-end);

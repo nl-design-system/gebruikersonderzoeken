@@ -15,13 +15,13 @@
     min-inline-size: 304px;
   }
 
-  @container ma-search (width <= 400px) {
+  @container ma-search (width <= 25rem) {
     & .utrecht-button {
       --utrecht-button-secondary-action-border-color: transparent;
     }
   }
 
-  @container ma-search (width > 400px) {
+  @container ma-search (width > 25rem) {
     & .utrecht-textbox {
       display: unset;
     }

@@ -22,7 +22,7 @@
   row-gap: var(--ma-card-as-link-row-gap);
   z-index: 0; /* create a new stacking context for the links ::after to lay on top of */
 
-  @container ma-card (min-width: 400px) {
+  @container ma-card (min-width: 25rem) {
     --ma-card-as-link-padding-block-end: var(--ma-card-as-link-large-vw-padding-block-end);
     --ma-card-as-link-padding-block-start: var(--ma-card-as-link-large-vw-padding-block-start);
     --ma-card-as-link-padding-inline-end: var(--ma-card-as-link-large-vw-padding-inline-end);
