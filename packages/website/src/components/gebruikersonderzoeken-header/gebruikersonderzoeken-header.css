@@ -9,3 +9,10 @@
     }
   }
 }
+
+.ma-gebruikersonderzoeken-header__logo-wrapper {
+  align-items: center;
+  display: flex;
+  inline-size: 100%;
+  justify-content: center;
+}
