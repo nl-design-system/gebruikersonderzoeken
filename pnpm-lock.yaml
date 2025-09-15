@@ -187,6 +187,9 @@ importers:
       '@nl-design-system-candidate/paragraph-react':
         specifier: 2.1.2
         version: 2.1.2(@babel/runtime@7.27.0)(react@19.1.0)
+      '@nl-design-system-candidate/skip-link-css':
+        specifier: 1.0.3
+        version: 1.0.3
       '@nl-design-system-community/ma-components':
         specifier: workspace:*
         version: link:../ma-components
@@ -1970,6 +1973,9 @@ packages:
     peerDependencies:
       '@babel/runtime': ^7
       react: ^18
+
+  '@nl-design-system-candidate/skip-link-css@1.0.3':
+    resolution: {integrity: sha512-1cj/9LIm2NMphL7sq1SBsD2G9DYtXSKKETmHP4/yvuT/qw0xP93HLNam8n5gWQmoFCc8h4K6JsQJY/bxudxOMQ==}
 
   '@nl-design-system-community/ma-design-tokens@2.3.0':
     resolution: {integrity: sha512-W6NAZYa5rc57iMLx+hmHFvXLEdDbIcczPBJ34Dm9R6MwonsPKPG+78DXy6HNzALpDVyAvvDPyDr33w0haOauVw==}
@@ -11051,6 +11057,8 @@ snapshots:
       '@babel/runtime': 7.27.0
       clsx: 2.1.1
       react: 19.1.0
+
+  '@nl-design-system-candidate/skip-link-css@1.0.3': {}
 
   '@nl-design-system-community/ma-design-tokens@2.3.0': {}
 

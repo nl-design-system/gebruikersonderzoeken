@@ -91,9 +91,12 @@ const navigationBarItems = [
     {cover && <meta property="twitter:image:alt" content={cover.alt} />}
   </head>
   <body class="utrecht-body">
+    <div>
+      <a href="#main" class="nl-skip-link nl-skip-link--visible-on-focus">Naar de inhoud</a>
+    </div>
     <GebruikersonderzoekenHeader navigationBarItems={navigationBarItems} />
     <GebruikersonderzoekenNavigationDrawer navigationBarItems={navigationBarItems} />
-    <main class={mainClass}><slot /></main>
+    <main id="main" class={mainClass}><slot /></main>
     <GebruikersonderzoekenFooter />
 
     <div hidden set:html={logo} />
