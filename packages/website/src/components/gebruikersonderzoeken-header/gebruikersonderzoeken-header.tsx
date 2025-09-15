@@ -22,7 +22,12 @@ export function GebruikersonderzoekenHeader(props: PageHeaderProps) {
           <IconMenu /> Menu
         </Button>
       }
-      centerGroup={<Logo />}
+      centerGroup={
+        <a className="ma-gebruikersonderzoeken-header__logo-wrapper" href="/">
+          <span className="ma-sr-only">Gebruikersonderzoeken logo, naar de Homepagina</span>
+          <Logo />
+        </a>
+      }
       navigationBar={
         <MaNavigationBar>
           {(props.navigationBarItems || []).map((item) => (
