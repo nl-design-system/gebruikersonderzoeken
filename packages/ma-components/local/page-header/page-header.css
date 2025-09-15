@@ -42,6 +42,12 @@
   display: none;
 }
 
+@container ma-page-header (width <= 20rem) {
+  .ma-page-header__content {
+    flex-direction: column;
+  }
+}
+
 @container ma-page-header (width >= 48rem) {
   .ma-page-header__content {
     border-block-end-style: none;
