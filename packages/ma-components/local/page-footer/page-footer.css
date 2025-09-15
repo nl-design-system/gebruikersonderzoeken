@@ -44,6 +44,7 @@
   row-gap: var(--ma-page-footer-content-row-gap);
 
   @container ma-page-footer (width >= 830px) {
+    column-gap: var(--ma-page-footer-content-large-vw-column-gap);
     flex-direction: row;
     padding-block-end: var(--ma-page-footer-content-large-vw-padding-block-end);
     padding-block-start: var(--ma-page-footer-content-large-vw-padding-block-start);
