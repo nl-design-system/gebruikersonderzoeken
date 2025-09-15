@@ -1,9 +1,13 @@
 import type { AnchorHTMLAttributes, PropsWithChildren } from 'react';
 import './navigation-bar.css';
 
-export function MaNavigationBar(props: PropsWithChildren) {
+export interface MaNavigationBarProps {
+  label: string;
+}
+
+export function MaNavigationBar(props: PropsWithChildren<MaNavigationBarProps>) {
   return (
-    <nav className="ma-navigation-bar">
+    <nav className="ma-navigation-bar" aria-label={props.label}>
       <div className="ma-navigation-bar__content">
         <ul className="ma-navigation-bar__list">{props.children}</ul>
       </div>
