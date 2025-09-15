@@ -1,6 +1,5 @@
 import type { ReactNode } from 'react';
 import './banner.css';
-import { BodyCopy } from '../body-copy/body-copy';
 
 export interface BannerProps {
   version?: 'hero' | 'updates';
@@ -26,9 +25,7 @@ export function Banner(props: BannerProps) {
 
         {props.heading && <header className="ma-banner__header">{props.heading}</header>}
 
-        <div className="ma-banner__copy">
-          <BodyCopy small>{props.content}</BodyCopy>
-        </div>
+        <div className="ma-banner__copy">{props.content}</div>
 
         {props.footer && <footer className="ma-banner__footer">{props.footer}</footer>}
       </div>

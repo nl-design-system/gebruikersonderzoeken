@@ -1,4 +1,6 @@
 .ma-banner {
+  --ma-banner-copy-max-inline-size: 39rem;
+
   container-name: ma-banner;
   container-type: inline-size;
 }
@@ -27,10 +29,12 @@
 
   & .ma-banner__header {
     grid-area: header;
+    max-inline-size: 622px;
   }
 
   & .ma-banner__copy {
     grid-area: copy;
+    max-inline-size: 622px;
   }
 
   & .ma-banner__footer {
