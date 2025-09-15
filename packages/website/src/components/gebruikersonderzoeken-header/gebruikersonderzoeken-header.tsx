@@ -18,7 +18,12 @@ export function GebruikersonderzoekenHeader(props: PageHeaderProps) {
     <MaPageHeader
       className="ma-gebruikersonderzoeken-header"
       startGroup={
-        <Button command="show-modal" commandfor="ma-navigation-drawer" appearance="subtle-button">
+        <Button
+          command="show-modal"
+          commandfor="ma-navigation-drawer"
+          aria-haspopup="dialog"
+          appearance="subtle-button"
+        >
           <IconMenu /> Menu
         </Button>
       }
