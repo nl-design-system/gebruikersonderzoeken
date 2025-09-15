@@ -29,7 +29,7 @@ export function GebruikersonderzoekenHeader(props: PageHeaderProps) {
         </a>
       }
       navigationBar={
-        <MaNavigationBar>
+        <MaNavigationBar label="Hoofdmenu">
           {(props.navigationBarItems || []).map((item) => (
             <MaNavigationBarItem key={item.href} href={item.href} aria-current={item.current || null}>
               {item.children}
