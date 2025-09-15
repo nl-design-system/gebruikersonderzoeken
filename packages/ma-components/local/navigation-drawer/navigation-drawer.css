@@ -27,7 +27,7 @@
   inline-size: 100vw;
   margin-block: 0;
   margin-inline: 0;
-  min-inline-size: var(--ma-navigation-drawer-min-inline-size);
+  min-inline-size: min(var(--ma-navigation-drawer-min-inline-size), 95vw);
   overflow-y: scroll;
   overscroll-behavior-y: contain;
   padding-block: 0;
