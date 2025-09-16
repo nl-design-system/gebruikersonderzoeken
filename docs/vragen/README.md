@@ -17,7 +17,7 @@ We proberen zo veel mogelijk vragen over deze pagina hier te beantwoorden. Mocht
 
 ## Hoe deel ik mijn onderzoek op deze site?
 
-Hoe je dat moet doen leggen we uit op onze [Onderzoek delen pagina](../onderzoek-delen/README.md).
+Hoe je dat moet doen leggen we uit op onze [Onderzoek delen pagina](/docs/onderzoek-delen/).
 
 ## Ik heb een vraag over onderzoek wat op de site staat, bij wie kan ik terecht?
 
