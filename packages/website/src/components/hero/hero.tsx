@@ -8,7 +8,7 @@ export function Hero() {
       version="hero"
       heading={<Heading level={1}>Gebruikersonderzoeken binnen de overheid</Heading>}
       content={
-        <Paragraph>
+        <Paragraph purpose="lead">
           Het centrale platform waar Nederlandse overheidsinstanties hun gebruikersonderzoeken delen. Vind inspiratie,
           voorkom dubbel werk en maak betere beslissingen op basis van bewezen inzichten.
         </Paragraph>
