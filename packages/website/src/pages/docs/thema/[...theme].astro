@@ -35,6 +35,7 @@ const onderzoeken = await getOnderzoekenByTheme(theme.id)
   <BodyCopy small>
     <div class="ma-theme-page__header">
       <Heading level={1}>{theme.data.title}</Heading>
+      <Paragraph purpose="lead">{theme.data.description}</Paragraph>
       <Content />
       <Paragraph>
         {onderzoeken.length} onderzoeken
