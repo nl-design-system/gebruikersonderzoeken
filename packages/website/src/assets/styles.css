@@ -38,6 +38,19 @@
   animation-duration: 0s;
 }
 
+p {
+  text-wrap: pretty;
+}
+
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  text-wrap: balance;
+}
+
 .ma-theme {
   /* @TODO: When this value is included in ma-design-tokens, remove thise lines */
   --basis-color-accent-1-color-default: var(--ma-color-paars-10);
