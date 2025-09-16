@@ -6,7 +6,6 @@
   display: contents;
 
   & > .utrecht-blockquote,
-  & > .nl-heading,
   & > .utrecht-ordered-list,
   & > .nl-paragraph,
   & > .nl-code-block,
@@ -14,12 +13,8 @@
     max-inline-size: var(--ma-body-copy-max-inline-size);
   }
 
-  & > .nl-heading--level-2 {
-    max-inline-size: 40ch;
-  }
-
-  & > .nl-heading--level-3 {
-    max-inline-size: 50ch;
+  & > .nl-heading {
+    max-inline-size: 48ch;
   }
 
   & > .utrecht-separator {
