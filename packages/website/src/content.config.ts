@@ -10,6 +10,13 @@ const onderzoeken = defineCollection({
     cover: CoverSchema.optional(),
     date: z.date().optional(),
     description: z.string(),
+    summary: z
+      .string()
+      .optional()
+      // Remove 'Samengevat:' from the string since it is being added in the template
+      // But authors might include it because looks like it is part of the string
+      // Having it excluded from the frontmatter, makes frontmatter much easier to work with
+      .transform((string) => (string ? string.replace(/^[Ss]amengevat:(\s)?/, '') : string)),
     target_group: z.union([z.array(z.string()), z.string()]).optional(),
     themes: z.array(reference('themes')).default(['overig']),
     title: z.string(),
