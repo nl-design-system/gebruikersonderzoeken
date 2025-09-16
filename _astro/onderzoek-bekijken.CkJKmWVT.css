@@ -1,0 +1,1 @@
+.ma-card-list-theme{display:grid;&.ma-card-list-theme--columns-1{grid-template-columns:1fr}&.ma-card-list-theme--columns-2{grid-template-columns:1fr;@media (width >= 48rem){grid-template-columns:1fr 1fr}}}

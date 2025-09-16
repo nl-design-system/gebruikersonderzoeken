@@ -1,0 +1,4 @@
+User-agent: *
+Allow: /
+
+Sitemap: https://gebruikersonderzoeken.nl/sitemap-index.xml
