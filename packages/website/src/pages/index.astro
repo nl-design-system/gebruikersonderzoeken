@@ -6,11 +6,19 @@ import { Hero } from '@components/hero/hero.tsx';
 import { PageSection } from '@components/page-section/page-section.tsx';
 import Layout from '@layouts/default.astro';
 import { Heading } from '@nl-design-system-candidate/heading-react';
+import { getOnderzoekenByTheme } from '@utils/themes';
 import { getCollection } from 'astro:content';
 
-const themes = await getCollection('themes').then((themes) =>
-  themes.toSorted((a, b) => (a.data.order < b.data.order ? 1 : -1)),
+const themes = await getCollection('themes');
+const themesWithItems = await Promise.all(
+  themes.map(async (theme) => ({
+    ...theme,
+    items: await getOnderzoekenByTheme(theme.id),
+  })),
 );
+const sortedThemes = themesWithItems
+  .filter((theme) => theme.items.length > 0)
+  .toSorted((a, b) => (a.data.order < b.data.order ? 1 : -1));
 
 const onderzoeken = await getCollection('onderzoeken').then((list) => list.toSpliced(3, Infinity));
 ---
@@ -20,7 +28,7 @@ const onderzoeken = await getCollection('onderzoeken').then((list) => list.toSpl
 
   <PageSection>
     <Heading level={2}>Thema's</Heading>
-    <CardListTheme headingLevels={3} columns={2} themes={themes} />
+    <CardListTheme headingLevels={3} columns={2} themes={sortedThemes} />
   </PageSection>
 
   <BannerUpdate
