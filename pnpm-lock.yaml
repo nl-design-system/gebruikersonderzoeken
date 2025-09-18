@@ -232,6 +232,9 @@ importers:
       '@utrecht/separator-css':
         specifier: 1.5.1
         version: 1.5.1
+      '@utrecht/spotlight-section-css':
+        specifier: 1.6.1
+        version: 1.6.1
       '@utrecht/unordered-list-css':
         specifier: 1.5.1
         version: 1.5.1
