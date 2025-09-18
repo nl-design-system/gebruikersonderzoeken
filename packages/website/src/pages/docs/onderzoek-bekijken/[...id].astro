@@ -1,4 +1,5 @@
 ---
+import { TableOfContents, type TableOfContentsItem } from '@components/table-of-contents/table-of-contents';
 import { ThemeList } from '@components/theme-list/theme-list.tsx';
 import CenterColumnLayout from '@layouts/center-column.astro';
 import { Heading } from '@nl-design-system-candidate/heading-react';
@@ -33,7 +34,7 @@ export async function getStaticPaths() {
 
 // 2. For your template, you can get the entry directly from the prop
 const { onderzoek } = Astro.props;
-const { Content, remarkPluginFrontmatter } = await render(onderzoek);
+const { Content, headings, remarkPluginFrontmatter } = await render(onderzoek);
 const cover = onderzoek.data.cover ?? remarkPluginFrontmatter['cover'];
 const filePath = onderzoek.filePath;
 
@@ -72,6 +73,10 @@ const dataSummary: DataSummaryItem[] = [
   { definition: onderzoek.data.type, term: 'Type onderzoek' },
   { definition: onderzoek.data.target_group, term: 'Doelgroep' },
 ];
+
+const tocItems: TableOfContentsItem[] = headings
+  .filter((heading) => heading.depth === 2)
+  .map((heading) => ({ href: `#${heading.slug}`, label: heading.text }));
 ---
 
 <CenterColumnLayout canonical={Astro.url} title={onderzoek.data.title} cover={cover}>
@@ -79,6 +84,7 @@ const dataSummary: DataSummaryItem[] = [
     <Heading level={1}>{onderzoek.data.title}</Heading>
     {onderzoek.data.summary && <Paragraph purpose="lead">Samengevat: {onderzoek.data.summary}</Paragraph>}
     <DataSummary appearance="rows" items={dataSummary} />
+    <TableOfContents items={tocItems} />
     <Content />
     <hr class="utrecht-separator" />
     <ThemeList themes={themes} />
