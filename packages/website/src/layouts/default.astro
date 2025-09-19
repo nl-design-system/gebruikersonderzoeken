@@ -11,6 +11,7 @@ import '@fontsource/fira-sans/700';
 import '@fontsource/source-sans-pro';
 import '@fontsource/source-sans-pro/700.css';
 import './default.css';
+import '@docsearch/css';
 
 export interface Props {
   canonical?: URL;
@@ -108,6 +109,7 @@ const navigationBarItems = [
     <div hidden set:html={logo} />
     <script>
       import 'invokers-polyfill';
+      import '@components/search/docsearch.ts';
     </script>
   </body>
 </html>
