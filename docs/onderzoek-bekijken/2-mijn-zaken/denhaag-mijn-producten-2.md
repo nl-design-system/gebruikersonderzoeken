@@ -28,6 +28,7 @@ conducted_by:
 <!-- @license CC0-1.0 -->
 
 # Navigeren via menu in MijnOmgeving op mobiel
+
 ![Afbeelding met drie mobiele interface-varianten](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/denhaag-mijn-producten-2__drie-mobiele-interface-varianten.png)
 
 **Samengevat: slechts 34% van gebruikers die mobiel moet navigeren op een mijnOmgeving slaagt erin producten te vinden via het huidige hamburgermenu, tegenover 61% op desktop. De geteste quick fix, een menu zonder tussenstap, verhoogt het succespercentage naar 85% en kan direct worden geïmplementeerd. Gebruikers verwachten navigatie op de overzichtspagina zelf; experts adviseren tegels als toekomstbestendige oplossing voor de vele gemeentelijke thema's.**
@@ -204,12 +205,13 @@ Hieronder zie je een overzicht van de drie ontwerpen die kwantitatief zijn getes
 ![Afbeelding met drie mobiele interface-varianten](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/denhaag-mijn-producten-2__drie-mobiele-interface-varianten.png)
 
 ## Contactinformatie
+
 - Margo Welling - [margo.welling@denhaag.nl](mailto:margo.welling@denhaag.nl) - Onderzoeker – Gemeente Den Haag
 - Lieneke van der Laan - [lieneke.vanderlaan@denhaag.nl](mailto:lieneke.vanderlaan@denhaag.nl) - Service Designer – Gemeente Den Haag
 - Ananta Mulyono - [ananta.mulyono@denhaag.nl](mailto:ananta.mulyono@denhaag.nl) - UX Designer – Gemeente Den Haag
 
-
 ## Bijlage
 
 Het orginele rapport.
+
 - [Eindrapportage onderzoek (PDF)](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/denhaag-mijn-producten-2__rapport.pdf)
