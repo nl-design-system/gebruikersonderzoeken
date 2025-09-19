@@ -157,6 +157,12 @@ importers:
       '@astrojs/ts-plugin':
         specifier: 1.10.4
         version: 1.10.4
+      '@docsearch/css':
+        specifier: 4.0.1
+        version: 4.0.1
+      '@docsearch/js':
+        specifier: 4.0.1
+        version: 4.0.1
       '@fontsource/fira-code':
         specifier: 5.2.6
         version: 5.2.6
@@ -1344,6 +1350,12 @@ packages:
 
   '@docsearch/css@3.8.3':
     resolution: {integrity: sha512-1nELpMV40JDLJ6rpVVFX48R1jsBFIQ6RnEQDsLFGmzOjPWTOMlZqUcXcvRx8VmYV/TqnS1l784Ofz+ZEb+wEOQ==}
+
+  '@docsearch/css@4.0.1':
+    resolution: {integrity: sha512-ouRI2SEwAg8qBqX4S3zfm4OJ/07o9Is7TzivNGkqP7FtYU4W0qgigumWkPbYvDwtG0koZw2ZebpcQiEpkCyv+g==}
+
+  '@docsearch/js@4.0.1':
+    resolution: {integrity: sha512-xHxFULFCihnu8XxNB4QRH/H6ZtG0ThuM9aaY1FAhZXHk+aQ5uo5JG+UiDkSb6YrwItsw0+cSGzBNxyB0g3fGtQ==}
 
   '@docsearch/react@3.8.3':
     resolution: {integrity: sha512-6UNrg88K7lJWmuS6zFPL/xgL+n326qXqZ7Ybyy4E8P/6Rcblk3GE8RXxeol4Pd5pFpKMhOhBhzABKKwHtbJCIg==}
@@ -9922,6 +9934,10 @@ snapshots:
   '@discoveryjs/json-ext@0.5.7': {}
 
   '@docsearch/css@3.8.3': {}
+
+  '@docsearch/css@4.0.1': {}
+
+  '@docsearch/js@4.0.1': {}
 
   '@docsearch/react@3.8.3(@algolia/client-search@5.24.0)(@types/react@18.3.20)(react-dom@18.3.1(react@18.3.1))(react@18.3.1)(search-insights@2.17.3)':
     dependencies:

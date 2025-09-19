@@ -24,6 +24,8 @@
     "@astrojs/markdown-remark": "6.3.6",
     "@astrojs/sitemap": "3.5.0",
     "@astrojs/ts-plugin": "1.10.4",
+    "@docsearch/css": "4.0.1",
+    "@docsearch/js": "4.0.1",
     "@fontsource/fira-code": "5.2.6",
     "@fontsource/fira-sans": "5.2.6",
     "@fontsource/source-sans-pro": "5.2.5",
