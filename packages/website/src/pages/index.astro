@@ -18,7 +18,11 @@ const themesWithItems = await Promise.all(
 );
 const sortedThemes = themesWithItems
   .filter((theme) => theme.items.length > 0)
-  .toSorted((a, b) => (a.data.order < b.data.order ? 1 : -1));
+  .toSorted(
+    (a, b) =>
+      // sort by amount of onderzoeken and the order property
+      b.data.order - a.data.order || b.items.length - a.items.length,
+  );
 
 const onderzoeken = await getCollection('onderzoeken');
 const recentOnderzoeken = onderzoeken.toSorted((a, b) => b.data.date_added - a.data.date_added);
