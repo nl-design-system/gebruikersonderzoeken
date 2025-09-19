@@ -8,7 +8,7 @@ const onderzoeken = defineCollection({
   schema: z.object({
     conducted_by: z.array(z.string()).optional(),
     cover: CoverSchema.optional(),
-    date: z.date().optional(),
+    date_conducted: z.date().optional(),
     description: z.string(),
     summary: z
       .string()

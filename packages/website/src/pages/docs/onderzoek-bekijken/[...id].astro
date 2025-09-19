@@ -68,7 +68,7 @@ function formatDate(date: unknown) {
 }
 
 const dataSummary: DataSummaryItem[] = [
-  { definition: formatDate(onderzoek.data.date), term: 'Datum onderzoek' },
+  { definition: formatDate(onderzoek.data.date_conducted), term: 'Datum onderzoek' },
   { definition: onderzoek.data.conducted_by, term: 'Uitgevoerd door' },
   { definition: onderzoek.data.type, term: 'Type onderzoek' },
   { definition: onderzoek.data.target_group, term: 'Doelgroep' },
