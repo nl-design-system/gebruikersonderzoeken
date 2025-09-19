@@ -1,29 +1,87 @@
-.ma-search {
-  column-gap: var(--basis-space-inline-md);
-  container-name: ma-search;
-  container-type: inline-size;
+/* stylelint-disable -- Overwriting DocSearch, we don't have control over the markup. */
+.DocSearch {
+  --docsearch-subtle-color: var(--ma-docsearch-button-border-color);
+  --docsearch-muted-color: var(--utrecht-button-secondary-action-color);
+  --docsearch-logo-color: var(--utrecht-button-secondary-action-color);
+  --docsearch-icon-color: var(--utrecht-button-secondary-action-color);
+  --docsearch-highlight-color: var(--utrecht-button-secondary-action-color);
+  --docsearch-hit-highlight-color: var(--ma-docsearch-modal-hit-background-color);
+  --docsearch-modal-background: var(--ma-docsearch-modal-background-color);
+  --docsearch-searchbox-focus-background: var(--ma-docsearch-modal-searchbox-background-color);
+  --docsearch-footer-backround: var(--ma-docsearch-modal-searchbox-background-color);
+  --docsearch-text-color: var(--ma-docsearch-modal-color);
+}
+
+.DocSearch-Input {
+  margin-inline: 1rem;
+}
+
+.DocSearch-Logo path,
+.DocSearch-Logo rect {
+  fill: currentColor !important;
+}
+
+.DocSearch-Form {
+  border-block-end-color: var(--ma-docsearch-modal-border-color);
+}
+
+.DocSearch-Divider {
+  border-color: var(--ma-docsearch-modal-border-color);
+}
+
+.DocSearch-Footer {
+  border-block-start-color: var(--ma-docsearch-modal-border-color);
+}
+
+.DocSearch-Hit[aria-selected="true"] .DocSearch-Hit-title,
+.DocSearch-Hit[aria-selected="true"] .DocSearch-Hit-path {
+  color: var(--ma-docsearch-modal-hit-color);
+}
+
+.DocSearch-Hit .DocSearch-Hit-title mark {
+  font-weight: var(--ma-docsearch-modal-hit-mark-font-weight);
+  color: inherit;
+  text-decoration: none;
+}
+
+.DocSearch-Trigger {
+  align-items: center;
+  box-sizing: border-box;
   display: flex;
-  inline-size: 100%;
-  justify-content: end;
+}
 
-  & .utrecht-textbox {
-    --utrecht-textbox-border-radius: var(--basis-border-radius-sm);
+.DocSearch-Trigger .DocSearch-Button {
+  border-radius: var(--ma-docsearch-button-border-radius);
+  box-sizing: border-box;
+  height: unset;
+  padding-block-end: var(--ma-docsearch-button-padding-block-end);
+  padding-block-start: var(--ma-docsearch-button-padding-block-start);
+  padding-inline-end: var(--ma-docsearch-button-padding-inline-end);
+  padding-inline-start: var(--ma-docsearch-button-padding-inline-start);
 
-    display: none;
+  &:hover {
+    --ma-docsearch-button-key-background-color: var(--ma-docsearch-button-key-hover-background-color);
+    --ma-docsearch-button-key-color: var(--ma-docsearch-button-key-hover-color);
 
-    /* @FIXME: Value taken from Figma should be more descriptive */
-    min-inline-size: 304px;
+    background-color: var(--ma-docsearch-button-hover-background-color);
+    border-color: var(--ma-docsearch-button-hover-border-color);
+    color: var(--ma-docsearch-button-hover-border-color);
   }
-
-  @container ma-search (width <= 25rem) {
-    & .utrecht-button {
-      --utrecht-button-secondary-action-border-color: transparent;
-    }
+  &:focus-visible {
+    --ma-docsearch-button-key-background-color: var(--ma-docsearch-button-key-focus-visible-background-color);
+    --ma-docsearch-button-key-color: var(--ma-docsearch-button-key-focus-visible-color);
   }
+}
 
-  @container ma-search (width > 25rem) {
-    & .utrecht-textbox {
-      display: unset;
-    }
-  }
+.DocSearch-Trigger .DocSearch-Button-Key {
+  --ma-focus-indicator-color: var(--ma-docsearch-button-key-focus-visible-color);
+
+  background-color: var(--ma-docsearch-button-key-background-color);
+  border: none;
+  color: var(--ma-docsearch-button-key-color);
+}
+
+.DocSearch-Button-Placeholder {
+  font-family: var(--ma-docsearch-button-font-family);
+  font-weight: 700;
 }
