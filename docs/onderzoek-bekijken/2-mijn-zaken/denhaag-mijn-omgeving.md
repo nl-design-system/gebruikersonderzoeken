@@ -198,7 +198,7 @@ Hieronder staan de doorlopen stappen globaal beschreven.
 
 - Het onderzoek vond plaats in twee rondes. Ronde 1 vond plaats tussen 16 en 19 januari 2023.
 - Ronde 2 vond plaats tussen 21 en 23 februari 2023.
-- De test duurde 45 mi  nuten per respondent.
+- De test duurde 45 mi nuten per respondent.
 
 #### Kanttekening
 
