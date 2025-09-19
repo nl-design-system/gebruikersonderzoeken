@@ -13,11 +13,6 @@
 }
 
 .ma-navigation-drawer {
-  --ma-navigation-drawer-background-color: var(--basis-color-accent-1-inverse-bg-default);
-  --ma-navigation-drawer-box-shadow: var(--basis-box-shadow-lg);
-  --ma-navigation-drawer-min-inline-size: 312px;
-  --ma-navigation-drawer-row-gap: var(--basis-space-row-xl);
-
   background-color: var(--ma-navigation-drawer-background-color);
   block-size: 100vh;
   border: none;
@@ -67,15 +62,6 @@
 }
 
 .ma-navigation-drawer__header {
-  --ma-navigation-drawer-header-background-color: var(--ma-navigation-drawer-background-color);
-  --ma-navigation-drawer-header-border-color: var(--basis-color-accent-1-inverse-border-subtle);
-  --ma-navigation-drawer-header-border-width: var(--basis-border-width-sm);
-  --ma-navigation-drawer-header-column-gap: var(--basis-space-column-md);
-  --ma-navigation-drawer-header-padding-block-end: var(--basis-space-block-md);
-  --ma-navigation-drawer-header-padding-block-start: var(--basis-space-block-md);
-  --ma-navigation-drawer-header-padding-inline-end: var(--basis-space-inline-md);
-  --ma-navigation-drawer-header-padding-inline-start: 0px;
-
   background-color: var(--ma-navigation-drawer-header-background-color);
   border-block-end: 1px solid;
   border-color: var(--ma-navigation-drawer-header-border-color);
@@ -90,6 +76,22 @@
   padding-inline-start: var(--ma-navigation-drawer-header-padding-inline-start);
   position: sticky;
   z-index: 1;
+
+  & .utrecht-button {
+    --_utrecht-button-color: var(--ma-navigation-drawer-header-button-color);
+    --utrecht-button-padding-inline-end: var(--ma-navigation-drawer-header-button-padding-inline-end);
+    --utrecht-button-padding-inline-start: var(--ma-navigation-drawer-header-button-padding-inline-end);
+
+    &:active {
+      --_utrecht-button-background-color: var(--ma-navigation-drawer-header-button-active-background-color);
+      --_utrecht-button-color: var(--ma-navigation-drawer-header-button-active-color);
+    }
+
+    &:hover {
+      --_utrecht-button-background-color: var(--ma-navigation-drawer-header-button-hover-background-color);
+      --_utrecht-button-color: var(--ma-navigation-drawer-header-button-hover-color);
+    }
+  }
 }
 
 .ma-navigation-drawer__list {
@@ -121,21 +123,6 @@
   box-sizing: border-box;
 }
 .ma-navigation-drawer__item a {
-  --ma-navigation-drawer-item-background-color: var(--basis-color-transparent);
-  --ma-navigation-drawer-item-color: var(--basis-color-action-1-inverse-color-default);
-  --ma-navigation-drawer-item-column-gap: var(--basis-space-text-md);
-  --ma-navigation-drawer-item-font-family: var(--basis-text-font-family-default);
-  --ma-navigation-drawer-item-font-size: var(--basis-text-font-size-md);
-  --ma-navigation-drawer-item-font-weight: var(--basis-text-font-weight-bold);
-  --ma-navigation-drawer-item-line-height: var(--basis-text-line-height-md);
-  --ma-navigation-drawer-item-min-block-size: var(--basis-pointer-target-min-block-size);
-  --ma-navigation-drawer-item-padding-block-end: var(--basis-space-block-xl);
-  --ma-navigation-drawer-item-padding-block-start: var(--basis-space-block-xl);
-  --ma-navigation-drawer-item-padding-inline-end: var(--basis-space-inline-xl);
-  --ma-navigation-drawer-item-padding-inline-start: var(--basis-space-inline-xl);
-  --ma-navigation-drawer-item-icon-size: var(--basis-size-icon-md);
-  --ma-navigation-drawer-item-border-inline-start-width: 0px;
-
   background: linear-gradient(
     to right,
     var(--ma-navigation-drawer-item-border-color) var(--ma-navigation-drawer-item-border-inline-start-width),
@@ -157,12 +144,6 @@
   text-decoration: none;
 
   &:where([aria-current]) {
-    --ma-navigation-drawer-item-current-background-color: var(--basis-color-action-1-inverse-bg-document);
-    --ma-navigation-drawer-item-current-border-color: var(--basis-color-action-1-inverse-border-default);
-    --ma-navigation-drawer-item-current-color: var(--basis-color-action-1-inverse-color-document);
-    --ma-navigation-drawer-item-current-border-inline-start-width: var(--basis-border-width-lg);
-
-    /* - */
     --ma-navigation-drawer-item-background-color: var(--ma-navigation-drawer-item-current-background-color);
     --ma-navigation-drawer-item-border-color: var(--ma-navigation-drawer-item-current-border-color);
     --ma-navigation-drawer-item-color: var(--ma-navigation-drawer-item-current-color);
@@ -172,10 +153,6 @@
   }
 
   &:where([aria-current]:focus-visible) {
-    --ma-navigation-drawer-item-focus-visible-border-color: var(--basis-focus-color);
-    --ma-navigation-drawer-item-focus-visible-background-color: var(--basis-focus-background-color);
-
-    /* - */
     --ma-focus-indicator-background-image: linear-gradient(
       to right,
       var(--ma-navigation-drawer-item-focus-visible-border-color)
@@ -186,22 +163,12 @@
   }
 
   &:active {
-    --ma-navigation-drawer-item-active-background-color: var(--basis-color-action-1-inverse-bg-active);
-    --ma-navigation-drawer-item-active-border-color: var(--basis-color-action-1-inverse-border-active);
-    --ma-navigation-drawer-item-active-color: var(--basis-color-action-1-inverse-color-active);
-
-    /* - */
     --ma-navigation-drawer-item-background-color: var(--ma-navigation-drawer-item-active-background-color);
     --ma-navigation-drawer-item-border-color: var(--ma-navigation-drawer-item-active-border-color);
     --ma-navigation-drawer-item-color: var(--ma-navigation-drawer-item-active-color);
   }
 
   &:hover {
-    --ma-navigation-drawer-item-hover-background-color: var(--basis-color-action-1-inverse-bg-hover);
-    --ma-navigation-drawer-item-hover-border-color: var(--basis-color-action-1-inverse-border-hover);
-    --ma-navigation-drawer-item-hover-color: var(--basis-color-action-1-inverse-color-hover);
-
-    /* - */
     --ma-navigation-drawer-item-background-color: var(--ma-navigation-drawer-item-hover-background-color);
     --ma-navigation-drawer-item-border-color: var(--ma-navigation-drawer-item-hover-border-color);
     --ma-navigation-drawer-item-color: var(--ma-navigation-drawer-item-hover-color);
