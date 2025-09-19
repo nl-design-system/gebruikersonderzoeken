@@ -35,6 +35,14 @@
     }
   }
 
+  & input:focus-visible:not(.ma-focus-indicator-outline-only) {
+    --ma-focus-indicator-background-image: linear-gradient(var(--basis-form-control-focus-background-color));
+    --ma-focus-indicator-color: var(--basis-form-control-focus-color);
+    --ma-focus-indicator-outline-color: transparent;
+
+    border-color: var(--basis-form-control-border-color);
+  }
+
   & .ma-focus-indicator-outline-only:focus-visible {
     box-shadow: 0 0 0 var(--ma-focus-indicator-outline-width) var(--ma-focus-indicator-inverse-outline-color) !important;
     outline-color: var(--ma-focus-indicator-outline-color) !important;
