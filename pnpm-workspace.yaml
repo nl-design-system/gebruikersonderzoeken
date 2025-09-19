@@ -1,5 +1,7 @@
 autoInstallPeers: false
 savePrefix: ""
 
+minimumReleaseAge: 1440
+
 packages:
   - "packages/**"
