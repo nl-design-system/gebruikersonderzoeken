@@ -1,16 +1,6 @@
 ---
 title: Navigeren via menu in MijnOmgeving op mobiel
-hide_title: true
-hide_table_of_contents: false
-sidebar_label: Navigeren via menu in MijnOmgeving op mobiel
-sidebar_position: 2
-pagination_label: Navigeren via menu in MijnOmgeving op mobiel
 description: Onderzoek naar mobiele menunavigatie in MijnOmgeving hamburger menu vs alternatieven voor betere toegankelijkheid
-keywords:
-  - onderzoek
-  - mijnomgeving
-  - mijnproducten
-  - email
 tags:
   - den haag
   - mijn omgeving
@@ -23,15 +13,19 @@ themes:
   - mobiele-ervaring
 conducted_by:
   - gemeente Den Haag
+date_added: 2025-09-19
+date_conducted: 2025-05-01
+summary: Slechts 34% van gebruikers die mobiel moet navigeren op een Mijn Omgeving slaagt erin producten te vinden via het huidige hamburgermenu, tegenover 61% op desktop. De geteste quick fix, een menu zonder tussenstap, verhoogt het succespercentage naar 85% en kan direct worden geïmplementeerd. Gebruikers verwachten navigatie op de overzichtspagina zelf; experts adviseren tegels als toekomstbestendige oplossing voor de vele gemeentelijke thema's
+type:
+  - desk research
+  - expert reviews
+  - Kwantitatief onderzoek
+  - Kwalitatief onderzoek
 ---
 
 <!-- @license CC0-1.0 -->
 
-# Navigeren via menu in MijnOmgeving op mobiel
-
 ![Afbeelding met drie mobiele interface-varianten](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/denhaag-mijn-producten-2__drie-mobiele-interface-varianten.png)
-
-**Samengevat: slechts 34% van gebruikers die mobiel moet navigeren op een mijnOmgeving slaagt erin producten te vinden via het huidige hamburgermenu, tegenover 61% op desktop. De geteste quick fix, een menu zonder tussenstap, verhoogt het succespercentage naar 85% en kan direct worden geïmplementeerd. Gebruikers verwachten navigatie op de overzichtspagina zelf; experts adviseren tegels als toekomstbestendige oplossing voor de vele gemeentelijke thema's.**
 
 ## Doel van het onderzoek
 
@@ -211,7 +205,5 @@ Hieronder zie je een overzicht van de drie ontwerpen die kwantitatief zijn getes
 - Ananta Mulyono - [ananta.mulyono@denhaag.nl](mailto:ananta.mulyono@denhaag.nl) - UX Designer – Gemeente Den Haag
 
 ## Bijlage
-
-Het orginele rapport.
 
 - [Eindrapportage onderzoek (PDF)](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/denhaag-mijn-producten-2__rapport.pdf)
