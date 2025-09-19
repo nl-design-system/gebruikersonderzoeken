@@ -194,8 +194,8 @@ importers:
         specifier: workspace:*
         version: link:../ma-components
       '@nl-design-system-community/ma-design-tokens':
-        specifier: 2.3.0
-        version: 2.3.0
+        specifier: 2.4.0
+        version: 2.4.0
       '@sindresorhus/slugify':
         specifier: 2.2.1
         version: 2.2.1
@@ -1977,8 +1977,8 @@ packages:
   '@nl-design-system-candidate/skip-link-css@1.0.3':
     resolution: {integrity: sha512-1cj/9LIm2NMphL7sq1SBsD2G9DYtXSKKETmHP4/yvuT/qw0xP93HLNam8n5gWQmoFCc8h4K6JsQJY/bxudxOMQ==}
 
-  '@nl-design-system-community/ma-design-tokens@2.3.0':
-    resolution: {integrity: sha512-W6NAZYa5rc57iMLx+hmHFvXLEdDbIcczPBJ34Dm9R6MwonsPKPG+78DXy6HNzALpDVyAvvDPyDr33w0haOauVw==}
+  '@nl-design-system-community/ma-design-tokens@2.4.0':
+    resolution: {integrity: sha512-1bORgszDMYIHmPgbWZ5k+bFdZXFmMaz8Ox7unyuxiiYI6voYACIy9bi4tExvlHndDEhc0KaUL8zu9D7TsMIneQ==}
 
   '@nl-design-system-unstable/nlds-design-tokens@1.0.1':
     resolution: {integrity: sha512-b4/MNyMF+Ku4nla6bAMZjNqld0BTEfUr94gzpCUzYOFl2aj06aHSNy4tW/pSAoGuf6PvHsxtqlKLSdXLG3rkzg==}
@@ -11060,7 +11060,7 @@ snapshots:
 
   '@nl-design-system-candidate/skip-link-css@1.0.3': {}
 
-  '@nl-design-system-community/ma-design-tokens@2.3.0': {}
+  '@nl-design-system-community/ma-design-tokens@2.4.0': {}
 
   '@nl-design-system-unstable/nlds-design-tokens@1.0.1':
     dependencies:
