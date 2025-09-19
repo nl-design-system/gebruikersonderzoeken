@@ -16,6 +16,8 @@ CHANGELOG.md
 package-lock.json
 yarn.lock
 pnpm-lock.yaml
+# pnpm using `pnpm config` is particular about the formatting of its workspace file
+pnpm-workspace.yaml
 
 
 # Ignore generated files from Stencil
