@@ -3,8 +3,8 @@ import {
   NavigationDrawerItem,
   NavigationDrawerHeader,
 } from '@nl-design-system-community/ma-components/local/navigation-drawer/navigation-drawer.tsx';
-import { ToolbarButton } from '@nl-design-system-community/ma-components/local/toolbar-button/toolbar-button.tsx';
 import { IconX } from '@tabler/icons-react';
+import { Button } from '@utrecht/component-library-react';
 
 interface GebruikersonderzoekenNavigationDrawerProps {
   navigationBarItems?: {
@@ -20,9 +20,9 @@ export function GebruikersonderzoekenNavigationDrawer(props: Gebruikersonderzoek
       header={
         <NavigationDrawerHeader
           closeButton={
-            <ToolbarButton command="close" commandfor="ma-navigation-drawer" icon={<IconX />}>
-              Sluiten
-            </ToolbarButton>
+            <Button command="close" commandfor="ma-navigation-drawer" appearance="subtle-button">
+              <IconX /> Sluiten
+            </Button>
           }
         />
       }
