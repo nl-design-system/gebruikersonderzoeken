@@ -20,7 +20,9 @@ const sortedThemes = themesWithItems
   .filter((theme) => theme.items.length > 0)
   .toSorted((a, b) => (a.data.order < b.data.order ? 1 : -1));
 
-const onderzoeken = await getCollection('onderzoeken').then((list) => list.toSpliced(3, Infinity));
+const onderzoeken = await getCollection('onderzoeken');
+const recentOnderzoeken = onderzoeken.toSorted((a, b) => b.data.date_added - a.data.date_added);
+const recentOnderzoekenTop3 = recentOnderzoeken.toSpliced(3, Infinity);
 ---
 
 <Layout canonical={Astro.url} description="Gedeelde gebruikersonderzoeken voor de overheid">
@@ -45,6 +47,6 @@ const onderzoeken = await getCollection('onderzoeken').then((list) => list.toSpl
     <div>
       <a href="/docs/onderzoek-bekijken/" class="nl-link">Bekijk alle onderzoeken</a>
     </div>
-    <CardListOnderzoek headingLevels={3} onderzoeken={onderzoeken} />
+    <CardListOnderzoek headingLevels={3} onderzoeken={recentOnderzoekenTop3} />
   </PageSection>
 </Layout>
