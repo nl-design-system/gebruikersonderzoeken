@@ -113,7 +113,11 @@ Dan moet je afspraken regelen. Je moet mensen vinden om je onderzoek mee te doen
 
 Misschien ken je een collega die mensen kent. Misschien heb je een publieksvloer waar je ze kan bevragen. Misschien zijn er allemaal mensen die een klacht hebben ingestuurd, die zeggen: ja hoor, Ik wil nog wel wat praten hierover. Misschien kan je hun een mailtje sturen.
 
+Lees ook de [tips van Gebruiker Centraal over het inzetten van een Testpannel](https://www.gebruikercentraal.nl/een-testpanel-inzetten-houd-hier-in-ieder-geval-rekening-mee/).
+
 Nodig je mensen van te voren uit? Zorg dan voor een duidelijke uitnodiging met contactinformatie zodat de mensen weten bij wie ze moeten zijn.
+
+Gebruik bijvoorbeeld de templates van [Code Inclusief Digitaal Ontwerpen](https://www.accessibility.nl/code-inclusief-digitaal-ontwerpen)
 
 Plan voor jezelf voor en na elk onderzoek een beetje extra tijd in. Zodat je niet hoeft te stressen en niet meteen naar een volgende vergadering of onderzoek hoeft te gaan en gelijk wat tijd hebt om de eerste inzichten te analyseren.
 
@@ -236,6 +240,8 @@ Deel de onderzoeksresultaten met designers, developers, je team, je manager, zet
 ## Handige linkjes
 
 - [Video uitleg van Jeroen du Chatinier in de Design Systems Week](https://www.youtube.com/watch?v=m-qn8NQ1xh0)
-- [Checklist](/docs/onderzoek-doen/checklist)
-- [Toestemmingsformulier](/docs/onderzoek-doen/toestemmingsformulier)
+- [Tips van Gebruiker Centraal over het inzetten van een Testpannel](https://www.gebruikercentraal.nl/een-testpanel-inzetten-houd-hier-in-ieder-geval-rekening-mee/)
+- [Gebruikersonderzoek doen - Checklist](/docs/onderzoek-doen/checklist)
+- [Gebruikersonderzoek doen - Toestemmingsformulier](/docs/onderzoek-doen/toestemmingsformulier)
 - [Je eerste Gebruikersonderzoek - Miro Templates](https://miro.com/app/board/uXjVLSh-VIY=/?share_link_id=323200448501)
+- [Code Inclusief Digitaal Ontwerpen](https://www.accessibility.nl/code-inclusief-digitaal-ontwerpen)
