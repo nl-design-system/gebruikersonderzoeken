@@ -43,6 +43,11 @@ const navigationBarItems = [
     href: '/docs/onderzoek-bekijken/',
   },
   {
+    children: 'Onderzoek doen',
+    current: Astro.url.pathname.includes('onderzoek-doen'),
+    href: '/docs/onderzoek-doen/',
+  },
+  {
     children: 'Onderzoek delen',
     current: Astro.url.pathname.includes('onderzoek-delen'),
     href: '/docs/onderzoek-delen/',
