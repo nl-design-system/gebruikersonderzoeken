@@ -24,6 +24,7 @@ themes:
 conducted_by:
   - gemeente Den Haag
   - VNG
+date_added: 2024-08-08
 ---
 
 <!-- @license CC0-1.0 -->
