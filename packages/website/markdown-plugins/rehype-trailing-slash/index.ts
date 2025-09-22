@@ -54,8 +54,6 @@ export function addTrailingSlash(href: string, options: { siteURL: URL; stripOri
     newHref = newHref.split('').toSpliced(0, 1).join('');
   }
 
-  console.log({ href, newHref });
-
   return newHref;
 }
 
