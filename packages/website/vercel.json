@@ -6,7 +6,7 @@
       "headers": [
         {
           "key": "Content-Security-Policy",
-          "value": "base-uri 'self'; block-all-mixed-content; connect-src 'self' blob: data:; default-src 'self'; font-src 'self'; form-action 'self'; frame-ancestors 'none'; img-src 'self' raw.githubusercontent.com blob: data:; object-src 'none'; script-src 'self' blob:; style-src 'self'; worker-src blob:;"
+          "value": "base-uri 'self'; block-all-mixed-content; connect-src 'self' https://*.algolia.net https://*.algolianet.com https://*.algolia.io blob: data:; default-src 'self'; font-src 'self'; form-action 'self'; frame-ancestors 'none'; img-src 'self' raw.githubusercontent.com blob: data:; object-src 'none'; script-src 'self' blob:; style-src 'self'; worker-src blob:;"
         }
       ]
     }
