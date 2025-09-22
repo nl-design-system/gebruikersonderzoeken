@@ -2,8 +2,11 @@ import react from '@astrojs/react';
 import sitemap from '@astrojs/sitemap';
 import { defineConfig } from 'astro/config';
 import { nldsComponentsPlugin } from './markdown-plugins/rehype-nlds-components/index.ts';
+import { addTrailingSlashPlugin } from './markdown-plugins/rehype-trailing-slash/index.ts';
 import { coverPlugin } from './markdown-plugins/remark-cover/index.ts';
 import { removeH1FromMarkdown } from './markdown-plugins/remark-remove-h1/index.ts';
+
+const siteUrl = 'https://gebruikersonderzoeken.nl';
 
 // https://astro.build/config
 export default defineConfig({
@@ -21,8 +24,8 @@ export default defineConfig({
     }),
   ],
   markdown: {
-    rehypePlugins: [nldsComponentsPlugin],
+    rehypePlugins: [nldsComponentsPlugin, addTrailingSlashPlugin({ siteUrl, stripOrigin: true })],
     remarkPlugins: [coverPlugin, removeH1FromMarkdown({ filter: 'onderzoek-bekijken' })],
   },
-  site: 'https://gebruikersonderzoeken.nl',
+  site: siteUrl,
 });
