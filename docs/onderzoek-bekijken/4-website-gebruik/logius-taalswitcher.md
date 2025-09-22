@@ -5,6 +5,7 @@ hide_table_of_contents: false
 sidebar_label: Gebruik vertaaloptie op website
 pagination_label: Gebruik vertaaloptie op website
 description: Verwachtingen en voorkeuren voor een taalswitch op websites, zoals locatie, vorm en herkenbaarheid.
+summary: Gebruikers geven de voorkeur aan een vertaaloptie die binnen de website beschikbaar is. Voor gebruikers die de taal niet spreken is herkenbaarheid heel belangrijk. Daarom gaat de voorkeur uit naar een vertaaloptie rechts-bovenin de website; dit is herkenbaar van andere websites. Het is prettig als je deze kan uitklappen om alle talen te bekijken.
 keywords:
   - taalswitch
   - taalswitcher
@@ -34,10 +35,6 @@ date_added: 2025-05-02
 # Gebruik vertaaloptie op website (Taalswitch)
 
 ![Plaatje van onderzoekers die met respondenten het onderzoek aan het uitvoeren zijn.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/logius-taalswitcher__onderzoek-in-actie.png)
-
-## Samengevat
-
-Gebruikers geven de voorkeur aan een vertaaloptie die binnen de website beschikbaar is. Voor gebruikers die de taal niet spreken is herkenbaarheid heel belangrijk. Daarom gaat de voorkeur uit naar een vertaaloptie rechts-bovenin de website; dit is herkenbaar van andere websites. Het is prettig als je deze kan uitklappen om alle talen te bekijken.
 
 ## Doel van het onderzoek
 

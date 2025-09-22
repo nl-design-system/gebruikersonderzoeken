@@ -5,6 +5,7 @@ hide_table_of_contents: false
 sidebar_label: Aanvraagproces van de gehandicaptenparkeerkaart
 pagination_label: Aanvraagproces van de gehandicaptenparkeerkaart
 description: Proces van het aanvragen van een gehandicaptenparkeerkaart, met aandacht voor communicatie en ondersteuning van ouderen met beperkte digitale vaardigheden.
+summary: Het aanvragen van een gehandicaptenparkeerkaart op de niet-digitale manier wordt voornamelijk gedaan door hulpbehoevende 60-plussers, maar hier wordt in het proces onvoldoende rekening mee gehouden door de gemeente.
 keywords:
   - stadskamer
   - utrecht
@@ -34,8 +35,6 @@ date_added: 2023-06-01
 _Onderzoek uitgevoerd in 2023 door Team UX & Stadskamer - Gemeente Utrecht_
 
 ![Foto van ouderwets tapijtje met daarop een agenda, drie verschillende loepjes, een telefoon met grote toetsen, en een plant.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/utrecht-gehandicaptenparkeerkaart.png)
-
-**Samengevat: Het aanvragen van een gehandicaptenparkeerkaart op de niet-digitale manier wordt voornamelijk gedaan door hulpbehoevende 60-plussers, maar hier wordt in het proces onvoldoende rekening mee gehouden door de gemeente.**
 
 ## Doel
 

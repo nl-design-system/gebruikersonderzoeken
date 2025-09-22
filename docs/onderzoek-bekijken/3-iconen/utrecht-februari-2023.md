@@ -6,6 +6,7 @@ sidebar_label: Gemeenteraad, burgemeester, afval icoon
 sidebar_position: 2
 pagination_label: Gemeenteraad, burgemeester, afval icoon
 description: Interpretatie en duidelijkheid van iconen voor de gemeenteraad, burgemeester en afval.
+summary: Er zijn een aantal sterke voorkeuren bij de iconen te zien als het gaat over de gemeenteraad en de afvalcontainers.
 keywords:
   - icoon
   - icon
@@ -35,8 +36,6 @@ date_added: 2023-04-04
 <!-- @license CC0-1.0 -->
 
 # Onderzoek iconen Februari 2023
-
-**Samengevat: Er zijn een aantal sterke voorkeuren bij de iconen te zien als het gaat over de gemeenteraad en de afvalcontainers.**
 
 ## Doel van het onderzoek
 

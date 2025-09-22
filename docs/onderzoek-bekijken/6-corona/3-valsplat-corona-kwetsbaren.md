@@ -5,6 +5,7 @@ hide_table_of_contents: false
 sidebar_label: Spreken met kwetsbaren
 pagination_label: Spreken met kwetsbaren
 description: Ervaringen van mensen met een kwetsbare gezondheid bij de afschaling van coronamaatregelen, met aandacht voor communicatie en informatievoorziening.
+summary: Hoewel kwetsbaren begrijpen waarom de maatregelen worden afgeschaald, zijn velen hier niet blij mee. Zij missen aandacht en begrip voor hun situatie. Ook is er kritiek op de mate van transparantie vanuit de overheid. Long COVID en de kans op arbeidsongeschiktheid is een grote angst onder kwetsbaren. Daarnaast zijn de gratis mondkapjes & zelftesten voor kwetsbaren niet bekend onder de doelgroep.
 keywords:
   - corona
   - valsplat
@@ -25,10 +26,6 @@ date_added: 2024-05-28
 # Spreken met kwetsbaren
 
 _Als er in deze rapportage wordt gesproken over kwetsbaren wordt daarmee bedoeld ‘mensen met een kwetsbare gezondheid’_-
-
-**Samengevat: Hoewel kwetsbaren begrijpen waarom de maatregelen worden afgeschaald, zijn velen hier niet blij mee. Zij missen aandacht en begrip voor hun situatie. Ook is er kritiek op de mate van transparantie vanuit de overheid.**
-
-**Long COVID en de kans op arbeidsongeschiktheid is een grote angst onder kwetsbaren. Daarnaast zijn de gratis mondkapjes & zelftesten voor kwetsbaren niet bekend onder de doelgroep.**
 
 ## Doel
 

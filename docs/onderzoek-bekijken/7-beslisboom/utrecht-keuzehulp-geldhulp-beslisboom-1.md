@@ -5,6 +5,7 @@ hide_table_of_contents: false
 sidebar_label: Gebruikersonderzoek keuzehulp geldhulp bij kind laten sporten - deel 1
 pagination_label: Gebruikersonderzoek keuzehulp geldhulp bij kind laten sporten - deel 1
 description: Eerste versie van een digitale keuzehulp om ouders te begeleiden bij geldhulp voor sportactiviteiten, met aandacht voor begrijpelijkheid en toegankelijkheid.
+summary: Uit dit onderzoek blijkt dat - het prototype van - de keuzehulp nog niet eenvoudig genoeg is om waarde toe te voegen voor de inwoner van Utrecht. De potentie zit in een keuzehulp die eenvoudiger en beter te begrijpen is. Mogelijk is de huidige keuzehulp van waarde voor de specialist die de inwoner ondersteunt.
 keywords:
   - utrecht
   - gebruikersonderzoek
@@ -36,8 +37,6 @@ date_added: 2025-01-30
 
 _Onderzoek uitgevoerd in 2024 door de Gemeente Utrecht._
 ![Plaatje met waar allemaal sportspullen worden getoond](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/utrecht-keuzehulp-geldhulp-beslisboom-1_living-lab-1.png)
-
-**Samengevat: Uit dit onderzoek blijkt dat - het prototype van - de keuzehulp nog niet eenvoudig genoeg is om waarde toe te voegen voor de inwoner van Utrecht. De potentie zit in een keuzehulp die eenvoudiger en beter te begrijpen is. Mogelijk is de huidige keuzehulp van waarde voor de specialist die de inwoner ondersteunt.**
 
 ## Doel van het onderzoek
 

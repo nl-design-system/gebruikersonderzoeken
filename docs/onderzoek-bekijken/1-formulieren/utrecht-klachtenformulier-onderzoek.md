@@ -5,6 +5,8 @@ hide_table_of_contents: false
 sidebar_label: Nieuwe klachtenformulier Gemeente Utrecht
 pagination_label: Nieuwe klachtenformulier Gemeente Utrecht
 description: Gebruik van het vernieuwde klachtenformulier van de gemeente Utrecht, met aandacht voor taal en structuur.
+summary: Inwoners komen door het nieuwe klachtenformulier heen. De inwoners vonden het gek dat een klacht alleen over een afdeling of een persoon ging. Ook kon de bevestiging aan het einde van het proces een stuk duidelijker, zodat de inwoner meer vertrouwen krijgt dat de klacht netjes wordt afgehandeld...
+keywords:
   - utrecht
   - gebruikersonderzoek
   - klantenreis
@@ -34,8 +36,6 @@ date_added: 2024-05-02
 # Nieuwe klachtenformulier Gemeente Utrecht
 
 _Onderzoek uitgevoerd in 2024 door TrueTalk, Team UX & U-Lab - Gemeente Utrecht_
-
-**Samengevat: Inwoners komen door het nieuwe klachtenformulier heen. De inwoners vonden het gek dat een klacht alleen over een afdeling of een persoon ging. Ook kon de bevestiging aan het einde van het proces een stuk duidelijker, zodat de inwoner meer vertrouwen krijgt dat de klacht netjes wordt afgehandeld..**
 
 ![Screenshot van het klachtenformulier van de gemeente Utrecht](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/utrecht-klachtenformulier-onderzoek__klachtenformulier.png)
 

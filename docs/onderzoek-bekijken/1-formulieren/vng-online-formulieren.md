@@ -5,6 +5,7 @@ hide_table_of_contents: false
 sidebar_label: Contactformulier voor WMEBV
 pagination_label: Contactformulier voor WMEBV
 description: Gebruiksvriendelijkheid en toegankelijkheid van een online contactformulier, inclusief ervaringen van specifieke doelgroepen.
+summary: De minimalistische aanpak zonder overbodige informatie draagt bij aan een positieve gebruikservaring. De hoeveelheid stappen, de verschillende systemen en het missen van hulpkanalen wordt als belangrijkste knelpunten gezien
 keywords:
   - wmebv
   - VNG
@@ -36,8 +37,6 @@ date_added: 2024-01-22
 ---
 
 # Contactformulier voor WMEBV
-
-**Samengevat: De minimalistische aanpak zonder overbodige informatie draagt bij aan een positieve gebruikservaring. De hoeveelheid stappen, de verschillende systemen en het missen van hulpkanalen wordt als belangrijkste knelpunten gezien**
 
 - De toon en duidelijkheid van de tekst worden als prettig ervaren. In het formulier kunnen alle gebruikers goed volgen wat er moet gebeuren dankzij heldere knoppen en een overzichtelijke opmaak.
 - Het aanbieden van de keuzeoptie om ofwel met DigiD ofwel zonder DigiD het formulier in te vullen werd gewaardeerd.

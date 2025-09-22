@@ -5,6 +5,7 @@ hide_table_of_contents: false
 sidebar_label: Straatonderzoek afschalen corona maatregelen
 pagination_label: Straatonderzoek afschalen corona maatregelen
 description: Beleving van passanten bij het afbouwen van coronamaatregelen, met aandacht voor digitale zichtbaarheid, mentale gezondheid en inclusieve communicatie.
+summary: 'Corona-maatregelen zijn minder actueel, maar hebben wel sporen achtergelaten: meer hygiënebewustzijn en oog voor kwetsbaren. Zelftesten blijven relevant bij klachten in groepen of rond kwetsbaren. Wel ontstonden mentale gezondheidsproblemen. Ondanks kritiek is er begrip voor de crisissituatie. Digitalisering versnelde, wat ouderen uitdaagt. Belangrijk nieuws bereikt niet alle burgers, vooral gemeenschappen die geen Nederlandse media volgen.'
 keywords:
   - corona
   - valsplat
@@ -20,12 +21,6 @@ date_added: 2024-05-28
 <!-- @license CC0-1.0 -->
 
 # Straatonderzoek over het afschalen van corona maatregelen
-
-**Samengevat: De gesproken burgers zijn nog weinig bezig met de maatregelen rondom corona. Wel heeft het een stempel achtergelaten.**
-
-**Er is meer bewustzijn rondom hygiëne, en kwetsbaarheid van anderen. Zelftesten zijn nog relevant wanneer men zich in grotere groepen begeeft met klachten, of onder een kwetsbare doelgroep.**
-
-**De maatregelen hebben echter ook voor problemen gezorgd rondom mentale gezondheid. Hoewel er kritiek is op het handelen van de overheid, is er ook begrip voor de crisissituatie. De versnelling in digitalisering wordt opgemerkt, en erkend als uitdaging voor o.a. ouderen. Daarnaast bereikt belangrijk nieuws/informatie niet altijd alle burgers, wegens gemeenschappen die bijv. geen Nederlandse TV volgen.**
 
 ## Doel
 
