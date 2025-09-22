@@ -36,6 +36,7 @@ conducted_by:
   - gemeente Den Haag
   - gemeente Utrecht
   - VNG
+date_added: 2023-04-04
 ---
 
 <!-- @license CC0-1.0 -->

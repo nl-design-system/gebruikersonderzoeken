@@ -26,6 +26,7 @@ themes:
   - navigatie
 conducted_by:
   - gemeente Utrecht
+date_added: 2023-06-01
 ---
 
 # Zichtbaarheid en toegankelijkheid initiatievenfonds

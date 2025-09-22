@@ -29,6 +29,7 @@ themes:
 conducted_by:
   - Acato
   - gemeente Tilburg
+date_added: 2025-07-16
 ---
 
 # Gebruikersonderzoek Publicatievoorziening Wet open overheid
