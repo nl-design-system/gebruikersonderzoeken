@@ -6,6 +6,7 @@ sidebar_label: Ontwerp en usability onderzoek Mijn-omgevingen
 sidebar_position: 2
 pagination_label: Ontwerp en usability onderzoek Mijn-omgevingen
 description: Gebruikservaring van generieke onderdelen in de Mijn omgeving, zoals notificaties, berichten, taken en contactmomenten
+summary: De Mijn Omgeving kan niet als één aparte service worden gezien, maar is voor de inwoner een geheel van vier verschillende onderdelen. Het onderzoek toont het belang van duidelijkheid, rust en vertrouwen aan.
 keywords:
   - onderzoek
   - mijnomgeving
@@ -32,8 +33,6 @@ date_added: 2023-04-21
 <!-- @license CC0-1.0 -->
 
 # Ontwerp en usability onderzoek Mijn-omgevingen
-
-**Samengevat: de Mijn Omgeving kan niet als één aparte service worden gezien, maar is voor de inwoner een geheel van vier verschillende onderdelen. Het onderzoek toont het belang van duidelijkheid, rust en vertrouwen aan.**
 
 ## Doel van het onderzoek
 

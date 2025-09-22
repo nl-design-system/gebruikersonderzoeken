@@ -5,6 +5,7 @@ hide_table_of_contents: false
 sidebar_label: Begrijpelijkheid constateringsbrieven Vergunningen, Toezicht en Handhaving
 pagination_label: Begrijpelijkheid constateringsbrieven Vergunningen, Toezicht en Handhaving
 description: Begrijpelijkheid van constateringsbrieven voor ondernemers, met aandacht voor taal, structuur en duidelijke informatie.
+summary: De boodschap van de constateringsbrief komt bij het grootste deel van de ondernemers niet of niet helemaal over. Dit komt door de toon van de brief, de juridische termen in de brief en omdat het taalgebruik te ingewikkeld is.
 keywords:
   - utrecht
   - gebruikersonderzoek
@@ -28,8 +29,6 @@ date_added: 2025-05-08
 # Begrijpelijkheid constateringsbrieven Vergunningen, Toezicht en Handhaving
 
 _Onderzoek uitgevoerd in 2025 door de Gemeente Utrecht._
-
-**Samengevat: De boodschap van de constateringsbrief komt bij het grootste deel van de ondernemers niet of niet helemaal over. Dit komt door de toon van de brief, de juridische termen in de brief en omdat het taalgebruik te ingewikkeld is.**
 
 ## Doel van het onderzoek
 

@@ -6,6 +6,7 @@ sidebar_label: Onderzoek MijnAanvragen in Open Inwoner Platform (OIP) – Mijn O
 sidebar_position: 2
 pagination_label: Onderzoek MijnAanvragen in Open Inwoner Platform (OIP) – Mijn Omgeving
 description: Onderzoek naar hoe inwoners documenten uploaden en de status volgen bij lopende aanvragen in de Mijn omgeving.
+summary: Een Mijn Omgeving is een omgeving waarin een inwoner zijn / haar aanvragen kan blijven volgen. Het is belangrijk om acties duidelijk te maken aan inwoners, irrelevante informatie in overzichten te vermijden, en op alle pagina’s en onderdelen te communiceren in bewoordingen die inwoners begrijpen.
 keywords:
   - onderzoek
   - mijnomgeving
@@ -32,8 +33,6 @@ date_added: 2024-05-21
 # Onderzoek MijnAanvragen in Open Inwoner Platform (OIP) – Mijn Omgeving
 
 _Onderzoek uitgevoerd in 2023 door Team UX – Gemeente Groningen_
-
-**Samengevat: een Mijn Omgeving is een omgeving waarin een inwoner zijn / haar aanvragen kan blijven volgen. Het is belangrijk om acties duidelijk te maken aan inwoners, irrelevante informatie in overzichten te vermijden, en op alle pagina’s en onderdelen te communiceren in bewoordingen die inwoners begrijpen.**
 
 ## Doel
 

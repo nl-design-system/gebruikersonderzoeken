@@ -5,6 +5,7 @@ hide_table_of_contents: false
 sidebar_label: Onderzoek lettertype bij neurodiversiteitsnetwerk
 pagination_label: Onderzoek lettertype bij neurodiversiteitsnetwerk
 description: Gebruik van Noto Sans als lettertype en de leesbaarheid voor neurodiverse collega’s.
+summary: Het Noto Sans lettertype werkt prima voor onze neurodiverse collega's.
 keywords:
   - utrecht
   - gebruikersonderzoek
@@ -38,8 +39,6 @@ date_added: 2025-05-15
 ![Screenshot van de 'Paspoort en identiteitskaart aanvragen' pagina uit het prototype die gemaakt is met het lettertype Noto Sans.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/utrecht-lettertype__prototype.png)
 
 _Onderzoek uitgevoerd in 2025 door de Gemeente Utrecht._
-
-**Samengevat: Het Noto Sans lettertype werkt prima voor onze neurodiverse collega's.**
 
 ## Doel van het onderzoek
 

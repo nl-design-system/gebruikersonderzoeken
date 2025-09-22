@@ -6,6 +6,7 @@ sidebar_label: Exploratief onderzoek
 sidebar_position: 1
 pagination_label: Exploratief onderzoek
 description: Verwachtingen van inwoners en ondernemers van een Mijn omgeving, met nadruk op thema’s, taken en filters.
+summary: Inwoners maken minder gebruik van de Mijn omgeving en hebben daardoor lagere verwachtingen ten aanzien van de beschikbare functionaliteiten. Ondernemers daarentegen hebben complexere behoeften en beschouwen de Mijn omgeving als een praktische centrale plek om al hun gemeentelijke zaken te beheren.
 slug: /onderzoek-bekijken/mijn-zaken/mijn-producten/exploratief-onderzoek-vng
 keywords:
   - onderzoek
@@ -36,8 +37,6 @@ date_added: 2025-01-22
 # Exploratief UX onderzoek MijnProducten
 
 _Dit onderzoek is uitgevoerd in 2025 door VNG in samenwerking met de Gemeente Den Haag in het kader van het Omnichannel Mijn Services traject._
-
-**Samengevat: Inwoners maken minder gebruik van de Mijn omgeving en hebben daardoor lagere verwachtingen ten aanzien van de beschikbare functionaliteiten. Ondernemers daarentegen hebben complexere behoeften en beschouwen de Mijn omgeving als een praktische centrale plek om al hun gemeentelijke zaken te beheren.**
 
 ![Voorpagina van het onderzoek met een foto van een flip-over en de tekst: Onderzoeksrapportage Exploratief onderzoek Mijn omgeving - Wat verwachten inwoners en ondernemers van een Mijn omgeving? Wat willen ze hierin terug kunnen vinden en welke handelingen willen ze vanuit het portaal kunnen doen? - Onderzoekers: Daniël Vellinga. Margo Welling | Ondernemersprogramma | nov](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/refs/heads/assets/vng-mijn-producten__intro.png)
 

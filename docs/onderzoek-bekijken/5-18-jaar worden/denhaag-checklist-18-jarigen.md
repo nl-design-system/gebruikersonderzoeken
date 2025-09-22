@@ -5,6 +5,7 @@ hide_table_of_contents: false
 sidebar_label: Checklist 18 jarigen
 pagination_label: Checklist 18 jarigen
 description: Checklist voor jongeren die 18 worden, met aandacht voor inhoudelijke bruikbaarheid en vormgeving die aansluit bij hun leefwereld.
+summary: Inhoudelĳk is de checklist in op orde, maar de vormgeving sluit nu onvoldoende aan bĳ de doelgroep. Het komt te kinderachtig over en is niet serieus genoeg.
 keywords:
   - informatiecampagne
   - gemeente den haag
@@ -27,8 +28,6 @@ date_added: 2023-05-11
 <!-- @license CC0-1.0 -->
 
 # Checklist 18 jarigen
-
-**Samengevat: Inhoudelĳk is de checklist in op orde, maar de vormgeving sluit nu onvoldoende aan bĳ de doelgroep. Het komt te kinderachtig over en is niet serieus genoeg.**
 
 ![Verjaardagskaart met een taart met een nummer 18 kaarsje en de tekst "Regel je SHIT" erop](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/denhaag-checklist-18-jarigen__regel-je-shit.jpeg)
 

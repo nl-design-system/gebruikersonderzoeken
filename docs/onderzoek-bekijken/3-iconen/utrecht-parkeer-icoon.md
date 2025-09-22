@@ -5,6 +5,7 @@ hide_table_of_contents: false
 sidebar_label: Parkeer icoon
 pagination_label: Parkeer icoon
 description: Herkenbaarheid en duidelijkheid van een parkeericoon.
+summary: Het parkeer icoon dat niet gevuld is werd door de respondenten als de meest duidelijke ervaren.
 keywords:
   - icoon
   - icon
@@ -28,8 +29,6 @@ date_added: 2023-04-04
 <!-- @license CC0-1.0 -->
 
 # Onderzoek parkeer icoon
-
-**Samengevat: Het parkeer icoon dat niet gevuld is werd door de respondenten als de meest duidelijke ervaren.**
 
 ## Doel van het onderzoek
 

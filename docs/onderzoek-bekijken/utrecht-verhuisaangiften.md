@@ -5,6 +5,7 @@ hide_table_of_contents: false
 sidebar_label: Uitzonderingen in het verhuisaangiften proces
 pagination_label: Uitzonderingen in het verhuisaangiften proces
 description: Bijzondere verhuisgevallen buiten standaardprocedures, waarbij situaties begrijpelijk en toegankelijk moeten worden afgehandeld.
+summary: Bij de meeste inwoners verloopt het verhuisaangifteproces probleemloos. Voor degenen bij wie het niet in één keer goed loopt, is het een onnodig moeizaam en lang proces.
 keywords:
   - stadskamer
   - utrecht
@@ -29,8 +30,6 @@ date_added: 2023-06-01
 # Uitzonderingen in het verhuisaangiften proces
 
 _Onderzoek uitgevoerd in 2023 door de Stadskamer - Gemeente Utrecht_
-
-**Samengevat: Bij de meeste inwoners verloopt het verhuisaangifteproces probleemloos. Voor degenen bij wie het niet in één keer goed loopt, is het een onnodig moeizaam en lang proces.**
 
 ## Doel
 

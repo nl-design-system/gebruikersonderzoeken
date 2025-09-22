@@ -5,6 +5,7 @@ hide_table_of_contents: false
 sidebar_label: Google Translate gebruik op utrecht.nl
 pagination_label: Google Translate gebruik op utrecht.nl
 description: Gebruik van Google Translate op utrecht.nl als signaal dat teksten begrijpelijk op B1-niveau geschreven moeten zijn.
+summary: Bij 5,8% van de bezoeken aan utrecht.nl in Maart 2023 wordt google translate in de Google Chrome browser gebruikt om webpagina's te vertalen. Het is dus belangrijk om een goede, duidelijke tekst op B1-niveau te hebben die automatisch vertaald kan worden.
 keywords:
   - taal
   - google
@@ -28,8 +29,6 @@ date_added: 2023-04-18
 # Google Translate gebruik op utrecht.nl
 
 ![Plaatje van een browser met waar de Google Translate pop-up getoond wordt om de pagina te gaan vertalen.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/utrecht-google-translate.png)
-
-**Samengevat: Bij 5,8% van de bezoeken aan utrecht.nl in Maart 2023 wordt google translate in de Google Chrome browser gebruikt om webpagina's te vertalen. Het is dus belangrijk om een goede, duidelijke tekst op B1-niveau te hebben die automatisch vertaald kan worden.**
 
 ## Doel van het onderzoek
 
