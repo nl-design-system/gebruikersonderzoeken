@@ -50,7 +50,7 @@ export function GebruikersonderzoekenFooter() {
           </Heading>
           <ul className="utrecht-link-list utrecht-link-list--html-ul">
             <li className="utrecht-link-list__item">
-              <a className="utrecht-link-list__link" href="/docs/vragen">
+              <a className="utrecht-link-list__link" href="/docs/vragen/">
                 <IconChevronRight />
                 Veel gestelde vragen
               </a>
@@ -59,7 +59,7 @@ export function GebruikersonderzoekenFooter() {
         </PageFooterSection>,
       ]}
       metaLinks={[
-        <a key="1" className="nl-link" href="/docs/privacyverklaring">
+        <a key="1" className="nl-link" href="/docs/privacyverklaring/">
           Privacyverklaring
         </a>,
       ]}

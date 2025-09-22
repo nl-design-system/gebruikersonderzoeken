@@ -24,7 +24,7 @@ export function CardListOnderzoek(props: PropsWithChildren<CardListThemeProps>) 
                 {onderzoek.data.title}
               </Heading>
             }
-            href={`/docs/onderzoek-bekijken/${toCleanRoute(onderzoek.id)}`}
+            href={`/docs/onderzoek-bekijken/${toCleanRoute(onderzoek.id)}/`}
             description={onderzoek.data.description}
             metadata={metadata}
           />
