@@ -81,7 +81,16 @@ const tocItems: TableOfContentsItem[] = headings
 <CenterColumnLayout canonical={Astro.url} title={onderzoek.data.title} cover={cover}>
   <BodyCopy large>
     <Heading level={1}>{onderzoek.data.title}</Heading>
-    {onderzoek.data.summary && <Paragraph purpose="lead">Samengevat: {onderzoek.data.summary}</Paragraph>}
+
+    <!-- marked up so algolia can find it -->
+    {
+      onderzoek.data.summary && (
+        <Paragraph purpose="lead">
+          <span class="ma-onderzoek-summary-title">Samengevat</span>:
+          <span class="ma-onderzoek-summary-content">{onderzoek.data.summary}</span>
+        </Paragraph>
+      )
+    }
     <DescriptionList items={dataSummary} />
     <TableOfContents items={tocItems} />
     <Content />
