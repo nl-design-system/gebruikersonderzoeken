@@ -5,6 +5,7 @@ hide_table_of_contents: false
 sidebar_label: Usability onderzoek Subsidiewijzer en nieuwe navigatie
 pagination_label: Usability onderzoek Subsidiewijzer en nieuwe navigatie
 description: Nieuwe navigatie van de Subsidiewijzer op RVO.nl, met aandacht voor vindbaarheid van regelingen, filtergebruik en gebruiksgemak.
+summary: De gebruikers vonden het vernieuwde overzicht prettig en waren enthousiast over de vele mogelijkheden die RVO biedt. Het gebruik van de filters werkte onvoldoende als navigatie. Er bleven te veel resultaten over. De resultaten spraken de gebruikers niet genoeg aan, waardoor veel gebruikers aangaven contact te gaan zoeken. Binnen de content is de focus op welke doelgroep RVO wilt aanspreken beperkt en daarom moeten gebruikers onnodig veel lezen om voor hen relevantie informatie te vinden. De informatie op de website is daarmee vooral toegankelijk voor intermediairs, wat het aanvragen van een regeling voor de gemiddelde gebruiker onnodig complex maakt.
 keywords:
   - rvo
   - gebruikersonderzoek
@@ -51,8 +52,6 @@ date_added: 2025-04-17
 ![Plaatje waarin met eye-tracking wordt getoond waar site bezoekers naar kijken op een zoekresultatenpagina](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rvo-navigatie__zoeken-eye-tracking.png)
 
 _Onderzoek uitgevoerd in 2019 door Deloitte in opdracht van de Rijksdienst voor Ondernemend Nederland._
-
-**De gebruikers vonden het vernieuwde overzicht prettig en waren enthousiast over de vele mogelijkheden die RVO biedt. Het gebruik van de filters werkte onvoldoende als navigatie. Er bleven te veel resultaten over. De resultaten spraken de gebruikers niet genoeg aan, waardoor veel gebruikers aangaven contact te gaan zoeken. Binnen de content is de focus op welke doelgroep RVO wilt aanspreken beperkt en daarom moeten gebruikers onnodig veel lezen om voor hen relevantie informatie te vinden. De informatie op de website is daarmee vooral toegankelijk voor intermediairs, wat het aanvragen van een regeling voor de gemiddelde gebruiker onnodig complex maakt.**
 
 ## Advies
 

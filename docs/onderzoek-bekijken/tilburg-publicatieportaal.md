@@ -5,6 +5,7 @@ hide_table_of_contents: false
 sidebar_label: Gebruikersonderzoek Publicatievoorziening Wet open overheid
 pagination_label: Gebruikersonderzoek Publicatievoorziening Wet open overheid
 description: Gebruik van het nieuwe publicatieportaal voor Woo-documenten in Tilburg, met aandacht voor gebruiksvriendelijkheid, herkenbaarheid en navigatie.
+summary: Gemeente Tilburg heeft met 18 testgebruikers (inwoners, externe en interne professionals) het nieuwe publicatieplatform voor de Wet open overheid getest. Het onderzoek toont aan dat het platform gebruiksvriendelijk is en goed herkenbaar als gemeente-website, maar dat het doel van de website en navigatie tussen pagina's onduidelijk kunnen zijn voor gebruikers. Op basis van de testresultaten zijn concrete aanpassingen doorgevoerd in het design om de gebruikerservaring te verbeteren. Het platform heeft nu een solide basis en voldoet aan de Woo-vereisten, met een backlog voor verdere optimalisatie.
 keywords:
   - tilburg
   - gebruikersonderzoek
@@ -37,8 +38,6 @@ date_added: 2025-07-16
 ![Het design van het publicatieportaal van Tilburg](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/tilburg-publicatieportaal__design-publicatieportaal.jpeg)
 
 _Onderzoek uitgevoerd in 2025 door de Gemeente Tilburg._
-
-**Samegevat: Gemeente Tilburg heeft met 18 testgebruikers (inwoners, externe en interne professionals) het nieuwe publicatieplatform voor de Wet open overheid getest. Het onderzoek toont aan dat het platform gebruiksvriendelijk is en goed herkenbaar als gemeente-website, maar dat het doel van de website en navigatie tussen pagina's onduidelijk kunnen zijn voor gebruikers. Op basis van de testresultaten zijn concrete aanpassingen doorgevoerd in het design om de gebruikerservaring te verbeteren. Het platform heeft nu een solide basis en voldoet aan de Woo-vereisten, met een backlog voor verdere optimalisatie.**
 
 Het onderzoek is in twee delen opgesplitst: het eerste deel gaat over het publicatieportaal voor de inwoners, het tweede deel gaat over beheerportaal voor de beheerders.
 

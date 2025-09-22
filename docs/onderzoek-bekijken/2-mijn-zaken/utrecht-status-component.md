@@ -6,6 +6,7 @@ sidebar_label: Onderzoek Status Component van MijnZaken
 sidebar_position: 2
 pagination_label: Onderzoek Status Component van MijnZaken
 description: Rol van de Status component in de Mijn omgeving en hoe dit inwoners vertrouwen geeft in hun aanvraag.
+summary: Op het moment dat je iets online besteld hebt ben je als gebruiker de controle kwijt over de rest van het proces. Dat levert stress op. Komt het wel goed? Het Status component voegt waarde toe voor de inwoner als deze gebruikt wordt in de context van e-mail notificaties en zelf informatie opzoeken.
 keywords:
   - onderzoek
   - product dienst status
@@ -42,8 +43,6 @@ date_added: 2023-04-04
 <!-- @license CC0-1.0 -->
 
 # Onderzoek Status Component van MijnZaken
-
-**Samengevat: Op het moment dat je iets online besteld hebt ben je als gebruiker de controle kwijt over de rest van het proces. Dat levert stress op. Komt het wel goed? Het Status component voegt waarde toe voor de inwoner als deze gebruikt wordt in de context van e-mail notificaties en zelf informatie opzoeken.**
 
 ## Doel van het onderzoek
 

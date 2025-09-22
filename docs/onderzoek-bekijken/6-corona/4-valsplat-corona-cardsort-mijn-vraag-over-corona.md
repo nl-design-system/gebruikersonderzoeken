@@ -5,6 +5,7 @@ hide_table_of_contents: false
 sidebar_label: Card sort MijnVraagOverCorona.nl
 pagination_label: Card sort MijnVraagOverCorona.nl
 description: Indeling van coronagerelateerde situaties in categorieën en filters, om de navigatie en themastructuur van de site te verbeteren.
+summary: Dit card-sort onderzoek heeft geleid tot de indeling van mijnvraagovercorona.nl in zes subthema's. De inzichten hebben algemeen begrip en associaties rondom de gebruikte terminologie in kaart gebracht. Binnen vaccinatiegerelateerde onderwerpen was niet direct een duidelijke schikking in subcategorieën. Deze konden uiteindelijk obv de aanvullende interviews wel worden geïdentificeerd.
 keywords:
   - corona
   - valsplat
@@ -29,8 +30,6 @@ date_added: 2024-05-28
 <!-- @license CC0-1.0 -->
 
 # Card sort voor het indelen van situaties onder categorieën/filters op mijnvraagovercorona.nl
-
-**Samengevat: Dit card-sort onderzoek heeft geleid tot de indeling van mijnvraagovercorona.nl in zes subthema's. De inzichten hebben algemeen begrip en associaties rondom de gebruikte terminologie in kaart gebracht. Binnen vaccinatiegerelateerde onderwerpen was niet direct een duidelijke schikking in subcategorieën. Deze konden uiteindelijk obv de aanvullende interviews wel worden geïdentificeerd.**
 
 ## Doel
 
