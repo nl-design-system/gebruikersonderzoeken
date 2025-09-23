@@ -2,6 +2,8 @@ autoInstallPeers: false
 savePrefix: ""
 
 minimumReleaseAge: 1440
+minimumReleaseAgeExclude:
+  - '@nl-design-system-community/ma-design-tokens'
 
 packages:
   - "packages/**"
