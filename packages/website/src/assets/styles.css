@@ -68,6 +68,33 @@ h6 {
   /** The padding around page content */
   --ma-page-content-space-block: var(--basis-space-block-xl);
   --ma-page-content-space-inline: var(--basis-space-inline-xl);
+
+  /* docsearch tokens */
+  --ma-docsearch-button-border-color: var(--utrecht-button-secondary-action-border-color);
+  --ma-docsearch-button-border-radius: var(--basis-border-radius-md);
+  --ma-docsearch-button-font-family: var(--utrecht-button-font-family);
+  --ma-docsearch-button-hover-background-color: var(--utrecht-button-secondary-action-hover-background-color);
+  --ma-docsearch-button-hover-border-color: var(--utrecht-button-secondary-action-hover-border-color);
+  --ma-docsearch-button-hover-color: var(--utrecht-button-secondary-action-hover-color);
+  --ma-docsearch-button-key-background-color: var(--basis-color-accent-1-bg-default);
+  --ma-docsearch-button-key-color: inherit;
+  --ma-docsearch-button-key-hover-background-color: var(--basis-color-action-1-inverse-bg-default);
+  --ma-docsearch-button-key-hover-color: white;
+  --ma-docsearch-button-key-active-background-color: var(--basis-color-action-1-inverse-bg-default);
+  --ma-docsearch-button-key-active-color: white;
+  --ma-docsearch-button-key-focus-visible-background-color: black;
+  --ma-docsearch-button-key-focus-visible-color: white;
+  --ma-docsearch-button-padding-block-end: var(--basis-space-block-lg);
+  --ma-docsearch-button-padding-block-start: var(--basis-space-block-lg);
+  --ma-docsearch-button-padding-inline-end: var(--basis-space-inline-xl);
+  --ma-docsearch-button-padding-inline-start: var(--basis-space-inline-xl);
+  --ma-docsearch-modal-searchbox-background-color: var(--basis-color-default-bg-document);
+  --ma-docsearch-modal-border-color: var(--basis-color-default-border-subtle);
+  --ma-docsearch-modal-background-color: var(--basis-color-default-bg-subtle);
+  --ma-docsearch-modal-color: var(--basis-color-default-color-document);
+  --ma-docsearch-modal-hit-background-color: var(--basis-color-accent-1-bg-hover);
+  --ma-docsearch-modal-hit-color: var(--basis-color-accent-1-color-default);
+  --ma-docsearch-modal-hit-mark-font-weight: var(--basis-text-font-weight-bold);
 }
 
 @media (width > 48rem) {
