@@ -5,6 +5,7 @@ hide_table_of_contents: false
 sidebar_label: Dark mode gebruik op utrecht.nl
 pagination_label: Dark mode gebruik op utrecht.nl
 description: Ervaringen van inwoners met de dark mode-optie en de invloed op gebruiksgemak en voorkeuren.
+summary: 21,8% van de bezoekers van Utrecht.nl gebruikt Dark mode.
 keywords:
   - contrast
   - google
@@ -28,8 +29,6 @@ date_added: 2023-06-01
 # Dark mode gebruik op utrecht.nl
 
 ![Plaatje van een browser waar Google wordt getoond in Dark mode.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/utrecht-dark-mode.png)
-
-**Samengevat: 21,8% van de bezoekers van Utrecht.nl gebruikt Dark mode.**
 
 _[Dark mode](https://www.nngroup.com/articles/dark-mode/) is een instelling op apparaten en applicaties die het kleurenschema omkeert, waardoor de achtergrond donker wordt en de tekst en grafische elementen lichter worden, wat een rustigere visuele ervaring biedt, vooral bij weinig licht._
 

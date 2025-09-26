@@ -5,6 +5,7 @@ hide_table_of_contents: false
 sidebar_label: Concept MijnVraagOverCorona.nl
 pagination_label: Concept MijnVraagOverCorona.nl
 description: Navigatie en gebruiksgemak van het concept voor MijnVraagOverCorona.nl, met aandacht voor thema-indeling en vindbaarheid via Google.
+summary: Gebruikers begrijpen MijnVraagOverCorona.nl wel globaal, maar vinden specifieke informatie moeilijk omdat deze te diep weggestopt zit. De benaming van thema's en categorieën is onduidelijk. Hoewel het concept te leren is, haken gebruikers af door de te steile leercurve. Vindbaarheid via Google blijft cruciaal - gebruikers geven snel op als ze niet meteen vinden wat ze zoeken.
 slug: /onderzoek-bekijken/valsplat-corona
 keywords:
   - corona
@@ -31,12 +32,6 @@ date_added: 2023-09-26
 # Gebruikerstest van een concept voor MijnVraagOverCorona.nl (MVOC)
 
 ![Screenshot van de homepage van mijnvraagovercorona.nl](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/valsplat-corona.png)
-
-**Samengevat: Gebruikers snappen (het prototype van) MijnVraagOverCorona.nl op top-level niveau goed. Specifieke adviezen vinden is echter erg lastig aangezien de informatie best diep in de website zit gestopt.**
-
-**Het concept is vrij goed te leren, maar de verwachting is dat men toch afhaakt omdat de leercurve nét te steil is. De benaming van thema's en categorieën zijn vaak niet voldoende begrijpelijk om direct naar de gewenste informatie te komen.**
-
-**Dit onderzoek laat nogmaals zien dat het echt noodzakelijk is om makkelijk via Google gevonden te worden. Gebruikers zijn 'lui', en als ze niet meteen vinden wat ze zoeken ben je ze kwijt.**
 
 ## Doel
 

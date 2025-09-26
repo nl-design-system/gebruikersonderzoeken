@@ -6,6 +6,7 @@ sidebar_label: Uitkomsten Vervolgonderzoek MijnProducten
 sidebar_position: 2
 pagination_label: Uitkomsten Vervolgonderzoek MijnProducten
 description: Onderzoek naar hoe inwoners en ondernemers producten terugvinden en gebruiken binnen de Mijn omgeving, zowel op desktop als mobiel.
+summary: Het nieuwe ontwerp voor producten binnen de MijnOmgeving wordt positief ontvangen. Gebruikers vinden nieuwe producten snel, de vormgeving draagt bij aan een prettige ervaring en de verschillende zoekroutes sluiten goed aan bij divers zoekgedrag. Daarnaast leren gebruikers snel; hoe vaker ze met de MijnOmgeving werken, hoe soepeler de navigatie verloopt. Ook wordt het als prettig ervaren dat taken en acties direct vanaf het product kunnen worden uitgevoerd. Tegelijkertijd zijn er nog kansen voor verbetering. Zo blijken oudere producten lastiger te vinden, vooral op mobiele apparaten, wat suggereert dat verder onderzoek naar het mobiele ontwerp waardevol kan zijn. Daarnaast worden taken goed herkend en uitgevoerd, maar acties worden minder snel gevonden. Dit komt doordat sommige acties, zoals het verlengen van een vergunning, als zo belangrijk worden gezien dat gebruikers deze eerder als een taak beschouwen en dus ook actieve communicatie vanuit de gemeente verwachten.
 keywords:
   - onderzoek
   - mijnomgeving
@@ -31,10 +32,6 @@ date_added: 2025-03-26
 <!-- @license CC0-1.0 -->
 
 # Uitkomsten Vervolgonderzoek MijnProducten
-
-**Samengevat:** Het nieuwe ontwerp voor producten binnen de MijnOmgeving wordt positief ontvangen. Gebruikers vinden nieuwe producten snel, de vormgeving draagt bij aan een prettige ervaring en de verschillende zoekroutes sluiten goed aan bij divers zoekgedrag. Daarnaast leren gebruikers snel; hoe vaker ze met de MijnOmgeving werken, hoe soepeler de navigatie verloopt. Ook wordt het als prettig ervaren dat taken en acties direct vanaf het product kunnen worden uitgevoerd.
-
-Tegelijkertijd zijn er nog kansen voor verbetering. Zo blijken oudere producten lastiger te vinden, vooral op mobiele apparaten, wat suggereert dat verder onderzoek naar het mobiele ontwerp waardevol kan zijn. Daarnaast worden taken goed herkend en uitgevoerd, maar acties worden minder snel gevonden. Dit komt doordat sommige acties, zoals het verlengen van een vergunning, als zo belangrijk worden gezien dat gebruikers deze eerder als een taak beschouwen en dus ook actieve communicatie vanuit de gemeente verwachten.
 
 ## Doel van het onderzoek
 

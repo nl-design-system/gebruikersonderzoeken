@@ -6,6 +6,7 @@ sidebar_label: Bevrijdingsdag, koningsdag en melding icoon
 sidebar_position: 2
 pagination_label: Bevrijdingsdag, koningsdag en melding icoon
 description: Begrijpelijkheid van iconen voor feestdagen en meldingen.
+summary: Er is een duidelijke voorkeur per onderwerp te vinden.
 keywords:
   - icoon
   - icon
@@ -36,8 +37,6 @@ date_added: 2023-04-04
 <!-- @license CC0-1.0 -->
 
 # Onderzoek bevrijdingsdag, koningsdag en melding icoon
-
-**Samengevat: Er is een duidelijke voorkeur per onderwerp te vinden.**
 
 ## Doel van het onderzoek
 

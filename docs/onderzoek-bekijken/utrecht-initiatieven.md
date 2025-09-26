@@ -5,6 +5,7 @@ hide_table_of_contents: false
 sidebar_label: Zichtbaarheid en toegankelijkheid initiatievenfonds
 pagination_label: Zichtbaarheid en toegankelijkheid initiatievenfonds
 description: Zichtbaarheid en toegankelijkheid van het initiatievenfonds, met aandacht voor communicatie, procesinzicht en ondersteuning bij aanvragen.
+summary: Het initiatievenfonds is een mooie manier voor inwoners om proactief aan de slag te gaan, maar helderheid over het proces en menselijk contact voor ondersteuning missen nog.
 keywords:
   - stadskamer
   - utrecht
@@ -32,8 +33,6 @@ date_added: 2023-06-01
 # Zichtbaarheid en toegankelijkheid initiatievenfonds
 
 _Onderzoek uitgevoerd in 2023 door de Stadskamer - Gemeente Utrecht_
-
-**Samengevat: Het initiatievenfonds is een mooie manier voor inwoners om proactief aan de slag te gaan, maar helderheid over het proces en menselijk contact voor ondersteuning missen nog.**
 
 ## Doelen
 

@@ -5,6 +5,7 @@ hide_table_of_contents: false
 sidebar_label: Gebruikersonderzoek keuzehulp geldhulp bij kind laten sporten - deel 2
 pagination_label: Gebruikersonderzoek keuzehulp geldhulp bij kind laten sporten - deel 2
 description: Verbeterde versie van een digitale keuzehulp voor kinderondersteuning bij sport, gericht op helderheid, vertrouwen en gebruiksgemak op mobiel.
+summary: De keuzehulp begeleidt inwoners goed naar de plek waar ze hun aanvraag met vertrouwen kunnen beginnen. De keuzehulp is makkelijk te gebruiken. Er hoeft niet tot nauwelijks nagedacht te worden bij het beantwoorden van de vragen. 15 van de 17 inwoners kwamen snel en zonder problemen op de plek waar ze volgens het scenario moesten zijn. 12 van de 17 inwoners hadden er vertrouwen in dat ze kort na hun aanvraag het geld zouden ontvangen waarmee ze het lidmaatschap, de sportlessen en/of sportspullen zouden kunnen betalen. Voer voor livegang de verbeteringen uit dit onderzoek en het vorige onderzoek door om het voor de inwoner gebruiksvriendelijker en duidelijker te maken.
 keywords:
   - utrecht
   - gebruikersonderzoek
@@ -38,11 +39,9 @@ _Onderzoek uitgevoerd in 2024 door de Gemeente Utrecht._
 
 ![Banner met allerlei sportartikelen](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/utrecht-keuzehulp-geldhulp-beslisboom-2_Keuzehulp-2.png)
 
-**Samengevat: De keuzehulp begeleidt inwoners goed naar de plek waar ze hun aanvraag met vertrouwen kunnen beginnen. De keuzehulp is makkelijk te gebruiken. Er hoeft niet tot nauwelijks nagedacht te worden bij het beantwoorden van de vragen. 15 van de 17 inwoners kwamen snel en zonder problemen op de plek waar ze volgens het scenario moesten zijn. 12 van de 17 inwoners hadden er vertrouwen in dat ze kort na hun aanvraag het geld zouden ontvangen waarmee ze het lidmaatschap, de sportlessen en/of sportspullen zouden kunnen betalen. Voer voor livegang de verbeteringen uit dit onderzoek en [het vorige onderzoek](./utrecht-keuzehulp-geldhulp-beslisboom-1) door om het voor de inwoner gebruiksvriendelijker en duidelijker te maken.**
-
 ## Doel van het onderzoek
 
-Uit [ronde 1 van het onderzoek](./utrecht-keuzehulp-geldhulp-beslisboom-1) over de keuzehulp voor geldhulp bij sportlessen, lidmaatschap en/of sportspullen kwam naar voren dat die versie te ingewikkeld was voor de inwoner. Met de voorgestelde verbeteringen testten we een nieuw prototype.
+Uit [ronde 1 van het onderzoek](/docs/onderzoek-bekijken/beslisboom/utrecht-keuzehulp-geldhulp-beslisboom-1) over de keuzehulp voor geldhulp bij sportlessen, lidmaatschap en/of sportspullen kwam naar voren dat die versie te ingewikkeld was voor de inwoner. Met de voorgestelde verbeteringen testten we een nieuw prototype.
 
 Met dit onderzoek is onderzocht (1) in hoeverre (de verbeterde versie van) de keuzehulp inwoners op een gebruiksvriendelijke manier naar de juiste plek begeleidt en (2) of de inwoners er na hun aanvraag vertrouwen in hebben dat ze het geld ontvangen.
 

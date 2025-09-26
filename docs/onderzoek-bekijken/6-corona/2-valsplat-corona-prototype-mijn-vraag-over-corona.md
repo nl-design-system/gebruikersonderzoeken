@@ -5,6 +5,7 @@ hide_table_of_contents: false
 sidebar_label: Prototype MijnVraagOverCorona.nl
 pagination_label: Prototype MijnVraagOverCorona.nl
 description: Gebruiksgemak van het MVOC-prototype, met aandacht voor navigatie, filtergebruik en begrijpelijkheid van thema’s zoals ‘kwetsbare gezondheid’.
+summary: Het prototype van MijnVraagOverCorona.nl is over het algemeen makkelijk in gebruik. De navigatie werkt intuïtief, hoewel sommige situaties soms lastiger te vinden zijn door onduidelijkheden rondom de filters. Binnen het thema 'kwetsbare gezondheid' mist men soms nog extra context, en zichtbaarheid van de optie 'ik heb geen van deze klachten'.
 keywords:
   - corona
   - valsplat
@@ -27,8 +28,6 @@ date_added: 2024-05-28
 <!-- @license CC0-1.0 -->
 
 # Gebruikerstest van een prototype voor MijnVraagOverCorona.nl (MVOC)
-
-**Samengevat: Het prototype van MijnVraagOverCorona.nl is over het algemeen makkelijk in gebruik. De navigatie werkt intuïtief, hoewel sommige situaties soms lastiger te vinden zijn door onduidelijkheden rondom de filters. Binnen het thema 'kwetsbare gezondheid' mist men soms nog extra context, en zichtbaarheid van de optie 'ik heb geen van deze klachten'.**
 
 ## Doel
 

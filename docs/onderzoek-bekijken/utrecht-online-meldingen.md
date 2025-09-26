@@ -5,6 +5,7 @@ hide_table_of_contents: false
 sidebar_label: Online meldingen
 pagination_label: Online meldingen
 description: Online meldformulier (Signalen) in Utrecht, met nadruk op toegankelijkheid voor blinde en slechtziende gebruikers en bevestiging via e-mail.
+summary: Online meldingen doen met Signalen werkt goed voor iedereen behalve blinden en slechtzienden.
 keywords:
   - toegankelijkheid
   - online melding
@@ -25,8 +26,6 @@ date_added: 2023-04-04
 <!-- @license CC0-1.0 -->
 
 # Onderzoek online meldingen
-
-**Samengevat: Online meldingen doen met Signalen werkt goed voor iedereen behalve blinden en slechtzienden.**
 
 ## Doel van het onderzoek
 
