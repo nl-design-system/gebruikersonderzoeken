@@ -6,13 +6,27 @@ import { Hero } from '@components/hero/hero.tsx';
 import { PageSection } from '@components/page-section/page-section.tsx';
 import Layout from '@layouts/default.astro';
 import { Heading } from '@nl-design-system-candidate/heading-react';
+import { getOnderzoekenByTheme } from '@utils/themes';
 import { getCollection } from 'astro:content';
 
-const themes = await getCollection('themes').then((themes) =>
-  themes.toSorted((a, b) => (a.data.order < b.data.order ? 1 : -1)),
+const themes = await getCollection('themes');
+const themesWithItems = await Promise.all(
+  themes.map(async (theme) => ({
+    ...theme,
+    items: await getOnderzoekenByTheme(theme.id),
+  })),
 );
+const sortedThemes = themesWithItems
+  .filter((theme) => theme.items.length > 0)
+  .toSorted(
+    (a, b) =>
+      // sort by amount of onderzoeken and the order property
+      b.data.order - a.data.order || b.items.length - a.items.length,
+  );
 
-const onderzoeken = await getCollection('onderzoeken').then((list) => list.toSpliced(3, Infinity));
+const onderzoeken = await getCollection('onderzoeken');
+const recentOnderzoeken = onderzoeken.toSorted((a, b) => b.data.date_added - a.data.date_added);
+const recentOnderzoekenTop3 = recentOnderzoeken.toSpliced(3, Infinity);
 ---
 
 <Layout canonical={Astro.url} description="Gedeelde gebruikersonderzoeken voor de overheid">
@@ -20,7 +34,7 @@ const onderzoeken = await getCollection('onderzoeken').then((list) => list.toSpl
 
   <PageSection>
     <Heading level={2}>Thema's</Heading>
-    <CardListTheme headingLevels={3} columns={2} themes={themes} />
+    <CardListTheme headingLevels={3} columns={2} themes={sortedThemes} />
   </PageSection>
 
   <BannerUpdate
@@ -37,6 +51,6 @@ const onderzoeken = await getCollection('onderzoeken').then((list) => list.toSpl
     <div>
       <a href="/docs/onderzoek-bekijken/" class="nl-link">Bekijk alle onderzoeken</a>
     </div>
-    <CardListOnderzoek headingLevels={3} onderzoeken={onderzoeken} />
+    <CardListOnderzoek headingLevels={3} onderzoeken={recentOnderzoekenTop3} />
   </PageSection>
 </Layout>

@@ -28,6 +28,7 @@ themes:
   - taal-en-begrijpelijkheid
 conducted_by:
   - Logius
+date_added: 2025-05-02
 ---
 
 # Gebruik vertaaloptie op website (Taalswitch)

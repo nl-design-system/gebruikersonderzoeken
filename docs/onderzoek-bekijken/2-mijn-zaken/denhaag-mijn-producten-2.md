@@ -15,7 +15,7 @@ conducted_by:
   - gemeente Den Haag
 date_added: 2025-09-19
 date_conducted: 2025-05-01
-summary: Slechts 34% van gebruikers die mobiel moet navigeren op een mijnOmgeving slaagt erin producten te vinden via het huidige hamburgermenu, tegenover 61% op desktop. De geteste quick fix, een menu zonder tussenstap, verhoogt het succespercentage naar 85% en kan direct worden geïmplementeerd. Gebruikers verwachten navigatie op de overzichtspagina zelf; experts adviseren tegels als toekomstbestendige oplossing voor de vele gemeentelijke thema's
+summary: Slechts 34% van gebruikers die mobiel moet navigeren op een Mijn Omgeving slaagt erin producten te vinden via het huidige hamburgermenu, tegenover 61% op desktop. De geteste quick fix, een menu zonder tussenstap, verhoogt het succespercentage naar 85% en kan direct worden geïmplementeerd. Gebruikers verwachten navigatie op de overzichtspagina zelf; experts adviseren tegels als toekomstbestendige oplossing voor de vele gemeentelijke thema's
 type:
   - desk research
   - expert reviews

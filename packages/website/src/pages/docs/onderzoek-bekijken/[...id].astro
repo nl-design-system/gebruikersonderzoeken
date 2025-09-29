@@ -1,15 +1,15 @@
 ---
+import { TableOfContents, type TableOfContentsItem } from '@components/table-of-contents/table-of-contents';
 import { ThemeList } from '@components/theme-list/theme-list.tsx';
+import { DescriptionList } from '@gemeente-denhaag/descriptionlist';
 import CenterColumnLayout from '@layouts/center-column.astro';
 import { Heading } from '@nl-design-system-candidate/heading-react';
+import { Paragraph } from '@nl-design-system-candidate/paragraph-react';
 import { BodyCopy } from '@nl-design-system-community/ma-components/local/body-copy/body-copy';
-import {
-  DataSummary,
-  type DataSummaryItem,
-} from '@nl-design-system-community/ma-components/local/data-summary/data-summary';
 import { toCleanRoute } from '@utils/menu';
 import { getCollection, render } from 'astro:content';
 import { getEntries } from 'astro:content';
+import '@gemeente-denhaag/descriptionlist/index.css';
 
 // 1. Generate a new path for every collection entry
 export async function getStaticPaths() {
@@ -32,9 +32,8 @@ export async function getStaticPaths() {
 
 // 2. For your template, you can get the entry directly from the prop
 const { onderzoek } = Astro.props;
-const { Content, remarkPluginFrontmatter } = await render(onderzoek);
+const { Content, headings, remarkPluginFrontmatter } = await render(onderzoek);
 const cover = onderzoek.data.cover ?? remarkPluginFrontmatter['cover'];
-const filePath = onderzoek.filePath;
 
 let themes = await getEntries(onderzoek.data.themes || []);
 
@@ -65,18 +64,26 @@ function formatDate(date: unknown) {
   return;
 }
 
-const dataSummary: DataSummaryItem[] = [
-  { definition: formatDate(onderzoek.data.date), term: 'Datum onderzoek' },
-  { definition: onderzoek.data.conducted_by, term: 'Uitgevoerd door' },
-  { definition: onderzoek.data.type, term: 'Type onderzoek' },
-  { definition: onderzoek.data.target_group, term: 'Doelgroep' },
-];
+const dataSummary = [
+  { detail: formatDate(onderzoek.data.date_conducted), title: 'Datum onderzoek' },
+  { detail: onderzoek.data.conducted_by, title: 'Uitgevoerd door' },
+  { detail: onderzoek.data.type, title: 'Type onderzoek' },
+  { detail: onderzoek.data.target_group, title: 'Doelgroep' },
+]
+  .filter((item) => item.detail)
+  .map(({ detail, title }) => ({ detail: Array.isArray(detail) ? detail.join(', ') : detail, title }));
+
+const tocItems: TableOfContentsItem[] = headings
+  .filter((heading) => heading.depth === 2)
+  .map((heading) => ({ href: `#${heading.slug}`, label: heading.text }));
 ---
 
 <CenterColumnLayout canonical={Astro.url} title={onderzoek.data.title} cover={cover}>
   <BodyCopy large>
     <Heading level={1}>{onderzoek.data.title}</Heading>
-    <DataSummary appearance="rows" items={dataSummary} />
+    {onderzoek.data.summary && <Paragraph purpose="lead">Samengevat: {onderzoek.data.summary}</Paragraph>}
+    <DescriptionList items={dataSummary} />
+    <TableOfContents items={tocItems} />
     <Content />
     <hr class="utrecht-separator" />
     <ThemeList themes={themes} />

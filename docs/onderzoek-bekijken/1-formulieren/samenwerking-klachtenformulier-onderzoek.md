@@ -5,6 +5,7 @@ hide_table_of_contents: false
 sidebar_label: Onderzoek klachtenformulier (deel 2) - klacht en persoonsgegevens invullen
 pagination_label: Onderzoek klachtenformulier (deel 2) - klacht en persoonsgegevens invullen
 description: Tweede deel van het onderzoek naar het invullen van een online klachtenformulier, gericht op de ervaring bij het invoeren van klacht en persoonsgegevens.
+summary: Het onderzoek toont aan dat een stapsgewijze aanpak met duidelijke velden effectiever is dan één groot invoerveld, en dat flexibiliteit in het wel of niet delen kunnen van persoonsgegevens belangrijk is voor het vertrouwen van inwoners.
 keywords:
   - utrecht
   - gebruikersonderzoek
@@ -31,6 +32,7 @@ conducted_by:
   - gemeente Utrecht
   - gemeente Venray
   - NL Design System
+date_added: 2025-01-29
 ---
 
 <!-- @license CC0-1.0 -->

@@ -17,7 +17,7 @@ export function ThemeList(props: PropsWithChildren<ThemeListProps>) {
       <ul className="ma-theme-list__list">
         {props.themes.map((theme) => (
           <li key={theme.id}>
-            <Tag href={`/docs/thema/${theme.id}`}>{theme.data.title}</Tag>
+            <Tag href={`/docs/thema/${theme.id}/`}>{theme.data.title}</Tag>
           </li>
         ))}
       </ul>

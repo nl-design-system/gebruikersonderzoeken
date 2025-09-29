@@ -47,7 +47,7 @@ export async function CardListTheme(props: PropsWithChildren<CardListThemeProps>
               {theme.data.title}
             </Heading>
           }
-          href={`/docs/thema/${theme.id}`}
+          href={`/docs/thema/${theme.id}/`}
           description={theme.data.description}
           metadata={
             theme?.items && [
