@@ -97,6 +97,11 @@ h6 {
   --ma-docsearch-modal-hit-mark-font-weight: var(--basis-text-font-weight-bold);
 }
 
+.ma-theme:lang(nl) {
+  /* pretty wordbreak for the dutch language */
+  hyphenate-limit-chars: 12 8 4;
+}
+
 @media (width > 48rem) {
   .ma-theme {
     --ma-page-content-space-block: var(--basis-space-block-5xl);
