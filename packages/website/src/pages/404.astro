@@ -3,11 +3,10 @@ import CenterColumnLayout from '@layouts/center-column.astro';
 import { Heading } from '@nl-design-system-candidate/heading-react';
 import { Paragraph } from '@nl-design-system-candidate/paragraph-react';
 import { BodyCopy } from '@nl-design-system-community/ma-components/local/body-copy/body-copy.tsx';
-import { Panel } from '@nl-design-system-community/ma-components/local/panel';
 ---
 
 <CenterColumnLayout title="Pagina niet gevonden">
-  <Panel>
+  <section class="ma-404-page-section">
     <BodyCopy small>
       <Heading level={1}>Pagina niet gevonden</Heading>
       <Paragraph>
@@ -15,9 +14,9 @@ import { Panel } from '@nl-design-system-community/ma-components/local/panel';
         Geen zorgen, we helpen je graag weer op weg.
       </Paragraph>
     </BodyCopy>
-  </Panel>
+  </section>
 
-  <Panel>
+  <section class="ma-404-page-section">
     <BodyCopy small>
       <Heading level={2}>Wat kun je doen?</Heading>
       <ul class="utrecht-unordered-list">
@@ -30,5 +29,13 @@ import { Panel } from '@nl-design-system-community/ma-components/local/panel';
         <a class="nl-link" href="mailto:info@nldesignsystem.nl">info@nldesignsystem.nl</a>.
       </Paragraph>
     </BodyCopy>
-  </Panel>
+  </section>
 </CenterColumnLayout>
+
+<style>
+  .ma-404-page-section {
+    display: flex;
+    flex-direction: column;
+    gap: var(--basis-space-block-xl);
+  }
+</style>
