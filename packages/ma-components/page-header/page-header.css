@@ -42,7 +42,7 @@
   display: none;
 }
 
-@container ma-page-header (width <= 20rem) {
+@container ma-page-header (width < 20rem) {
   .ma-page-header__content {
     flex-direction: column;
   }
