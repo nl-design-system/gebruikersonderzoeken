@@ -9,7 +9,6 @@ import { CardAsLink } from '@nl-design-system-community/ma-components/local/card
 import { toCleanRoute } from '@utils/menu/to-clean-route';
 import { getOnderzoekenByTheme } from '@utils/themes';
 import { getCollection, render } from 'astro:content';
-import './[...theme].css';
 
 export const getStaticPaths = (async () => {
   const themes = await getCollection('themes');
@@ -45,3 +44,11 @@ const onderzoeken = await getOnderzoekenByTheme(theme.id)
 
   <CardListOnderzoek onderzoeken={onderzoeken} />
 </CenterColumnLayout>
+
+<style>
+  .ma-theme-page__header {
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+  }
+</style>
