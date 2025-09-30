@@ -54,7 +54,8 @@
     "@utrecht/separator-css": "1.5.1",
     "@utrecht/spotlight-section-css": "1.6.1",
     "@utrecht/unordered-list-css": "1.5.1",
-    "invokers-polyfill": "0.5.7"
+    "invokers-polyfill": "0.5.7",
+    "tsx": "4.20.6"
   },
   "devDependencies": {
     "@astrojs/react": "4.3.0",
