@@ -1,7 +1,7 @@
 /**
  * @type {import('prettier').Config}
  */
-module.exports = {
+export default {
   // Overrides for the deviations from the defaults above
   overrides: [
     {
@@ -31,6 +31,6 @@ module.exports = {
   printWidth: 120,
   // Use the astro plugin to format .astro files
   plugins: ['prettier-plugin-astro'],
-  // Use single quotes (') instead of the default double quotes ("), but see below.
+  // Use single quotes (') instead of the default double quotes ("), but see overrides.
   singleQuote: true,
 };
