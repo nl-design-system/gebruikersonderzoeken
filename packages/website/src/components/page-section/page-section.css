@@ -6,6 +6,7 @@
   --ma-page-section-padding-inline-start: 0;
   --ma-page-section-row-gap: var(--basis-space-inline-lg);
 
+  box-sizing: border-box;
   display: flex;
   flex-direction: column;
   inline-size: 100%;
