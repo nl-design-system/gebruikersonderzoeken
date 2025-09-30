@@ -1,6 +1,6 @@
 import { Heading } from '@nl-design-system-candidate/heading-react';
 import { Paragraph } from '@nl-design-system-candidate/paragraph-react';
-import { Banner } from '@nl-design-system-community/ma-components/local/banner/banner.tsx';
+import { Banner } from '@nl-design-system-community/ma-components/banner/banner.tsx';
 
 export function Hero() {
   return (

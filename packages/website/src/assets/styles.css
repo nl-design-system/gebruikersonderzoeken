@@ -4,7 +4,7 @@
 @import "@nl-design-system-candidate/link-css/link.css";
 @import "@nl-design-system-candidate/paragraph-css/paragraph.css";
 @import "@nl-design-system-candidate/skip-link-css/skip-link.css";
-@import "@nl-design-system-community/ma-components/local/focus-indicator/focus-indicator.css";
+@import "@nl-design-system-community/ma-components/focus-indicator/focus-indicator.css";
 @import "@utrecht/action-group-css/dist/index.min.css";
 @import "@utrecht/blockquote-css/dist/index.min.css";
 @import "@utrecht/body-css/dist/index.min.css";
@@ -19,7 +19,7 @@
 @import "@utrecht/unordered-list-css/dist/index.min.css";
 
 /* Styles from ma-components */
-@import "@nl-design-system-community/ma-components/local/sr-only/sr-only.css";
+@import "@nl-design-system-community/ma-components/sr-only/sr-only.css";
 
 /* Styles from local components */
 @import "./strong.css";
