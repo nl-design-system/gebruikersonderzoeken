@@ -32,7 +32,7 @@ const recentOnderzoekenTop3 = recentOnderzoeken.toSpliced(3, Infinity);
 <Layout canonical={Astro.url} description="Gedeelde gebruikersonderzoeken voor de overheid">
   <Hero />
 
-  <PageSection>
+  <PageSection withSpace>
     <Heading level={2}>Thema's</Heading>
     <CardListTheme headingLevels={3} columns={2} themes={sortedThemes} />
   </PageSection>
@@ -46,7 +46,7 @@ const recentOnderzoekenTop3 = recentOnderzoeken.toSpliced(3, Infinity);
     ]}
   />
 
-  <PageSection>
+  <PageSection withSpace>
     <Heading level={2}>Nieuwste onderzoeken</Heading>
     <div>
       <a href="/docs/onderzoek-bekijken/" class="nl-link">Bekijk alle onderzoeken</a>
