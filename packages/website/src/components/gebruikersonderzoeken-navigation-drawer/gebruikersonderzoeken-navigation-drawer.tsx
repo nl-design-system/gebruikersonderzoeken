@@ -2,7 +2,7 @@ import {
   NavigationDrawer,
   NavigationDrawerItem,
   NavigationDrawerHeader,
-} from '@nl-design-system-community/ma-components/local/navigation-drawer/navigation-drawer.tsx';
+} from '@nl-design-system-community/ma-components/navigation-drawer/navigation-drawer.tsx';
 import { IconX } from '@tabler/icons-react';
 import { Button } from '@utrecht/component-library-react';
 

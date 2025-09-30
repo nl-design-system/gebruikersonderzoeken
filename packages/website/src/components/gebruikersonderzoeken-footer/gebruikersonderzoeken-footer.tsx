@@ -1,9 +1,6 @@
 import { Heading } from '@nl-design-system-candidate/heading-react';
 import { Paragraph } from '@nl-design-system-candidate/paragraph-react';
-import {
-  PageFooter,
-  PageFooterSection,
-} from '@nl-design-system-community/ma-components/local/page-footer/page-footer.tsx';
+import { PageFooter, PageFooterSection } from '@nl-design-system-community/ma-components/page-footer/page-footer.tsx';
 import { IconArrowRight, IconChevronRight } from '@tabler/icons-react';
 import { ButtonLink } from '@utrecht/component-library-react';
 
