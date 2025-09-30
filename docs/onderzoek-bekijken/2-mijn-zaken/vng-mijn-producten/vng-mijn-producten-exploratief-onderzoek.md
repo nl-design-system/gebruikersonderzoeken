@@ -7,7 +7,7 @@ sidebar_position: 1
 pagination_label: Exploratief onderzoek
 description: Verwachtingen van inwoners en ondernemers van een Mijn omgeving, met nadruk op thema’s, taken en filters.
 summary: Inwoners maken minder gebruik van de Mijn omgeving en hebben daardoor lagere verwachtingen ten aanzien van de beschikbare functionaliteiten. Ondernemers daarentegen hebben complexere behoeften en beschouwen de Mijn omgeving als een praktische centrale plek om al hun gemeentelijke zaken te beheren.
-slug: /onderzoek-bekijken/mijn-zaken/mijn-producten/exploratief-onderzoek-vng
+slug: /mijn-zaken/mijn-producten/exploratief-onderzoek-vng
 keywords:
   - onderzoek
   - Mijn omgeving

@@ -48,7 +48,7 @@ Om dit te onderzoeken zijn 3 varianten getest, zie [Onderzoeksopzet](#onderzoeks
 
 ### Aanleiding
 
-Dit onderzoek bouwt voor op [fase 1](https://gebruikersonderzoeken.nl/docs/onderzoek-bekijken/onderzoek-bekijken/mijn-zaken/mijn-producten/exploratief-onderzoek-vng/) en [fase 2](https://gebruikersonderzoeken.nl/docs/onderzoek-bekijken/mijn-zaken/denhaag-mijn-producten) van het Service Design traject 'MijnProducten'.
+Dit onderzoek bouwt voor op [fase 1](https://gebruikersonderzoeken.nl/docs/onderzoek-bekijken/mijn-zaken/mijn-producten/exploratief-onderzoek-vng/) en [fase 2](https://gebruikersonderzoeken.nl/docs/onderzoek-bekijken/mijn-zaken/denhaag-mijn-producten) van het Service Design traject 'MijnProducten'.
 
 In fase 1 is een breed behoeftenonderzoek uitgevoerd onder inwoners en ondernemers, gericht op hun wensen en verwachtingen rond de toegankelijkheid en beschikbaarheid van producten in de MijnOmgeving.
 
