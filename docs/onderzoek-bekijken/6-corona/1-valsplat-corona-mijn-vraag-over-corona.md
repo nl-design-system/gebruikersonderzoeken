@@ -6,7 +6,7 @@ sidebar_label: Concept MijnVraagOverCorona.nl
 pagination_label: Concept MijnVraagOverCorona.nl
 description: Navigatie en gebruiksgemak van het concept voor MijnVraagOverCorona.nl, met aandacht voor thema-indeling en vindbaarheid via Google.
 summary: Gebruikers begrijpen MijnVraagOverCorona.nl wel globaal, maar vinden specifieke informatie moeilijk omdat deze te diep weggestopt zit. De benaming van thema's en categorieën is onduidelijk. Hoewel het concept te leren is, haken gebruikers af door de te steile leercurve. Vindbaarheid via Google blijft cruciaal - gebruikers geven snel op als ze niet meteen vinden wat ze zoeken.
-slug: /onderzoek-bekijken/valsplat-corona
+slug: /valsplat-corona
 keywords:
   - corona
   - valsplat

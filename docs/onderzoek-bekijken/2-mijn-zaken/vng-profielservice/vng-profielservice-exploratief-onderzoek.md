@@ -7,7 +7,7 @@ sidebar_position: 1
 pagination_label: Exploratief onderzoek
 description: Ontwikkeling van een profielgedeelte in de Mijn omgeving, waar inwoners hun persoonlijke gegevens en voorkeuren beheren.
 summary: De verwachtingen van inwoners bij een Mijn-omgeving van gemeentes worden gevormd door de verwachtingen van Mijn-omgevingen van moderne commerciele websites. Essentiele functies zijn het invullen en wijzigen van persoonsgegevens, het ontvangen van notificaties, het gebruik van gestandaardiseerde en veilige inlogmethodes en het geven van een zaakoverzicht en de status van zaken. Inwoners ervaren de overlap tussen een Mijn-omgeving van de overheid en een Mijn-omgeving van de gemeente als verwarrend.
-slug: /onderzoek-bekijken/mijn-zaken/acato-exploratief-onderzoek
+slug: /mijn-zaken/acato-exploratief-onderzoek
 keywords:
   - onderzoek
   - mijnomgeving

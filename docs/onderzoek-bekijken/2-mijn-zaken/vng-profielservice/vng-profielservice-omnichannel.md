@@ -7,7 +7,7 @@ sidebar_position: 2
 pagination_label: Uitkomsten UX onderzoek
 description: Ervaringen en wensen van inwoners en experts bij het gebruik van de Profielservice in de Mijn omgeving.
 summary: Inwoners en ondernemers waarderen een profielservice met de naam ‘Mijn Gegevens’ met de onderdelen contactinformatie, meldingen, persoonsgegevens, adresgegevens, taal en bankgegevens. Er is een sterke voorkeur voor een gebruikersinterface die gebruik maakt van ‘expansion panels’.
-slug: /onderzoek-bekijken/mijn-zaken/vng-profiel-service-omnichannel
+slug: /mijn-zaken/vng-profiel-service-omnichannel
 keywords:
   - onderzoek
   - mijnomgeving
