@@ -1,6 +1,11 @@
 ---
 title: Navigeren via menu in MijnOmgeving op mobiel
 description: Onderzoek naar mobiele menunavigatie in MijnOmgeving hamburger menu vs alternatieven voor betere toegankelijkheid
+keywords:
+  - onderzoek
+  - mijnomgeving
+  - mijnproducten
+  - email
 tags:
   - den haag
   - mijn omgeving
@@ -40,7 +45,7 @@ Hierbij staan o.a. de volgende vragen centraal:
 - Hoe kunnen we het menu beter vindbaar maken?
 - Hoe kunnen we de thema's effectiever en toegankelijker aanbieden onder het menu?
 
-Om dit te onderzoeken zijn 3 varianten getest, zie [Onderzoeksopzet](#onderzoeksopzet).
+Om dit te onderzoeken zijn 3 varianten getest, zie [Onderzoeksopzet](#onderzoeksopzet)
 
 - VNG ontwerp = bestaand design NLDS | getoets in [SD MijnProducten](https://gebruikersonderzoeken.nl/docs/onderzoek-bekijken/mijn-zaken/denhaag-mijn-producten)
 - Nulmeting -- bestaand menu ontwerp mijndenhaag in VNG huisstijl
@@ -63,7 +68,7 @@ Uit kwantitatief en kwalitatief onderzoek zagen we daar twee belangrijke oorzake
 
 Deze bevindingen zijn aanleiding voor een verdiepend onderzoek naar het optimaliseren van de menu structuur op mobiel.
 
-### Noodzaak:
+#### Noodzaak:
 
 - Het uitgangspunt binnen gemeente DH is mobile first.
 - Het aantal mobiele interacties zal (naar verwachting) alleen maar verder toenemen.
