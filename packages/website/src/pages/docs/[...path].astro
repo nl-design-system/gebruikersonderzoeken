@@ -2,7 +2,7 @@
 import CenterColumnLayout from '@layouts/center-column.astro';
 import { BodyCopy } from '@nl-design-system-community/ma-components/local/body-copy/body-copy.tsx';
 import { getCollection, render } from 'astro:content';
-import { toCleanRoute } from '../../utils/menu';
+import { toCleanRoute } from '../../utils/to-clean-route.ts';
 
 // 1. Generate a new path for every collection entry
 export async function getStaticPaths() {
