@@ -18,7 +18,8 @@
     "dev": "astro dev",
     "build": "astro build",
     "preview": "astro preview",
-    "astro": "astro"
+    "astro": "astro",
+    "typecheck": "tsc"
   },
   "dependencies": {
     "@astrojs/markdown-remark": "6.3.6",
