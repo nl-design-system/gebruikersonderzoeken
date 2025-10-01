@@ -13,7 +13,7 @@ importers:
         version: 8.0.0(typescript@5.8.3)
       prism-react-renderer:
         specifier: 2.4.1
-        version: 2.4.1
+        version: 2.4.1(react@19.1.0)
       stylelint:
         specifier: 16.19.1
         version: 16.19.1(typescript@5.8.3)
@@ -64,8 +64,8 @@ importers:
         specifier: 15.5.1
         version: 15.5.1
       npm-check-updates:
-        specifier: 18.0.1
-        version: 18.0.1
+        specifier: 19.0.0
+        version: 19.0.0
       prettier:
         specifier: 3.5.3
         version: 3.5.3
@@ -3319,9 +3319,9 @@ packages:
     resolution: {integrity: sha512-6eZs5Ls3WtCisHWp9S2GUy8dqkpGi4BVSz3GaqiE6ezub0512ESztXUwUB6C6IKbQkY2Pnb/mD4WYojCRwcwLA==}
     engines: {node: '>=0.10.0'}
 
-  npm-check-updates@18.0.1:
-    resolution: {integrity: sha512-MO7mLp/8nm6kZNLLyPgz4gHmr9tLoU+pWPLdXuGAx+oZydBHkHWN0ibTonsrfwC2WEQNIQxuZagYwB67JQpAuw==}
-    engines: {node: ^18.18.0 || >=20.0.0, npm: '>=8.12.1'}
+  npm-check-updates@19.0.0:
+    resolution: {integrity: sha512-qcfjZEv6xB+WvW24S8wU1MKISPPiTREraBg62XDo/7zmOLXH3Zj7ti2v/LRfks0qITU8SDZLTWwgIitflvursw==}
+    engines: {node: '>=20.0.0', npm: '>=8.12.1'}
     hasBin: true
 
   npm-package-json-lint@8.0.0:
@@ -8073,7 +8073,7 @@ snapshots:
 
   normalize-path@3.0.0: {}
 
-  npm-check-updates@18.0.1: {}
+  npm-check-updates@19.0.0: {}
 
   npm-package-json-lint@8.0.0(typescript@5.8.3):
     dependencies:
@@ -8317,10 +8317,11 @@ snapshots:
 
   prettier@3.5.3: {}
 
-  prism-react-renderer@2.4.1:
+  prism-react-renderer@2.4.1(react@19.1.0):
     dependencies:
       '@types/prismjs': 1.26.5
       clsx: 2.1.1
+      react: 19.1.0
 
   prismjs@1.30.0: {}
 
