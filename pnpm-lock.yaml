@@ -199,8 +199,8 @@ importers:
         specifier: 2.3.1
         version: 2.3.1
       '@utrecht/ordered-list-css':
-        specifier: 1.5.2
-        version: 1.5.2
+        specifier: 2.0.0
+        version: 2.0.0
       '@utrecht/separator-css':
         specifier: 1.5.1
         version: 1.5.1
@@ -1598,6 +1598,9 @@ packages:
 
   '@utrecht/ordered-list-css@1.5.2':
     resolution: {integrity: sha512-REpbulMzUc+E7zLSbPacYrYB9Y0Z2a2vcy5cl8RYgkMm8wzqe2LBj4d56HqKdCdNXjhheC2xZ1/VynBpUtgJyg==}
+
+  '@utrecht/ordered-list-css@2.0.0':
+    resolution: {integrity: sha512-hNGGSb5N0VnBtxQIuBaqNeS2p380rMecbGgH0olWgGGEaYvITbhHgXM3Xg+5O2fDsMCT0BQ2EOyML3DiOcomcQ==}
 
   '@utrecht/page-content-css@1.4.1':
     resolution: {integrity: sha512-v6jPlYUV1kcMCwmQdvbCppbkeUSWm6DkgwB1pchB03niQDCUR1LS46CBCgAR1uNUE5TOb1SH7w4vmn5/pcgWFw==}
@@ -5875,6 +5878,8 @@ snapshots:
       react-dom: 19.1.0(react@19.1.0)
 
   '@utrecht/ordered-list-css@1.5.2': {}
+
+  '@utrecht/ordered-list-css@2.0.0': {}
 
   '@utrecht/page-content-css@1.4.1': {}
 
