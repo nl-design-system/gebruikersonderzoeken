@@ -24,6 +24,9 @@ themes:
 conducted_by:
   - gemeente Utrecht
 date_added: 2023-04-18
+target_group: bezoekers van utrecht.nl
+type: kwantiatief onderzoek
+date_conducted: 2023-03-01
 ---
 
 # Google Translate gebruik op utrecht.nl

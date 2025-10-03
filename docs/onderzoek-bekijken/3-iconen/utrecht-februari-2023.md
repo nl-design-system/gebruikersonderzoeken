@@ -31,6 +31,9 @@ themes:
 conducted_by:
   - gemeente Utrecht
 date_added: 2023-04-04
+target_group: inwoners van Utrecht
+type: kwantitatief, enquete
+date_conducted: 2023-02-14
 ---
 
 <!-- @license CC0-1.0 -->

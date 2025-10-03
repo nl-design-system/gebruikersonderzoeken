@@ -32,6 +32,9 @@ themes:
 conducted_by:
   - gemeente Utrecht
 date_added: 2025-05-15
+target_group: inwoners van Utrecht
+type: kwalitatief onderzoek, usability research
+date_conducted: 2025-05-01
 ---
 
 # Onderzoek lettertype bij neurodiversiteitsnetwerk

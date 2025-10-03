@@ -21,6 +21,9 @@ themes:
 conducted_by:
   - gemeente Utrecht
 date_added: 2023-04-04
+target_group: inwoners utrecht, gebruikers met een visuele beperking, ex-laaggeletterden
+type: kwalitatief onderzoek, usability research
+date_conducted: 2023-04-01
 ---
 
 <!-- @license CC0-1.0 -->
