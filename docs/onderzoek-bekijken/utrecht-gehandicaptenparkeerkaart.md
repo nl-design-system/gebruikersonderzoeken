@@ -26,13 +26,14 @@ themes:
 conducted_by:
   - gemeente Utrecht
 date_added: 2023-06-01
+target_group: houders gehandicaptenparkeerkaart
+type: kwalitatief onderzoek, usability research
+date_conducted: 2023-01-01
 ---
 
 <!-- @license CC0-1.0 -->
 
 # Aanvraagproces van de gehandicaptenparkeerkaart
-
-_Onderzoek uitgevoerd in 2023 door Team UX & Stadskamer - Gemeente Utrecht_
 
 ![Foto van ouderwets tapijtje met daarop een agenda, drie verschillende loepjes, een telefoon met grote toetsen, en een plant.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/utrecht-gehandicaptenparkeerkaart.png)
 

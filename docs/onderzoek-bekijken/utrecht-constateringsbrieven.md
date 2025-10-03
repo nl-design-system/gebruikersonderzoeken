@@ -24,6 +24,9 @@ themes:
 conducted_by:
   - gemeente Utrecht
 date_added: 2025-05-08
+target_group: horeca eigenaren
+type: kwalitatief onderzoek, interviews
+date_conducted: 2025-02-01
 ---
 
 # Begrijpelijkheid constateringsbrieven Vergunningen, Toezicht en Handhaving

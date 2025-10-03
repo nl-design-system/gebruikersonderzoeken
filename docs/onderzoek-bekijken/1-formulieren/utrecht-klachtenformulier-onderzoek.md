@@ -29,6 +29,9 @@ conducted_by:
   - gemeente Utrecht
   - TrueTalk
 date_added: 2024-05-02
+target_group: inwoners van Utrecht
+type: kwalitatief onderzoek, usability research
+date_conducted: 2024-04-01
 ---
 
 <!-- @license CC0-1.0 -->
