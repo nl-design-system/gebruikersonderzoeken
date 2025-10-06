@@ -13,7 +13,7 @@ importers:
         version: 8.0.0(typescript@5.8.3)
       prism-react-renderer:
         specifier: 2.4.1
-        version: 2.4.1
+        version: 2.4.1(react@19.1.0)
       stylelint:
         specifier: 16.19.1
         version: 16.19.1(typescript@5.8.3)
@@ -208,9 +208,18 @@ importers:
       invokers-polyfill:
         specifier: 0.5.7
         version: 0.5.7
+      rehype-parse:
+        specifier: 9.0.1
+        version: 9.0.1
+      rehype-stringify:
+        specifier: 10.0.1
+        version: 10.0.1
       tsx:
         specifier: 4.20.6
         version: 4.20.6
+      unified:
+        specifier: 11.0.5
+        version: 11.0.5
     devDependencies:
       '@astrojs/react':
         specifier: 4.3.0
@@ -8320,10 +8329,11 @@ snapshots:
 
   prettier@3.5.3: {}
 
-  prism-react-renderer@2.4.1:
+  prism-react-renderer@2.4.1(react@19.1.0):
     dependencies:
       '@types/prismjs': 1.26.5
       clsx: 2.1.1
+      react: 19.1.0
 
   prismjs@1.30.0: {}
 
