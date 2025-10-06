@@ -57,7 +57,10 @@
     "@utrecht/spotlight-section-css": "1.6.1",
     "@utrecht/unordered-list-css": "1.5.1",
     "invokers-polyfill": "0.5.7",
-    "tsx": "4.20.6"
+    "rehype-parse": "9.0.1",
+    "rehype-stringify": "10.0.1",
+    "tsx": "4.20.6",
+    "unified": "11.0.5"
   },
   "devDependencies": {
     "@astrojs/react": "4.3.0",
