@@ -25,7 +25,7 @@ conducted_by:
   - gemeente Utrecht
 date_added: 2023-04-04
 target_group: inwoners van Utrecht
-type: kwantitatief onderzoek, enquete
+type: kwantitatief onderzoek, enquête
 date_conducted: 2022-04-12
 ---
 
