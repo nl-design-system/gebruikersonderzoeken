@@ -1,9 +1,14 @@
+packages:
+  - packages/**
+
 autoInstallPeers: false
-savePrefix: ""
 
 minimumReleaseAge: 1440
+
 minimumReleaseAgeExclude:
   - '@nl-design-system-community/ma-design-tokens'
 
-packages:
-  - "packages/**"
+patchedDependencies:
+  '@utrecht/figure-css@1.5.1': patches/@utrecht__figure-css@1.5.1.patch
+
+savePrefix: ''
