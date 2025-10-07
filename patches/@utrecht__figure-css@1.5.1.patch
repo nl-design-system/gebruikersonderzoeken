@@ -1,0 +1,9 @@
+diff --git a/dist/index.min.css b/dist/index.min.css
+index 62fbaa0e322cf5280c0905a339e640f777d32bca..45e3446aab4c236ac835cdacbfeb5a86bf5b392a 100644
+--- a/dist/index.min.css
++++ b/dist/index.min.css
+@@ -1 +1,2 @@
+-.utrecht-figure{margin-block-end:calc(var(--utrecht-space-around, 0)*var(--utrecht-figure-margin-block-end, 0));margin-block-start:calc(var(--utrecht-space-around, 0)*var(--utrecht-figure-margin-block-start, 0))}.utrecht-figure__caption{color:var(--utrecht-figure-caption-color);font-size:var(--utrecht-figure-caption-font-size);line-height:var(--utrecht-figure-caption-line-height)}
+\ No newline at end of file
++.utrecht-figure{margin-inline-end:calc(var(--utrecht-space-around, 0)*var(--utrecht-figure-margin-inline-end, 0));margin-inline-start:calc(var(--utrecht-space-around, 0)*var(--utrecht-figure-margin-inline-start, 0));margin-block-end:calc(var(--utrecht-space-around, 0)*var(--utrecht-figure-margin-block-end, 0));margin-block-start:calc(var(--utrecht-space-around, 0)*var(--utrecht-figure-margin-block-start, 0))}.utrecht-figure__caption{color:var(--utrecht-figure-caption-color);font-size:var(--utrecht-figure-caption-font-size);line-height:var(--utrecht-figure-caption-line-height)}
++
