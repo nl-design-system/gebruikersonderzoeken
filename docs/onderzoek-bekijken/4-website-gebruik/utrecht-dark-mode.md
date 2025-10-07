@@ -25,7 +25,7 @@ conducted_by:
   - gemeente Utrecht
 date_added: 2023-06-01
 target_group: bezoekers van utrecht.nl
-type: kwantiatief onderzoek
+type: kwantitatief onderzoek
 date_conducted: 2023-06-20
 ---
 
