@@ -41,7 +41,7 @@
     "@nl-design-system-candidate/skip-link-css": "1.0.3",
     "@nl-design-system-community/ma-components": "workspace:*",
     "@nl-design-system-community/ma-design-tokens": "2.5.0",
-    "@sindresorhus/slugify": "2.2.1",
+    "@sindresorhus/slugify": "3.0.0",
     "@types/mdast": "4.0.4",
     "@utrecht/action-group-css": "2.0.0",
     "@utrecht/blockquote-css": "1.6.1",
