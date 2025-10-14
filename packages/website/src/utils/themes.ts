@@ -1,8 +1,11 @@
-import { getCollection } from 'astro:content';
+import { getCollection, type CollectionEntry } from 'astro:content';
 
 export async function getOnderzoekenByTheme(themeId: string) {
   const onderzoeken = await getCollection('onderzoeken');
+  return filterOnderzoekenByThemeId(themeId, onderzoeken);
+}
 
+export function filterOnderzoekenByThemeId(themeId: string, onderzoeken: CollectionEntry<'onderzoeken'>[]) {
   return onderzoeken.filter((onderzoek) => {
     const themeIds = (onderzoek.data.themes || []).map((theme) => theme.id);
     return themeIds.includes(themeId);
