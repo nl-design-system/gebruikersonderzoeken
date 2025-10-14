@@ -1,0 +1,71 @@
+---
+import type { GetStaticPaths } from 'astro';
+import { CardListOnderzoek } from '@components/card-list-onderzoek/card-list-onderzoek';
+import CenterColumnLayout from '@layouts/center-column.astro';
+import { Heading } from '@nl-design-system-candidate/heading-react';
+import { Paragraph } from '@nl-design-system-candidate/paragraph-react';
+import { BodyCopy } from '@nl-design-system-community/ma-components/body-copy/body-copy';
+import { filterOnderzoekenByThemeId } from '@utils/themes';
+import { getCollection, render } from 'astro:content';
+import { getEntry } from 'astro:content';
+
+export const getStaticPaths = (async ({ paginate }) => {
+  const themes = await getCollection('themes');
+  const onderzoeken = await getCollection('onderzoeken');
+
+  return themes
+    .map((theme) => theme.id)
+    .flatMap((theme) => {
+      const filteredOnderzoeken = filterOnderzoekenByThemeId(theme, onderzoeken);
+      return paginate(filteredOnderzoeken, {
+        pageSize: 10,
+        params: { theme },
+      });
+    });
+}) satisfies GetStaticPaths;
+
+const { page } = Astro.props;
+const params = Astro.params;
+
+const theme = await getEntry('themes', params.theme);
+if (!theme) throw new Error('Theme could not be found');
+
+const { Content } = await render(theme);
+
+const pages = Array.from({ length: page.lastPage }, (_, index) => ({
+  label: index + 1,
+  url: `/docs/thema/${theme.id}/${index + 1}`,
+}));
+
+const title = theme.data.title as string;
+const description = theme.data.description as string;
+---
+
+<CenterColumnLayout>
+  <BodyCopy small>
+    <div class="ma-theme-page__header">
+      <Heading level={1}>{title}</Heading>
+      <Paragraph purpose="lead">{description}</Paragraph>
+      <Content />
+      <Paragraph>
+        {page.total} onderzoeken (pagina {page.currentPage} van {page.lastPage})
+      </Paragraph>
+    </div>
+  </BodyCopy>
+
+  <CardListOnderzoek onderzoeken={page.data} />
+
+  <ul>
+    <li>{page.url.first}</li>
+    {pages.map((page) => <li>{page.url}</li>)}
+    <li>{page.url.last}</li>
+  </ul>
+</CenterColumnLayout>
+
+<style>
+  .ma-theme-page__header {
+    display: flex;
+    flex-direction: column;
+    gap: 24px;
+  }
+</style>
