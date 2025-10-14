@@ -34,7 +34,7 @@ export function nldsComponentsPlugin() {
       image(node);
       link(node);
       orderedList(node);
-      paragraph(node);
+      if (parent?.type === 'root') paragraph(node);
       pre(node);
       strong(node);
       unorderedList(node);
