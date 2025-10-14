@@ -5,12 +5,15 @@
 
   display: contents;
 
-  & > .utrecht-blockquote,
   & > .utrecht-ordered-list,
   & > .nl-paragraph,
   & > .nl-code-block,
   & > .utrecht-unordered-list {
     max-inline-size: var(--ma-body-copy-max-inline-size);
+  }
+
+  & > .utrecht-blockquote {
+    max-inline-size: 65ch;
   }
 
   & > .nl-heading {
