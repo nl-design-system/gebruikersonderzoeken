@@ -61,10 +61,9 @@ Een goede manier om dit te doen is een onderzoeksplan opstellen. Hieronder geven
 - Zijn er ook mensen die we niet gaan bevragen voor het onderzoek?
 - Zijn er dingen die we niet doen?
 - Hoe gaan we onderzoeken?
-- Welke devices gebruiken we?
 - Testen we alleen met mobiel of het testen we ook de laptop erbij?
 
-Aan het eind heb je een onderzoeksvraag. Als het goed is kun je naar je onderzoeksvraag kijken en zien dat je een aanname gaat toetsen en dat er een aanpak in verweven zit: Dit gaan we doen, hier gaan we mee bezig, helpt dit ding?
+Aan het eind heb je een onderzoeksvraag. Als het goed is kun je naar je onderzoeksvraag kijken en zien dat je een aanname gaat toetsen en dat er een aanpak in verweven zit: Dit gaan we doen, hier gaan we mee aan de slag, helpt dit?
 
 **Tip**: Bewaar de vragen die niet bij deze onderzoeksvraag horen. Zet ze opzij door een aantekening te maken en laat het daarna bij dit onderzoek los.
 
@@ -77,11 +76,11 @@ Aan het eind heb je een onderzoeksvraag. Als het goed is kun je naar je onderzoe
 
 ## Stap 3: De voorbereiding
 
-Als je de onderzoeksvraag en het onderzoeksplan af hebt dan is het tijd om je voor te bereiden. Je gaat alles klaarzetten, zodat, zodra je je onderzoek moet gaan doen met je gebruiker, dat dat allemaal soepel gaat.
+Als je de onderzoeksvraag en het onderzoeksplan af hebt dan is het tijd om je voor te bereiden. Je gaat alles klaarzetten zodat, zodra je je onderzoek moet gaan doen met je gebruiker, dat dat allemaal soepel gaat.
 
 ### Gespreksleidraad
 
-Wat zeg je wanneer tegen die gebruiker. Je gaat een gespreksleidraad opstellen en die ga je proefdraaien, met die slimme collega. Op die manier kun je zorgen dat het onderzoek soepel verloopt en dat je verschillende gebruikers dezelfde vragen op dezelfde manier kan stellen.
+Wat zeg je wanneer tegen die gebruiker? Je gaat een gespreksleidraad opstellen en die ga je proefdraaien, met die slimme collega. Op die manier kun je zorgen dat het onderzoek soepel verloopt en dat je verschillende gebruikers dezelfde vragen op dezelfde manier kan stellen.
 
 - Wat ga je zeggen?
 - Hoe doe je de introductie?
@@ -91,20 +90,20 @@ Wat zeg je wanneer tegen die gebruiker. Je gaat een gespreksleidraad opstellen e
 - De opdracht die je meegeeft aan de gebruiker
 - Wil je aan het einde nog wat vragen?
 
-Over al deze vragen heb je van tevoren over nagedacht, je print het uit en je legt het naast je neer als je het onderzoek gaat doen.
+Over al deze vragen heb je van tevoren over nagedacht, je print het uit en je legt het naast je op tafel als je het onderzoek gaat doen.
 
-Is je gespreksleidraad klaar? Oefen deze dan met die slimme collega. Zo kom je achter dingen. Misschien is iets nog niet helemaal goed opgeschreven, misschien mis je een hele stap. Daar kom je achter als je die ene slimme, kritische collega, die hier nog niet van af weet erbij betrekt. Die zich even inleeft in die gebruikers waarmee je het onderzoek gaat doen. Een soort generale repetitie eigenlijk.
+Is je gespreksleidraad klaar? Oefen deze dan met die slimme collega. Zo kom je achter dingen waar je in je eentje niet achter zou komen. Misschien is iets nog niet helemaal goed opgeschreven, misschien mis je een hele stap. Daar kom je achter als je die ene slimme, kritische collega erbij betrekt. Die collega leeft zich in in die gebruikers waarmee je het onderzoek gaat doen. Een soort generale repetitie.
 
 ### Ruimte regelen
 
-Gebruik je een fysieke ruimte? Haal dan zoveel mogelijk ruis weg. Zorg dat de ruimte netjes is, zodat het een fijne plek is om te zijn. Gebruik je een online omgeving? Zorg dan dat alles zo is ingesteld dat de gebruiker er makkelijk in kan. Kijken er mensen mee tijdens de sessie? Zorg dan dat je van te voren hebt nagedacht hoe je onderbrekingen tijdens het onderzoek voorkomt.
+Gebruik je een fysieke ruimte? Haal dan zoveel mogelijk afleiding uit die ruimte weg. Zorg dat de ruimte netjes is, zodat het een fijne plek is om te zijn. Gebruik je een online omgeving? Zorg dan dat alles zo is ingesteld dat de gebruiker er makkelijk in kan. Kijken er mensen mee tijdens de sessie? Zorg dan dat je van te voren hebt nagedacht hoe je onderbrekingen tijdens het onderzoek voorkomt.
 
 ### Testobject regelen
 
-En het testobject regelen. Afhankelijk van wat jij wil testen, heb je een testobject nodig.
+Afhankelijk van wat jij wil testen, heb je een testobject nodig.
 
 Wil je een brief testen omdat je wil weten of die brief goed aankomt? Dan heb je die brief nodig.
-Wil je een app of webpagina testen, omdat je wil weten of die goed te gebruiken is? Dan heb je iets nodig, wat op die app of webpagina lijkt. Is het een bestaande website, dan kan je die bestaande website gebruiken. Wordt die nog gemaakt, dan moet je kijken, kan ik daarbij, kan ik bij een testomgeving?
+Wil je een app of webpagina testen, omdat je wil weten of die goed te gebruiken is? Dan heb je iets nodig wat op die app of webpagina lijkt. Is het een bestaande website, dan kan je die bestaande website gebruiken. Wordt die nog gemaakt, dan moet je kijken, kan ik daarbij, kan ik bij een testomgeving?
 Het hoeft niet precies de werkelijkheid te zijn, maar het is wel heel fijn als het zo dicht mogelijk bij de werkelijkheid komt.
 
 ### Mensen vinden en afspraken inplannen
@@ -129,7 +128,7 @@ Ga je een webpagina testen die bestaat uit meerdere pagina's? Zet dan een screen
 
 ### Een bedankje regelen
 
-Als laatste, vergeet niet even een bedankje te kopen. Die mensen geven je tijd, geven je energie en geven je belangrijke inzichten waardoor jij weer verder kan. Geef de mensen even een klein bedankje als blijk van waardering en je maakt er een mooie, positieve ervaring van voor ze.
+Als laatste, vergeet niet even een bedankje te kopen. De mensen die je interviewt geven je tijd, energie en belangrijke inzichten waardoor jij weer verder kan. Geef de mensen een klein bedankje als blijk van waardering en je maakt er een mooie, positieve ervaring van voor ze.
 
 Wat is een goed bedankje? Het kan zo simpel zijn als een heerlijke chocoladereep of een kadobon.
 
@@ -157,7 +156,7 @@ De andere persoon maakt aantekeningen. Die heeft zijn laptop erbij en is in Miro
 
 Op die manier hoeft de interviewer zich geen zorgen te maken over: dit moet ik nu opschrijven. En degene die aantekeningen maakt hoeft alleen maar te focussen op dingen opschrijven.
 
-Natuurlijk kan degene die aantekening maakt zo nu en dan ook even vragen: "Oh, toch nog even daarover door". Dat is helemaal prima, dat is oké. Maar door die rollen te verdelen. Kan je focus aanbrengen, voor jezelf én voor de gebruiker die meedoet aan het onderzoek.
+Natuurlijk kan degene die aantekening maakt zo nu en dan ook even vragen: "Oh, ik heb nog een vraag over wat je net zei...". Dat is helemaal prima. Maar door die rollen te verdelen. Kan je focus aanbrengen, voor jezelf én voor de gebruiker die meedoet aan het onderzoek.
 
 ### Test op een zo realistisch mogelijk manier
 
@@ -185,7 +184,7 @@ Een paar tips.
 
 ### Reflecteren
 
-Aan het eind van het onderzoek heb je als het goed is tijd gereserveerd om te reflecteren. Is de gebruiker weg? Bespreek direct na het onderzoek met je collega wat er op is gevallen.
+Aan het eind van het onderzoek heb je een paar uur nodig om te reflecteren. Is het onderzoek gedaan en de gebruiker de kamer uit? Bespreek direct na het onderzoek met je collega wat er op is gevallen.
 Door dit direct te doen, dan kan je denken: oh ja, dit viel op, dit zagen we vorige keer ook. Oh, dit lijkt een patroontje te worden. Als je dat aan het einde van de week pas doet, wordt alles een grote waas.
 
 Tip: Hou gezonde twijfel. Wat je ziet is interessant, maar hou de mogelijkheid open dat dit inzicht maar voor deze ene persoon kan gelden.
@@ -198,7 +197,7 @@ Tip: Hou gezonde twijfel. Wat je ziet is interessant, maar hou de mogelijkheid o
 
 ## Stap 5: Uitwerken
 
-Het interview is gedaan, de eerste dingen zijn uitgewerkt. Dus is het tijd om alle data om te zetten naar inzichten en advies.
+Het interview is gedaan, de eerste opvallende zaken zijn uitgewerkt. Dus is het tijd om alle data om te zetten naar inzichten en advies.
 
 ### Gezamenlijk de meest opvallende inzichten opschrijven
 
@@ -215,9 +214,9 @@ Wees eerlijk, positief en kritisch en probeer die inzichten in één zin te besc
 
 Dan heb je een setje aan inzichten, maar dan wil je ook nog adviezen hebben. Hier heb je de kans om de stem van de gebruiker te laten horen.
 
-Om die gebruiker te helpen, kan je dit en dit doen.
+Om die gebruiker te helpen, kan je de volgende acties uitvoeren.
 
-Wees eerlijk. Misschien moet je hier wel een boodschap brengen die sommige mensen een beetje teleurstellend zullen vinden. Dat kan, maar jij bent de stem van die gebruiker op dit moment.
+Wees eerlijk. Misschien moet je hier wel een boodschap brengen die sommige mensen teleurstellend zullen vinden. Dat kan, maar jij bent de stem van die gebruiker op dit moment.
 
 ### Advies presenteren
 
