@@ -1,6 +1,7 @@
 ---
 import type { GetStaticPaths } from 'astro';
 import { CardListOnderzoek } from '@components/card-list-onderzoek/card-list-onderzoek';
+import { Pagination } from '@components/pagination/pagination';
 import CenterColumnLayout from '@layouts/center-column.astro';
 import { Heading } from '@nl-design-system-candidate/heading-react';
 import { Paragraph } from '@nl-design-system-candidate/paragraph-react';
@@ -33,7 +34,8 @@ if (!theme) throw new Error('Theme could not be found');
 const { Content } = await render(theme);
 
 const pages = Array.from({ length: page.lastPage }, (_, index) => ({
-  label: index + 1,
+  label: `Pagina ${index + 1}`,
+  shortLabel: `${index + 1}`,
   url: `/docs/thema/${theme.id}/${index + 1}`,
 }));
 
@@ -55,11 +57,7 @@ const description = theme.data.description as string;
 
   <CardListOnderzoek onderzoeken={page.data} />
 
-  <ul>
-    <li>{page.url.first}</li>
-    {pages.map((page) => <li>{page.url}</li>)}
-    <li>{page.url.last}</li>
-  </ul>
+  <Pagination label="Paginering" prev={page.url.prev} next={page.url.next} current={page.url.current} pages={pages} />
 </CenterColumnLayout>
 
 <style>
