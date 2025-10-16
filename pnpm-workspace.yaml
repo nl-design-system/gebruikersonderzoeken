@@ -9,6 +9,7 @@ minimumReleaseAgeExclude:
   - '@nl-design-system-community/ma-design-tokens'
 
 patchedDependencies:
+  '@nl-design-system-community/ma-design-tokens@2.5.0': patches/@nl-design-system-community__ma-design-tokens@2.5.0.patch
   '@utrecht/figure-css@1.5.1': patches/@utrecht__figure-css@1.5.1.patch
   '@utrecht/pagination-css@1.4.1': patches/@utrecht__pagination-css@1.4.1.patch
 

@@ -5,6 +5,9 @@ settings:
   excludeLinksFromLockfile: false
 
 patchedDependencies:
+  '@nl-design-system-community/ma-design-tokens@2.5.0':
+    hash: 3bcfa2a337f8b59f67d966f5000e34f80dafdedf375e341820f9caf6bb6d0c0e
+    path: patches/@nl-design-system-community__ma-design-tokens@2.5.0.patch
   '@utrecht/figure-css@1.5.1':
     hash: 514cfaaad630b6d574ce2f60c431d4d1667fbac0e5eea95026600743530d6422
     path: patches/@utrecht__figure-css@1.5.1.patch
@@ -167,7 +170,7 @@ importers:
         version: link:../ma-components
       '@nl-design-system-community/ma-design-tokens':
         specifier: 2.5.0
-        version: 2.5.0
+        version: 2.5.0(patch_hash=3bcfa2a337f8b59f67d966f5000e34f80dafdedf375e341820f9caf6bb6d0c0e)
       '@sindresorhus/slugify':
         specifier: 3.0.0
         version: 3.0.0
@@ -5073,7 +5076,7 @@ snapshots:
 
   '@nl-design-system-candidate/skip-link-css@1.0.3': {}
 
-  '@nl-design-system-community/ma-design-tokens@2.5.0': {}
+  '@nl-design-system-community/ma-design-tokens@2.5.0(patch_hash=3bcfa2a337f8b59f67d966f5000e34f80dafdedf375e341820f9caf6bb6d0c0e)': {}
 
   '@nl-design-system-unstable/nlds-design-tokens@1.0.1':
     dependencies:
