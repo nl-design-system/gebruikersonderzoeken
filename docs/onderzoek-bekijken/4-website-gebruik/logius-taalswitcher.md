@@ -34,8 +34,6 @@ date_added: 2025-05-02
 
 # Gebruik vertaaloptie op website (Taalswitch)
 
-![Plaatje van onderzoekers die met respondenten het onderzoek aan het uitvoeren zijn.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/logius-taalswitcher__onderzoek-in-actie.png)
-
 ## Doel van het onderzoek
 
 - Waar verwachten de mensen de taalswitch op een webpagina?
@@ -86,11 +84,7 @@ De keuze voor deze designs is gemaakt op basis van eerder uitgevoerd literatuuro
 
 ## Contactinformatie
 
-- [Nancy van Bergenhenegouwen, UX Researcher](mailto:ux@logius.nl) - Logius
-- [Sabine Meijer-Nuboer, UX Designer](mailto:ux@logius.nl) - Logius
-- [Tessa Sierkstra, UX Researcher](mailto:ux@logius.nl) - Logius
-
-Email: [ux@logius.nl](mailto:ux@logius.nl)
+UX-research en UX-design team van Logius: [ux@logius.nl](mailto:ux@logius.nl)
 
 ## Documentatie
 
