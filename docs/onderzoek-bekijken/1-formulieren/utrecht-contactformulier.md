@@ -83,7 +83,7 @@ Voeg een referentienummer toe aan de bevestigingen op de webpagina en in de e-ma
 De inzichten zijn in te delen in drie categorieën:
 
 - Vinden en invullen van het contactformulier
-- E-mail adres & telefoonnummer
+- E-mailadres & telefoonnummer
 - Vertrouwen
 
 ### Vinden en invullen van het contactformulier
@@ -112,15 +112,15 @@ De inwoners herkennen het contactformulier als een patroon op een website. Ze he
 
 Inwoners die het Klanttevredenheidsonderzoek zien, vullen de eerste vraag in (Hebt u gevonden wat u zocht op deze pagina?) voordat ze het contactformulier versturen.
 
-### E-mail adres & telefoonnummer
+### E-mailadres & telefoonnummer
 
 #### E-mailadres invullen
 
-De inwoners vullen zonder enige twijfel het e-mail adres in.
+De inwoners vullen zonder enige twijfel het e-mailadres in.
 
-#### E-mail adres versus telefoonnummer
+#### E-mailadres versus telefoonnummer
 
-De inwoners geven allemaal aan dat ze bij een vraag liever een e-mail adres invullen dan een telefoonnummer. Er worden verschillende redenen gegeven:
+De inwoners geven allemaal aan dat ze bij een vraag liever een e-mailadres invullen dan een telefoonnummer. Er worden verschillende redenen gegeven:
 
 - Een e-mail is te bewaren, en daarmee gemakkelijker te gebruiken als bewijs.
 - De inwoner kan het antwoord lezen op een moment dat ze het beste uitkomt.
