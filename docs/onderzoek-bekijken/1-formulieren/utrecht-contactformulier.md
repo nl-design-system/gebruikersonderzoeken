@@ -110,7 +110,7 @@ De inwoners herkennen het contactformulier als een patroon op een website. Ze he
 
 ![Screenshot van het contactformulier waarin we de verzenden knop zien, en een aangeklikte radiobuttin in het klanttevredenheidsonderzoek](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/utrecht-contactformulier__kto.png)
 
-Inwoners die het Klanttevredenheidsonderzoek zien, vullen de eerste vraag in ("Hebt u gevonden wat u zocht op deze pagina?") voordat ze het contactformulier versturen.
+Inwoners die het Klanttevredenheidsonderzoek zien, vullen de eerste vraag in (Hebt u gevonden wat u zocht op deze pagina?) voordat ze het contactformulier versturen.
 
 ### E-mail adres & telefoonnummer
 
