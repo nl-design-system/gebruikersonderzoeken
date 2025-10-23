@@ -151,7 +151,7 @@ De inwoner ervaart onzekerheid bij de bevestiging op de pagina (na het versturen
 
 > "Ja dit is wat ik miste!"
 
-Zodra de responstijd ("5 dagen") gelezen wordt in de mail is het vertrouwen weer terug. Inwoners geven aan dat ze de reactietijd verwachten in de bevestiging op de webpagina.
+Zodra de responstijd "5 dagen" gelezen wordt in de mail is het vertrouwen weer terug. Inwoners geven aan dat ze de reactietijd verwachten in de bevestiging op de webpagina.
 
 #### Responstijd: '5 dagen'
 
