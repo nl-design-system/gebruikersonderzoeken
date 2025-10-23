@@ -27,7 +27,6 @@ date_added: 2025-10-22
 date_conducted: 2025-10-21
 target_group: inwoners van Utrecht
 type: kwalitatief onderzoek, usability research
-
 ---
 
 <!-- @license CC0-1.0 -->
@@ -41,6 +40,7 @@ type: kwalitatief onderzoek, usability research
 We willen er achter komen of het stellen van een vraag via een contactformulier aansluit bij de behoeften van een inwoner die digitaal een vraag wil stellen aan de gemeente.
 
 ### Onderzoeksvraag
+
 Kan een inwoner op de website op een eenvoudige en gebruikersvriendelijke manier digitaal een vraag stellen aan de gemeente?
 
 Deze onderzoeksvraag wordt aangevuld met de volgende deelvragen:
@@ -52,28 +52,36 @@ Deze onderzoeksvraag wordt aangevuld met de volgende deelvragen:
 ## Advies
 
 ### Bouw het contactformulier zoals het ontworpen is
+
 Het contactformulier wordt zonder problemen ingevuld, de inwoners waarderen hoe simpel het is. Bouw het contactformulier zo simpel als het ontworpen is.
 
 ### Maak de scheiding tussen het contactformulier en het klanttevredenheidsonderzoek duidelijker
+
 De scheiding tussen het contactformulier en het klanttevredenheidsonderzoek moet verbeterd worden. De inwoners die het KTO zagen vulden het in voordat ze het formulier verstuurden. Dit gaat leiden tot ruis bij het invullen van het contactformulier en bij het klanttevredenheidsonderzoek formulier.
 
 Mogelijke oplossingsrichtingen zijn:
+
 - Voeg een extra kop toe boven het klanttevredenheidsonderzoek
 - Voeg extra ruimte (padding) toe tussen het klanttevredenheindsonderzoek en het contactformulier.
 
 De gekozen oplossing kan getest worden met de inwoners door ze hetzelfde scenario te laten doorlopen en te kijken of ze het klanttevredenheidsonderzoek wel of niet aanklikken voordat ze het ingevulde contactformulier versturen.
 
 ### Voeg (nog) geen telefoonnummer toe
+
 Voeg nog geen optie toe om een telefoonnummer in te vullen. Alle inwoners gaven aan dat ze e-mail prettiger vonden dan het telefoonnummer. Ook worden er veel aannames gedaan over op welke wijze er contact wordt opgenomen met de inwoner als deze het telefoonnummer invult.
 
 ### Responstijd op bevestingspagina
+
 Zet de reactietijd op de bevestiging die de inwoner krijgt in de bevestiging op de webpagina. Dit zorgt er voor dat de inwoner direct vertrouwen krijgt dat hij een antwoord zal ontvangen.
 
 ### Referentie in bevestiging
+
 Voeg een referentienummer toe aan de bevestigingen op de webpagina en in de e-mail wanneer dat mogelijk is. Dit geeft de inwoner vertrouwen dat ze contact op kunnen nemen met de gemeente over hun vraag als dat mogelijk is. Als een bewoner meerdere vragen stelt, kan hij op deze manier refereren naar de specifieke vraag.
 
 ## Resultaten en inzichten
+
 De inzichten zijn in te delen in drie categorieën:
+
 - Vinden en invullen van het contactformulier
 - E-mail adres & telefoonnummer
 - Vertrouwen
@@ -81,16 +89,19 @@ De inzichten zijn in te delen in drie categorieën:
 ### Vinden en invullen van het contactformulier
 
 #### Afleiding bij het vinden van het contactformulier
+
 De inwoners vinden uiteindelijk het contactformulier, maar ze worden door een aantal dingen afgeleid op weg naar het contactformulier: de grote hoeveelheid content op de pagina, het Klanttevredenheidsonderzoek, de verschillende calls-to-action (buttons en links) en de interactieve kaart boven het contactformulier. Op de mobiele telefoon leidt ook de button van de gemBot af.
 
 Uiteindelijk vinden de inwoners het contactformulier wel.
 
 #### Gemakkelijk invullen en verzenden
+
 > "Jullie vragen weinig info, dat is wel prima en fijn."
 
-Als inwoners het formulier eenmaal hebben gevonden, kunnen ze het met gemak  invullen en verzenden. De inwoners waarderen het simpele formulier.
+Als inwoners het formulier eenmaal hebben gevonden, kunnen ze het met gemak invullen en verzenden. De inwoners waarderen het simpele formulier.
 
 #### Het contactformulier is herkenbaar
+
 > "Ik neem aan dat het hier moet gebeuren."
 
 De inwoners herkennen het contactformulier als een patroon op een website. Ze herkennen het als een manier om hun vraag te stellen.
@@ -104,42 +115,52 @@ Inwoners die het Klanttevredenheidsonderzoek zien, vullen de eerste vraag in ("H
 ### E-mail adres & telefoonnummer
 
 #### E-mailadres invullen
+
 De inwoners vullen zonder enige twijfel het e-mail adres in.
 
 #### E-mail adres versus telefoonnummer
+
 De inwoners geven allemaal aan dat ze bij een vraag liever een e-mail adres invullen dan een telefoonnummer. Er worden verschillende redenen gegeven:
+
 - Een e-mail is te bewaren, en daarmee gemakkelijker te gebruiken als bewijs.
 - De inwoner kan het antwoord lezen op een moment dat ze het beste uitkomt.
 - E-mail is overzichtelijker dan een SMS-bericht.
 
 #### Teruggebeld worden
+
 > "Ik ben niet zo'n beller."
 
-Bijna alle inwoners doen de aanname dat het invullen van een telefoonnummer betekent dat ze teruggebeld worden. Op basis van die aanname geven ze aan dat ze 
+Bijna alle inwoners doen de aanname dat het invullen van een telefoonnummer betekent dat ze teruggebeld worden. Op basis van die aanname geven ze aan dat ze
+
 - De inwoner wil niet gebeld worden op een onhandig tijdstip.
 - De inwoner wil niet gebeld worden door een onbekend nummer, dan nemen ze niet op.
 
 ### Vertrouwen
 
 #### Vertrouwen op antwoord
+
 > "Ik heb het idee dat de gemeente haar inwoners serieus neemt."
 
 Alle inwoners vertrouwen er op dat zij in de beloofde periode een antwoord krijgen van de gemeente.
 
 #### Onzekerheid door gebrek aan responstijd op de bevestingspagina
+
 De inwoner ervaart onzekerheid bij de bevestiging op de pagina (na het versturen van de opmerking) als deze niet ziet wanneer hij nou antwoord krijgt. Het vertrouwen dat hij een antwoord krijgt verdwijnt.
 
 #### Belang van de responstijd
+
 > "Ja dit is wat ik miste!"
 
 Zodra de responstijd ("5 dagen") gelezen wordt in de mail is het vertrouwen weer terug. Inwoners geven aan dat ze de reactietijd verwachten in de bevestiging op de webpagina.
 
 #### Responstijd: '5 dagen'
+
 De waarde '5 dagen' is een belangrijke waarde voor de inwoner. Het geeft de inwoner vertrouwen dat het antwoord er aan komt, binnen die tijd.
 
 Of ze het nou kort of lang vinden, aan alle inwoners geeft het houvast dat ze even niks meer hoeven te doen totdat ze een antwoord krijgen, of totdat de responstijd verlopen is.
 
 #### Referentienummer
+
 Eén van de inwoners gaf aan dat hij een referentienummer zou willen hebben voor als hij een vraag had aan de gemeente over zijn gestelde vraag.
 
 ## Wat is er mee gedaan?
@@ -155,6 +176,7 @@ De inwoners is gevraagd het contactformulier in te vullen in het [prototype van 
 ## Contactinformatie
 
 De volgende mensen hebben het onderzoek uitgevoerd:
+
 - [René Olling, UX Designer](mailto:r.olling@utrecht.nl) - Gemeente Utrecht
 - [Joram Burer, UX Designer](mailto:joram.burer@utrecht.nl) - Gemeente Utrecht
 - [Jeroen du Chatinier, UX Designer](mailto:j.du.chatinier@utrecht.nl) - Gemeente Utrecht
