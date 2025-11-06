@@ -42,7 +42,7 @@ Uit het [vorige onderzoek naar het contactformulier](https://gebruikersonderzoek
 
 ### Onderzoeksvraag
 
-Zorgt het aangepaste design van het klanttevredenheidsonderzoek er voor dat er een duidelijk verschil is tussen het KTO en het contactformulier zodat deze niet als één geheel worden ingevuld?
+Zorgt het aangepaste design van het klanttevredenheidsonderzoek ervoor dat er een duidelijk verschil is tussen het KTO en het contactformulier zodat deze niet als één geheel worden ingevuld?
 
 ## Advies
 
