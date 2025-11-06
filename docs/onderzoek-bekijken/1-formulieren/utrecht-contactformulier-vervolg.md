@@ -5,7 +5,7 @@ hide_table_of_contents: false
 sidebar_label: Visueel onderscheid tussen contactformulier en klanttevredenheidsonderzoek
 pagination_label: Visueel onderscheid tussen contactformulier en klanttevredenheidsonderzoek
 description: Kunnen de inwoners het contactformulier invullen zonder dat ze afgeleid worden door het klanttevredenheidsonderzoek?
-summary: Door het toevoegen van een titel en meer afstand creëren tussen het contactformulier en het klantteveredenheidsodnerezoek worden inwoners die het contacformulier invullen minder afgeleid en versturen ze zonder afleiding hun vraag.
+summary: Door het toevoegen van een titel en meer afstand creëren tussen het contactformulier en het klanttevredenheidsonderzoek worden inwoners die het contactformulier invullen minder afgeleid en versturen ze zonder afleiding hun vraag.
 keywords:
   - onderzoek
   - email
