@@ -167,7 +167,7 @@ Eén van de inwoners gaf aan dat hij een referentienummer zou willen hebben voor
 
 De adviezen van dit onderzoek zijn doorgegeven aan het project team wat bezig is met de implementatie van het contactformulier. Het advies over het klanttevredenheidsonderzoek wordt meegegeven aan de webmasters.
 
-Er is een [vervolgonderzoek gedaan](<https://gebruikersonderzoeken.nl/docs/onderzoek-bekijken/formulieren/utrecht-contactformulier/)>) om er achter te komen hoe we het klanttevredenheidsonderzoek en het contactformulier meer van elkaar kunnen onderscheiden.
+Er is een [vervolgonderzoek gedaan](https://gebruikersonderzoeken.nl/docs/onderzoek-bekijken/formulieren/utrecht-contactformulier-vervolg/) om er achter te komen hoe we het klanttevredenheidsonderzoek en het contactformulier meer van elkaar kunnen onderscheiden.
 
 ## Opzet onderzoek
 
