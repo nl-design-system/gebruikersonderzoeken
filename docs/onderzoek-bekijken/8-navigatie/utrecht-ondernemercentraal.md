@@ -5,7 +5,7 @@ hide_table_of_contents: false
 sidebar_label: Online vindbaarheid van hulp voor ondernemers
 pagination_label: Online vindbaarheid van hulp voor ondernemers
 description: Kunnen Utrechtse ondernemers met een hulpvraag via de website makkelijk informatie vinden die hen helpt om hun vraag over ondernemen met vertrouwen te stellen?
-summary: 1 van de 4 ondernemers kwam op de plek waar ze met vertrouwen hun aanvraag voor financiele hulp kunnen doen. 3 van de 4 ondernemers liep vast op allerlei verschillende webpagina’s. De voornaamste redenen zijn structuur, gebrek aan eenduidig taalgebruik over alle pagina’s heen en mogelijkheid tot direct contact wordt niet gevonden/ontbreekt.
+summary: '1 van de 4 ondernemers kwam op de plek waar ze met vertrouwen hun aanvraag voor financiële hulp kunnen doen. 3 van de 4 ondernemers liep vast op allerlei verschillende webpagina’s. Ondernemers ervaren vooral problemen door een onduidelijke structuur, wisselend taalgebruik en het feit dat zij niet eenvoudig direct contact kunnen opnemen.'
 keywords:
   - ondernemers
   - ondernemer
@@ -40,8 +40,6 @@ Vergroten van de online vindbaarheid van hulp voor ondernemers zodat de dienstve
 In hoeverre kunnen Utrechtse ondernemers met een hulpvraag via de website makkelijk informatie vinden die hen helpt om hun vraag met vertrouwen te stellen?
 
 ## Advies
-
-### Snel en persoonlijk advies
 
 Als ondernemer wil je snel verder kunnen als je tegen problemen aanloopt. Bijvoorbeeld bij geldzorgen, vragen over bedrijfsvoering of juridische kwesties. Je zoekt een ingang die duidelijk en makkelijk te vinden is. De hulp moet passen bij jouw situatie: of je nu direct iets moet oplossen of vooruit wilt kijken. Als die ondersteuning mensgericht en actiegericht is, kun je sneller verder. Dit advies laat zien hoe de dienstverlening beter kan aansluiten op wat ondernemers nodig hebben.
 
@@ -133,7 +131,7 @@ De andere vormen van hulp op de hulp voor ondernemerspagina’s brengen de onder
 
 Niet duidelijk dat het om website van de gemeenten gaat. Uit de homepage valt niet af te leiden dat het om dienstverlening vanuit gemeenten gaat. Ook als de ondernemers op de pagina van Utrecht kwamen hadden ze nog steeds niet het gevoel dat het om een gemeentelijke website ging. Het navigeren door de pagina heen verliep niet soepel. Gebruik van verschillende termen en een onlogische structuur dragen bij aan dat het voor ondernemers niet duidelijk is wat ze hier kunnen doen.
 
-> “Dan heb ik eerst een heel verhaal over wat ondernemer centraal is. Dat is leuk, maar dat is onnodige informatie. De waaromvraag wordt hier niet beantwoord.” “Ik wil gewoon hulp...bij tak tak tak door!”
+> “Dan heb ik eerst een heel verhaal over wat ondernemer centraal is. Dat is leuk, maar dat is onnodige informatie. De waaromvraag wordt hier niet beantwoord.” “Ik wil gewoon hulp... tak tak tak door!”
 
 > “Ik mis een zoekfunctie.”
 
@@ -200,8 +198,6 @@ Wat valt op?
 > "Ik weet niet wat je krijgt hierna.”
 
 Ondernemers weten niet wat zij kunnen verwachten na het invullen van het formulier. Verder wordt de informatie over ‘Ben je ondernemer in de gemeente Utrecht? Meld je dan direct aan via de gemeente Utrecht’ compleet over het hoofd gezien.
-
-## Wat is er mee gedaan?
 
 ## Opzet onderzoek
 
