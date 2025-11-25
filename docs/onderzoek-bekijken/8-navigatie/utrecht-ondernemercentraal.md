@@ -215,7 +215,7 @@ Gevestigde ondernemer (langer dan 1 jaar een bedrijf) in het MKB. Interessant: w
 
 ## Contactinformatie
 
-it onderzoek is uitgevoerd in opdracht van de gemeente Utrecht door:
+Dit onderzoek is uitgevoerd in opdracht van de gemeente Utrecht door:
 
 - [Wijnand van Eijndthoven, Verbetermanager](mailto:wijnand.van.eijndthoven@utrecht.nl) - Gemeente Utrecht
 - [Jolanda Meijer, Concernklachtencoördinator](mailto:jolanda.meijer@utrecht.nl) - Gemeente Utrecht
