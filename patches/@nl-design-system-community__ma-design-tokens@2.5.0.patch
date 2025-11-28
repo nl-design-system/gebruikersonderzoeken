@@ -1,0 +1,20 @@
+diff --git a/dist/variables.mjs b/dist/variables.mjs
+index 94aacada9082b5e5ce5d9239bff4f9fa1bc7ce42..7b55eee4a82422b51343c012b62e220f917618b4 100644
+--- a/dist/variables.mjs
++++ b/dist/variables.mjs
+@@ -1571,6 +1571,7 @@ export const utrechtPaginationPageLinkTextDecoration = "underline";
+ export const utrechtPaginationPageLinkCurrentBackgroundColor = "#c9ccd2";
+ export const utrechtPaginationPageLinkCurrentBorderColor = "rgba(0, 0, 0, 0)";
+ export const utrechtPaginationPageLinkCurrentColor = "#1d1f24";
++export const utrechtPaginationPageLinkCurrentTextDecoration = "none";
+ export const utrechtPaginationPageLinkHoverBackgroundColor = "#d9dce2";
+ export const utrechtPaginationPageLinkHoverBorderColor = "rgba(0, 0, 0, 0)";
+ export const utrechtPaginationPageLinkHoverColor = "#275d8b";
+@@ -1591,6 +1592,7 @@ export const utrechtPaginationRelativeLinkHoverBorderColor = "rgba(0, 0, 0, 0)";
+ export const utrechtPaginationRelativeLinkHoverColor = "#275d8b";
+ export const utrechtPaginationRelativeLinkDisabledBackgroundColor = "rgba(0, 0, 0, 0)";
+ export const utrechtPaginationRelativeLinkDisabledColor = "basis.color.disabled.color-subtle";
++export const utrechtPaginationRelativeLinkDisabledTextDecoration = "none";
+ export const utrechtParagraphColor = "#1d1f24";
+ export const utrechtParagraphFontFamily = "'Source Sans Pro', Helvetica, Arial, sans-serif";
+ export const utrechtParagraphFontSize = "1rem";

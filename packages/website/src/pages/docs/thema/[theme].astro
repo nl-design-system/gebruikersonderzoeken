@@ -1,0 +1,12 @@
+---
+import type { GetStaticPaths } from 'astro';
+import { getCollection } from 'astro:content';
+
+export const getStaticPaths = (async () => {
+  const themes = await getCollection('themes');
+  return themes.map((theme) => ({ params: { theme: theme.id } }));
+}) satisfies GetStaticPaths;
+
+const { theme } = Astro.params;
+return Astro.redirect(`/docs/thema/${theme}/1/`);
+---
