@@ -59,6 +59,9 @@ export function GebruikersonderzoekenFooter() {
         <a key="1" className="nl-link" href="/docs/privacyverklaring/">
           Privacyverklaring
         </a>,
+        <a key="2" className="nl-link" href="/docs/toegankelijkheidsverklaring/">
+          Toegankelijkheid
+        </a>,
       ]}
     />
   );
