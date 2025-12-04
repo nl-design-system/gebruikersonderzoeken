@@ -20,6 +20,8 @@ minimumReleaseAgeExclude:
   - '@nl-rvo/*'
   - '@rijkshuisstijl-community/*'
   - '@utrecht/*'
+  - 'react@19.2.1'
+  - 'react-dom@19.2.1'
 
 patchedDependencies:
   '@utrecht/figure-css@1.5.1': patches/@utrecht__figure-css@1.5.1.patch
