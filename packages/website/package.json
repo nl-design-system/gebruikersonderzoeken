@@ -68,8 +68,8 @@
     "@nl-design-system/tsconfig": "1.0.3",
     "@tabler/icons-react": "3.34.0",
     "@types/hast": "3.0.4",
-    "@types/react": "19.1.4",
-    "@types/react-dom": "19.1.5",
+    "@types/react": "19.2.7",
+    "@types/react-dom": "19.2.3",
     "@utrecht/body-css": "1.2.1",
     "@utrecht/breadcrumb-nav-css": "1.5.0",
     "@utrecht/root-css": "1.2.1",
@@ -77,8 +77,8 @@
     "hast-util-is-element": "3.0.0",
     "hast-util-select": "6.0.4",
     "postcss": "8.5.3",
-    "react": "19.1.0",
-    "react-dom": "19.1.0",
+    "react": "19.2.1",
+    "react-dom": "19.2.1",
     "unist-util-visit": "5.0.0",
     "vfile": "6.0.3"
   }
