@@ -13,9 +13,7 @@ keywords:
   - accessibility
 ---
 
-
-
-# Audit toegankelijkheid NLDesignSystem.nl versie 1.0
+# Audit toegankelijkheid gebruikersonderzoeken.nl versie 1.0
 
 Dit is het [WCAG EM Auditrapport](https://www.w3.org/WAI/test-evaluate/conformance/wcag-em/) van NLDesignSystem.nl.
 
@@ -26,32 +24,25 @@ Gerelateerd: [toegankelijkheidsverklaring NLDesignSystem.nl](/toegankelijkheidsv
 
   <dl>
     <dt>Rapport auteur</dt>
-    <dd>Rian Rietveld en Hidde de Vries</dd>
-    <dt>Evaluatie opdrachtgever</dt>
-    <dd>NL Design System</dd>
+    <dd>Erik Kroes</dd>
     <dt>Evaluatiedatum</dt>
-    <dd>20 november 2023</dd>
+    <dd>21 november 2025</dd>
   </dl>
 
   <h2>Managementsamenvatting</h2>
 
   <p>
-    Het menu in desktop en mobiele weergave heeft problemen met de
-    toetsenbordnavigatie, resize en reflow. Dit is de meest ingrijpende
-    aanpassing die moet gebeuren. Daarnaast moet er een goede responsive
-    weergave voor tabellen komen. De overige afkeuringen zijn makkelijker op te
-    lossen.
+    <!-- Todo na review onderzoek -->
   </p>
 
   <h2>Scope van de evaluatie</h2>
 
   <dl>
     <dt>Website naam</dt>
-    <dd>NL Design System</dd>
+    <dd>Gebruikersonderzoeken.nl</dd>
     <dt>Scope van de website</dt>
     <dd>
-      Alle webcontent van de publieke website van het NL Design System op
-      nldesignsystem.nl
+      Alle webcontent van de publieke website van gebruikersonderzoeken op gebruikersonderzoeken.nl 
     </dd>
     <dt>WCAG Versie</dt>
     <dd>2.1</dd>
@@ -59,8 +50,7 @@ Gerelateerd: [toegankelijkheidsverklaring NLDesignSystem.nl](/toegankelijkheidsv
     <dd>AA</dd>
     <dt>Basisniveau van toegankelijkheid-ondersteuning</dt>
     <dd>
-      Safari 14 met VoiceOver, Chrome Version 119.0.6045.123 (Official Build)
-      (arm64), FireFox 119.0.1 (64-bit), iOS 16.7.2
+      Safari met VoiceOver, Chrome, FireFox, iOS, Android. 
     </dd>
     <dt>Verdere onderzoeksvereisten</dt>
     <dd>
@@ -74,10 +64,10 @@ Gerelateerd: [toegankelijkheidsverklaring NLDesignSystem.nl](/toegankelijkheidsv
   <p>Gerapporteerd over 50 van 50 WCAG 2.1 AA Success Criteria.</p>
 
   <ul>
-    <li><span>24</span> <span>Voldoende</span></li>
-    <li><span>11</span> <span>Onvoldoende</span></li>
+    <li><span>32</span> <span>Voldoende</span></li>
+    <li><span>7</span> <span>Onvoldoende</span></li>
     <li><span>0</span> <span>Onbekend</span></li>
-    <li><span>15</span> <span>Niet van toepassing</span></li>
+    <li><span>11</span> <span>Niet van toepassing</span></li>
     <li><span>0</span> <span>Niet getoetst</span></li>
   </ul>
   <h3>Alle resultaten</h3>
@@ -93,21 +83,71 @@ Gerelateerd: [toegankelijkheidsverklaring NLDesignSystem.nl](/toegankelijkheidsv
       <tr>
         <th scope="row" id="criterion-111">1.1.1: Niet-tekstuele content</th>
         <td>
-          <h6>Hele sample</h6>
           <p><span>Uitkomst:</span> Onvoldoende</p>
         </td>
         <td>
-          <h6>Hele sample</h6>
           <p>Bevindingen:</p>
-          <p>
-            Pagina:
-            <a href="https://nldesignsystem.nl/project/kernteam" rel="nofollow"
-              >nldesignsystem.nl/project/kernteam</a>
-          </p>
-          <p>
-            De SVG’s met de afbeeldingen van de teamleden hebben geen
-            alternatief.
-          </p>
+            <p>
+                  De zoekfunctie heeft een icoon om aan te geven dat er eerder op een term gezocht is. Dit icoon heeft
+                  geen tekstalternatief.
+                </p>
+                <p>
+                  De zoekfunctie heeft een icoon om aan te geven dat een term opgeslagen is als favoriet. Dit icoon
+                  heeft geen tekstalternatief.
+                </p>
+                <p>
+                  De zoekfunctie geeft met verschilende iconen aan wat voor soort zoekresultaten er zijn. Dit zijn onder
+                  andere een hekje, drie strepen onder elkaar, en een document-icoon. Deze afbeeldingen hebben geen
+                  tekst alternatief.
+                </p>
+                <p>
+                  Op
+                  <a
+                    href="https://gebruikersonderzoeken.nl/docs/onderzoek-bekijken/navigatie/utrecht-ondernemercentraal/"
+                    >https://gebruikersonderzoeken.nl/docs/onderzoek-bekijken/navigatie/utrecht-ondernemercentraal/</a
+                  >
+                  worden leestekens gebruikt om iets visueel te maken. Zo is er de tekst: "Product aanvragen -&gt; hulp
+                  aanvragen" Voor deze visuele informatie is geen tekstalternatieef aanwezig.
+                </p>
+                <p>
+                  Op
+                  <a
+                    href="https://gebruikersonderzoeken.nl/docs/onderzoek-bekijken/mijn-zaken/utrecht-status-component/"
+                    >https://gebruikersonderzoeken.nl/docs/onderzoek-bekijken/mijn-zaken/utrecht-status-component/</a
+                  >
+                  staat een afbeelding met de alternatieve tekst "het PDS prototype". Dit is een erg beperkte
+                  omschrijving van de afbeelding en onvoldoende alternatief. Mede omdat de afkorting "PDS" verder niet
+                  gebruikt of uitgelegd wordt.
+                </p>
+                <p>
+                  Op
+                  <a
+                    href="https://gebruikersonderzoeken.nl/docs/onderzoek-bekijken/mijn-zaken/utrecht-status-component/"
+                    >https://gebruikersonderzoeken.nl/docs/onderzoek-bekijken/mijn-zaken/utrecht-status-component/</a
+                  >
+                  staat een afbeelding met de alternatieve tekst "Email screenshot". Dit is een te beperkte omschrijving
+                  van de afbeelding en onvoldoende alternatief.
+                </p>
+                <p>
+                  Op
+                  <a
+                    href="https://gebruikersonderzoeken.nl/docs/onderzoek-bekijken/mijn-zaken/utrecht-status-component/"
+                    >https://gebruikersonderzoeken.nl/docs/onderzoek-bekijken/mijn-zaken/utrecht-status-component/</a
+                  >
+                  staat een afbeelding met de alternatieve tekst "Mijnomgeving screenshot". Dit is een te beperkte
+                  omschrijving van de afbeelding en onvoldoende alternatief.
+                </p>
+                <p>
+                  Op
+                  <a
+                    href="https://gebruikersonderzoeken.nl/docs/onderzoek-bekijken/mijn-zaken/utrecht-status-component/"
+                    >https://gebruikersonderzoeken.nl/docs/onderzoek-bekijken/mijn-zaken/utrecht-status-component/</a
+                  >
+                  staat een afbeelding met de alternatieve tekst "het PDS Figma prototype". Dit is een erg beperkte
+                  omschrijving van de afbeelding en onvoldoende alternatief. Mede omdat de afkorting "PDS" verder niet
+                  gebruikt of uitgelegd wordt, en de term Figma vrij abstract is. De afbeelding met de tekst "het PDS
+                  Figma prototype versie 2" leunt op deze afbeelding, en schiet nu ook tekort.
+                </p>
         </td>
       </tr>
     </tbody>
@@ -125,17 +165,9 @@ Gerelateerd: [toegankelijkheidsverklaring NLDesignSystem.nl](/toegankelijkheidsv
           1.2.1: Louter-geluid en louter-videobeeld (vooraf opgenomen)
         </th>
         <td>
-          <h6>Hele sample</h6>
-          <p><span>Uitkomst:</span> Onvoldoende</p>
+          <p><span>Uitkomst:</span> Niet van toepassing</p>
         </td>
         <td>
-          <h6>Hele sample</h6>
-          <p>Bevindingen:</p>
-          <p>
-            Pagina:
-            <a href="https://nldesignsystem.nl/events/heartbeat" rel="nofollow">nldesignsystem.nl/events/heartbeat</a>
-          </p>
-          <p>Vimeo video's hebben geen ondertiteling.</p>
         </td>
       </tr>
       <tr>
@@ -143,17 +175,9 @@ Gerelateerd: [toegankelijkheidsverklaring NLDesignSystem.nl](/toegankelijkheidsv
           1.2.2: Ondertitels voor doven en slechthorenden (vooraf opgenomen)
         </th>
         <td>
-          <h6>Hele sample</h6>
-          <p><span>Uitkomst:</span> Onvoldoende</p>
+          <p><span>Uitkomst:</span> Niet van toepassing</p>
         </td>
         <td>
-          <h6>Hele sample</h6>
-          <p>Bevindingen:</p>
-          <p>
-            Pagina:
-            <a href="https://nldesignsystem.nl/events/heartbeat" rel="nofollow">nldesignsystem.nl/events/heartbeat</a>
-          </p>
-          <p>Vimeo video's hebben geen ondertiteling.</p>
         </td>
       </tr>
       <tr>
@@ -161,7 +185,6 @@ Gerelateerd: [toegankelijkheidsverklaring NLDesignSystem.nl](/toegankelijkheidsv
           1.2.3: Audiodescriptie of media-alternatief (vooraf opgenomen)
         </th>
         <td>
-          <h6>Hele sample</h6>
           <p><span>Uitkomst:</span> Niet van toepassing</p>
         </td>
         <td></td>
@@ -171,7 +194,6 @@ Gerelateerd: [toegankelijkheidsverklaring NLDesignSystem.nl](/toegankelijkheidsv
           1.2.4: Ondertitels voor doven en slechthorenden (live)
         </th>
         <td>
-          <h6>Hele sample</h6>
           <p><span>Uitkomst:</span> Niet van toepassing</p>
         </td>
         <td></td>
@@ -181,7 +203,6 @@ Gerelateerd: [toegankelijkheidsverklaring NLDesignSystem.nl](/toegankelijkheidsv
           1.2.5: Audiodescriptie (vooraf opgenomen)
         </th>
         <td>
-          <h6>Hele sample</h6>
           <p><span>Uitkomst:</span> Niet van toepassing</p>
         </td>
         <td></td>
@@ -199,15 +220,40 @@ Gerelateerd: [toegankelijkheidsverklaring NLDesignSystem.nl](/toegankelijkheidsv
       <tr>
         <th scope="row" id="criterion-131">1.3.1: Info en relaties</th>
         <td>
-          <h6>Hele sample</h6>
-          <p><span>Uitkomst:</span> Voldoende</p>
+          <p><span>Uitkomst:</span> Onvoldoende</p>
         </td>
-        <td></td>
+        <td>
+                  <p>Bevindingen:</p>
+                  <p>
+                  De zoekfunctie heeft dikgedrukte teksten zoals "Recent" en "Favorieten". Deze zien eruit als
+                  kopteksten maar zijn niet zo opgemaakt in de code.
+                </p>
+                <p>
+                  De zoekfunctie is opgemaakt met elementen met de rol listbox, en daaronder zoekresultaten met de rol
+                  option. De functie is echter een lijst met resultaten, en niet een lijst waarin zoekresultaten te
+                  selecteren zijn, zoals de rol suggereert.
+                </p>
+                <p>Op lagere resoluties is er geen landmark voor het hoofdmenu.</p>
+                <p>
+                  Op
+                  <a href="https://gebruikersonderzoeken.nl/docs/onderzoek-doen/checklist/"
+                    >https://gebruikersonderzoeken.nl/docs/onderzoek-doen/checklist/</a
+                  >
+                  staan vakjes bij elk item. In de code zijn dit disabled checkboxes. Dit komt niet overeen.
+                </p>
+                <p>
+                  Op
+                  <a href="https://gebruikersonderzoeken.nl/docs/onderzoek-doen/toestemmingsformulier/"
+                    >https://gebruikersonderzoeken.nl/docs/onderzoek-doen/toestemmingsformulier/</a
+                  >
+                  staan er soortgelijke vakjes en code.
+                </p>
+                <p>De PDF is niet getagged.</p>
+        </td>
       </tr>
       <tr>
         <th scope="row" id="criterion-132">1.3.2: Betekenisvolle volgorde</th>
         <td>
-          <h6>Hele sample</h6>
           <p><span>Uitkomst:</span> Voldoende</p>
         </td>
         <td></td>
@@ -217,7 +263,6 @@ Gerelateerd: [toegankelijkheidsverklaring NLDesignSystem.nl](/toegankelijkheidsv
           1.3.3: Zintuiglijke eigenschappen
         </th>
         <td>
-          <h6>Hele sample</h6>
           <p><span>Uitkomst:</span> Voldoende</p>
         </td>
         <td></td>
@@ -225,7 +270,6 @@ Gerelateerd: [toegankelijkheidsverklaring NLDesignSystem.nl](/toegankelijkheidsv
       <tr>
         <th scope="row" id="criterion-134">1.3.4: Weergavestand</th>
         <td>
-          <h6>Hele sample</h6>
           <p><span>Uitkomst:</span> Voldoende</p>
         </td>
         <td></td>
@@ -235,8 +279,7 @@ Gerelateerd: [toegankelijkheidsverklaring NLDesignSystem.nl](/toegankelijkheidsv
           1.3.5: Identificeer het doel van de input
         </th>
         <td>
-          <h6>Hele sample</h6>
-          <p><span>Uitkomst:</span> Voldoende</p>
+          <p><span>Uitkomst:</span> Niet van toepassing</p>
         </td>
         <td></td>
       </tr>
@@ -253,7 +296,6 @@ Gerelateerd: [toegankelijkheidsverklaring NLDesignSystem.nl](/toegankelijkheidsv
       <tr>
         <th scope="row" id="criterion-141">1.4.1: Gebruik van kleur</th>
         <td>
-          <h6>Hele sample</h6>
           <p><span>Uitkomst:</span> Voldoende</p>
         </td>
         <td></td>
@@ -261,7 +303,6 @@ Gerelateerd: [toegankelijkheidsverklaring NLDesignSystem.nl](/toegankelijkheidsv
       <tr>
         <th scope="row" id="criterion-142">1.4.2: Geluidsbediening</th>
         <td>
-          <h6>Hele sample</h6>
           <p><span>Uitkomst:</span> Niet van toepassing</p>
         </td>
         <td></td>
@@ -269,63 +310,52 @@ Gerelateerd: [toegankelijkheidsverklaring NLDesignSystem.nl](/toegankelijkheidsv
       <tr>
         <th scope="row" id="criterion-143">1.4.3: Contrast (minimum)</th>
         <td>
-          <h6>Hele sample</h6>
           <p><span>Uitkomst:</span> Onvoldoende</p>
         </td>
         <td>
-          <h6>Hele sample</h6>
           <p>Bevindingen:</p>
-          <p>Zoekoptie in de menubalk.</p>
           <p>
-            De tekst en de placeholder in het zoek-modal hebben te weinig
-            contrast.
-          </p>
+                  Op <a href="https://gebruikersonderzoeken.nl/404">https://gebruikersonderzoeken.nl/404</a> is er een
+                  grote oranje tekst "404". Deze tekst heeft een contrast van 2.76:1 op de witte achtergrond. Dit is
+                  minder dan de vereiste 3:1 voor grote tekst.
+                </p>
+                <p>
+                  Op <a href="https://gebruikersonderzoeken.nl/404">https://gebruikersonderzoeken.nl/404</a> zijn drie
+                  licht-blauwe links ("Reload Page", "Back to Previous Page" en "home Page"). Deze links hebben een
+                  contrast van 3.1:1 op de witte achtergrond. Dit is minder dan de vereiste 4.5:1 voor reguliere tekst.
+                </p>
+                <p>
+                  In de header van PDF staat lichtgroene tekst op een groene achtergrond. Deze tekst heeft een contrast
+                  van 3.7:1. Dit is minder dan de vereiste 4.5:1 voor reguliere tekst.
+                </p>
         </td>
       </tr>
       <tr>
         <th scope="row" id="criterion-144">1.4.4: Herschalen van tekst</th>
         <td>
-          <h6>Hele sample</h6>
-          <p><span>Uitkomst:</span> Onvoldoende</p>
+          <p><span>Uitkomst:</span> Voldoende</p>
         </td>
         <td>
-          <h6>Hele sample</h6>
-          <p>Bevindingen:</p>
-          <p>In het menu op alle pagina’s.</p>
-          <p>Het menu hakt af bij schalen naar 200% alleen tekst.</p>
         </td>
       </tr>
       <tr>
         <th scope="row" id="criterion-145">1.4.5: Afbeeldingen van tekst</th>
         <td>
-          <h6>Hele sample</h6>
-          <p><span>Uitkomst:</span> Niet van toepassing</p>
+          <p><span>Uitkomst:</span> Voldoende</p>
         </td>
         <td></td>
       </tr>
       <tr>
         <th scope="row" id="criterion-1410">1.4.10: Reflow</th>
         <td>
-          <h6>Hele sample</h6>
           <p><span>Uitkomst:</span> Onvoldoende</p>
         </td>
         <td>
-          <h6>Hele sample</h6>
           <p>Bevindingen:</p>
-          <p>
-            Pagina
-            <a href="https://nldesignsystem.nl/events/design-systems-week-2023/tijdschema/" rel="nofollow">nldesignsystem.nl/events/design-systems-week-2023/tijdschema/</a>.
-          </p>
-          <p>
-            Tabellen op Tijdschema · NL Design System hakken af bij een kleiner
-            scherm. En er is geen horizontale scrollbar (zou kunnen bij tabel).
-          </p>
-          <p>
-            Pagina
-            <a href="https://nldesignsystem.nl/events/design-systems-week-2022" rel="nofollow">nldesignsystem.nl/events/design-systems-week-2022</a>
-            Op Design Systems Week 2022 valt het submenu links over de tekst bij
-            een kleiner beeldscherm.
-          </p>
+                <p>
+                  Op hoge resoluties geeft de zoekfunctie met afbeeldingen en tekst aan welke toetsen gebruikt kunnen
+                  worden voor de bediening. Op lage resoluties ontbreekt deze informatie.
+                </p>
         </td>
       </tr>
       <tr>
@@ -333,7 +363,6 @@ Gerelateerd: [toegankelijkheidsverklaring NLDesignSystem.nl](/toegankelijkheidsv
           1.4.11: Contrast van niet-tekstuele content
         </th>
         <td>
-          <h6>Hele sample</h6>
           <p><span>Uitkomst:</span> Voldoende</p>
         </td>
         <td></td>
@@ -341,7 +370,6 @@ Gerelateerd: [toegankelijkheidsverklaring NLDesignSystem.nl](/toegankelijkheidsv
       <tr>
         <th scope="row" id="criterion-1412">1.4.12: Tekstafstand</th>
         <td>
-          <h6>Hele sample</h6>
           <p><span>Uitkomst:</span> Voldoende</p>
         </td>
         <td></td>
@@ -351,7 +379,6 @@ Gerelateerd: [toegankelijkheidsverklaring NLDesignSystem.nl](/toegankelijkheidsv
           1.4.13: Content bij hover of focus
         </th>
         <td>
-          <h6>Hele sample</h6>
           <p><span>Uitkomst:</span> Voldoende</p>
         </td>
         <td></td>
@@ -370,7 +397,6 @@ Gerelateerd: [toegankelijkheidsverklaring NLDesignSystem.nl](/toegankelijkheidsv
       <tr>
         <th scope="row" id="criterion-211">2.1.1: Toetsenbord</th>
         <td>
-          <h6>Hele sample</h6>
           <p><span>Uitkomst:</span> Voldoende</p>
         </td>
         <td></td>
@@ -378,7 +404,6 @@ Gerelateerd: [toegankelijkheidsverklaring NLDesignSystem.nl](/toegankelijkheidsv
       <tr>
         <th scope="row" id="criterion-212">2.1.2: Geen toetsenbordval</th>
         <td>
-          <h6>Hele sample</h6>
           <p><span>Uitkomst:</span> Voldoende</p>
         </td>
         <td></td>
@@ -386,21 +411,9 @@ Gerelateerd: [toegankelijkheidsverklaring NLDesignSystem.nl](/toegankelijkheidsv
       <tr>
         <th scope="row" id="criterion-214">2.1.4: Enkel teken sneltoetsen</th>
         <td>
-          <h6>Hele sample</h6>
-          <p><span>Uitkomst:</span> Onvoldoende</p>
+          <p><span>Uitkomst:</span> Voldoende</p>
         </td>
         <td>
-          <h6>Hele sample</h6>
-          <p>Bevindingen:</p>
-          <p>
-            Pagina:
-            <a href="https://nldesignsystem.nl/events/heartbeat" rel="nofollow"
-              >nldesignsystem.nl/events/heartbeat</a>
-          </p>
-          <p>
-            Keyboard shortcuts zijn niet disabled voor de Vimeo player (Disable
-            shortcuts voor vimeo video, keyboard="false").
-          </p>
         </td>
       </tr>
     </tbody>
@@ -416,7 +429,6 @@ Gerelateerd: [toegankelijkheidsverklaring NLDesignSystem.nl](/toegankelijkheidsv
       <tr>
         <th scope="row" id="criterion-221">2.2.1: Timing aanpasbaar</th>
         <td>
-          <h6>Hele sample</h6>
           <p><span>Uitkomst:</span> Niet van toepassing</p>
         </td>
         <td></td>
@@ -426,7 +438,6 @@ Gerelateerd: [toegankelijkheidsverklaring NLDesignSystem.nl](/toegankelijkheidsv
           2.2.2: Pauzeren, stoppen, verbergen
         </th>
         <td>
-          <h6>Hele sample</h6>
           <p><span>Uitkomst:</span> Niet van toepassing</p>
         </td>
         <td></td>
@@ -446,7 +457,6 @@ Gerelateerd: [toegankelijkheidsverklaring NLDesignSystem.nl](/toegankelijkheidsv
           2.3.1: Drie flitsen of beneden drempelwaarde
         </th>
         <td>
-          <h6>Hele sample</h6>
           <p><span>Uitkomst:</span> Niet van toepassing</p>
         </td>
         <td></td>
@@ -464,7 +474,6 @@ Gerelateerd: [toegankelijkheidsverklaring NLDesignSystem.nl](/toegankelijkheidsv
       <tr>
         <th scope="row" id="criterion-241">2.4.1: Blokken omzeilen</th>
         <td>
-          <h6>Hele sample</h6>
           <p><span>Uitkomst:</span> Voldoende</p>
         </td>
         <td></td>
@@ -472,47 +481,36 @@ Gerelateerd: [toegankelijkheidsverklaring NLDesignSystem.nl](/toegankelijkheidsv
       <tr>
         <th scope="row" id="criterion-242">2.4.2: Paginatitel</th>
         <td>
-          <h6>Hele sample</h6>
-          <p><span>Uitkomst:</span> Voldoende</p>
+          <p><span>Uitkomst:</span> Onvoldoende</p>
         </td>
-        <td></td>
+        <td>
+        <p>Bevindingen:</p>
+                        <p>
+                  Op <a href="https://gebruikersonderzoeken.nl/404">https://gebruikersonderzoeken.nl/404</a> is de titel
+                  "404 Not Found". Deze titel is weinig omschrijvend.
+                </p>
+                <p>De PDF heeft geen titel</p>
+        </td>
       </tr>
       <tr>
         <th scope="row" id="criterion-243">2.4.3: Focus volgorde</th>
         <td>
-          <h6>Hele sample</h6>
-          <p><span>Uitkomst:</span> Onvoldoende</p>
+          <p><span>Uitkomst:</span> Voldoende</p>
         </td>
         <td>
-          <h6>Hele sample</h6>
-          <p>Bevindingen:</p>
-          <p>In het menu op alle pagina’s.</p>
-          <p>
-            De toetsenbordfocus komt op onzichtbare items bij het mobiele menu
-            waardoor de volgorde anders is dan de zichtbare volgorde.
-          </p>
         </td>
       </tr>
       <tr>
         <th scope="row" id="criterion-244">2.4.4: Linkdoel (in context)</th>
         <td>
-          <h6>Hele sample</h6>
-          <p><span>Uitkomst:</span> Onvoldoende</p>
+          <p><span>Uitkomst:</span> Voldoende</p>
         </td>
         <td>
-          <h6>Hele sample</h6>
-          <p>Bevindingen:</p>
-          <p>In het logo in de header op alle pagina’s.</p>
-          <p>
-            De linktekst op het logo is onduidelijk en verwijst niet naar de
-            voorpagina.
-          </p>
         </td>
       </tr>
       <tr>
         <th scope="row" id="criterion-245">2.4.5: Meerdere manieren</th>
         <td>
-          <h6>Hele sample</h6>
           <p><span>Uitkomst:</span> Voldoende</p>
         </td>
         <td></td>
@@ -520,7 +518,6 @@ Gerelateerd: [toegankelijkheidsverklaring NLDesignSystem.nl](/toegankelijkheidsv
       <tr>
         <th scope="row" id="criterion-246">2.4.6: Koppen en labels</th>
         <td>
-          <h6>Hele sample</h6>
           <p><span>Uitkomst:</span> Voldoende</p>
         </td>
         <td></td>
@@ -528,17 +525,9 @@ Gerelateerd: [toegankelijkheidsverklaring NLDesignSystem.nl](/toegankelijkheidsv
       <tr>
         <th scope="row" id="criterion-247">2.4.7: Focus zichtbaar</th>
         <td>
-          <h6>Hele sample</h6>
-          <p><span>Uitkomst:</span> Onvoldoende</p>
+          <p><span>Uitkomst:</span> Voldoende</p>
         </td>
         <td>
-          <h6>Hele sample</h6>
-          <p>Bevindingen:</p>
-          <p>In het menu op alle pagina’s.</p>
-          <p>
-            Wanneer navigatie kleine schermen “open” staat is focus soms
-            onzichtbaar (want mogelijk om buiten navigatie te tabben).
-          </p>
         </td>
       </tr>
     </tbody>
@@ -554,39 +543,29 @@ Gerelateerd: [toegankelijkheidsverklaring NLDesignSystem.nl](/toegankelijkheidsv
       <tr>
         <th scope="row" id="criterion-251">2.5.1: Aanwijzergebaren</th>
         <td>
-          <h6>Hele sample</h6>
-          <p><span>Uitkomst:</span> Niet van toepassing</p>
+          <p><span>Uitkomst:</span> Voldoende</p>
         </td>
         <td></td>
       </tr>
       <tr>
         <th scope="row" id="criterion-252">2.5.2: Aanwijzerannulering</th>
         <td>
-          <h6>Hele sample</h6>
-          <p><span>Uitkomst:</span> Niet van toepassing</p>
+          <p><span>Uitkomst:</span> Voldoende</p>
         </td>
         <td></td>
       </tr>
       <tr>
         <th scope="row" id="criterion-253">2.5.3: Label in naam</th>
         <td>
-          <h6>Hele sample</h6>
-          <p><span>Uitkomst:</span> Onvoldoende</p>
+          <p><span>Uitkomst:</span> Voldoende</p>
         </td>
         <td>
-          <h6>Hele sample</h6>
-          <p>Bevindingen:</p>
-          <p>In het menu op alle pagina’s.</p>
-          <p>
-            Het label van de menuknop komt niet overeen met de visuele tekst.
-          </p>
         </td>
       </tr>
       <tr>
         <th scope="row" id="criterion-254">2.5.4: Bewegingsactivering</th>
         <td>
-          <h6>Hele sample</h6>
-          <p><span>Uitkomst:</span> Niet van toepassing</p>
+          <p><span>Uitkomst:</span> Voldoende</p>
         </td>
         <td></td>
       </tr>
@@ -604,15 +583,16 @@ Gerelateerd: [toegankelijkheidsverklaring NLDesignSystem.nl](/toegankelijkheidsv
       <tr>
         <th scope="row" id="criterion-311">3.1.1: Taal van de pagina</th>
         <td>
-          <h6>Hele sample</h6>
-          <p><span>Uitkomst:</span> Voldoende</p>
+          <p><span>Uitkomst:</span> Onvoldoende</p>
         </td>
-        <td></td>
+        <td>
+        <p>Bevindingen:</p>
+                    <p>De PDF heeft geen ingestelde taal.</p>
+        </td>
       </tr>
       <tr>
         <th scope="row" id="criterion-312">3.1.2: Taal van onderdelen</th>
         <td>
-          <h6>Hele sample</h6>
           <p><span>Uitkomst:</span> Voldoende</p>
         </td>
         <td></td>
@@ -630,7 +610,6 @@ Gerelateerd: [toegankelijkheidsverklaring NLDesignSystem.nl](/toegankelijkheidsv
       <tr>
         <th scope="row" id="criterion-321">3.2.1: Bij focus</th>
         <td>
-          <h6>Hele sample</h6>
           <p><span>Uitkomst:</span> Voldoende</p>
         </td>
         <td></td>
@@ -638,7 +617,6 @@ Gerelateerd: [toegankelijkheidsverklaring NLDesignSystem.nl](/toegankelijkheidsv
       <tr>
         <th scope="row" id="criterion-322">3.2.2: Bij input</th>
         <td>
-          <h6>Hele sample</h6>
           <p><span>Uitkomst:</span> Voldoende</p>
         </td>
         <td></td>
@@ -646,7 +624,6 @@ Gerelateerd: [toegankelijkheidsverklaring NLDesignSystem.nl](/toegankelijkheidsv
       <tr>
         <th scope="row" id="criterion-323">3.2.3: Consistente navigatie</th>
         <td>
-          <h6>Hele sample</h6>
           <p><span>Uitkomst:</span> Voldoende</p>
         </td>
         <td></td>
@@ -654,7 +631,6 @@ Gerelateerd: [toegankelijkheidsverklaring NLDesignSystem.nl](/toegankelijkheidsv
       <tr>
         <th scope="row" id="criterion-324">3.2.4: Consistente identificatie</th>
         <td>
-          <h6>Hele sample</h6>
           <p><span>Uitkomst:</span> Voldoende</p>
         </td>
         <td></td>
@@ -672,15 +648,13 @@ Gerelateerd: [toegankelijkheidsverklaring NLDesignSystem.nl](/toegankelijkheidsv
       <tr>
         <th scope="row" id="criterion-331">3.3.1: Foutidentificatie</th>
         <td>
-          <h6>Hele sample</h6>
-          <p><span>Uitkomst:</span> Niet van toepassing</p>
+          <p><span>Uitkomst:</span> Voldoende</p>
         </td>
         <td></td>
       </tr>
       <tr>
         <th scope="row" id="criterion-332">3.3.2: Labels of instructies</th>
         <td>
-          <h6>Hele sample</h6>
           <p><span>Uitkomst:</span> Voldoende</p>
         </td>
         <td></td>
@@ -688,8 +662,7 @@ Gerelateerd: [toegankelijkheidsverklaring NLDesignSystem.nl](/toegankelijkheidsv
       <tr>
         <th scope="row" id="criterion-333">3.3.3: Foutsuggestie</th>
         <td>
-          <h6>Hele sample</h6>
-          <p><span>Uitkomst:</span> Niet van toepassing</p>
+          <p><span>Uitkomst:</span> Voldoende</p>
         </td>
         <td></td>
       </tr>
@@ -698,7 +671,6 @@ Gerelateerd: [toegankelijkheidsverklaring NLDesignSystem.nl](/toegankelijkheidsv
           3.3.4: Foutpreventie (wettelijk, financieel, gegevens
         </th>
         <td>
-          <h6>Hele sample</h6>
           <p><span>Uitkomst:</span> Niet van toepassing</p>
         </td>
         <td></td>
@@ -717,7 +689,6 @@ Gerelateerd: [toegankelijkheidsverklaring NLDesignSystem.nl](/toegankelijkheidsv
       <tr>
         <th scope="row" id="criterion-411">4.1.1: Parsen</th>
         <td>
-          <h6>Hele sample</h6>
           <p><span>Uitkomst:</span> Voldoende</p>
         </td>
         <td></td>
@@ -725,16 +696,17 @@ Gerelateerd: [toegankelijkheidsverklaring NLDesignSystem.nl](/toegankelijkheidsv
       <tr>
         <th scope="row" id="criterion-412">4.1.2: Naam, rol, waarde</th>
         <td>
-          <h6>Hele sample</h6>
-          <p><span>Uitkomst:</span> Voldoende</p>
+          <p><span>Uitkomst:</span> Onvoldoende</p>
         </td>
-        <td></td>
+        <td>
+          <p>Bevindingen:</p>
+                          <p>Op lagere resoluties is het actieve menu niet gemarkeerd met <code>aria-current</code></p>
+        </td>
       </tr>
       <tr>
         <th scope="row" id="criterion-413">4.1.3: Statusberichten</th>
         <td>
-          <h6>Hele sample</h6>
-          <p><span>Uitkomst:</span> Niet van toepassing</p>
+          <p><span>Uitkomst:</span> Voldoende</p>
         </td>
         <td></td>
       </tr>
@@ -742,80 +714,39 @@ Gerelateerd: [toegankelijkheidsverklaring NLDesignSystem.nl](/toegankelijkheidsv
   </table>
   <h2>Sample met getoetste webpagina&amp;#39;s</h2>
   <ol>
-    <li><span>Voorpagina</span> - <span>https://nldesignsystem.nl/</span></li>
-    <li>
-      <span>Documentatie</span> -
-      <span><a href="https://nldesignsystem.nl/documentatie" rel="nofollow">nldesignsystem.nl/documentatie</a></span>
-    </li>
-    <li>
-      <span>Richtlijnen</span> -
-      <span><a href="https://nldesignsystem.nl/richtlijnen" rel="nofollow">nldesignsystem.nl/richtlijnen</a></span>
-    </li>
-    <li>
-      <span>Formulierenoverzicht</span> -
-      <span><a href="https://nldesignsystem.nl/richtlijnen/formulieren/overzicht" rel="nofollow">nldesignsystem.nl/richtlijnen/formulieren/overzicht</a></span>
-    </li>
-    <li>
-      <span>Toegankelijkheid</span> -
-      <span
-        ><a href="https://nldesignsystem.nl/richtlijnen/formulieren" rel="nofollow">nldesignsystem.nl/richtlijnen/formulieren</a></span>
-    </li>
-    <li>
-      <span>Componenten</span> -
-      <span><a href="https://nldesignsystem.nl/componenten/" rel="nofollow">nldesignsystem.nl/componenten/</a>)</span>
-    </li>
-    <li>
-      <span>Onderzoek</span> - <span><a href="https://nldesignsystem.nl/onderzoek/" rel="nofollow">nldesignsystem.nl/onderzoek/</a></span>
-    </li>
-    <li>
-      <span>Project</span> - <span><a href="https://nldesignsystem.nl/project" rel="nofollow">nldesignsystem.nl/project</a></span>
-    </li>
-    <li>
-      <span>Kernteam</span> -
-      <span><a href="https://nldesignsystem.nl/project/kernteam" rel="nofollow">nldesignsystem.nl/project/kernteam</a></span>
-    </li>
-    <li>
-      <span>Blog</span> - <span><a href="https://nldesignsystem.nl/blog" rel="nofollow">nldesignsystem.nl/blog</a></span>
-    </li>
-    <li>
-      <span>Blogpost</span> -
-      <span><a href="https://nldesignsystem.nl/blog/design-systems-week-2023-komt-eraan" rel="nofollow">nldesignsystem.nl/blog/design-systems-week-2023-komt-eraan</a></span>
-    </li>
-    <li>
-      <span>Events met Engelse content</span> -
-      <span><a href="https://nldesignsystem.nl/events/design-systems-week-2023/en/overview" rel="nofollow">nldesignsystem.nl/events/design-systems-week-2023/en/overview</a></span>
-    </li>
-    <li>
-      <span>Timetable met Engelse content</span> -
-      <span><a href="https://nldesignsystem.nl/events/design-systems-week-2023/en/timetable" rel="nofollow">nldesignsystem.nl/events/design-systems-week-2023/en/timetable</a></span>
-    </li>
-    <li>
-      <span>Met Video</span> -
-      <span><a href="https://nldesignsystem.nl/events/design-systems-week-2023/programma/" rel="nofollow">nldesignsystem.nl/events/design-systems-week-2023/programma/</a></span>
-    </li>
-    <li>
-      <span>Event Heartbeat</span> -
-      <span><a href="https://nldesignsystem.nl/events/heartbeat" rel="nofollow">nldesignsystem.nl/events/heartbeat</a></span>
-    </li>
-    <li>
-      <span>Tijdschema (met tabel)</span> -
-      <span><a
-              href="https://nldesignsystem.nl/events/design-systems-week-2023/tijdschema/"
-              rel="nofollow"
-              >nldesignsystem.nl/events/design-systems-week-2023/tijdschema/</a></span>
-    </li>
-    <li>
-      <span>404 pagina</span> -
-      <span><a href="https://nldesignsystem.nl/asdasdasd" rel="nofollow">nldesignsystem.nl/asdasdasd</a></span>
-    </li>
-    <li>
-      <span>Links</span> - <span><a href="https://nldesignsystem.nl/project/links" rel="nofollow">nldesignsystem.nl/project/links</a></span>
-    </li>
-    <li>
-      <span>Toegankelijkheidsverklaring</span> -
-      <span><a href="https://nldesignsystem.nl/toegankelijkheidsverklaring" rel="nofollow">nldesignsystem.nl/toegankelijkheidsverklaring</a></span>
-    </li>
-  </ol>
+          <li><span>Home</span> - <span>https://gebruikersonderzoeken.nl/</span></li>
+          <li>
+            <span>Onderzoek bekijken</span> - <span>https://gebruikersonderzoeken.nl/docs/onderzoek-bekijken/</span>
+          </li>
+          <li><span>Onderzoek doen</span> - <span>https://gebruikersonderzoeken.nl/docs/onderzoek-doen/</span></li>
+          <li>
+            <span>Thema: Taal en begrijpelijkheid</span> -
+            <span>https://gebruikersonderzoeken.nl/docs/thema/taal-en-begrijpelijkheid/</span>
+          </li>
+          <li>
+            <span>Online vindbaarheid van hulp voor ondernemers</span> -
+            <span>https://gebruikersonderzoeken.nl/docs/onderzoek-bekijken/navigatie/utrecht-ondernemercentraal/</span>
+          </li>
+          <li>
+            <span>Privacyverklaring</span> - <span>https://gebruikersonderzoeken.nl/docs/privacyverklaring/</span>
+          </li>
+          <li><span>Checklist</span> - <span>https://gebruikersonderzoeken.nl/docs/onderzoek-doen/checklist/</span></li>
+          <li>
+            <span>Toestemmingsformulier</span> -
+            <span>https://gebruikersonderzoeken.nl/docs/onderzoek-doen/toestemmingsformulier/</span>
+          </li>
+          <li>
+            <span>Onderzoek Status Component van MijnZaken</span> -
+            <span>https://gebruikersonderzoeken.nl/docs/onderzoek-bekijken/mijn-zaken/utrecht-status-component/</span>
+          </li>
+          <li><span>404</span> - <span>https://gebruikersonderzoeken.nl/404</span></li>
+          <li>
+            <span>PDF Taalswitcher Inzichten</span> -
+            <span
+              >https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/logius-taalswitcher__taalswitch-inzichten.pdf</span
+            >
+          </li>
+        </ol>
 
   <h2>Webtechnologie</h2>
   <p>HTML,CSS,WAI-ARIA,JavaScript,SVG</p>
