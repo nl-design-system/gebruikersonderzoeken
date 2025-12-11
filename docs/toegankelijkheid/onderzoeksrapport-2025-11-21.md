@@ -30,7 +30,7 @@ Dit is het [WCAG EM Auditrapport](https://www.w3.org/WAI/test-evaluate/conforman
   <h2>Managementsamenvatting</h2>
 
   <p>
-    <!-- Todo na review onderzoek -->
+    Er is een aantal issues. Sommige problemen zijn in kantoorbestanden die door derden zijn aangeleverd. Sommige problemen zijn in de code van de website die in eigen beheer is. Er zijn ook enkele issues in de zoek-widget die door een derde partij wordt ontwikkeld.
   </p>
 
   <h2>Scope van de evaluatie</h2>
@@ -710,7 +710,7 @@ Dit is het [WCAG EM Auditrapport](https://www.w3.org/WAI/test-evaluate/conforman
       </tr>
     </tbody>
   </table>
-  <h2>Sample met getoetste webpagina&amp;#39;s</h2>
+  <h2>Sample met getoetste webpagina's</h2>
   <ol>
           <li><span>Home</span> - <span>https://gebruikersonderzoeken.nl/</span></li>
           <li>
