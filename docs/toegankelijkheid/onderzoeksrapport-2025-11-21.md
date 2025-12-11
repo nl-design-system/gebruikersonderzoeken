@@ -17,8 +17,6 @@ keywords:
 
 Dit is het [WCAG EM Auditrapport](https://www.w3.org/WAI/test-evaluate/conformance/wcag-em/) van gebruikersonderzoeken.nl.
 
-Gerelateerd: [toegankelijkheidsverklaring NLDesignSystem.nl](/toegankelijkheidsverklaring).
-
 <div class="wcag-em">
   <h2>Over deze evaluatie</h2>
 
