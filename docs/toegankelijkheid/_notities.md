@@ -1,5 +1,5 @@
 - Als je op een actieve pagina bent, zoals home, dan is die visueel gemarkeerd in het hoofdmenu. Als je dan hovert over een andere item in dat menu, verandert de styling van dat andere item. Deze verandering is voldoende voor 1.4.1 maar kan weinig opvallend zijn.
-- De website heeft 2 breakpoint bij 767px breedte die slechts 1 pixel schelen. 
+- De website heeft 2 breakpoint bij 767px breedte die slechts 1 pixel schelen.
 - De zoekfunctie werkt -niet- met de screenreader voiceover.
 - De toetsencombinatie van de zoekfunctie wordt op MacOS omschreven als "meta + k". Is dit voldoende?
 - De website heeft een vrij stricte CSP. Is dit nodig? Het beperkt mogelijkheden voor bezoekers.
