@@ -1,5 +1,5 @@
 ---
-title: Audit toegankelijkheid
+title: Audit toegankelijkheid versie 1.0
 hide_title: true
 hide_table_of_contents: false
 sidebar_label: Audit toegankelijkheid
@@ -15,7 +15,7 @@ keywords:
 
 # Audit toegankelijkheid gebruikersonderzoeken.nl versie 1.0
 
-Dit is het [WCAG EM Auditrapport](https://www.w3.org/WAI/test-evaluate/conformance/wcag-em/) van NLDesignSystem.nl.
+Dit is het [WCAG EM Auditrapport](https://www.w3.org/WAI/test-evaluate/conformance/wcag-em/) van gebruikersonderzoeken.nl.
 
 Gerelateerd: [toegankelijkheidsverklaring NLDesignSystem.nl](/toegankelijkheidsverklaring).
 
@@ -749,5 +749,5 @@ Gerelateerd: [toegankelijkheidsverklaring NLDesignSystem.nl](/toegankelijkheidsv
         </ol>
 
   <h2>Webtechnologie</h2>
-  <p>HTML,CSS,WAI-ARIA,JavaScript,SVG</p>
+  <p>HTML, CSS, WAI-ARIA, JavaScript, SVG</p>
 </div>
