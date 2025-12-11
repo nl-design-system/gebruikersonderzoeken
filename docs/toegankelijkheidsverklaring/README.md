@@ -9,14 +9,14 @@ keywords:
 
 # Toegankelijkheid Gebruikersonderzoeken.nl
 
-We streven ernaar voor de website gebruikersonderzoeken.nl te voldoen aan de [WCAG 2.1 AA richtlijnen](https://www.w3.org/TR/WCAG22/), zoals opgesteld door het W3C.
+We streven ernaar voor de website gebruikersonderzoeken.nl te voldoen aan de [WCAG 2.1 AA richtlijnen](https://www.w3.org/TR/WCAG21/), zoals opgesteld door het W3C.
 
 Ondervind je een probleem bij het gebruik van deze website of heb je hier een vraag over?
-Neem dan [contact](mailto:j.du.chatinier@utrecht.nl,info@nldesignsystem.nl) met ons op.
+Neem dan [contact](mailto:info@nldesignsystem.nl) met ons op.
 
 ### Rapporten
 
-- [Auditrapport v1 (21 november 2025)](/docs/toegankelijkheidsverklaring/toegankelijkrapport-2025)
+- [Audit toegankelijkheid versie 1.0 (21 november 2025)](/docs/toegankelijkheidsverklaring/toegankelijkrapport-2025)
 
 ### Huidige status
 
