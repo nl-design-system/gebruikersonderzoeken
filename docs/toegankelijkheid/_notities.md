@@ -1,0 +1,10 @@
+- Als je op een actieve pagina bent, zoals home, dan is die visueel gemarkeerd in het hoofdmenu. Als je dan hovert over een andere item in dat menu, verandert de styling van dat andere item. Deze verandering is voldoende voor 1.4.1 maar kan weinig opvallend zijn.
+- De website heeft 2 breakpoint bij 767px breedte die slechts 1 pixel schelen.
+- De zoekfunctie werkt -niet- met de screenreader voiceover.
+- De toetsencombinatie van de zoekfunctie wordt op MacOS omschreven als "meta + k". Is dit voldoende?
+- De website heeft een vrij stricte CSP. Is dit nodig? Het beperkt mogelijkheden voor bezoekers.
+- Op lage resoluties heeft het menu-icoon geen zichtbare tekst. Toevoeging zou een verbetering zijn.
+- Het id `logo-text` wordt 2 keer gebruikt
+- Op pagina's als https://gebruikersonderzoeken.nl/docs/onderzoek-doen/ worden vinkjes/emojis gebruikt. Dat is technisch geen probleem, maar levert wel veel ruis op.
+- De ToC op https://gebruikersonderzoeken.nl/docs/onderzoek-bekijken/navigatie/utrecht-ondernemercentraal/ zou goed in een `<nav>` passen
+- Op https://gebruikersonderzoeken.nl/docs/onderzoek-doen/checklist/ wordt gelinkt naar "gebruikersonderzoek doen" en in het menu staat tegelijk "onderzoek doen". Is dit specifiek genoeg op een website als deze?
