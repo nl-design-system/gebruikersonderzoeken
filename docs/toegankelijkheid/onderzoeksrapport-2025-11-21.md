@@ -1,5 +1,5 @@
 ---
-title: Audit toegankelijkheid versie 1.0
+title: Onderzoeksrapport 21 november 2025
 hide_title: true
 hide_table_of_contents: false
 sidebar_label: Audit toegankelijkheid
@@ -13,7 +13,7 @@ keywords:
   - accessibility
 ---
 
-# Audit toegankelijkheid gebruikersonderzoeken.nl versie 1.0
+# Onderzoeksrapport 21 november 2025 versie 1.0
 
 Dit is het [WCAG EM Auditrapport](https://www.w3.org/WAI/test-evaluate/conformance/wcag-em/) van gebruikersonderzoeken.nl.
 

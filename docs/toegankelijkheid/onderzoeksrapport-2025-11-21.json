@@ -1,0 +1,1336 @@
+{
+  "@context": {
+    "reporter": "http://github.com/w3c/wai-wcag-em-report-tool/",
+    "wcagem": "http://www.w3.org/TR/WCAG-EM/#",
+    "Evaluation": "wcagem:procedure",
+    "defineScope": "wcagem:step1",
+    "scope": "wcagem:step1a",
+    "step1b": { "@id": "wcagem:step1b", "@type": "@id" },
+    "conformanceTarget": "step1b",
+    "accessibilitySupportBaseline": "wcagem:step1c",
+    "additionalEvaluationRequirements": "wcagem:step1d",
+    "exploreTarget": "wcagem:step2",
+    "essentialFunctionality": "wcagem:step2b",
+    "pageTypeVariety": "wcagem:step2c",
+    "technologiesReliedUpon": "wcagem:step2d",
+    "selectSample": "wcagem:step3",
+    "structuredSample": "wcagem:step3a",
+    "randomSample": "wcagem:step3b",
+    "Website": "wcagem:website",
+    "Webpage": "wcagem:webpage",
+    "auditSample": "wcagem:step4",
+    "reportFindings": "wcagem:step5",
+    "documentSteps": "wcagem:step5a",
+    "commissioner": "wcagem:commissioner",
+    "evaluator": "wcagem:evaluator",
+    "evaluationSpecifics": "wcagem:step5b",
+    "WCAG": "http://www.w3.org/TR/WCAG/#",
+    "WCAG20": "http://www.w3.org/TR/WCAG20/#",
+    "WCAG21": "http://www.w3.org/TR/WCAG21/#",
+    "WAI": "http://www.w3.org/WAI/",
+    "A": "WAI:WCAG2A-Conformance",
+    "AA": "WAI:WCAG2AA-Conformance",
+    "AAA": "WAI:WCAG2AAA-Conformance",
+    "wcagVersion": "WAI:standards-guidelines/wcag/#versions",
+    "reportToolVersion": "wcagem:reportToolVersion",
+    "earl": "http://www.w3.org/ns/earl#",
+    "Assertion": "earl:Assertion",
+    "TestMode": "earl:TestMode",
+    "TestCriterion": "earl:TestCriterion",
+    "TestCase": "earl:TestCase",
+    "TestRequirement": "earl:TestRequirement",
+    "TestSubject": "earl:TestSubject",
+    "TestResult": "earl:TestResult",
+    "OutcomeValue": "earl:OutcomeValue",
+    "Pass": "earl:Pass",
+    "Fail": "earl:Fail",
+    "CannotTell": "earl:CannotTell",
+    "NotApplicable": "earl:NotApplicable",
+    "NotTested": "earl:NotTested",
+    "assertedBy": "earl:assertedBy",
+    "mode": "earl:mode",
+    "result": "earl:result",
+    "subject": "earl:subject",
+    "test": "earl:test",
+    "outcome": "earl:outcome",
+    "dcterms": "http://purl.org/dc/terms/",
+    "title": "dcterms:title",
+    "description": "dcterms:description",
+    "summary": "dcterms:summary",
+    "date": "dcterms:date",
+    "hasPart": "dcterms:hasPart",
+    "isPartOf": "dcterms:isPartOf",
+    "id": "@id",
+    "type": "@type",
+    "language": "@language"
+  },
+  "language": "en",
+  "type": "Evaluation",
+  "reportToolVersion": "3.0.3",
+  "defineScope": {
+    "id": "_:defineScope",
+    "scope": {
+      "description": "Alle webcontent van de publieke website van gebruikersonderzoeken op gebruikersonderzoeken.nl",
+      "title": "Gebruikersonderzoeken.nl"
+    },
+    "conformanceTarget": "AA",
+    "accessibilitySupportBaseline": "Safari met VoiceOver, Chrome, FireFox, iOS, Android.",
+    "additionalEvaluationRequirements": "In dit rapport worden alleen de gevonden problemen vermeld en geen oplossingen geboden.",
+    "wcagVersion": "2.1"
+  },
+  "exploreTarget": {
+    "id": "_:exploreTarget",
+    "essentialFunctionality": "",
+    "pageTypeVariety": "",
+    "technologiesReliedUpon": ["HTML", "CSS", "WAI-ARIA", "JavaScript", "SVG"]
+  },
+  "selectSample": {
+    "id": "_:selectSample",
+    "structuredSample": [
+      {
+        "id": "_:subject_2",
+        "type": ["TestSubject", "Webpage"],
+        "date": "2025-11-21T13:12:02.518Z",
+        "description": "https://gebruikersonderzoeken.nl/",
+        "title": "Home"
+      },
+      {
+        "id": "_:subject_3",
+        "type": ["TestSubject", "Webpage"],
+        "date": "2025-11-21T13:12:11.122Z",
+        "description": "https://gebruikersonderzoeken.nl/docs/onderzoek-bekijken/",
+        "title": "Onderzoek bekijken"
+      },
+      {
+        "id": "_:subject_4",
+        "type": ["TestSubject", "Webpage"],
+        "date": "2025-11-21T13:12:24.064Z",
+        "description": "https://gebruikersonderzoeken.nl/docs/onderzoek-doen/",
+        "title": "Onderzoek doen"
+      },
+      {
+        "id": "_:subject_5",
+        "type": ["TestSubject", "Webpage"],
+        "date": "2025-11-21T13:12:34.896Z",
+        "description": "https://gebruikersonderzoeken.nl/docs/thema/taal-en-begrijpelijkheid/",
+        "title": "Thema: Taal en begrijpelijkheid"
+      },
+      {
+        "id": "_:subject_6",
+        "type": ["TestSubject", "Webpage"],
+        "date": "2025-11-21T13:14:30.462Z",
+        "description": "https://gebruikersonderzoeken.nl/docs/onderzoek-bekijken/navigatie/utrecht-ondernemercentraal/",
+        "title": "Online vindbaarheid van hulp voor ondernemers"
+      },
+      {
+        "id": "_:subject_7",
+        "type": ["TestSubject", "Webpage"],
+        "date": "2025-11-21T13:14:46.944Z",
+        "description": "https://gebruikersonderzoeken.nl/docs/privacyverklaring/",
+        "title": "Privacyverklaring"
+      },
+      {
+        "id": "_:subject_8",
+        "type": ["TestSubject", "Webpage"],
+        "date": "2025-11-21T13:15:25.808Z",
+        "description": "https://gebruikersonderzoeken.nl/docs/onderzoek-doen/checklist/",
+        "title": "Checklist"
+      },
+      {
+        "id": "_:subject_9",
+        "type": ["TestSubject", "Webpage"],
+        "date": "2025-11-21T13:20:50.194Z",
+        "description": "https://gebruikersonderzoeken.nl/docs/onderzoek-doen/toestemmingsformulier/",
+        "title": "Toestemmingsformulier"
+      },
+      {
+        "id": "_:subject_10",
+        "type": ["TestSubject", "Webpage"],
+        "date": "2025-11-21T13:24:16.394Z",
+        "description": "https://gebruikersonderzoeken.nl/docs/onderzoek-bekijken/mijn-zaken/utrecht-status-component/",
+        "title": "Onderzoek Status Component van MijnZaken"
+      },
+      {
+        "id": "_:subject_11",
+        "type": ["TestSubject", "Webpage"],
+        "date": "2025-11-21T13:24:38.017Z",
+        "description": "https://gebruikersonderzoeken.nl/404",
+        "title": "404"
+      },
+      {
+        "id": "_:subject_13",
+        "type": ["TestSubject", "Webpage"],
+        "date": "2025-12-02T11:09:47.121Z",
+        "description": "https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/logius-taalswitcher__taalswitch-inzichten.pdf",
+        "title": "PDF Taalswitcher Inzichten"
+      }
+    ],
+    "randomSample": []
+  },
+  "auditSample": [
+    {
+      "type": "Assertion",
+      "date": "2025-11-21T13:04:39.197Z",
+      "mode": { "type": "TestMode", "@value": "earl:manual" },
+      "result": {
+        "type": "TestResult",
+        "date": "2025-12-02T09:38:33.757Z",
+        "description": "De zoekfunctie heeft een icoon om aan te geven dat er eerder op een term gezocht is. Dit icoon heeft geen tekstalternatief.\n\nDe zoekfunctie heeft een icoon om aan te geven dat een term opgeslagen is als favoriet. Dit icoon heeft geen tekstalternatief.\n\nDe zoekfunctie geeft met verschilende iconen aan wat voor soort zoekresultaten er zijn. Dit zijn onder andere een hekje, drie strepen onder elkaar, en een document-icoon. Deze afbeeldingen hebben geen tekst alternatief.\n\nOp https://gebruikersonderzoeken.nl/docs/onderzoek-bekijken/navigatie/utrecht-ondernemercentraal/ worden leestekens gebruikt om iets visueel te maken.\nZo is er de tekst: \"Product aanvragen -> hulp aanvragen\"\nVoor deze visuele informatie is geen tekstalternatieef aanwezig.\n\nOp https://gebruikersonderzoeken.nl/docs/onderzoek-bekijken/mijn-zaken/utrecht-status-component/ staat een afbeelding met de alternatieve tekst \"het PDS prototype\". Dit is een erg beperkte omschrijving van de afbeelding en onvoldoende alternatief. Mede omdat de afkorting \"PDS\" verder niet gebruikt of uitgelegd wordt.\n\nOp https://gebruikersonderzoeken.nl/docs/onderzoek-bekijken/mijn-zaken/utrecht-status-component/ staat een afbeelding met de alternatieve tekst \"Email screenshot\". Dit is een te beperkte omschrijving van de afbeelding en onvoldoende alternatief.\n\nOp https://gebruikersonderzoeken.nl/docs/onderzoek-bekijken/mijn-zaken/utrecht-status-component/ staat een afbeelding met de alternatieve tekst \"Mijnomgeving screenshot\". Dit is een te beperkte omschrijving van de afbeelding en onvoldoende alternatief.\n\nOp https://gebruikersonderzoeken.nl/docs/onderzoek-bekijken/mijn-zaken/utrecht-status-component/ staat een afbeelding met de alternatieve tekst \"het PDS Figma prototype\". Dit is een erg beperkte omschrijving van de afbeelding en onvoldoende alternatief. Mede omdat de afkorting \"PDS\" verder niet gebruikt of uitgelegd wordt, en de term Figma vrij abstract is.\nDe afbeelding met de tekst \"het PDS Figma prototype versie 2\" leunt op deze afbeelding, en schiet nu ook tekort.",
+        "outcome": { "id": "earl:failed", "type": ["OutcomeValue", "Fail"], "title": "Failed" }
+      },
+      "subject": {
+        "id": "_:subject_1",
+        "type": ["TestSubject", "Website"],
+        "date": "2025-11-21T13:04:24.315Z",
+        "description": "Alle webcontent van de publieke website van gebruikersonderzoeken op gebruikersonderzoeken.nl",
+        "title": "Gebruikersonderzoeken.nl"
+      },
+      "test": {
+        "id": "WCAG21:non-text-content",
+        "type": ["TestCriterion", "TestRequirement"],
+        "date": "2025-11-21T13:04:24.315Z"
+      }
+    },
+    {
+      "type": "Assertion",
+      "date": "2025-11-21T13:04:39.198Z",
+      "mode": { "type": "TestMode", "@value": "earl:manual" },
+      "result": {
+        "type": "TestResult",
+        "date": "2025-11-25T13:37:38.213Z",
+        "description": "",
+        "outcome": { "id": "earl:inapplicable", "type": ["OutcomeValue", "NotApplicable"], "title": "Not present" }
+      },
+      "subject": {
+        "id": "_:subject_1",
+        "type": ["TestSubject", "Website"],
+        "date": "2025-11-21T13:04:24.315Z",
+        "description": "Alle webcontent van de publieke website van gebruikersonderzoeken op gebruikersonderzoeken.nl",
+        "title": "Gebruikersonderzoeken.nl"
+      },
+      "test": {
+        "id": "WCAG21:audio-only-and-video-only-prerecorded",
+        "type": ["TestCriterion", "TestRequirement"],
+        "date": "2025-11-21T13:04:24.315Z"
+      }
+    },
+    {
+      "type": "Assertion",
+      "date": "2025-11-21T13:04:39.198Z",
+      "mode": { "type": "TestMode", "@value": "earl:manual" },
+      "result": {
+        "type": "TestResult",
+        "date": "2025-11-25T13:41:07.211Z",
+        "description": "",
+        "outcome": { "id": "earl:inapplicable", "type": ["OutcomeValue", "NotApplicable"], "title": "Not present" }
+      },
+      "subject": {
+        "id": "_:subject_1",
+        "type": ["TestSubject", "Website"],
+        "date": "2025-11-21T13:04:24.315Z",
+        "description": "Alle webcontent van de publieke website van gebruikersonderzoeken op gebruikersonderzoeken.nl",
+        "title": "Gebruikersonderzoeken.nl"
+      },
+      "test": {
+        "id": "WCAG21:captions-prerecorded",
+        "type": ["TestCriterion", "TestRequirement"],
+        "date": "2025-11-21T13:04:24.315Z"
+      }
+    },
+    {
+      "type": "Assertion",
+      "date": "2025-11-21T13:04:39.198Z",
+      "mode": { "type": "TestMode", "@value": "earl:manual" },
+      "result": {
+        "type": "TestResult",
+        "date": "2025-11-25T13:41:10.999Z",
+        "description": "",
+        "outcome": { "id": "earl:inapplicable", "type": ["OutcomeValue", "NotApplicable"], "title": "Not present" }
+      },
+      "subject": {
+        "id": "_:subject_1",
+        "type": ["TestSubject", "Website"],
+        "date": "2025-11-21T13:04:24.315Z",
+        "description": "Alle webcontent van de publieke website van gebruikersonderzoeken op gebruikersonderzoeken.nl",
+        "title": "Gebruikersonderzoeken.nl"
+      },
+      "test": {
+        "id": "WCAG21:audio-description-or-media-alternative-prerecorded",
+        "type": ["TestCriterion", "TestRequirement"],
+        "date": "2025-11-21T13:04:24.315Z"
+      }
+    },
+    {
+      "type": "Assertion",
+      "date": "2025-11-21T13:04:39.198Z",
+      "mode": { "type": "TestMode", "@value": "earl:manual" },
+      "result": {
+        "type": "TestResult",
+        "date": "2025-11-25T13:41:13.960Z",
+        "description": "",
+        "outcome": { "id": "earl:inapplicable", "type": ["OutcomeValue", "NotApplicable"], "title": "Not present" }
+      },
+      "subject": {
+        "id": "_:subject_1",
+        "type": ["TestSubject", "Website"],
+        "date": "2025-11-21T13:04:24.315Z",
+        "description": "Alle webcontent van de publieke website van gebruikersonderzoeken op gebruikersonderzoeken.nl",
+        "title": "Gebruikersonderzoeken.nl"
+      },
+      "test": {
+        "id": "WCAG21:captions-live",
+        "type": ["TestCriterion", "TestRequirement"],
+        "date": "2025-11-21T13:04:24.315Z"
+      }
+    },
+    {
+      "type": "Assertion",
+      "date": "2025-11-21T13:04:39.198Z",
+      "mode": { "type": "TestMode", "@value": "earl:manual" },
+      "result": {
+        "type": "TestResult",
+        "date": "2025-11-25T13:41:16.233Z",
+        "description": "",
+        "outcome": { "id": "earl:inapplicable", "type": ["OutcomeValue", "NotApplicable"], "title": "Not present" }
+      },
+      "subject": {
+        "id": "_:subject_1",
+        "type": ["TestSubject", "Website"],
+        "date": "2025-11-21T13:04:24.315Z",
+        "description": "Alle webcontent van de publieke website van gebruikersonderzoeken op gebruikersonderzoeken.nl",
+        "title": "Gebruikersonderzoeken.nl"
+      },
+      "test": {
+        "id": "WCAG21:audio-description-prerecorded",
+        "type": ["TestCriterion", "TestRequirement"],
+        "date": "2025-11-21T13:04:24.315Z"
+      }
+    },
+    {
+      "type": "Assertion",
+      "date": "2025-11-21T13:04:39.198Z",
+      "mode": { "type": "TestMode", "@value": "earl:manual" },
+      "result": {
+        "type": "TestResult",
+        "date": "2025-12-02T11:11:58.513Z",
+        "description": "De zoekfunctie heeft dikgedrukte teksten zoals \"Recent\" en \"Favorieten\". Deze zien eruit als kopteksten maar zijn niet zo opgemaakt in de code.\n\nDe zoekfunctie is opgemaakt met elementen met de rol listbox, en daaronder zoekresultaten met de rol option. De functie is echter een lijst met resultaten, en niet een lijst waarin zoekresultaten te selecteren zijn, zoals de rol suggereert.\n\nOp lagere resoluties is er geen landmark voor het hoofdmenu.\n\nOp https://gebruikersonderzoeken.nl/docs/onderzoek-doen/checklist/ staan vakjes bij elk item. In de code zijn dit disabled checkboxes. Dit komt niet overeen.\n\nOp https://gebruikersonderzoeken.nl/docs/onderzoek-doen/toestemmingsformulier/ staan er soortgelijke vakjes en code.\n\nDe PDF is niet getagged.\n\n",
+        "outcome": { "id": "earl:failed", "type": ["OutcomeValue", "Fail"], "title": "Failed" }
+      },
+      "subject": {
+        "id": "_:subject_1",
+        "type": ["TestSubject", "Website"],
+        "date": "2025-11-21T13:04:24.315Z",
+        "description": "Alle webcontent van de publieke website van gebruikersonderzoeken op gebruikersonderzoeken.nl",
+        "title": "Gebruikersonderzoeken.nl"
+      },
+      "test": {
+        "id": "WCAG21:info-and-relationships",
+        "type": ["TestCriterion", "TestRequirement"],
+        "date": "2025-11-21T13:04:24.316Z"
+      }
+    },
+    {
+      "type": "Assertion",
+      "date": "2025-11-21T13:04:39.198Z",
+      "mode": { "type": "TestMode", "@value": "earl:manual" },
+      "result": {
+        "type": "TestResult",
+        "date": "2025-11-28T13:39:56.119Z",
+        "description": "",
+        "outcome": { "id": "earl:passed", "type": ["OutcomeValue", "Pass"], "title": "Passed" }
+      },
+      "subject": {
+        "id": "_:subject_1",
+        "type": ["TestSubject", "Website"],
+        "date": "2025-11-21T13:04:24.315Z",
+        "description": "Alle webcontent van de publieke website van gebruikersonderzoeken op gebruikersonderzoeken.nl",
+        "title": "Gebruikersonderzoeken.nl"
+      },
+      "test": {
+        "id": "WCAG21:meaningful-sequence",
+        "type": ["TestCriterion", "TestRequirement"],
+        "date": "2025-11-21T13:04:24.316Z"
+      }
+    },
+    {
+      "type": "Assertion",
+      "date": "2025-11-21T13:04:39.198Z",
+      "mode": { "type": "TestMode", "@value": "earl:manual" },
+      "result": {
+        "type": "TestResult",
+        "date": "2025-11-28T13:40:01.404Z",
+        "description": "",
+        "outcome": { "id": "earl:passed", "type": ["OutcomeValue", "Pass"], "title": "Passed" }
+      },
+      "subject": {
+        "id": "_:subject_1",
+        "type": ["TestSubject", "Website"],
+        "date": "2025-11-21T13:04:24.315Z",
+        "description": "Alle webcontent van de publieke website van gebruikersonderzoeken op gebruikersonderzoeken.nl",
+        "title": "Gebruikersonderzoeken.nl"
+      },
+      "test": {
+        "id": "WCAG21:sensory-characteristics",
+        "type": ["TestCriterion", "TestRequirement"],
+        "date": "2025-11-21T13:04:24.316Z"
+      }
+    },
+    {
+      "type": "Assertion",
+      "date": "2025-11-21T13:04:39.198Z",
+      "mode": { "type": "TestMode", "@value": "earl:manual" },
+      "result": {
+        "type": "TestResult",
+        "date": "2025-11-28T13:55:55.157Z",
+        "description": "",
+        "outcome": { "id": "earl:passed", "type": ["OutcomeValue", "Pass"], "title": "Passed" }
+      },
+      "subject": {
+        "id": "_:subject_1",
+        "type": ["TestSubject", "Website"],
+        "date": "2025-11-21T13:04:24.315Z",
+        "description": "Alle webcontent van de publieke website van gebruikersonderzoeken op gebruikersonderzoeken.nl",
+        "title": "Gebruikersonderzoeken.nl"
+      },
+      "test": {
+        "id": "WCAG21:orientation",
+        "type": ["TestCriterion", "TestRequirement"],
+        "date": "2025-11-21T13:04:24.316Z"
+      }
+    },
+    {
+      "type": "Assertion",
+      "date": "2025-11-21T13:04:39.198Z",
+      "mode": { "type": "TestMode", "@value": "earl:manual" },
+      "result": {
+        "type": "TestResult",
+        "date": "2025-11-28T13:56:02.244Z",
+        "description": "",
+        "outcome": { "id": "earl:inapplicable", "type": ["OutcomeValue", "NotApplicable"], "title": "Not present" }
+      },
+      "subject": {
+        "id": "_:subject_1",
+        "type": ["TestSubject", "Website"],
+        "date": "2025-11-21T13:04:24.315Z",
+        "description": "Alle webcontent van de publieke website van gebruikersonderzoeken op gebruikersonderzoeken.nl",
+        "title": "Gebruikersonderzoeken.nl"
+      },
+      "test": {
+        "id": "WCAG21:identify-input-purpose",
+        "type": ["TestCriterion", "TestRequirement"],
+        "date": "2025-11-21T13:04:24.316Z"
+      }
+    },
+    {
+      "type": "Assertion",
+      "date": "2025-11-21T13:04:39.198Z",
+      "mode": { "type": "TestMode", "@value": "earl:manual" },
+      "result": {
+        "type": "TestResult",
+        "date": "2025-11-28T13:56:08.382Z",
+        "description": "",
+        "outcome": { "id": "earl:passed", "type": ["OutcomeValue", "Pass"], "title": "Passed" }
+      },
+      "subject": {
+        "id": "_:subject_1",
+        "type": ["TestSubject", "Website"],
+        "date": "2025-11-21T13:04:24.315Z",
+        "description": "Alle webcontent van de publieke website van gebruikersonderzoeken op gebruikersonderzoeken.nl",
+        "title": "Gebruikersonderzoeken.nl"
+      },
+      "test": {
+        "id": "WCAG21:use-of-color",
+        "type": ["TestCriterion", "TestRequirement"],
+        "date": "2025-11-21T13:04:24.316Z"
+      }
+    },
+    {
+      "type": "Assertion",
+      "date": "2025-11-21T13:04:39.198Z",
+      "mode": { "type": "TestMode", "@value": "earl:manual" },
+      "result": {
+        "type": "TestResult",
+        "date": "2025-11-28T14:02:29.684Z",
+        "description": "",
+        "outcome": { "id": "earl:inapplicable", "type": ["OutcomeValue", "NotApplicable"], "title": "Not present" }
+      },
+      "subject": {
+        "id": "_:subject_1",
+        "type": ["TestSubject", "Website"],
+        "date": "2025-11-21T13:04:24.315Z",
+        "description": "Alle webcontent van de publieke website van gebruikersonderzoeken op gebruikersonderzoeken.nl",
+        "title": "Gebruikersonderzoeken.nl"
+      },
+      "test": {
+        "id": "WCAG21:audio-control",
+        "type": ["TestCriterion", "TestRequirement"],
+        "date": "2025-11-21T13:04:24.316Z"
+      }
+    },
+    {
+      "type": "Assertion",
+      "date": "2025-11-21T13:04:39.198Z",
+      "mode": { "type": "TestMode", "@value": "earl:manual" },
+      "result": {
+        "type": "TestResult",
+        "date": "2025-12-02T11:17:04.487Z",
+        "description": "Op https://gebruikersonderzoeken.nl/404 is er een grote oranje tekst \"404\". Deze tekst heeft een contrast van 2.76:1 op de witte achtergrond. Dit is minder dan de vereiste 3:1 voor grote tekst.\n\nOp https://gebruikersonderzoeken.nl/404 zijn drie licht-blauwe links (\"Reload Page\", \"Back to Previous Page\" en \"home Page\"). Deze links hebben een contrast van 3.1:1 op de witte achtergrond. Dit is minder dan de vereiste 4.5:1 voor reguliere tekst.\n\nIn de header van PDF staat lichtgroene tekst op een groene achtergrond. Deze tekst heeft een contrast van  3.7:1. Dit is minder dan de vereiste 4.5:1 voor reguliere tekst.",
+        "outcome": { "id": "earl:failed", "type": ["OutcomeValue", "Fail"], "title": "Failed" }
+      },
+      "subject": {
+        "id": "_:subject_1",
+        "type": ["TestSubject", "Website"],
+        "date": "2025-11-21T13:04:24.315Z",
+        "description": "Alle webcontent van de publieke website van gebruikersonderzoeken op gebruikersonderzoeken.nl",
+        "title": "Gebruikersonderzoeken.nl"
+      },
+      "test": {
+        "id": "WCAG21:contrast-minimum",
+        "type": ["TestCriterion", "TestRequirement"],
+        "date": "2025-11-21T13:04:24.316Z"
+      }
+    },
+    {
+      "type": "Assertion",
+      "date": "2025-11-21T13:04:39.198Z",
+      "mode": { "type": "TestMode", "@value": "earl:manual" },
+      "result": {
+        "type": "TestResult",
+        "date": "2025-11-28T14:02:43.940Z",
+        "description": "",
+        "outcome": { "id": "earl:passed", "type": ["OutcomeValue", "Pass"], "title": "Passed" }
+      },
+      "subject": {
+        "id": "_:subject_1",
+        "type": ["TestSubject", "Website"],
+        "date": "2025-11-21T13:04:24.315Z",
+        "description": "Alle webcontent van de publieke website van gebruikersonderzoeken op gebruikersonderzoeken.nl",
+        "title": "Gebruikersonderzoeken.nl"
+      },
+      "test": {
+        "id": "WCAG21:resize-text",
+        "type": ["TestCriterion", "TestRequirement"],
+        "date": "2025-11-21T13:04:24.316Z"
+      }
+    },
+    {
+      "type": "Assertion",
+      "date": "2025-11-21T13:04:39.198Z",
+      "mode": { "type": "TestMode", "@value": "earl:manual" },
+      "result": {
+        "type": "TestResult",
+        "date": "2025-11-28T14:03:40.315Z",
+        "description": "",
+        "outcome": { "id": "earl:passed", "type": ["OutcomeValue", "Pass"], "title": "Passed" }
+      },
+      "subject": {
+        "id": "_:subject_1",
+        "type": ["TestSubject", "Website"],
+        "date": "2025-11-21T13:04:24.315Z",
+        "description": "Alle webcontent van de publieke website van gebruikersonderzoeken op gebruikersonderzoeken.nl",
+        "title": "Gebruikersonderzoeken.nl"
+      },
+      "test": {
+        "id": "WCAG21:images-of-text",
+        "type": ["TestCriterion", "TestRequirement"],
+        "date": "2025-11-21T13:04:24.316Z"
+      }
+    },
+    {
+      "type": "Assertion",
+      "date": "2025-11-21T13:04:39.198Z",
+      "mode": { "type": "TestMode", "@value": "earl:manual" },
+      "result": {
+        "type": "TestResult",
+        "date": "2025-12-02T09:44:32.360Z",
+        "description": "Op hoge resoluties geeft de zoekfunctie met afbeeldingen en tekst aan welke toetsen gebruikt kunnen worden voor de bediening. Op lage resoluties ontbreekt deze informatie.",
+        "outcome": { "id": "earl:failed", "type": ["OutcomeValue", "Fail"], "title": "Failed" }
+      },
+      "subject": {
+        "id": "_:subject_1",
+        "type": ["TestSubject", "Website"],
+        "date": "2025-11-21T13:04:24.315Z",
+        "description": "Alle webcontent van de publieke website van gebruikersonderzoeken op gebruikersonderzoeken.nl",
+        "title": "Gebruikersonderzoeken.nl"
+      },
+      "test": {
+        "id": "WCAG21:reflow",
+        "type": ["TestCriterion", "TestRequirement"],
+        "date": "2025-11-21T13:04:24.317Z"
+      }
+    },
+    {
+      "type": "Assertion",
+      "date": "2025-11-21T13:04:39.198Z",
+      "mode": { "type": "TestMode", "@value": "earl:manual" },
+      "result": {
+        "type": "TestResult",
+        "date": "2025-11-28T14:05:02.075Z",
+        "description": "",
+        "outcome": { "id": "earl:passed", "type": ["OutcomeValue", "Pass"], "title": "Passed" }
+      },
+      "subject": {
+        "id": "_:subject_1",
+        "type": ["TestSubject", "Website"],
+        "date": "2025-11-21T13:04:24.315Z",
+        "description": "Alle webcontent van de publieke website van gebruikersonderzoeken op gebruikersonderzoeken.nl",
+        "title": "Gebruikersonderzoeken.nl"
+      },
+      "test": {
+        "id": "WCAG21:non-text-contrast",
+        "type": ["TestCriterion", "TestRequirement"],
+        "date": "2025-11-21T13:04:24.317Z"
+      }
+    },
+    {
+      "type": "Assertion",
+      "date": "2025-11-21T13:04:39.198Z",
+      "mode": { "type": "TestMode", "@value": "earl:manual" },
+      "result": {
+        "type": "TestResult",
+        "date": "2025-11-28T14:06:39.929Z",
+        "description": "",
+        "outcome": { "id": "earl:passed", "type": ["OutcomeValue", "Pass"], "title": "Passed" }
+      },
+      "subject": {
+        "id": "_:subject_1",
+        "type": ["TestSubject", "Website"],
+        "date": "2025-11-21T13:04:24.315Z",
+        "description": "Alle webcontent van de publieke website van gebruikersonderzoeken op gebruikersonderzoeken.nl",
+        "title": "Gebruikersonderzoeken.nl"
+      },
+      "test": {
+        "id": "WCAG21:text-spacing",
+        "type": ["TestCriterion", "TestRequirement"],
+        "date": "2025-11-21T13:04:24.317Z"
+      }
+    },
+    {
+      "type": "Assertion",
+      "date": "2025-11-21T13:04:39.198Z",
+      "mode": { "type": "TestMode", "@value": "earl:manual" },
+      "result": {
+        "type": "TestResult",
+        "date": "2025-11-28T14:06:43.252Z",
+        "description": "",
+        "outcome": { "id": "earl:passed", "type": ["OutcomeValue", "Pass"], "title": "Passed" }
+      },
+      "subject": {
+        "id": "_:subject_1",
+        "type": ["TestSubject", "Website"],
+        "date": "2025-11-21T13:04:24.315Z",
+        "description": "Alle webcontent van de publieke website van gebruikersonderzoeken op gebruikersonderzoeken.nl",
+        "title": "Gebruikersonderzoeken.nl"
+      },
+      "test": {
+        "id": "WCAG21:content-on-hover-or-focus",
+        "type": ["TestCriterion", "TestRequirement"],
+        "date": "2025-11-21T13:04:24.317Z"
+      }
+    },
+    {
+      "type": "Assertion",
+      "date": "2025-11-21T13:04:39.198Z",
+      "mode": { "type": "TestMode", "@value": "earl:manual" },
+      "result": {
+        "type": "TestResult",
+        "date": "2025-11-28T14:09:09.643Z",
+        "description": "",
+        "outcome": { "id": "earl:passed", "type": ["OutcomeValue", "Pass"], "title": "Passed" }
+      },
+      "subject": {
+        "id": "_:subject_1",
+        "type": ["TestSubject", "Website"],
+        "date": "2025-11-21T13:04:24.315Z",
+        "description": "Alle webcontent van de publieke website van gebruikersonderzoeken op gebruikersonderzoeken.nl",
+        "title": "Gebruikersonderzoeken.nl"
+      },
+      "test": {
+        "id": "WCAG21:keyboard",
+        "type": ["TestCriterion", "TestRequirement"],
+        "date": "2025-11-21T13:04:24.317Z"
+      }
+    },
+    {
+      "type": "Assertion",
+      "date": "2025-11-21T13:04:39.198Z",
+      "mode": { "type": "TestMode", "@value": "earl:manual" },
+      "result": {
+        "type": "TestResult",
+        "date": "2025-11-28T14:10:17.928Z",
+        "description": "",
+        "outcome": { "id": "earl:passed", "type": ["OutcomeValue", "Pass"], "title": "Passed" }
+      },
+      "subject": {
+        "id": "_:subject_1",
+        "type": ["TestSubject", "Website"],
+        "date": "2025-11-21T13:04:24.315Z",
+        "description": "Alle webcontent van de publieke website van gebruikersonderzoeken op gebruikersonderzoeken.nl",
+        "title": "Gebruikersonderzoeken.nl"
+      },
+      "test": {
+        "id": "WCAG21:no-keyboard-trap",
+        "type": ["TestCriterion", "TestRequirement"],
+        "date": "2025-11-21T13:04:24.317Z"
+      }
+    },
+    {
+      "type": "Assertion",
+      "date": "2025-11-21T13:04:39.198Z",
+      "mode": { "type": "TestMode", "@value": "earl:manual" },
+      "result": {
+        "type": "TestResult",
+        "date": "2025-11-28T14:10:22.090Z",
+        "description": "",
+        "outcome": { "id": "earl:passed", "type": ["OutcomeValue", "Pass"], "title": "Passed" }
+      },
+      "subject": {
+        "id": "_:subject_1",
+        "type": ["TestSubject", "Website"],
+        "date": "2025-11-21T13:04:24.315Z",
+        "description": "Alle webcontent van de publieke website van gebruikersonderzoeken op gebruikersonderzoeken.nl",
+        "title": "Gebruikersonderzoeken.nl"
+      },
+      "test": {
+        "id": "WCAG21:character-key-shortcuts",
+        "type": ["TestCriterion", "TestRequirement"],
+        "date": "2025-11-21T13:04:24.317Z"
+      }
+    },
+    {
+      "type": "Assertion",
+      "date": "2025-11-21T13:04:39.198Z",
+      "mode": { "type": "TestMode", "@value": "earl:manual" },
+      "result": {
+        "type": "TestResult",
+        "date": "2025-11-28T14:15:14.544Z",
+        "description": "",
+        "outcome": { "id": "earl:inapplicable", "type": ["OutcomeValue", "NotApplicable"], "title": "Not present" }
+      },
+      "subject": {
+        "id": "_:subject_1",
+        "type": ["TestSubject", "Website"],
+        "date": "2025-11-21T13:04:24.315Z",
+        "description": "Alle webcontent van de publieke website van gebruikersonderzoeken op gebruikersonderzoeken.nl",
+        "title": "Gebruikersonderzoeken.nl"
+      },
+      "test": {
+        "id": "WCAG21:timing-adjustable",
+        "type": ["TestCriterion", "TestRequirement"],
+        "date": "2025-11-21T13:04:24.317Z"
+      }
+    },
+    {
+      "type": "Assertion",
+      "date": "2025-11-21T13:04:39.198Z",
+      "mode": { "type": "TestMode", "@value": "earl:manual" },
+      "result": {
+        "type": "TestResult",
+        "date": "2025-11-28T14:15:18.852Z",
+        "description": "",
+        "outcome": { "id": "earl:inapplicable", "type": ["OutcomeValue", "NotApplicable"], "title": "Not present" }
+      },
+      "subject": {
+        "id": "_:subject_1",
+        "type": ["TestSubject", "Website"],
+        "date": "2025-11-21T13:04:24.315Z",
+        "description": "Alle webcontent van de publieke website van gebruikersonderzoeken op gebruikersonderzoeken.nl",
+        "title": "Gebruikersonderzoeken.nl"
+      },
+      "test": {
+        "id": "WCAG21:pause-stop-hide",
+        "type": ["TestCriterion", "TestRequirement"],
+        "date": "2025-11-21T13:04:24.317Z"
+      }
+    },
+    {
+      "type": "Assertion",
+      "date": "2025-11-21T13:04:39.198Z",
+      "mode": { "type": "TestMode", "@value": "earl:manual" },
+      "result": {
+        "type": "TestResult",
+        "date": "2025-11-28T14:15:22.616Z",
+        "description": "",
+        "outcome": { "id": "earl:inapplicable", "type": ["OutcomeValue", "NotApplicable"], "title": "Not present" }
+      },
+      "subject": {
+        "id": "_:subject_1",
+        "type": ["TestSubject", "Website"],
+        "date": "2025-11-21T13:04:24.315Z",
+        "description": "Alle webcontent van de publieke website van gebruikersonderzoeken op gebruikersonderzoeken.nl",
+        "title": "Gebruikersonderzoeken.nl"
+      },
+      "test": {
+        "id": "WCAG21:three-flashes-or-below-threshold",
+        "type": ["TestCriterion", "TestRequirement"],
+        "date": "2025-11-21T13:04:24.317Z"
+      }
+    },
+    {
+      "type": "Assertion",
+      "date": "2025-11-21T13:04:39.198Z",
+      "mode": { "type": "TestMode", "@value": "earl:manual" },
+      "result": {
+        "type": "TestResult",
+        "date": "2025-11-28T14:15:27.465Z",
+        "description": "",
+        "outcome": { "id": "earl:passed", "type": ["OutcomeValue", "Pass"], "title": "Passed" }
+      },
+      "subject": {
+        "id": "_:subject_1",
+        "type": ["TestSubject", "Website"],
+        "date": "2025-11-21T13:04:24.315Z",
+        "description": "Alle webcontent van de publieke website van gebruikersonderzoeken op gebruikersonderzoeken.nl",
+        "title": "Gebruikersonderzoeken.nl"
+      },
+      "test": {
+        "id": "WCAG21:bypass-blocks",
+        "type": ["TestCriterion", "TestRequirement"],
+        "date": "2025-11-21T13:04:24.317Z"
+      }
+    },
+    {
+      "type": "Assertion",
+      "date": "2025-11-21T13:04:39.198Z",
+      "mode": { "type": "TestMode", "@value": "earl:manual" },
+      "result": {
+        "type": "TestResult",
+        "date": "2025-12-02T11:12:08.048Z",
+        "description": "Op https://gebruikersonderzoeken.nl/404 is de titel \"404 Not Found\". Deze titel is weinig omschrijvend.\n\nDe PDF heeft geen titel",
+        "outcome": { "id": "earl:failed", "type": ["OutcomeValue", "Fail"], "title": "Failed" }
+      },
+      "subject": {
+        "id": "_:subject_1",
+        "type": ["TestSubject", "Website"],
+        "date": "2025-11-21T13:04:24.315Z",
+        "description": "Alle webcontent van de publieke website van gebruikersonderzoeken op gebruikersonderzoeken.nl",
+        "title": "Gebruikersonderzoeken.nl"
+      },
+      "test": {
+        "id": "WCAG21:page-titled",
+        "type": ["TestCriterion", "TestRequirement"],
+        "date": "2025-11-21T13:04:24.317Z"
+      }
+    },
+    {
+      "type": "Assertion",
+      "date": "2025-11-21T13:04:39.198Z",
+      "mode": { "type": "TestMode", "@value": "earl:manual" },
+      "result": {
+        "type": "TestResult",
+        "date": "2025-11-28T14:15:36.946Z",
+        "description": "",
+        "outcome": { "id": "earl:passed", "type": ["OutcomeValue", "Pass"], "title": "Passed" }
+      },
+      "subject": {
+        "id": "_:subject_1",
+        "type": ["TestSubject", "Website"],
+        "date": "2025-11-21T13:04:24.315Z",
+        "description": "Alle webcontent van de publieke website van gebruikersonderzoeken op gebruikersonderzoeken.nl",
+        "title": "Gebruikersonderzoeken.nl"
+      },
+      "test": {
+        "id": "WCAG21:focus-order",
+        "type": ["TestCriterion", "TestRequirement"],
+        "date": "2025-11-21T13:04:24.317Z"
+      }
+    },
+    {
+      "type": "Assertion",
+      "date": "2025-11-21T13:04:39.198Z",
+      "mode": { "type": "TestMode", "@value": "earl:manual" },
+      "result": {
+        "type": "TestResult",
+        "date": "2025-11-28T14:15:42.985Z",
+        "description": "",
+        "outcome": { "id": "earl:passed", "type": ["OutcomeValue", "Pass"], "title": "Passed" }
+      },
+      "subject": {
+        "id": "_:subject_1",
+        "type": ["TestSubject", "Website"],
+        "date": "2025-11-21T13:04:24.315Z",
+        "description": "Alle webcontent van de publieke website van gebruikersonderzoeken op gebruikersonderzoeken.nl",
+        "title": "Gebruikersonderzoeken.nl"
+      },
+      "test": {
+        "id": "WCAG21:link-purpose-in-context",
+        "type": ["TestCriterion", "TestRequirement"],
+        "date": "2025-11-21T13:04:24.317Z"
+      }
+    },
+    {
+      "type": "Assertion",
+      "date": "2025-11-21T13:04:39.199Z",
+      "mode": { "type": "TestMode", "@value": "earl:manual" },
+      "result": {
+        "type": "TestResult",
+        "date": "2025-11-28T14:19:27.127Z",
+        "description": "",
+        "outcome": { "id": "earl:passed", "type": ["OutcomeValue", "Pass"], "title": "Passed" }
+      },
+      "subject": {
+        "id": "_:subject_1",
+        "type": ["TestSubject", "Website"],
+        "date": "2025-11-21T13:04:24.315Z",
+        "description": "Alle webcontent van de publieke website van gebruikersonderzoeken op gebruikersonderzoeken.nl",
+        "title": "Gebruikersonderzoeken.nl"
+      },
+      "test": {
+        "id": "WCAG21:multiple-ways",
+        "type": ["TestCriterion", "TestRequirement"],
+        "date": "2025-11-21T13:04:24.317Z"
+      }
+    },
+    {
+      "type": "Assertion",
+      "date": "2025-11-21T13:04:39.199Z",
+      "mode": { "type": "TestMode", "@value": "earl:manual" },
+      "result": {
+        "type": "TestResult",
+        "date": "2025-11-28T14:19:31.345Z",
+        "description": "",
+        "outcome": { "id": "earl:passed", "type": ["OutcomeValue", "Pass"], "title": "Passed" }
+      },
+      "subject": {
+        "id": "_:subject_1",
+        "type": ["TestSubject", "Website"],
+        "date": "2025-11-21T13:04:24.315Z",
+        "description": "Alle webcontent van de publieke website van gebruikersonderzoeken op gebruikersonderzoeken.nl",
+        "title": "Gebruikersonderzoeken.nl"
+      },
+      "test": {
+        "id": "WCAG21:headings-and-labels",
+        "type": ["TestCriterion", "TestRequirement"],
+        "date": "2025-11-21T13:04:24.317Z"
+      }
+    },
+    {
+      "type": "Assertion",
+      "date": "2025-11-21T13:04:39.199Z",
+      "mode": { "type": "TestMode", "@value": "earl:manual" },
+      "result": {
+        "type": "TestResult",
+        "date": "2025-11-28T14:19:33.850Z",
+        "description": "",
+        "outcome": { "id": "earl:passed", "type": ["OutcomeValue", "Pass"], "title": "Passed" }
+      },
+      "subject": {
+        "id": "_:subject_1",
+        "type": ["TestSubject", "Website"],
+        "date": "2025-11-21T13:04:24.315Z",
+        "description": "Alle webcontent van de publieke website van gebruikersonderzoeken op gebruikersonderzoeken.nl",
+        "title": "Gebruikersonderzoeken.nl"
+      },
+      "test": {
+        "id": "WCAG21:focus-visible",
+        "type": ["TestCriterion", "TestRequirement"],
+        "date": "2025-11-21T13:04:24.317Z"
+      }
+    },
+    {
+      "type": "Assertion",
+      "date": "2025-11-21T13:04:39.199Z",
+      "mode": { "type": "TestMode", "@value": "earl:manual" },
+      "result": {
+        "type": "TestResult",
+        "date": "2025-11-28T14:19:42.249Z",
+        "description": "",
+        "outcome": { "id": "earl:passed", "type": ["OutcomeValue", "Pass"], "title": "Passed" }
+      },
+      "subject": {
+        "id": "_:subject_1",
+        "type": ["TestSubject", "Website"],
+        "date": "2025-11-21T13:04:24.315Z",
+        "description": "Alle webcontent van de publieke website van gebruikersonderzoeken op gebruikersonderzoeken.nl",
+        "title": "Gebruikersonderzoeken.nl"
+      },
+      "test": {
+        "id": "WCAG21:pointer-gestures",
+        "type": ["TestCriterion", "TestRequirement"],
+        "date": "2025-11-21T13:04:24.317Z"
+      }
+    },
+    {
+      "type": "Assertion",
+      "date": "2025-11-21T13:04:39.199Z",
+      "mode": { "type": "TestMode", "@value": "earl:manual" },
+      "result": {
+        "type": "TestResult",
+        "date": "2025-11-28T14:19:45.688Z",
+        "description": "",
+        "outcome": { "id": "earl:passed", "type": ["OutcomeValue", "Pass"], "title": "Passed" }
+      },
+      "subject": {
+        "id": "_:subject_1",
+        "type": ["TestSubject", "Website"],
+        "date": "2025-11-21T13:04:24.315Z",
+        "description": "Alle webcontent van de publieke website van gebruikersonderzoeken op gebruikersonderzoeken.nl",
+        "title": "Gebruikersonderzoeken.nl"
+      },
+      "test": {
+        "id": "WCAG21:pointer-cancellation",
+        "type": ["TestCriterion", "TestRequirement"],
+        "date": "2025-11-21T13:04:24.317Z"
+      }
+    },
+    {
+      "type": "Assertion",
+      "date": "2025-11-21T13:04:39.199Z",
+      "mode": { "type": "TestMode", "@value": "earl:manual" },
+      "result": {
+        "type": "TestResult",
+        "date": "2025-11-28T14:19:47.673Z",
+        "description": "",
+        "outcome": { "id": "earl:passed", "type": ["OutcomeValue", "Pass"], "title": "Passed" }
+      },
+      "subject": {
+        "id": "_:subject_1",
+        "type": ["TestSubject", "Website"],
+        "date": "2025-11-21T13:04:24.315Z",
+        "description": "Alle webcontent van de publieke website van gebruikersonderzoeken op gebruikersonderzoeken.nl",
+        "title": "Gebruikersonderzoeken.nl"
+      },
+      "test": {
+        "id": "WCAG21:label-in-name",
+        "type": ["TestCriterion", "TestRequirement"],
+        "date": "2025-11-21T13:04:24.317Z"
+      }
+    },
+    {
+      "type": "Assertion",
+      "date": "2025-11-21T13:04:39.199Z",
+      "mode": { "type": "TestMode", "@value": "earl:manual" },
+      "result": {
+        "type": "TestResult",
+        "date": "2025-11-28T14:19:52.359Z",
+        "description": "",
+        "outcome": { "id": "earl:passed", "type": ["OutcomeValue", "Pass"], "title": "Passed" }
+      },
+      "subject": {
+        "id": "_:subject_1",
+        "type": ["TestSubject", "Website"],
+        "date": "2025-11-21T13:04:24.315Z",
+        "description": "Alle webcontent van de publieke website van gebruikersonderzoeken op gebruikersonderzoeken.nl",
+        "title": "Gebruikersonderzoeken.nl"
+      },
+      "test": {
+        "id": "WCAG21:motion-actuation",
+        "type": ["TestCriterion", "TestRequirement"],
+        "date": "2025-11-21T13:04:24.317Z"
+      }
+    },
+    {
+      "type": "Assertion",
+      "date": "2025-11-21T13:04:39.199Z",
+      "mode": { "type": "TestMode", "@value": "earl:manual" },
+      "result": {
+        "type": "TestResult",
+        "date": "2025-12-02T11:12:28.093Z",
+        "description": "De PDF heeft geen ingestelde taal.",
+        "outcome": { "id": "earl:failed", "type": ["OutcomeValue", "Fail"], "title": "Failed" }
+      },
+      "subject": {
+        "id": "_:subject_1",
+        "type": ["TestSubject", "Website"],
+        "date": "2025-11-21T13:04:24.315Z",
+        "description": "Alle webcontent van de publieke website van gebruikersonderzoeken op gebruikersonderzoeken.nl",
+        "title": "Gebruikersonderzoeken.nl"
+      },
+      "test": {
+        "id": "WCAG21:language-of-page",
+        "type": ["TestCriterion", "TestRequirement"],
+        "date": "2025-11-21T13:04:24.317Z"
+      }
+    },
+    {
+      "type": "Assertion",
+      "date": "2025-11-21T13:04:39.199Z",
+      "mode": { "type": "TestMode", "@value": "earl:manual" },
+      "result": {
+        "type": "TestResult",
+        "date": "2025-11-28T14:20:36.316Z",
+        "description": "",
+        "outcome": { "id": "earl:passed", "type": ["OutcomeValue", "Pass"], "title": "Passed" }
+      },
+      "subject": {
+        "id": "_:subject_1",
+        "type": ["TestSubject", "Website"],
+        "date": "2025-11-21T13:04:24.315Z",
+        "description": "Alle webcontent van de publieke website van gebruikersonderzoeken op gebruikersonderzoeken.nl",
+        "title": "Gebruikersonderzoeken.nl"
+      },
+      "test": {
+        "id": "WCAG21:language-of-parts",
+        "type": ["TestCriterion", "TestRequirement"],
+        "date": "2025-11-21T13:04:24.317Z"
+      }
+    },
+    {
+      "type": "Assertion",
+      "date": "2025-11-21T13:04:39.199Z",
+      "mode": { "type": "TestMode", "@value": "earl:manual" },
+      "result": {
+        "type": "TestResult",
+        "date": "2025-11-28T14:20:46.737Z",
+        "description": "",
+        "outcome": { "id": "earl:passed", "type": ["OutcomeValue", "Pass"], "title": "Passed" }
+      },
+      "subject": {
+        "id": "_:subject_1",
+        "type": ["TestSubject", "Website"],
+        "date": "2025-11-21T13:04:24.315Z",
+        "description": "Alle webcontent van de publieke website van gebruikersonderzoeken op gebruikersonderzoeken.nl",
+        "title": "Gebruikersonderzoeken.nl"
+      },
+      "test": {
+        "id": "WCAG21:on-focus",
+        "type": ["TestCriterion", "TestRequirement"],
+        "date": "2025-11-21T13:04:24.317Z"
+      }
+    },
+    {
+      "type": "Assertion",
+      "date": "2025-11-21T13:04:39.199Z",
+      "mode": { "type": "TestMode", "@value": "earl:manual" },
+      "result": {
+        "type": "TestResult",
+        "date": "2025-11-28T14:20:51.058Z",
+        "description": "",
+        "outcome": { "id": "earl:passed", "type": ["OutcomeValue", "Pass"], "title": "Passed" }
+      },
+      "subject": {
+        "id": "_:subject_1",
+        "type": ["TestSubject", "Website"],
+        "date": "2025-11-21T13:04:24.315Z",
+        "description": "Alle webcontent van de publieke website van gebruikersonderzoeken op gebruikersonderzoeken.nl",
+        "title": "Gebruikersonderzoeken.nl"
+      },
+      "test": {
+        "id": "WCAG21:on-input",
+        "type": ["TestCriterion", "TestRequirement"],
+        "date": "2025-11-21T13:04:24.317Z"
+      }
+    },
+    {
+      "type": "Assertion",
+      "date": "2025-11-21T13:04:39.199Z",
+      "mode": { "type": "TestMode", "@value": "earl:manual" },
+      "result": {
+        "type": "TestResult",
+        "date": "2025-11-28T14:20:53.929Z",
+        "description": "",
+        "outcome": { "id": "earl:passed", "type": ["OutcomeValue", "Pass"], "title": "Passed" }
+      },
+      "subject": {
+        "id": "_:subject_1",
+        "type": ["TestSubject", "Website"],
+        "date": "2025-11-21T13:04:24.315Z",
+        "description": "Alle webcontent van de publieke website van gebruikersonderzoeken op gebruikersonderzoeken.nl",
+        "title": "Gebruikersonderzoeken.nl"
+      },
+      "test": {
+        "id": "WCAG21:consistent-navigation",
+        "type": ["TestCriterion", "TestRequirement"],
+        "date": "2025-11-21T13:04:24.317Z"
+      }
+    },
+    {
+      "type": "Assertion",
+      "date": "2025-11-21T13:04:39.199Z",
+      "mode": { "type": "TestMode", "@value": "earl:manual" },
+      "result": {
+        "type": "TestResult",
+        "date": "2025-11-28T14:21:02.948Z",
+        "description": "",
+        "outcome": { "id": "earl:passed", "type": ["OutcomeValue", "Pass"], "title": "Passed" }
+      },
+      "subject": {
+        "id": "_:subject_1",
+        "type": ["TestSubject", "Website"],
+        "date": "2025-11-21T13:04:24.315Z",
+        "description": "Alle webcontent van de publieke website van gebruikersonderzoeken op gebruikersonderzoeken.nl",
+        "title": "Gebruikersonderzoeken.nl"
+      },
+      "test": {
+        "id": "WCAG21:consistent-identification",
+        "type": ["TestCriterion", "TestRequirement"],
+        "date": "2025-11-21T13:04:24.317Z"
+      }
+    },
+    {
+      "type": "Assertion",
+      "date": "2025-11-21T13:04:39.199Z",
+      "mode": { "type": "TestMode", "@value": "earl:manual" },
+      "result": {
+        "type": "TestResult",
+        "date": "2025-11-28T14:21:08.221Z",
+        "description": "",
+        "outcome": { "id": "earl:passed", "type": ["OutcomeValue", "Pass"], "title": "Passed" }
+      },
+      "subject": {
+        "id": "_:subject_1",
+        "type": ["TestSubject", "Website"],
+        "date": "2025-11-21T13:04:24.315Z",
+        "description": "Alle webcontent van de publieke website van gebruikersonderzoeken op gebruikersonderzoeken.nl",
+        "title": "Gebruikersonderzoeken.nl"
+      },
+      "test": {
+        "id": "WCAG21:error-identification",
+        "type": ["TestCriterion", "TestRequirement"],
+        "date": "2025-11-21T13:04:24.317Z"
+      }
+    },
+    {
+      "type": "Assertion",
+      "date": "2025-11-21T13:04:39.199Z",
+      "mode": { "type": "TestMode", "@value": "earl:manual" },
+      "result": {
+        "type": "TestResult",
+        "date": "2025-11-28T14:21:18.188Z",
+        "description": "",
+        "outcome": { "id": "earl:passed", "type": ["OutcomeValue", "Pass"], "title": "Passed" }
+      },
+      "subject": {
+        "id": "_:subject_1",
+        "type": ["TestSubject", "Website"],
+        "date": "2025-11-21T13:04:24.315Z",
+        "description": "Alle webcontent van de publieke website van gebruikersonderzoeken op gebruikersonderzoeken.nl",
+        "title": "Gebruikersonderzoeken.nl"
+      },
+      "test": {
+        "id": "WCAG21:labels-or-instructions",
+        "type": ["TestCriterion", "TestRequirement"],
+        "date": "2025-11-21T13:04:24.317Z"
+      }
+    },
+    {
+      "type": "Assertion",
+      "date": "2025-11-21T13:04:39.199Z",
+      "mode": { "type": "TestMode", "@value": "earl:manual" },
+      "result": {
+        "type": "TestResult",
+        "date": "2025-11-28T14:21:23.444Z",
+        "description": "",
+        "outcome": { "id": "earl:passed", "type": ["OutcomeValue", "Pass"], "title": "Passed" }
+      },
+      "subject": {
+        "id": "_:subject_1",
+        "type": ["TestSubject", "Website"],
+        "date": "2025-11-21T13:04:24.315Z",
+        "description": "Alle webcontent van de publieke website van gebruikersonderzoeken op gebruikersonderzoeken.nl",
+        "title": "Gebruikersonderzoeken.nl"
+      },
+      "test": {
+        "id": "WCAG21:error-suggestion",
+        "type": ["TestCriterion", "TestRequirement"],
+        "date": "2025-11-21T13:04:24.317Z"
+      }
+    },
+    {
+      "type": "Assertion",
+      "date": "2025-11-21T13:04:39.199Z",
+      "mode": { "type": "TestMode", "@value": "earl:manual" },
+      "result": {
+        "type": "TestResult",
+        "date": "2025-11-28T14:22:56.857Z",
+        "description": "",
+        "outcome": { "id": "earl:inapplicable", "type": ["OutcomeValue", "NotApplicable"], "title": "Not present" }
+      },
+      "subject": {
+        "id": "_:subject_1",
+        "type": ["TestSubject", "Website"],
+        "date": "2025-11-21T13:04:24.315Z",
+        "description": "Alle webcontent van de publieke website van gebruikersonderzoeken op gebruikersonderzoeken.nl",
+        "title": "Gebruikersonderzoeken.nl"
+      },
+      "test": {
+        "id": "WCAG21:error-prevention-legal-financial-data",
+        "type": ["TestCriterion", "TestRequirement"],
+        "date": "2025-11-21T13:04:24.317Z"
+      }
+    },
+    {
+      "type": "Assertion",
+      "date": "2025-11-21T13:04:39.199Z",
+      "mode": { "type": "TestMode", "@value": "earl:manual" },
+      "result": {
+        "type": "TestResult",
+        "date": "2025-12-02T09:58:07.031Z",
+        "description": "Op lagere resoluties is het actieve menu niet gemarkeerd met `aria-current`\n\n",
+        "outcome": { "id": "earl:failed", "type": ["OutcomeValue", "Fail"], "title": "Failed" }
+      },
+      "subject": {
+        "id": "_:subject_1",
+        "type": ["TestSubject", "Website"],
+        "date": "2025-11-21T13:04:24.315Z",
+        "description": "Alle webcontent van de publieke website van gebruikersonderzoeken op gebruikersonderzoeken.nl",
+        "title": "Gebruikersonderzoeken.nl"
+      },
+      "test": {
+        "id": "WCAG21:name-role-value",
+        "type": ["TestCriterion", "TestRequirement"],
+        "date": "2025-11-21T13:04:24.317Z"
+      }
+    },
+    {
+      "type": "Assertion",
+      "date": "2025-11-21T13:04:39.199Z",
+      "mode": { "type": "TestMode", "@value": "earl:manual" },
+      "result": {
+        "type": "TestResult",
+        "date": "2025-11-28T14:25:48.936Z",
+        "description": "",
+        "outcome": { "id": "earl:passed", "type": ["OutcomeValue", "Pass"], "title": "Passed" }
+      },
+      "subject": {
+        "id": "_:subject_1",
+        "type": ["TestSubject", "Website"],
+        "date": "2025-11-21T13:04:24.315Z",
+        "description": "Alle webcontent van de publieke website van gebruikersonderzoeken op gebruikersonderzoeken.nl",
+        "title": "Gebruikersonderzoeken.nl"
+      },
+      "test": {
+        "id": "WCAG21:status-messages",
+        "type": ["TestCriterion", "TestRequirement"],
+        "date": "2025-11-21T13:04:24.317Z"
+      }
+    },
+    {
+      "type": "Assertion",
+      "date": "2025-11-21T13:06:03.729Z",
+      "mode": { "type": "TestMode", "@value": "earl:manual" },
+      "result": {
+        "type": "TestResult",
+        "date": "2025-11-28T14:23:01.317Z",
+        "description": "",
+        "outcome": { "id": "earl:passed", "type": ["OutcomeValue", "Pass"], "title": "Passed" }
+      },
+      "subject": {
+        "id": "_:subject_1",
+        "type": ["TestSubject", "Website"],
+        "date": "2025-11-21T13:04:24.315Z",
+        "description": "Alle webcontent van de publieke website van gebruikersonderzoeken op gebruikersonderzoeken.nl",
+        "title": "Gebruikersonderzoeken.nl"
+      },
+      "test": {
+        "id": "WCAG21:parsing",
+        "type": ["TestCriterion", "TestRequirement"],
+        "date": "2025-11-21T13:04:24.317Z"
+      }
+    }
+  ],
+  "reportFindings": {
+    "date": { "type": "http://www.w3.org/TR/NOTE-datetime", "@value": "Fri Nov 21 2025" },
+    "summary": "",
+    "title": "Audit toegankelijkheid gebruikersonderzoeken.nl",
+    "commissioner": "",
+    "evaluator": "Erik Kroes",
+    "documentSteps": [
+      { "id": "_:about" },
+      { "id": "_:defineScope" },
+      { "id": "_:exploreTarget" },
+      { "id": "_:selectSample" }
+    ],
+    "evaluationSpecifics": ""
+  }
+}
