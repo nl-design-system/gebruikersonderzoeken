@@ -46,9 +46,9 @@ Dit is het [WCAG EM Auditrapport](https://www.w3.org/WAI/test-evaluate/conforman
     <dd>2.1</dd>
     <dt>Conformiteitsdoel</dt>
     <dd>AA</dd>
-    <dt>Basisniveau van toegankelijkheid-ondersteuning</dt>
+    <dt>Basisniveau van toegankelijkheid-ondersteuning, en gebruikte software</dt>
     <dd>
-      Safari 26 met VoiceOver, Chrome 143, FireFox 145, iOS 26, Android 16. 
+      Safari 26 met VoiceOver, Chrome 143, FireFox 145, iOS 26, Android 16 in overeenstemming met de <a href="https://nldesignsystem.nl/baseline/2025-11/">Baseline van NL Design System</a>. 
     </dd>
     <dt>Verdere onderzoeksvereisten</dt>
     <dd>
