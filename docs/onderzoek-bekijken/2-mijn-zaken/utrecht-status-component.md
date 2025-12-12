@@ -50,7 +50,9 @@ Op het moment dat je iets online besteld hebt ben je als gebruiker de controle k
 
 Het Status component is een onderdeel van een app of site waarin getoond wordt waar in het proces de aanvraag van de inwoner zich bevindt. Een voorbeeld hiervan staat hieronder.
 
-![het PDS  prototype](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/utrecht-status-component__status-pagina.png)
+Het prototype van het statuscomponent met 5 voorbeeldstappen. Ontwerp voor een smal scherm. Koptekst: Status. Volgordelijke lijst waarvan de voor elk item een icoon staat. Het eerste item heeft een vinkje en een uitklapknop: Delename aan geluidsonderzoek. Het tweede item heeft een opvallend groene cirkel met het nummer 2: Onderzoek naar geluidsoverlast. Het derde item heeft een klein groen cirkeltje: Afspraak meten geluidsoverlast gemaakt (afspraak op 24 mei). Dit item lager in de visuele hierarchie dan de andere items, doordat de cirkel kleiner is en de tekst als enige niet vetgedrukt is. Het vierde en vijfde item hebben een subtiel grijs bolletje met nummers 3 en 4: "Uitvoeren van maatregelen" en "Maatregelen zijn uitgevoerd. Verwachte datum klaar: 4 juli 2022". De icoontjes van item 1, 2 en 3 zijn verbonden met een groene lijn. Daarna zijn de items verbonden met een subtielere grijze stippellijn.
+
+![Het prototype van het statuscomponent met 5 voorbeeldstappen](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/utrecht-status-component__status-pagina.png)
 
 We hebben de onderzoeksvraag opgesplitst in een aantal vragen die we met dit onderzoek willen beantwoorden.
 
@@ -116,7 +118,26 @@ De inhoud van de brief kreeg een aantal opmerkingen:
 
 De volgende inzichten gaan over de e-mail die verstuurd wordt als notificatie.
 
-![Email screenshot](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/utrecht-status-component__email.png)
+> Onderwerp: U heeft zich aangemeld voor de actie 'woningverbetering verkeersgeluid'
+>
+> Beste Erwin,
+>
+> U heeft ons laten weten dat u meedoet met de actie woningverbetering verkeersgeluid'.
+> De gemeente kijkt of u in aanmerking komt voor de gratis geluidsisolatie. De eerste stap hierbij is een geluidsonderzoek. Voor dat onderzoek komt er een adviseur langs om uw woning te bekijken. Hiervoor maakt de adviseur een afspraak met u.
+>
+> Verwachte datum uitkomst onderzoek\
+> 12 juni 2022
+>
+> Zaaknummer\
+> 11234899818
+>
+> Adres voor gratis geluidsisolatie\
+> Funenpark 151\
+> 1018 AK Den Haag
+>
+> U hoeft niets te doen. De adviseur neemt contact met u op. U krijgt een e-mail als de uitkomst van het onderzoek er is.
+
+![Screenshot van de e-mail in Outlook](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/utrecht-status-component__email.png)
 
 #### De 'next steps' zijn duidelijk na het lezen van de e-mail
 
@@ -154,7 +175,7 @@ Navigeren naar de zaak ging snel en zonder verwarring. Een paar soepele kliks zo
 
 De volgende inzichten gaan over het Status component en de pagina waarin het component zich bevindt.
 
-![het PDS  prototype](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/utrecht-status-component__status-pagina.png)
+![Dezelfde afbeelding als eerder: het prototype van het statuscomponent met 5 voorbeeldstappen](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/utrecht-status-component__status-pagina.png)
 
 #### Het Status component wordt als optimaal ervaren
 
@@ -184,7 +205,9 @@ Er is een tweede versie getest van het klikbare prototype met daarin een andere 
 
 De tweede versie met andere status volgorde:
 
-![het PDS Figma prototype versie 2](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/utrecht-status-component__key-info-2.png)
+Screenshot van een iPhone met daarin een nieuw prototype van het status component, waarbij de belangrijkste verandering is dat de lijst met items in twee groepen is verdeeld: het eerste, tweede en derde item met groene iconen staan onder de kop Status, de item vierde item en vijfde item met subtiele grijze iconen staan onder de kop "Wat er nog moet gebeuren". Het derde en vierde item zijn niet meer verbonden met een streep, daar staat nu een kop.
+
+![Het volgende prototype van de statuscomponent](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/utrecht-status-component__key-info-2.png)
 
 ## Wat is er mee gedaan?
 
