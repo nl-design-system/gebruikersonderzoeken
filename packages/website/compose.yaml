@@ -1,0 +1,12 @@
+---
+version: "3"
+services:
+  www:
+    volumes:
+      - ./dist:/usr/local/apache2/htdocs/
+      - ./public/.htaccess:/usr/local/apache2/htdocs/.htaccess
+      - ./httpd.conf:/usr/local/apache2/conf/httpd.conf
+    build:
+      dockerfile: Dockerfile
+    ports:
+      - "8080:80"
