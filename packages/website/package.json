@@ -15,6 +15,7 @@
   },
   "type": "module",
   "scripts": {
+    "clean": "rimraf .astro/ dist/",
     "dev": "astro dev",
     "build": "astro build",
     "preview": "astro preview",
@@ -60,6 +61,7 @@
     "invokers-polyfill": "0.5.7",
     "rehype-parse": "9.0.1",
     "rehype-stringify": "10.0.1",
+    "rimraf": "6.1.2",
     "tsx": "4.20.6",
     "unified": "11.0.5"
   },
