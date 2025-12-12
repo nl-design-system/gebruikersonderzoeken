@@ -62,9 +62,9 @@ De stijl en toon van de pagina’s verschillen sterk. Ondernemers die op de Onde
 
 Taal die vertrouwen wekt en uitnodigt tot actie kan het verschil maken. Vermijd ambtelijke formuleringen en kies voor korte en actieve zinnen. Bijvoorbeeld: “Je/U staat er niet alleen voor” of “Samen kijken we wat mogelijk is.” Dit verlaagt de drempel om hulp te zoeken. Vermijd jargon en ambtelijke formuleringen:
 
-- Product aanvragen -> hulp aanvragen
-- Dienstverlening op maat -> persoonlijk advies voor jouw/uw situatie
-- U kunt hier terecht voor… -> Wij helpen je/u met …
+- Product aanvragen ➝ hulp aanvragen
+- Dienstverlening op maat ➝ persoonlijk advies voor jouw/uw situatie
+- U kunt hier terecht voor… ➝ Wij helpen je/u met …
 
 ### Zorg voor een eenvoudige en herkenbare structuur op de Ondernemer Centraal-pagina’s
 
@@ -72,7 +72,7 @@ Taal die vertrouwen wekt en uitnodigt tot actie kan het verschil maken. Vermijd 
 - Homepage: Maak navigatie tussen gemeenten intuïtiever.
 - Algemeen: Kies één term en gebruik die consistent over alle pagina’s heen. Er worden verschillende termen gebruikt waarmee hetzelfde bedoeld wordt, bijvoorbeeld ‘meld je aan voor toekomstgesprek’ vs ‘neem contact op met’.
 - Formulier: Zorg voor duidelijke uitleg bij het formulier, voeg een korte introductie toe. “Wil je contact opnemen voor jezelf of namens een ondernemer? Vul hieronder je gegevens in. We nemen binnen twee werkdagen contact met je op.”
-- Formulier: Help gebruikers met invulvoorbeelden. “Bijvoorbeeld: ‘Ik zoek hulp bij schulden’ of ‘Ik wil weten wat Ondernemer Centraal voor mijn cliënt kan betekenen.” Houd bij het maken van de formulieren rekening met de richtlijnen van NL Design System -> [Introductie richtlijnen voor formulieren · NL Design System](https://nldesignsystem.nl/richtlijnen/formulieren/).
+- Formulier: Help gebruikers met invulvoorbeelden. “Bijvoorbeeld: ‘Ik zoek hulp bij schulden’ of ‘Ik wil weten wat Ondernemer Centraal voor mijn cliënt kan betekenen.” Houd bij het maken van de formulieren rekening met de richtlijnen van NL Design System ➝ [Introductie richtlijnen voor formulieren · NL Design System](https://nldesignsystem.nl/richtlijnen/formulieren/).
 - Formulier: Geef verwachte reactietijd en vervolgstappen aan. “Je ontvangt een bevestiging per mail. Binnen twee werkdagen neemt een adviseur contact met je op.”
 - Utrecht: CTA en contactmogelijkheden: “Vraag direct een gesprek aan” met uitleg over wat het gesprek inhoudt. Zorg voor consistente CTA-knoppen en broodkruimels zodat ondernemers altijd weten waar ze zijn. Biedt meerdere kanalen aan om vragen te stellen, denk aan telefoon of chatten met een adviseur.
 - Utrecht: Lokale herkenbaarheid versterken. Begin met een oproep: Bijv. “Ben jij ondernemer in Utrecht en heb je vragen over je bedrijf? Wij staan voor je klaar.
