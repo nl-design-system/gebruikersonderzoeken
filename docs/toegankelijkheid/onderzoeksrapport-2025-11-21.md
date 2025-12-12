@@ -48,7 +48,7 @@ Dit is het [WCAG EM Auditrapport](https://www.w3.org/WAI/test-evaluate/conforman
     <dd>AA</dd>
     <dt>Basisniveau van toegankelijkheid-ondersteuning</dt>
     <dd>
-      Safari met VoiceOver, Chrome, FireFox, iOS, Android. 
+      Safari 26 met VoiceOver, Chrome 143, FireFox 145, iOS 26, Android 16. 
     </dd>
     <dt>Verdere onderzoeksvereisten</dt>
     <dd>
