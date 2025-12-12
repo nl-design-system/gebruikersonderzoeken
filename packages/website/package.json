@@ -77,8 +77,8 @@
     "hast-util-is-element": "3.0.0",
     "hast-util-select": "6.0.4",
     "postcss": "8.5.3",
-    "react": "19.2.1",
-    "react-dom": "19.2.1",
+    "react": "19.2.3",
+    "react-dom": "19.2.3",
     "unist-util-visit": "5.0.0",
     "vfile": "6.0.3"
   }
