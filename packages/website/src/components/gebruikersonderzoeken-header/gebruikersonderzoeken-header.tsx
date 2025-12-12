@@ -14,19 +14,23 @@ export interface PageHeaderProps {
   navigationBarItems?: MaNavigationBarItemProps[];
 }
 
+const navLabel = 'Hoofdmenu';
+
 export function GebruikersonderzoekenHeader(props: PageHeaderProps) {
   return (
     <MaPageHeader
       className="ma-gebruikersonderzoeken-header"
       startGroup={
-        <Button
-          command="show-modal"
-          commandfor="ma-navigation-drawer"
-          aria-haspopup="dialog"
-          appearance="subtle-button"
-        >
-          <IconMenu /> Menu
-        </Button>
+        <nav aria-label={navLabel}>
+          <Button
+            command="show-modal"
+            commandfor="ma-navigation-drawer"
+            aria-haspopup="dialog"
+            appearance="subtle-button"
+          >
+            <IconMenu /> Menu
+          </Button>
+        </nav>
       }
       centerGroup={
         <a className="ma-gebruikersonderzoeken-header__logo-wrapper" href="/">
@@ -36,7 +40,7 @@ export function GebruikersonderzoekenHeader(props: PageHeaderProps) {
       }
       endGroup={<Search />}
       navigationBar={
-        <MaNavigationBar label="Hoofdmenu">
+        <MaNavigationBar label={navLabel}>
           {(props.navigationBarItems || []).map((item) => (
             <MaNavigationBarItem key={item.href} href={item.href} aria-current={item.current || null}>
               {item.children}
