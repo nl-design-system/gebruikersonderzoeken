@@ -210,6 +210,9 @@ importers:
       '@utrecht/spotlight-section-css':
         specifier: 1.6.1
         version: 1.6.1
+      '@utrecht/table-css':
+        specifier: 2.0.1
+        version: 2.0.1
       '@utrecht/unordered-list-css':
         specifier: 1.5.1
         version: 1.5.1
@@ -1671,6 +1674,9 @@ packages:
 
   '@utrecht/table-css@1.6.1':
     resolution: {integrity: sha512-IEEB3JX19/FxAOyZHA/88h1GROSYsr3YxDIXsP+ea3sVUSyEcoUP0jgiKjcRV198Ad3p3+T07p79HhIuS+AhLw==}
+
+  '@utrecht/table-css@2.0.1':
+    resolution: {integrity: sha512-gJR0UjbHxnl2Wk+K2CcIYtJkBHEkDIc7MJ18//flLa6nPetfAr90nwc8OBgav++vbyUmueHgnS+lyL+AgrChkA==}
 
   '@utrecht/table-of-contents-css@0.3.1':
     resolution: {integrity: sha512-+H4WklPRgZAyLALEe8PXEvB+0oli26sz0fS/NF91H1nZwIti8+T7b7rDLJ6e9M6hF6IVF9lvjfiSZHByeQDJnQ==}
@@ -3902,6 +3908,7 @@ packages:
   sitemap@8.0.0:
     resolution: {integrity: sha512-+AbdxhM9kJsHtruUF39bwS/B0Fytw6Fr1o4ZAIAEqA6cke2xcoO2GleBw9Zw7nRzILVEgz7zBM5GiTJjie1G9A==}
     engines: {node: '>=14.0.0', npm: '>=6.0.0'}
+    deprecated: 'SECURITY: Multiple vulnerabilities fixed in 8.0.1 (XML injection, path traversal, command injection, protocol injection). Upgrade immediately: npm install sitemap@8.0.1'
     hasBin: true
 
   slash@3.0.0:
@@ -5942,6 +5949,8 @@ snapshots:
   '@utrecht/surface-css@1.4.1': {}
 
   '@utrecht/table-css@1.6.1': {}
+
+  '@utrecht/table-css@2.0.1': {}
 
   '@utrecht/table-of-contents-css@0.3.1': {}
 
