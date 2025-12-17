@@ -70,7 +70,7 @@ Mensen lazen de omschrijvingen bij vragen niet die bij ons in formulieren nu ón
 - We hebben in de bevestigingsmail en op de bevestigingspagina meer gedetailleerde informatie toegevoegd over wat er gebeurt nadat iemand een klacht indient en wat de doorlooptijden zijn.
 - We hebben een vraag toegevoegd over hoe we contact met iemand kunnen opnemen na het doen van een klacht.
 
-![Screenshot van het klachtenformulier van de gemeente Venray. Er wordt gevraagd: "Heeft u een voorkeur voor hoe wij contact met u opnemen?". Er worden drie opties getoond: telefonisch, per e-mail, geen voorkeur.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/venray_klachtenformulier-3.png)
+![Screenshot van het klachtenformulier van de gemeente Venray. Er wordt gevraagd: "Heeft u een voorkeur voor hoe wij contact met u opnemen?". Er worden drie opties getoond: telefonisch, per e-mail, geen voorkeur.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/venray_klachtenformulier-4.png)
 
 - We hebben op de planning staan om de keuzelijst met categorieën te vereenvoudigen. Dit kon pas aan het einde van het jaar om rapportages gelijk te kunnen laten lopen.
 - We hebben overlegd of we DigiD optioneel konden maken. Maar omdat voor een klachtenprocedure via onze gemeente een handtekening gezet moet worden, hebben we besloten DigiD toch als verplicht te laten staan.
