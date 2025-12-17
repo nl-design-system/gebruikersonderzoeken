@@ -4,8 +4,8 @@ hide_title: true
 hide_table_of_contents: false
 sidebar_label: Gebruikersonderzoek Klachtenformulier Gemeente Venray
 pagination_label: Gebruikersonderzoek Klachtenformulier Gemeente Venray
-description: ...
-summary: ...
+description: Dit onderzoek bracht met inwoners van Venray in kaart hoe gebruiksvriendelijk en begrijpelijk het klachtenformulier is en welke verbeteringen nodig zijn om drempels, onduidelijkheden en frustraties te verminderen.
+summary: Het gebruikersonderzoek laat zien dat inwoners het klachtenformulier snel willen doorlopen, weinig tekst lezen en behoefte hebben aan duidelijke informatie over het vervolg, doorlooptijd en contactmogelijkheden. Onzichtbare instructies, verplichte velden, DigiD en onduidelijk onderscheid tussen klacht en melding zorgden voor verwarring en frustratie, wat heeft geleid tot gerichte verbeteringen in het formulier.
 keywords:
   - venray
   - gebruikersonderzoek
