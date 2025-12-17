@@ -35,14 +35,14 @@ In 2024 hebben we met gemeente Venray deelgenomen aan een gemeentebreed gebruike
 
 ## Testopzet
 
-Het testen vond plaats op 3 verschillende momenten (een ochtend, middag en avond) in de publiekshal van onze gemeente. De onderzoeksgroep bestond uit 9 personen in de leeftijd van 15 tot 75 jaar. 
+Het testen vond plaats op 3 verschillende momenten (een ochtend, middag en avond) in de publiekshal van onze gemeente. De onderzoeksgroep bestond uit 9 personen in de leeftijd van 15 tot 75 jaar.
 
 Mensen werden om en om 2 soorten van het klachtenformulier voorgelegd:
 
 - 1 variant waarbij op de beginpagina informatie stond dat als je een melding wil doen je daarvoor bij een ander formulier terecht kan.
 - 1 variant waarop dat is ingebouwd in een keuzelijst waarbij je je klacht in een categorie moet plaatsen.
 
-Vragen werden gesteld nadat iemand doorging naar een volgende stap in het formulier, zodat we de testpersonen zo min mogelijk beïnvloeden. 
+Vragen werden gesteld nadat iemand doorging naar een volgende stap in het formulier, zodat we de testpersonen zo min mogelijk beïnvloeden.
 
 ## Resultaten
 
@@ -83,4 +83,3 @@ Sophie Bus, Medewerker online dienstverlening - [sophie.bus@venray.nl](mailto:so
 ## Bijlagen
 
 - [PDF-document van het onderzoek](https://github.com/user-attachments/files/24217483/Gebruikersonderzoek.klachtenformulier.maart.2025.1.pdf).
-
