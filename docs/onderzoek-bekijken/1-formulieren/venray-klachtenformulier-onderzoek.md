@@ -54,23 +54,23 @@ Vragen werden gesteld nadat iemand doorging naar een volgende stap in het formul
 - De testpersonen gaven niet aan dat ze nog iets misten in het formulier. We hebben gevraagd of ze bijvoorbeeld zelf een oplossing aan wilden dragen voor de klacht, maar dat werd niet per se als noodzaak aangegeven.
 - De vraag over het indelen van de klacht in een categorie werd als niet storend ervaren. Iemand die dit wel fijn vindt zegt dat dit helpt om de klacht korter te omschrijven, terwijl anderen aangaven dat het ‘handig is voor jullie'.
 
-[afbeelding 1]
+![Screenshot van het klachtenformulier van de gemeente Venray waarbij men wordt gevraagd waar de klacht over gaat. Met opties zoals bijvoorbeeld "Ik ben niet behoorlijk te woord gestaan of behandeld" of "De werkwijze of de uitvoering van een procedure is onjuist.".](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/venray_klachtenformulier-1.png)
 
 Mensen lazen de omschrijvingen bij vragen niet die bij ons in formulieren nu ónder het invulveld staan. Ze gaven aan dat ze dit wil zouden lezen als het erboven zou staan.
 
-[afbeelding 2]
+![Screenshot van het klachtenformulier van de gemeente Venray waarbij men wordt gevraagd: wat is uw klacht?. Onder het invoerveld staat de tekst "Beschrijf kort waar uw klacht over gaat, met datum en tijdstip indien mogelijk.".](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/venray_klachtenformulier-2.png)
 
 ## Wat is ermee gedaan?
 
 - We hebben de begintekst over het doen van een melding verplaatst naar de vraag met de keuzelijst om de klacht in een bepaalde categorie in te delen. Als mensen dan kiezen voor de optie dat hun klacht over iets in de buitenruimte gaat, dan worden ze doorverwezen naar het meldformulier. Dit hebben we aangepast in april en tot en met september zijn er geen meldingen meer binnengekomen in het klachtenformulier.
 
-[afbeelding 3]
+![Screenshot van het klachtenformulier van de gemeente Venray waarbij men wordt gevraagd waar de klacht over gaat. Met opties zoals bijvoorbeeld "Ik ben niet behoorlijk te woord gestaan of behandeld" of "De werkwijze of de uitvoering van een procedure is onjuist." De volgende optie is geselecteerd: "Overlast (zoals geluidsoverlast of parkeeroverlast) of een onveilige situatie (zoals losliggende stoeptegels, een verstopt riool, ongedierte of zwerfvuil).". Onder de lijst met opties staat de melding "Overlast of een onveilige situatie. Geeft u door via een melding. U kunt het klachtenformulier hiervoor niet gebruiken.".](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/venray_klachtenformulier-3.png)
 
 - We kregen de vraag hierbij waarom we het formulier blokkeerden, omdat iedereen altijd een formulier in moet kunnen zenden. Mensen kunnen nog voor de andere opties kiezen en dan kunnen ze het formulier wel verder invullen. Daarom hebben we ervoor gekozen het bij deze optie te blokkeren. We verwijzen ze door naar een ander formulier.
 - We hebben in de bevestigingsmail en op de bevestigingspagina meer gedetailleerde informatie toegevoegd over wat er gebeurt nadat iemand een klacht indient en wat de doorlooptijden zijn.
 - We hebben een vraag toegevoegd over hoe we contact met iemand kunnen opnemen na het doen van een klacht.
 
-[afbeelding 4]
+![Screenshot van het klachtenformulier van de gemeente Venray. Er wordt gevraagd: "Heeft u een voorkeur voor hoe wij contact met u opnemen?". Er worden drie opties getoond: telefonisch, per e-mail, geen voorkeur.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/venray_klachtenformulier-3.png)
 
 - We hebben op de planning staan om de keuzelijst met categorieën te vereenvoudigen. Dit kon pas aan het einde van het jaar om rapportages gelijk te kunnen laten lopen.
 - We hebben overlegd of we DigiD optioneel konden maken. Maar omdat voor een klachtenprocedure via onze gemeente een handtekening gezet moet worden, hebben we besloten DigiD toch als verplicht te laten staan.
@@ -82,4 +82,5 @@ Sophie Bus, Medewerker online dienstverlening - [sophie.bus@venray.nl](mailto:so
 
 ## Bijlagen
 
-- [PDF-document van het onderzoek](...).
+- [PDF-document van het onderzoek](https://github.com/user-attachments/files/24217483/Gebruikersonderzoek.klachtenformulier.maart.2025.1.pdf).
+
