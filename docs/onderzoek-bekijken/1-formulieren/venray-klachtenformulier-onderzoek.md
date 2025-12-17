@@ -56,7 +56,7 @@ Vragen werden gesteld nadat iemand doorging naar een volgende stap in het formul
 
 ![Screenshot van het klachtenformulier van de gemeente Venray waarbij men wordt gevraagd waar de klacht over gaat. Met opties zoals bijvoorbeeld "Ik ben niet behoorlijk te woord gestaan of behandeld" of "De werkwijze of de uitvoering van een procedure is onjuist.".](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/venray_klachtenformulier-1.png)
 
-Mensen lazen de omschrijvingen bij vragen niet die bij ons in formulieren nu ónder het invulveld staan. Ze gaven aan dat ze dit wil zouden lezen als het erboven zou staan.
+Mensen lazen de omschrijvingen bij vragen niet die bij ons in formulieren nu ónder het invulveld staan. Ze gaven aan dat ze dit wel zouden lezen als het erboven zou staan.
 
 ![Screenshot van het klachtenformulier van de gemeente Venray waarbij men wordt gevraagd: wat is uw klacht?. Onder het invoerveld staat de tekst "Beschrijf kort waar uw klacht over gaat, met datum en tijdstip indien mogelijk.".](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/venray_klachtenformulier-2.png)
 
