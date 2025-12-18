@@ -4,8 +4,8 @@ hide_title: true
 hide_table_of_contents: false
 sidebar_label: Gebruikersonderzoek Meldingformulier Gemeente Venray
 pagination_label: Gebruikersonderzoek Meldingformulier Gemeente Venray
-description: ...
-summary: ...
+description: Dit gebruikersonderzoek onderzocht of inwoners van Venray weten hoe en via welke kanalen zij een melding openbare ruimte kunnen doen.
+summary: Het onderzoek laat zien dat veel inwoners niet weten hoe of waar zij een melding openbare ruimte kunnen doen en vaak afhaken door onduidelijke navigatie, een verwarrende kaart en lage bekendheid van de app.
 keywords:
   - venray
   - gebruikersonderzoek
