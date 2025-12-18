@@ -33,17 +33,6 @@ date_conducted: 2025-03-01
 
 In 2024 hebben we met gemeente Venray deelgenomen aan een gemeentebreed gebruikersonderzoek voor het klachtenformulier. Hier merkten we dat er toch nog wat verschillen zitten tussen het klachtenformulier van de verschillende gemeenten. Daarom wilden we het formulier zoals wij het op dit moment hebben ook testen bij onze eigen inwoners.
 
-## Testopzet
-
-Het testen vond plaats op 3 verschillende momenten (een ochtend, middag en avond) in de publiekshal van onze gemeente. De onderzoeksgroep bestond uit 9 personen in de leeftijd van 15 tot 75 jaar.
-
-Mensen werden om en om 2 soorten van het klachtenformulier voorgelegd:
-
-- 1 variant waarbij op de beginpagina informatie stond dat als je een melding wil doen je daarvoor bij een ander formulier terecht kan.
-- 1 variant waarop dat is ingebouwd in een keuzelijst waarbij je je klacht in een categorie moet plaatsen.
-
-Vragen werden gesteld nadat iemand doorging naar een volgende stap in het formulier, zodat we de testpersonen zo min mogelijk beïnvloeden.
-
 ## Resultaten
 
 - Mensen lezen slecht en klikken het liefste zo snel mogelijk door. De tekst op de beginpagina over dat je je melding in een ander formulier moet doen werd dus ook over het hoofd gezien.
@@ -75,6 +64,17 @@ Mensen lazen de omschrijvingen bij vragen niet die bij ons in formulieren nu ón
 - We hebben op de planning staan om de keuzelijst met categorieën te vereenvoudigen. Dit kon pas aan het einde van het jaar om rapportages gelijk te kunnen laten lopen.
 - We hebben overlegd of we DigiD optioneel konden maken. Maar omdat voor een klachtenprocedure via onze gemeente een handtekening gezet moet worden, hebben we besloten DigiD toch als verplicht te laten staan.
 - We hebben bij de leverancier van onze formulierenmodule de wens doorgegeven om beschrijvingen van vragen direct onder de vraag te zetten in plaats van onder de vraag.
+
+## Testopzet
+
+Het testen vond plaats op 3 verschillende momenten (een ochtend, middag en avond) in de publiekshal van onze gemeente. De onderzoeksgroep bestond uit 9 personen in de leeftijd van 15 tot 75 jaar.
+
+Mensen werden om en om 2 soorten van het klachtenformulier voorgelegd:
+
+- 1 variant waarbij op de beginpagina informatie stond dat als je een melding wil doen je daarvoor bij een ander formulier terecht kan.
+- 1 variant waarop dat is ingebouwd in een keuzelijst waarbij je je klacht in een categorie moet plaatsen.
+
+Vragen werden gesteld nadat iemand doorging naar een volgende stap in het formulier, zodat we de testpersonen zo min mogelijk beïnvloeden.
 
 ## Contactinformatie
 
