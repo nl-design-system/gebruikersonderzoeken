@@ -53,21 +53,21 @@ We hadden van tevoren een aantal aannames over het doen van een melding. Deze aa
 - Een ochtend in de hal van het gemeentehuis (3 testpersonen).
 - Een ochtend in de bibliotheek (6 testpersonen).
 
-**We vroegen mensen:** 
+**We vroegen mensen:**
 
 - Als u aan het wandelen bent, en u ziet een koelkast in een sloot liggen. Wat zou u dan doen?
 - Zou u hiervan een melding willen maken?
 - Hoe zou u dit dan doen?
 - Wilt u ons laten zien welke stappen u zou zetten?
 
-**De scenario's die zich vervolgens voordeden waren:** 
+**De scenario's die zich vervolgens voordeden waren:**
 
 - Ze zouden geen melding doen.
 - Ze zouden een melding via de app doen.
 - Ze zouden telefonisch een melding doen.
 - Ze zouden naar de website gaan.
 
-**Vervolgvragen:** 
+**Vervolgvragen:**
 
 - Heeft u al ooit eerder een melding gemaakt?
 - Als mensen naar de website gingen: Begreep u wat u moest doen met de kaart die u ziet in het webformulier?
@@ -76,7 +76,7 @@ We hadden van tevoren een aantal aannames over het doen van een melding. Deze aa
 - Wat gebeurt er, denkt u, als u op ‘Meld’ klikt?
 - Was het voor u duidelijk dat u uw gegevens kunt achterlaten?
 - Wilt u van de gemeente weten wat er met de melding gebeurt?
-- Zou u een app downloaden om meldingen voortaan sneller te kunnen doen? 
+- Zou u een app downloaden om meldingen voortaan sneller te kunnen doen?
 
 ## Resultaten
 
@@ -107,12 +107,12 @@ Een aantal van onze aannames werden bevestigd, maar we kwamen ook achter een aan
 
 ## Wat is ermee gedaan?
 
-- Op de website hebben we geprobeerd om de weg naar het doen van een melding eenvoudiger te maken: 
+- Op de website hebben we geprobeerd om de weg naar het doen van een melding eenvoudiger te maken:
   - Bovenaan op onze homepage stond een kopje met ‘Melden, klacht en bezwaar’. Je kwam dan op een verzamelpagina terecht met allemaal pagina's en onderliggende formulieren. We hebben dit vereenvoudigd door niet meer te verwijzen naar de verzamelpagina, maar rechtstreeks naar de pagina van het doen van een Melding.
  
 ![Screenshot homepage gemeente Venray. Vijf toptaken zichtbaar. Vijfde toptaak heeft de tekst: Melding doen.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/venray_meldingformulier-5.png)
 
-- De paginanaam ‘Melding’ hebben we gewijzigd naar ‘Melding doen'. 
+- De paginanaam ‘Melding’ hebben we gewijzigd naar ‘Melding doen'.
 - We hebben de omschrijving van de tekst op de meldpagina uitgebreid met meerdere soorten meldingen (zoals afvaldumping) die gedaan kunnen worden.
 - Op de verzamelpagina hadden we naast de Meldpagina voor iets in de openbare ruimte de pagina 'Melding afval’ staan. Deze pagina verwees mensen naar een ander formulier dat bedoeld was voor bijvoorbeeld een melding als afval niet was opgehaald. Verschillende testpersonen klikten op deze pagina in plaats van op die van een melding openbare ruimte. We hebben de pagina ‘Melding afval’ uit dit menu gehaald en verwijzen er alleen nog maar naar vanuit de afval-verzamelpagina.
 - Op de afvalpagina hebben we een verwijzing gemaakt naar het meldformulier als het gaat om zaken zoals zwerfafval en afvaldumping.
