@@ -89,6 +89,38 @@ Een aantal van onze aannames werden bevestigd, maar we kwamen ook achter een aan
 ## Vervolgonderzoek
 
 Om de klantreis zo natuurlijk mogelijk te houden, zijn we bij de meeste mensen ook gestopt met testen als ze vastliepen of zouden afhaken. Daardoor zijn er bijna geen meldingen daadwerkelijk ingediend. Het gedeelte rondom het achterlaten van je gegevens hebben we daardoor niet goed kunnen testen. Omdat we zelf denken dat mensen dit onduidelijk vinden, zouden we op dit deel nog een vervolgonderzoek los kunnen laten.
+## Testopzet
+
+3 testdagen, 15 testpersonen in de leeftijd van 15 tot 80 jaar.
+
+- Een middag buiten op de markt (6 testpersonen).
+- Een ochtend in de hal van het gemeentehuis (3 testpersonen).
+- Een ochtend in de bibliotheek (6 testpersonen).
+
+**We vroegen mensen:**
+
+- Als u aan het wandelen bent, en u ziet een koelkast in een sloot liggen. Wat zou u dan doen?
+- Zou u hiervan een melding willen maken?
+- Hoe zou u dit dan doen?
+- Wilt u ons laten zien welke stappen u zou zetten?
+
+**De scenario's die zich vervolgens voordeden waren:**
+
+- Ze zouden geen melding doen.
+- Ze zouden een melding via de app doen.
+- Ze zouden telefonisch een melding doen.
+- Ze zouden naar de website gaan.
+
+**Vervolgvragen:**
+
+- Heeft u al ooit eerder een melding gemaakt?
+- Als mensen naar de website gingen: Begreep u wat u moest doen met de kaart die u ziet in het webformulier?
+- Kon u de categorie vinden waar uw melding thuishoort? Wat vindt u ervan dat u een categorie moet aangeven?
+- Begreep u de ‘let op’ tekst? En wat vond u van de plek waar deze in het formulier staat?
+- Wat gebeurt er, denkt u, als u op ‘Meld’ klikt?
+- Was het voor u duidelijk dat u uw gegevens kunt achterlaten?
+- Wilt u van de gemeente weten wat er met de melding gebeurt?
+- Zou u een app downloaden om meldingen voortaan sneller te kunnen doen?
 
 ## Contactinformatie
 
