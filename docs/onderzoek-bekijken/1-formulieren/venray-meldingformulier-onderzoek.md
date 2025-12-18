@@ -89,6 +89,7 @@ Een aantal van onze aannames werden bevestigd, maar we kwamen ook achter een aan
 ## Vervolgonderzoek
 
 Om de klantreis zo natuurlijk mogelijk te houden, zijn we bij de meeste mensen ook gestopt met testen als ze vastliepen of zouden afhaken. Daardoor zijn er bijna geen meldingen daadwerkelijk ingediend. Het gedeelte rondom het achterlaten van je gegevens hebben we daardoor niet goed kunnen testen. Omdat we zelf denken dat mensen dit onduidelijk vinden, zouden we op dit deel nog een vervolgonderzoek los kunnen laten.
+
 ## Testopzet
 
 3 testdagen, 15 testpersonen in de leeftijd van 15 tot 80 jaar.
