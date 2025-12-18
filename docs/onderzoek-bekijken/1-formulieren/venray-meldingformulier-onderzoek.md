@@ -90,13 +90,13 @@ Een aantal van onze aannames werden bevestigd, maar we kwamen ook achter een aan
   - Slechts 2 van de ondervraagde personen hadden daadwerkelijk de app op de telefoon. Beide personen zaten bij een dorps/wijksraad. De overige personen wisten niet dat er een app was.
   - Bij de overige testpersonen was dit niet helemaal duidelijk, omdat ze in eerste instantie niet zouden melden.
  
-![...](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/venray_meldingformulier-2.png)
+![titel: Kanaal keuze voor het doen van een melding. Daaronder een cirkeldiagram met de volgende verdeling: niet melden 34%, telefonisch 33%, app 13%, internet 13%, mail 7%.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/venray_meldingformulier-2.png)
 
-![...](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/venray_meldingformulier-3.png)
+![titel: Gebruik van de meldingsapp. Daaronder een cirkeldiagram met de volgende verdeling: geen behoefte aan app 54%, niet duidelijk besproken 20%, download tijdens onderzoek 13%, al in gebruik 13%](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/venray_meldingformulier-3.png)
 
 - Geen van de testpersonen begreep wat de kaart inhoudt die je als eerste ziet als je via het webformulier een melding maakt. “Wat moet ik hier mee?”
 
-![...](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/venray_meldingformulier-4.png)
+![Screenshot BuitenBeter. Kaart groot in beeld met daarboven een zoekfunctie. Op de kaart staan verschillende 'pins' met cijfers.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/venray_meldingformulier-4.png)
 
 - 6 testpersonen gaven uit zichzelf aan dat ze afgehaakt zouden zijn tijdens het doen van een melding. Momenten waarop ze zouden afhaken waren:
   - Ze kunnen niet de juiste pagina vinden op de website.
@@ -110,7 +110,7 @@ Een aantal van onze aannames werden bevestigd, maar we kwamen ook achter een aan
 - Op de website hebben we geprobeerd om de weg naar het doen van een melding eenvoudiger te maken: 
   - Bovenaan op onze homepage stond een kopje met ‘Melden, klacht en bezwaar’. Je kwam dan op een verzamelpagina terecht met allemaal pagina's en onderliggende formulieren. We hebben dit vereenvoudigd door niet meer te verwijzen naar de verzamelpagina, maar rechtstreeks naar de pagina van het doen van een Melding.
  
-![...](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/venray_meldingformulier-5.png)
+![Screenshot homepage gemeente Venray. Vijf toptaken zichtbaar. Vijfde toptaak heeft de tekst: Melding doen.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/venray_meldingformulier-5.png)
 
 - De paginanaam ‘Melding’ hebben we gewijzigd naar ‘Melding doen'. 
 - We hebben de omschrijving van de tekst op de meldpagina uitgebreid met meerdere soorten meldingen (zoals afvaldumping) die gedaan kunnen worden.
