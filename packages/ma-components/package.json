@@ -6,6 +6,11 @@
   "keywords": [
     "nl-design-system"
   ],
+  "private": false,
+  "publishConfig": {
+    "access": "public",
+    "provenance": true
+  },
   "license": "EUPL-1.2",
   "repository": {
     "type": "git+ssh",
