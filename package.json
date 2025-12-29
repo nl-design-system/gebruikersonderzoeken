@@ -10,6 +10,10 @@
   "license": "EUPL-1.2",
   "private": true,
   "scripts": {
+    "changeset": "changeset add",
+    "changeset:empty": "changeset --empty",
+    "changeset:publish": "changeset publish",
+    "changeset:status": "changeset status --since origin/main",
     "clean": "pnpm run --if-present --recursive clean",
     "prepare": "husky",
     "dev": "pnpm --filter @nl-design-system-community/gebruikersonderzoeken.nl run dev",
@@ -39,6 +43,7 @@
     "stylelint-order": "7.0.0"
   },
   "devDependencies": {
+    "@changesets/cli": "2.29.8",
     "@eslint/js": "9.26.0",
     "@eslint/json": "0.12.0",
     "@nl-design-system-unstable/nlds-design-tokens": "1.0.1",
