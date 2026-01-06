@@ -62,7 +62,7 @@ export function GebruikersonderzoekenFooter() {
         <a key="2" className="nl-link" href="/docs/toegankelijkheid/">
           Toegankelijkheid
         </a>,
-        <a key="2" className="nl-link" href="/docs/colofon/">
+        <a key="3" className="nl-link" href="/docs/colofon/">
           Colofon
         </a>,
       ]}
