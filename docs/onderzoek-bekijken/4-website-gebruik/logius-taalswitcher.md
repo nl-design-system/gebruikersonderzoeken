@@ -32,6 +32,8 @@ conducted_by:
 date_added: 2025-05-02
 ---
 
+<!-- @license CC0-1.0 -->
+
 # Gebruik vertaaloptie op website (Taalswitch)
 
 ## Doel van het onderzoek

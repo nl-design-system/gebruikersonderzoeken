@@ -11,6 +11,8 @@ keywords:
   - doen
 ---
 
+<!-- @license CC0-1.0 -->
+
 # Gebruikersonderzoek, hoe kun je beginnen?
 
 Wil je gaan onderzoeken, maar weet je niet zo goed waar je moet beginnen? Of ben je al begonnen met het gebruikersonderzoek, maar kun je nog wat tips gebruiken?

@@ -12,6 +12,8 @@ keywords:
   - gegevens delen
 ---
 
+<!-- @license CC0-1.0 -->
+
 # Toestemmingsformulier
 
 Hartelijk dank voor jouw deelname aan het gebruikersonderzoek.

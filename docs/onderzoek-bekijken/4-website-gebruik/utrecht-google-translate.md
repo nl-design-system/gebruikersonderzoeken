@@ -29,6 +29,8 @@ type: kwantitatief onderzoek
 date_conducted: 2023-03-01
 ---
 
+<!-- @license CC0-1.0 -->
+
 # Google Translate gebruik op utrecht.nl
 
 ![Plaatje van een browser met waar de Google Translate pop-up getoond wordt om de pagina te gaan vertalen.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/utrecht-google-translate.png)

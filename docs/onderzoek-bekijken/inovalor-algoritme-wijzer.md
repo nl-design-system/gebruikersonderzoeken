@@ -20,6 +20,8 @@ date_added: 2026-01-16
 type: 1-10-100 methode
 ---
 
+<!-- @license CC0-1.0 -->
+
 # Gebruikersonderzoek Algoritmewijzer
 
 Om te begrijpen wat burgers willen weten over algoritmes en hoe zij daarover geïnformeerd willen worden, zijn verschillende gebruikersonderzoeken uitgevoerd. Het doel was om stap voor stap te ontdekken welke informatie relevant is, hoe die het best kan worden gepresenteerd, en hoe zowel burgers als organisaties de beeldtaal van de Algoritmewijzer ervaren.

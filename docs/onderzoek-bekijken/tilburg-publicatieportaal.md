@@ -33,6 +33,8 @@ conducted_by:
 date_added: 2025-07-16
 ---
 
+<!-- @license CC0-1.0 -->
+
 # Gebruikersonderzoek Publicatievoorziening Wet open overheid
 
 ![Het design van het publicatieportaal van Tilburg](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/tilburg-publicatieportaal__design-publicatieportaal.jpeg)

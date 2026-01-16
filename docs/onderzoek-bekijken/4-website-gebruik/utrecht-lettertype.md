@@ -37,6 +37,8 @@ type: kwalitatief onderzoek, usability research
 date_conducted: 2025-05-01
 ---
 
+<!-- @license CC0-1.0 -->
+
 # Onderzoek lettertype bij neurodiversiteitsnetwerk
 
 ![Screenshot van de 'Paspoort en identiteitskaart aanvragen' pagina uit het prototype die gemaakt is met het lettertype Noto Sans.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/utrecht-lettertype__prototype.png)
