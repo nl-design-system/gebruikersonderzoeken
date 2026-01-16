@@ -5,6 +5,7 @@ hide_table_of_contents: false
 sidebar_label: ((hoe het onderzoek genoemd wordt in de navigatie))
 pagination_label: ((hoe het onderzoek genoemd wordt in de navigatie))
 description: ((korte beschrijving van het onderzoek))
+summary: ((samenvatting van het onderzoek en de uitkomsten))
 keywords:
   - ((Deze keywords worden gebruikt om op te zoeken))
   - ((keyword 1))
@@ -15,6 +16,24 @@ tags:
   - ((tag 1))
   - ((tag 2))
   - ((tag 3))
+themes:
+  - ((Deze themas worden gebruikt om onderzoeken op de homepage te vinden en met een badge navigatie aan elkaar te relateren. Kies een thema uit de lijst))
+  - ((diensten-en-processen))
+  - ((doelgroep-specifiek))
+  - ((formulieren))
+  - ((gedrag-en-conversie))
+  - ((mijn-omgeving))
+  - ((mobiele-ervaring))
+  - ((navigatie))
+  - ((overig))
+  - ((taal-en-begrijpelijkheid))
+  - ((toegankelijkheid))
+conducted_by:
+  - ((Lijst van organisaties die het onderzoek hebben utigevoerd))
+date_added: ((in te vullen door degene die het onderzoek op de website publiceert))
+date_conducted: ((datum van het onderzoek. Vul de datum van het laatste onderzoek in wanneer het verslag over meerdere iteraties gaat))
+target_group: ((niet verplicht - beschrijf de doelgroep voor het onderzoek))
+type: ((niet verplicht - beschrijf het type onderzoek))
 ---
 
 # ((Titel van het onderzoek hier))
