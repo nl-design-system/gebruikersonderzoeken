@@ -83,7 +83,7 @@ Prototype versie 3 bevatte naast de iconen ook een _implementatietool_ en is gev
 ## Informatie en Contact
 
 Neem contact met ons op via algoritmewijzer@innovalor.nl of claudia.vermeulen@innovalor.nl
-Blijf op de hoogte voor alle onderzoeken-updates via onze [LinkedIn](https://www.linkedin.com/company/algoritmewijzers) en de [Website](https://www.algoritmewijzer.nl)
+Blijf op de hoogte voor alle onderzoeken-updates via onze [LinkedIn](https://www.linkedin.com/company/algoritmewijzers) en de [Website](https://innovalor.nl/algoritmewijzer/)
 
 ## Documentatie
 
