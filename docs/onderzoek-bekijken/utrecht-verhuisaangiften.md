@@ -27,6 +27,8 @@ conducted_by:
 date_added: 2023-06-01
 ---
 
+<!-- @license CC0-1.0 -->
+
 # Uitzonderingen in het verhuisaangiften proces
 
 _Onderzoek uitgevoerd in 2023 door de Stadskamer - Gemeente Utrecht_

@@ -36,6 +36,8 @@ target_group: ((niet verplicht - beschrijf de doelgroep voor het onderzoek))
 type: ((niet verplicht - beschrijf het type onderzoek))
 ---
 
+<!-- @license CC0-1.0 -->
+
 # ((Titel van het onderzoek hier))
 
 **Samengevat: ((Hier staat in één of twee zinnen superkort wat de conclusie is van het onderzoek, voor iemand die een korte blik werkt op de resultaten))**

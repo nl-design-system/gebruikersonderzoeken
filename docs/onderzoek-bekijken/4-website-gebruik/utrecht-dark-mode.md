@@ -29,6 +29,8 @@ type: kwantitatief onderzoek
 date_conducted: 2023-06-20
 ---
 
+<!-- @license CC0-1.0 -->
+
 # Dark mode gebruik op utrecht.nl
 
 ![Plaatje van een browser waar Google wordt getoond in Dark mode.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/utrecht-dark-mode.png)

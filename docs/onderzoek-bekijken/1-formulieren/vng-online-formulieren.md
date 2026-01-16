@@ -36,6 +36,8 @@ conducted_by:
 date_added: 2024-01-22
 ---
 
+<!-- @license CC0-1.0 -->
+
 # Contactformulier voor WMEBV
 
 - De toon en duidelijkheid van de tekst worden als prettig ervaren. In het formulier kunnen alle gebruikers goed volgen wat er moet gebeuren dankzij heldere knoppen en een overzichtelijke opmaak.

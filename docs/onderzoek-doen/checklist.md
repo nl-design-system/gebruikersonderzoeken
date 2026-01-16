@@ -11,6 +11,8 @@ keywords:
   - Checklist
 ---
 
+<!-- @license CC0-1.0 -->
+
 # Checklist Gebruikersonderzoek
 
 Deze checklist kan gebruikt worden als hulpmiddel om je eigen gebruikersonderzoek mee te doen. Zoek je het stappenplan? Kijk dan op [gebruikersonderzoek doen](/docs/onderzoek-doen/).

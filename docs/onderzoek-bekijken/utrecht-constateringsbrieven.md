@@ -29,6 +29,8 @@ type: kwalitatief onderzoek, interviews
 date_conducted: 2025-02-01
 ---
 
+<!-- @license CC0-1.0 -->
+
 # Begrijpelijkheid constateringsbrieven Vergunningen, Toezicht en Handhaving
 
 _Onderzoek uitgevoerd in 2025 door de Gemeente Utrecht._
