@@ -33,24 +33,15 @@ const recentOnderzoekenTop3 = recentOnderzoeken.toSpliced(3, Infinity);
   <Hero />
 
   <PageSection withSpace>
-    <Heading level={2}>Thema's</Heading>
-    <CardListTheme headingLevels={3} columns={2} themes={sortedThemes} />
-  </PageSection>
-
-  <BannerUpdate
-    heading="Geef feedback op CIDO"
-    content="De Code Inclusief Digitaal Ontwerpen (CIDO) geeft praktische richtlijnen om digitale diensten toegankelijk en inclusief te maken. We vragen de community om CIDO te gebruiken bij gebruikersonderzoeken en feedback te delen, zodat we samen de code kunnen verbeteren en versterken."
-    footerActions={[
-      { href: 'https://github.com/nl-design-system/gebruikersonderzoeken/discussions/407', label: 'Geef feedback' },
-      { href: 'https://www.accessibility.nl/code-inclusief-digitaal-ontwerpen', label: 'Meer over CIDO' },
-    ]}
-  />
-
-  <PageSection withSpace>
     <Heading level={2}>Nieuwste onderzoeken</Heading>
     <div>
       <a href="/docs/onderzoek-bekijken/" class="nl-link">Bekijk alle onderzoeken</a>
     </div>
     <CardListOnderzoek headingLevels={3} onderzoeken={recentOnderzoekenTop3} />
+  </PageSection>
+
+  <PageSection withSpace>
+    <Heading level={2}>Thema's</Heading>
+    <CardListTheme headingLevels={3} columns={2} themes={sortedThemes} />
   </PageSection>
 </Layout>
