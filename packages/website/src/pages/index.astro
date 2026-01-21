@@ -25,6 +25,7 @@ const sortedThemes = themesWithItems
   );
 
 const onderzoeken = await getCollection('onderzoeken');
+
 const recentOnderzoeken = onderzoeken.toSorted((a, b) => b.data.date_added - a.data.date_added);
 const recentOnderzoekenTop3 = recentOnderzoeken.toSpliced(3, Infinity);
 ---
