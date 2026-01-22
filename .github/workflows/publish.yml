@@ -14,6 +14,7 @@ jobs:
 
     permissions:
       contents: read
+      id-token: write # required to retrieve an OIDC token for actions/deploy-pages
       pages: write
 
     steps:
@@ -65,7 +66,7 @@ jobs:
 
     permissions:
       contents: read
-      id-token: write
+      id-token: write # https://docs.npmjs.com/generating-provenance-statements#publishing-packages-with-provenance-via-github-actions
 
     steps:
       - name: Checkout
