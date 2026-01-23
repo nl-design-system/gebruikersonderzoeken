@@ -330,4 +330,4 @@ Voor vragen over dit onderzoek kunt u contact opnemen met Logius via ux@logius.n
 
 ## Bijlagen
 
-Het volledige rapport bevat gedetailleerde UX-bevindingen met screenshots en specifieke aanbevelingen per scherm en flow. Voor aanvullende onderzoeksmaterialen kunt u contact opnemen met Logius via ux@logius.nl
+Het [volledige rapport bevat gedetailleerde UX-bevindingen als PDF](https://github.com/user-attachments/files/24821246/Rapportage.Onderzoek.Klantreis.Contactvoorkeuren.-.Blauw.Research.33744.-.3.pdf) met screenshots en specifieke aanbevelingen per scherm en flow. Voor aanvullende onderzoeksmaterialen kunt u contact opnemen met Logius via ux@logius.nl
