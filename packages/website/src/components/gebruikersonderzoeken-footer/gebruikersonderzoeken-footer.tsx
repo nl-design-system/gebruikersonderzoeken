@@ -49,7 +49,7 @@ export function GebruikersonderzoekenFooter() {
             <li className="utrecht-link-list__item">
               <a className="utrecht-link-list__link" href="/docs/vragen/">
                 <IconChevronRight />
-                Veel gestelde vragen
+                Veelgestelde vragen
               </a>
             </li>
           </ul>
