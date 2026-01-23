@@ -97,6 +97,12 @@ h6 {
   --ma-docsearch-modal-hit-background-color: var(--basis-color-accent-1-bg-hover);
   --ma-docsearch-modal-hit-color: var(--basis-color-accent-1-color-default);
   --ma-docsearch-modal-hit-mark-font-weight: var(--basis-text-font-weight-bold);
+  --utrecht-blockquote-content-font-size: 1.125rem;
+  --utrecht-blockquote-content-color: var(--basis-color-accent-1-color-default);
+}
+
+.utrecht-blockquote--html-blockquote {
+  --utrecht-paragraph-color: var(--utrecht-blockquote-content-color);
 }
 
 .ma-theme:lang(nl) {
