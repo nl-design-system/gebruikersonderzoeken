@@ -1,35 +1,14 @@
-name: Onderzoeksdocumentatie
-description: Dien onderzoeksdocumentatie in voor de website
-title: "[Onderzoek]"
+name: Onderzoek delen
+description: Deel je gebruikersonderzoek voor op de website gebruikersonderzoeken.nl
+title: "Titel van het onderzoek"
 labels: ["onderzoek", "documentatie"]
 body:
   - type: markdown
     attributes:
       value: |
-        ## Formulier voor Onderzoeksdocumentatie
-        Vul dit formulier in om onderzoeksdocumentatie toe te voegen aan de website.
-
-  - type: markdown
-    attributes:
-      value: |
-        ## Licentie-informatie
-
-        Voor het delen van onderzoek op gebruikersonderzoeken.nl gelden specifieke licenties:
-
-        - De gedeelde onderzoeken en documentatie worden gepubliceerd onder de [CC0 1.0 Universeel](https://nldesignsystem.nl/open-source/cc0) licentie
-        - Deze licentie is **alleen** van toepassing op de teksten die op de website worden getoond
-        - **Uitgezonderd** zijn: merkenrecht (zoals logo's), het volledige oorspronkelijke rapport, afbeeldingen, foto's en video's
-
-        Lees het volledige [colofon](https://gebruikersonderzoeken.nl/colofon) voor meer informatie over auteursrecht en licenties.
-
-  - type: checkboxes
-    id: license_agreement
-    attributes:
-      label: Licentie-akkoord
-      description: Bevestig dat je akkoord gaat met de licentievoorwaarden
-      options:
-        - label: Ik heb het [colofon](https://gebruikersonderzoeken.nl/colofon) gelezen en ga akkoord met het publiceren van de gedeelde inzichten onder de CC0 1.0 Universeel licentie
-          required: true
+        ## Formulier om onderzoek te delen
+        Vul dit formulier in om onderzoeksdocumentatie toe te voegen aan de website. Door dit formulier te volgen hebben de onderzoeken op de website dezelfde opbouw en zijn ze makkelijk met elkaar te vergelijken.
+        Heb je vragen of hulp nodig bij het invullen? Stuur dan een e-mail naar [info@nldesignsystem.nl](mailto:info@nldesignsystem.nl).
 
   - type: input
     id: title
@@ -62,7 +41,7 @@ body:
     id: keywords
     attributes:
       label: Keywords
-      description: Deze keywords worden gebruikt om op te zoeken (één per regel)
+      description: Maximaal 8 relevante zoektermen voor dit onderzoek (één per regel)
       placeholder: |
         keyword 1
         keyword 2
@@ -74,7 +53,7 @@ body:
     id: tags
     attributes:
       label: Tags
-      description: Deze tags worden gebruikt om onderzoek met dezelfde tags aan elkaar te relateren (één per regel)
+      description: Maximaal 5 tags om dit onderzoek te relateren aan ander onderzoek (één per regel)
       placeholder: |
         tag 1
         tag 2
@@ -188,10 +167,12 @@ body:
     id: contact_info
     attributes:
       label: Contactinformatie
-      description: Onderzoekers en contactpersonen (één per regel, formaat - Naam, email, rol, organisatie)
+      description: Organisaties en hun rol in het onderzoek (één per regel, formaat - Organisatienaam - Rol). Vermeld ook het e-mailadres waar mensen met vragen over dit onderzoek terecht kunnen.
       placeholder: |
-        Jane Doe, jane@example.com, Hoofdonderzoeker, Organisatienaam
-        John Smith, john@example.com, Onderzoeker, Organisatienaam
+        Organisatienaam 1 - Onderzoeksuitvoering
+        Organisatienaam 2 - Opdrachtgever
+
+        Voor vragen over dit onderzoek kunt u contact opnemen met [organisatie] via [email]
     validations:
       required: true
 
@@ -214,3 +195,25 @@ body:
       placeholder: Lijst eventuele bestanden of bijlagen
     validations:
       required: false
+
+  - type: markdown
+    attributes:
+      value: |
+        ## Licentie-informatie
+
+        Voor het delen van onderzoek op gebruikersonderzoeken.nl gelden specifieke licenties:
+
+        - De gedeelde onderzoeken en documentatie worden gepubliceerd onder de [CC0 1.0 Universeel](https://nldesignsystem.nl/open-source/cc0) licentie
+        - Deze licentie is **alleen** van toepassing op de teksten die op de website worden getoond
+        - **Uitgezonderd** zijn: merkenrecht (zoals logo's), het volledige oorspronkelijke rapport, afbeeldingen, foto's en video's
+
+        Lees het volledige [colofon](https://gebruikersonderzoeken.nl/colofon) voor meer informatie over auteursrecht en licenties.
+
+  - type: checkboxes
+    id: license_agreement
+    attributes:
+      label: Licentie-akkoord
+      description: Bevestig dat je akkoord gaat met de licentievoorwaarden
+      options:
+        - label: Ik heb het [colofon](https://gebruikersonderzoeken.nl/colofon) gelezen en ga akkoord met het publiceren van de gedeelde inzichten onder de CC0 1.0 Universeel licentie
+          required: true
