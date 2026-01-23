@@ -32,11 +32,11 @@ date_added: 2023-04-04
 
 # Gebruikersonderzoek informatiecampagne 18 jaar! Regelen maar!
 
-![18 jaar! regelen maar! campagne](https://i.imgur.com/aaPBoXK.png)
+![18 jaar! regelen maar! campagne](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/utrecht-informatiecampagne-18-jaar.png)
 
 ## Doel van het onderzoek
 
-De gemeente Utrecht is een informatiecampagne gestart, _18 jaar! Regelen maar!_, gericht op jongeren die binnenkort 18 worden. De campagne informeert jongeren over alle zaken die zij zelf moeten regelen wanneer zij meerderjarig zijn. De campagne bestaat uit een verjaardagskaart die ze ontvangen voordat ze 18 worden, en een [website](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/utrecht-informatiecampagne-18-jaar.png) waar alle informatie te vinden is.
+De gemeente Utrecht is een informatiecampagne gestart, _18 jaar! Regelen maar!_, gericht op jongeren die binnenkort 18 worden. De campagne informeert jongeren over alle zaken die zij zelf moeten regelen wanneer zij meerderjarig zijn. De campagne bestaat uit een verjaardagskaart die ze ontvangen voordat ze 18 worden, en een [website](https://www.utrecht.nl/zorg-en-onderwijs/hulp-voor-jongeren/18-worden) waar alle informatie te vinden is.
 
 Doel van dit onderzoek is er achter komen hoe de jongeren nu kijken naar wat ze moeten regelen als ze 18 worden, hoe ze reageren op de ansichtkaart die bij hun op de deurmat valt, en of de website hun voldoende helpt de belangrijkste zaken te regleen.
 
