@@ -1,0 +1,216 @@
+name: Onderzoeksdocumentatie
+description: Dien onderzoeksdocumentatie in voor de website
+title: "[Onderzoek]"
+labels: ["onderzoek", "documentatie"]
+body:
+  - type: markdown
+    attributes:
+      value: |
+        ## Formulier voor Onderzoeksdocumentatie
+        Vul dit formulier in om onderzoeksdocumentatie toe te voegen aan de website.
+
+  - type: markdown
+    attributes:
+      value: |
+        ## Licentie-informatie
+
+        Voor het delen van onderzoek op gebruikersonderzoeken.nl gelden specifieke licenties:
+
+        - De gedeelde onderzoeken en documentatie worden gepubliceerd onder de [CC0 1.0 Universeel](https://nldesignsystem.nl/open-source/cc0) licentie
+        - Deze licentie is **alleen** van toepassing op de teksten die op de website worden getoond
+        - **Uitgezonderd** zijn: merkenrecht (zoals logo's), het volledige oorspronkelijke rapport, afbeeldingen, foto's en video's
+
+        Lees het volledige [colofon](https://gebruikersonderzoeken.nl/colofon) voor meer informatie over auteursrecht en licenties.
+
+  - type: checkboxes
+    id: license_agreement
+    attributes:
+      label: Licentie-akkoord
+      description: Bevestig dat je akkoord gaat met de licentievoorwaarden
+      options:
+        - label: Ik heb het [colofon](https://gebruikersonderzoeken.nl/colofon) gelezen en ga akkoord met het publiceren van de gedeelde inzichten onder de CC0 1.0 Universeel licentie
+          required: true
+
+  - type: input
+    id: title
+    attributes:
+      label: Titel onderzoek
+      description: Hoe het onderzoek genoemd wordt in de navigatie
+      placeholder: bijv. Gebruikerstest van inlogproces
+    validations:
+      required: true
+
+  - type: textarea
+    id: description
+    attributes:
+      label: Korte beschrijving
+      description: Korte beschrijving van het onderzoek
+      placeholder: Een beknopte beschrijving waar het onderzoek over gaat
+    validations:
+      required: true
+
+  - type: textarea
+    id: summary
+    attributes:
+      label: Samenvatting
+      description: Samenvatting van het onderzoek en de uitkomsten (1-2 zinnen)
+      placeholder: In één of twee zinnen, wat is de belangrijkste conclusie van dit onderzoek?
+    validations:
+      required: true
+
+  - type: textarea
+    id: keywords
+    attributes:
+      label: Keywords
+      description: Deze keywords worden gebruikt om op te zoeken (één per regel)
+      placeholder: |
+        keyword 1
+        keyword 2
+        keyword 3
+    validations:
+      required: true
+
+  - type: textarea
+    id: tags
+    attributes:
+      label: Tags
+      description: Deze tags worden gebruikt om onderzoek met dezelfde tags aan elkaar te relateren (één per regel)
+      placeholder: |
+        tag 1
+        tag 2
+        tag 3
+    validations:
+      required: true
+
+  - type: checkboxes
+    id: themes
+    attributes:
+      label: Thema's
+      description: Deze themas worden gebruikt om onderzoeken op de homepage te vinden en met een badge navigatie aan elkaar te relateren
+      options:
+        - label: diensten-en-processen
+        - label: doelgroep-specifiek
+        - label: formulieren
+        - label: gedrag-en-conversie
+        - label: mijn-omgeving
+        - label: mobiele-ervaring
+        - label: navigatie
+        - label: taal-en-begrijpelijkheid
+        - label: toegankelijkheid
+        - label: overig
+    validations:
+      required: true
+
+  - type: textarea
+    id: conducted_by
+    attributes:
+      label: Uitgevoerd door
+      description: Lijst van organisaties die het onderzoek hebben uitgevoerd (één per regel)
+      placeholder: |
+        Organisatie 1
+        Organisatie 2
+    validations:
+      required: true
+
+  - type: input
+    id: date_conducted
+    attributes:
+      label: Datum onderzoek
+      description: Datum van het onderzoek (JJJJ-MM-DD). Vul de datum van het laatste onderzoek in wanneer het verslag over meerdere iteraties gaat.
+      placeholder: "2024-01-15"
+    validations:
+      required: true
+
+  - type: input
+    id: target_group
+    attributes:
+      label: Doelgroep
+      description: (Optioneel) Beschrijf de doelgroep voor het onderzoek
+      placeholder: bijv. Burgers 65+, Kleine ondernemers
+    validations:
+      required: false
+
+  - type: input
+    id: type
+    attributes:
+      label: Type onderzoek
+      description: (Optioneel) Beschrijf het type onderzoek
+      placeholder: bijv. Gebruikersonderzoek, Enquête, Interview
+    validations:
+      required: false
+
+  - type: textarea
+    id: goal
+    attributes:
+      label: Doel van het onderzoek
+      description: Wat wilden we met het onderzoek bereiken? Wat was de onderzoeksvraag?
+      placeholder: Beschrijf de doelen en onderzoeksvragen
+    validations:
+      required: true
+
+  - type: textarea
+    id: advice
+    attributes:
+      label: Advies
+      description: Welk advies geven we op basis van dit onderzoek? Welke actie moet er ondernomen worden?
+      placeholder: Beschrijf aanbevelingen en acties
+    validations:
+      required: true
+
+  - type: textarea
+    id: results
+    attributes:
+      label: Resultaten en inzichten
+      description: Wat zijn de resultaten van het onderzoek en welke inzichten hebben we opgehaald?
+      placeholder: Beschrijf de belangrijkste bevindingen
+    validations:
+      required: true
+
+  - type: textarea
+    id: actions_taken
+    attributes:
+      label: Wat is er mee gedaan?
+      description: (Optioneel) Indien op moment van schrijven al van toepassing - een korte beschrijving van wat er met de onderzoeksresultaten wordt gedaan
+      placeholder: Beschrijf indien van toepassing hoe de resultaten zijn geïmplementeerd
+    validations:
+      required: false
+
+  - type: textarea
+    id: methodology
+    attributes:
+      label: Opzet onderzoek
+      description: Hoe is het onderzoek gedaan? Wat voor methode is gebruikt? Hoeveel mensen zijn bevraagd op welke manier? Van wanneer tot wanneer heeft het onderzoek plaatsgevonden?
+      placeholder: Beschrijf de onderzoeksopzet en methodologie
+    validations:
+      required: true
+
+  - type: textarea
+    id: contact_info
+    attributes:
+      label: Contactinformatie
+      description: Onderzoekers en contactpersonen (één per regel, formaat - Naam, email, rol, organisatie)
+      placeholder: |
+        Jane Doe, jane@example.com, Hoofdonderzoeker, Organisatienaam
+        John Smith, john@example.com, Onderzoeker, Organisatienaam
+    validations:
+      required: true
+
+  - type: textarea
+    id: documentation
+    attributes:
+      label: Documentatie
+      description: Relevante onderzoeksdocumenten, websites, bijlagen, etc.
+      placeholder: |
+        - [Documentnaam](URL)
+        - [Websitenaam](URL)
+    validations:
+      required: false
+
+  - type: textarea
+    id: attachments
+    attributes:
+      label: Bijlagen
+      description: Bijlagen waarnaar verwezen wordt die relevant zijn om direct in het onderzoek te zetten
+      placeholder: Lijst eventuele bestanden of bijlagen
+    validations:
+      required: false
