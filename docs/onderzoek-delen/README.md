@@ -49,3 +49,7 @@ Er worden twee eisen gesteld aan het onderzoek:
 
 - Er mogen geen persoonsgegevens in het onderzoek staan. We garanderen hiermee de privacy van onze inwoners.
 - Het is duidelijk hoe het onderzoek gedaan is. Hierdoor kunnen de lezers van je onderzoek een eerste mening vormen over de kwaliteit van het onderzoek.
+
+## Auteursrecht
+
+De gedeelde onderzoeken op gebruikersonderzoeken.nl worden gepubliceerd onder de [CC0 1.0 Universeel](https://nldesignsystem.nl/open-source/cc0) licentie. Deze licentie is uitsluitend van toepassing op de gedeelde teksten die op de website worden getoond met uitzondering van het merkenrecht zoals een logo. De overige auteursrechten (van derden) zoals van het volledige rapport waar de hyperlink naar verwijst, en auteursrecht op afbeeldingen, foto's en video's blijven onverlet gelden.
