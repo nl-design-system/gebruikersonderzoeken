@@ -16,7 +16,7 @@ De website wordt gemaakt en onderhouden door de NL Design System community en is
 
 ## Open source
 
-Bij [NL Design System](https://nldesignsystem.nl) wordt alles zoveel mogelijk open source beschikbaar gemaakt. Zo kan makkelijker worden samengewerkt, is de code herbruikbaar over organisatiegrenzen heen en kunnen inzichten en documentatie eenvoudig worden gebruikt, uitgebreid en verbeterd. De manier om dat te bereiken is met Open Source licenties
+Bij [NL Design System](https://nldesignsystem.nl) wordt alles zoveel mogelijk open source beschikbaar gemaakt. Zo is samenwerken makkelijker, is de code herbruikbaar over organisatiegrenzen heen en kunnen inzichten en documentatie eenvoudig worden gebruikt, uitgebreid en verbeterd. De manier om dat te bereiken is met de volgende Open Source licenties.
 
 ### EUPL 1.2
 

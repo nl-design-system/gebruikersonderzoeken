@@ -52,4 +52,4 @@ Er worden twee eisen gesteld aan het onderzoek:
 
 ## Auteursrecht
 
-De gedeelde onderzoeken op gebruikersonderzoeken.nl worden gepubliceerd onder de [CC0 1.0 Universeel](https://nldesignsystem.nl/open-source/cc0) licentie. Deze licentie is uitsluitend van toepassing op de gedeelde teksten die op de website worden getoond met uitzondering van het merkenrecht zoals een logo. De overige auteursrechten (van derden) zoals van het volledige rapport waar de hyperlink naar verwijst, en auteursrecht op afbeeldingen, foto's en video's blijven onverlet gelden.
+De webpagina's over onderzoeken worden op gebruikersonderzoeken.nl gepubliceerd onder de [CC0 1.0 Universeel](https://nldesignsystem.nl/open-source/cc0) licentie. Deze licentie is uitsluitend van toepassing op de gedeelde teksten die op de website worden getoond met uitzondering van het merkenrecht zoals een logo. De overige auteursrechten (van derden) zoals van het volledige rapport waar de hyperlink naar verwijst, en auteursrecht op afbeeldingen, foto's en video's blijven onverlet gelden.
