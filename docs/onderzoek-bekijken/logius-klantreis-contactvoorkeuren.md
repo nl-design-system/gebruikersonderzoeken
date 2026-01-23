@@ -25,7 +25,7 @@ themes:
   - mijn-omgeving
   - gedrag-en-conversie
 conducted_by:
-  - Blauw Research
+  - Blauw Research in opdracht van Logius
 date_added: 2026-01-23
 date_conducted: 2025-11-28
 target_group: Algemeen Nederlands publiek (burgers) die het afgelopen jaar zelf (of met hulp) zaken geregeld hebben met de overheid. Specifieke aandacht voor 'helpers' - mensen die anderen helpen met het regelen van overheidszaken.
@@ -51,7 +51,7 @@ De onderzoeksvragen waren:
 
 ### Eén plek om contactvoorkeuren te wijzigen
 
-Hoewel het idee van het maar één keer hoeve aanpassen van je contactvoorkeuren aanspreekt vanwege gemak en efficiëntie, is er ook verdeeldheid over het automatisch opslaan en delen van wijzigingen bij alle overheidsinstanties. Sommigen vinden dit prettig en tijdbesparend, anderen willen juist controle houden over waar hun gegevens worden aangepast. Het kunnen inzien bij welke overheidsinstanties een wijziging is doorgevoerd en waar niet is daarom erg belangrijk.
+Hoewel het idee van het maar één keer hoeven aanpassen van je contactvoorkeuren aanspreekt vanwege gemak en efficiëntie, is er ook verdeeldheid over het automatisch opslaan en delen van wijzigingen bij alle overheidsinstanties. Sommigen vinden dit prettig en tijdbesparend, anderen willen juist controle houden over waar hun gegevens worden aangepast. Het kunnen inzien bij welke overheidsinstanties een wijziging is doorgevoerd en waar niet is daarom erg belangrijk.
 
 - Maak duidelijker waar, bij welke instanties, de gegevens worden aangepast en waar niet
 - Overweeg een campagne of extra uitleg om burgers te informeren over het concept van het decentraal wijzigen van contactgegevens
