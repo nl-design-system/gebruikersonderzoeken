@@ -17,6 +17,10 @@ import { Heading } from '@nl-design-system-candidate/heading-react';
   const url = new URL(document.URL);
   const searchParams = new URLSearchParams(url.searchParams);
 
+  if (searchParams.has('query') && document.querySelector('h1')) {
+    document.querySelector('h1').innerText += ` naar "${searchParams.get('query')}"`;
+  }
+
   fetchResults(searchParams).then((map) => {
     if (!map) return;
     const resultList = document.getElementById('result-list');
