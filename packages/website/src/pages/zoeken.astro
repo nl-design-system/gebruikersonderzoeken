@@ -1,53 +1,8 @@
 ---
-import { PageSection } from '@components/page-section/page-section.tsx';
-import { SearchPageHeading } from '@components/search/search-page-heading/search-page-heading.tsx';
+import { SearchPage } from '@components/search/search-page/search-page.tsx';
 import CenterColumnLayout from '@layouts/center-column.astro';
-import { BodyCopy } from '@nl-design-system-community/ma-components/body-copy/body-copy.tsx';
 ---
 
 <CenterColumnLayout title="Pagina niet gevonden">
-  <PageSection>
-    <BodyCopy small>
-      <SearchPageHeading client:visible />
-    </BodyCopy>
-  </PageSection>
-
-  <PageSection>
-    <BodyCopy small>
-      <ul id="result-list"></ul>
-    </BodyCopy>
-  </PageSection>
+  <SearchPage client:visible />
 </CenterColumnLayout>
-
-<script>
-  import { fetchResults } from '../components/search/algolia-api/fetch-results.ts';
-  const url = new URL(document.URL);
-  const searchParams = new URLSearchParams(url.searchParams);
-
-  fetchResults(searchParams).then((map) => {
-    if (!map) return;
-    const resultList = document.getElementById('result-list');
-    map.forEach((snippets, url) => {
-      const listItem = document.createElement('li');
-      const link: HTMLAnchorElement = document.createElement('a');
-
-      link.href = url;
-      link.innerHTML = snippets.lvl0;
-      listItem.appendChild(link);
-
-      if (snippets.content.length) {
-        snippets.content.forEach((snipet) => {
-          const span = document.createElement('span');
-          span.innerHTML = snipet;
-
-          const br = document.createElement('br');
-          listItem.appendChild(br);
-
-          listItem.appendChild(span);
-        });
-      }
-
-      resultList.appendChild(listItem);
-    });
-  });
-</script>
