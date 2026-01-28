@@ -237,13 +237,11 @@ We hebben de gebruikerstesten op de volgende manier opgezet:
 
 1. **Bepalen doelstelling van de test**  
    We hebben vastgesteld op welke vragen we in iedere geval een antwoord wilden vinden:
-
    - In hoeverre is het publicatieportaal gebruiksvriendelijk?
    - In hoeverre is het duidelijk waar het publicatieportaal voor dient?
 
 2. **Formuleren onderzoeksvragen**  
    We hebben onderzoeksvragen en deelvragen opgesteld als basis voor de gebruikerstesten:
-
    - In hoeverre is het zoekpad duidelijk? (zoekbalk, filters, thema's, categorieën, document preview)
    - In hoeverre is de uitstraling open en toegankelijk (visueel aantrekkelijk, B1 content/begrippen, contrast)
    - In hoeverre is er ondersteuning in vervolgstappen? (downloaden/favorieten/contact/delen)
@@ -410,7 +408,6 @@ De beheeromgeving van de publicatievoorziening gaat in de toekomst gebruikt word
 
 1. **Bepalen doelstelling van de test**  
    De beheeromgeving geeft geautoriseerde medewerkers de mogelijkheid om kwaliteitscontroles uit te voeren en publicaties vanuit Gemeente Tilburg te structureren en actief te publiceren. Tijdens de test willen we vooral een eerste indruk van en mening over de gebruiksvriendelijkheid van de beheeromgeving ophalen. in ieder geval antwoord op de volgende vraag:
-
    - In hoeverre is de beheeromgeving gebruiksvriendelijk?
 
 2. **Formuleren onderzoeksvragen**  
