@@ -23,7 +23,4 @@ minimumReleaseAgeExclude:
   - 'react@19.2.3'
   - 'react-dom@19.2.3'
 
-patchedDependencies:
-  '@utrecht/figure-css@1.5.1': patches/@utrecht__figure-css@1.5.1.patch
-
 savePrefix: ''
