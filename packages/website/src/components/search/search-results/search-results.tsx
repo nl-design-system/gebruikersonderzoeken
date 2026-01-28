@@ -11,7 +11,9 @@ export function SearchResults(props: SearchResultsProps) {
         <li key={result.url}>
           <a href={result.url} dangerouslySetInnerHTML={{ __html: result.title }} />
           <br />
-          {result.snippets?.map((snippet) => <span key={snippet} dangerouslySetInnerHTML={{ __html: snippet }} />)}
+          {result.snippets?.map((snippet) => (
+            <span key={snippet} dangerouslySetInnerHTML={{ __html: snippet }} />
+          ))}
         </li>
       ))}
     </ul>
