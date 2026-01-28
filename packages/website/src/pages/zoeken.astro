@@ -1,0 +1,11 @@
+---
+import { PageSection } from '@components/page-section/page-section.tsx';
+import ZoekPagina from '@components/zoek-pagina/zoek-pagina.tsx';
+import Layout from '@layouts/default.astro';
+---
+
+<Layout canonical={Astro.url} description="Zoeken">
+  <PageSection withSpace>
+    <ZoekPagina client:only="react" />
+  </PageSection>
+</Layout>
