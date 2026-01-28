@@ -80,19 +80,16 @@ _Onderzoek uitgevoerd in 2019 door Deloitte in opdracht van de Rijksdienst voor 
 ### Hoofdconclusies
 
 1. Content
-
    - De content lijkt vooral geschreven naar intermediairs toe. Een aantal gebruikers gaf aan dat ze hun adviseur nodig hadden om hen wegwijs te maken.
    - De content staat versnipperd of dubbel over verschillende pagina's, waardoor gebruikers de weg kwijt raken en net gelezen informatie niet meer terug kunnen vinden.
    - Het is onduidelijk dat RVO een beperkte selectie van alle regelingen heeft die er bestaan en dat er andere overheidsinstanties zijn die relevante subsidies aanbieden.
 
 2. Look & feel
-
    - De look en feel wordt als zakelijk en betrouwbaar ervaren. De lay-out van de overzicht pagina en regelingspagina kennen duidelijke verbeterpunten.
    - De leesbaarheid van sommige onderdelen was niet goed genoeg. Het lettertype is niet groot genoeg voor een deel van de gebruikers.
    - De samenhang in de website ontbreekt, gebruikers weten niet goed waar ze moeten kijken of zien essentiële onderdelen niet.
 
 3. Interactie
-
    - Contact opnemen is een primaire behoefte van gebruikers, maar dit wordt niet als laagdrempelig ervaren, doordat er doorgelinkt wordt naar de algemene contactpagina, waarna ze verwezen worden naar het algemene RVO nummer.
    - De reden dat gebruikers contact op willen nemen is omdat ze de regelingspagina's niet duidelijk genoeg vinden, ze te complex zijn, of omdat het te veel tijd kost om het zelf uit te zoeken.
 
@@ -237,7 +234,6 @@ Doel van het usability onderzoek is om na te gaan of het vernieuwde ontwerp vold
 ### Onderzoeksvragen
 
 1. **Hoe kan RVO het nieuwe ontwerp van de Subsidiewijzer optimaliseren zodat dit aansluit bij de wensen, behoeften en verwachtingen?**
-
    - Hoe waardeert men het als er direct resultaten zichtbaar zijn op de landingspagina van de Subsidies en Financiering?
    - Is er behoefte aan een alfabetisch overzicht waarbij alle resultaten in beeld komen?
    - Hoeveel en welke filters zijn gewenst?
