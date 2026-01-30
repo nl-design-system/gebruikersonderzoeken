@@ -36,6 +36,7 @@ export default defineConfig({
     react(),
     sitemap({
       changefreq: 'weekly',
+      filter: (page) => page !== 'https://gebruikersonderzoeken.nl/zoeken/',
       priority: 0.5,
     }),
   ],
