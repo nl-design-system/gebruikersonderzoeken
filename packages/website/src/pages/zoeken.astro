@@ -1,0 +1,14 @@
+---
+import { PageSection } from '@components/page-section/page-section.tsx';
+import { SearchPageHeading } from '@components/search/search-page-heading/search-page-heading.tsx';
+import CenterColumnLayout from '@layouts/center-column.astro';
+import { BodyCopy } from '@nl-design-system-community/ma-components/body-copy/body-copy.tsx';
+---
+
+<CenterColumnLayout title="Pagina niet gevonden">
+  <PageSection>
+    <BodyCopy small>
+      <SearchPageHeading client:visible />
+    </BodyCopy>
+  </PageSection>
+</CenterColumnLayout>
