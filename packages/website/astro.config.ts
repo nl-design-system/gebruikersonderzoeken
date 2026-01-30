@@ -51,6 +51,7 @@ export default defineConfig({
     react(),
     sitemap({
       changefreq: 'weekly',
+      // Temporary remove /zoeken from the sitemap
       filter: (page) => page !== 'https://gebruikersonderzoeken.nl/zoeken/',
       priority: 0.5,
     }),
@@ -62,6 +63,7 @@ export default defineConfig({
   site: siteUrl,
   vite: {
     build: {
+      // prevent vite from inlining assets as data:* attributes because it violates csp rules
       assetsInlineLimit: 0,
     },
   },
