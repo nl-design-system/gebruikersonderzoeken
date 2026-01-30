@@ -1,3 +1,4 @@
+import type { AstroUserConfig } from 'astro';
 import react from '@astrojs/react';
 import sitemap from '@astrojs/sitemap';
 import { defineConfig } from 'astro/config';
@@ -9,14 +10,13 @@ import { removeH1FromMarkdown } from './markdown-plugins/remark-remove-h1/index.
 
 const siteUrl = 'https://gebruikersonderzoeken.nl';
 
-// https://astro.build/config
-export default defineConfig({
-  build: {
-    inlineStylesheets: 'never',
+const cspDevConfig: AstroUserConfig = {
+  experimental: {
+    csp: false,
   },
-  devToolbar: {
-    enabled: false,
-  },
+};
+
+const cspProdConfig: AstroUserConfig = {
   experimental: {
     csp: {
       directives: [
@@ -31,6 +31,21 @@ export default defineConfig({
         'worker-src blob:',
       ],
     },
+  },
+};
+
+const cspConfig = process.env['NODE_ENV'] === 'development' ? cspDevConfig : cspProdConfig;
+
+// https://astro.build/config
+export default defineConfig({
+  build: {
+    inlineStylesheets: 'never',
+  },
+  devToolbar: {
+    enabled: false,
+  },
+  experimental: {
+    csp: cspConfig.experimental?.csp,
   },
   integrations: [
     react(),
