@@ -29,4 +29,9 @@ export default defineConfig({
     remarkPlugins: [nldsComponentsRemarkPlugin, coverPlugin, removeH1FromMarkdown({ filter: 'onderzoek-bekijken' })],
   },
   site: siteUrl,
+  vite: {
+    build: {
+      assetsInlineLimit: 0,
+    },
+  },
 });
