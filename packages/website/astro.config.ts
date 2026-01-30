@@ -17,6 +17,21 @@ export default defineConfig({
   devToolbar: {
     enabled: false,
   },
+  experimental: {
+    csp: {
+      directives: [
+        "base-uri 'self'",
+        "connect-src 'self' https://*.algolia.net https://*.algolianet.com https://*.algolia.io blob: data:",
+        "default-src 'self'",
+        "font-src 'self'",
+        "form-action 'self'",
+        "frame-ancestors 'none'",
+        "img-src 'self' https://raw.githubusercontent.com blob: data:",
+        "object-src 'none'",
+        'worker-src blob:',
+      ],
+    },
+  },
   integrations: [
     react(),
     sitemap({
