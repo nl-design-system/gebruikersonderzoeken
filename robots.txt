@@ -1,4 +1,5 @@
 User-agent: *
 Allow: /
+Disallow: /zoeken/
 
 Sitemap: https://gebruikersonderzoeken.nl/sitemap-index.xml
