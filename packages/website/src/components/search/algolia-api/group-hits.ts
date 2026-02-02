@@ -12,7 +12,6 @@ type Groups = Map<Group['title'], Group>;
 
 export function groupHits(_hits: Hit[]) {
   const groups: Groups = new Map();
-  console.log(_hits);
 
   _hits.forEach((hit) => {
     const title = hit.hierarchy.lvl0;
