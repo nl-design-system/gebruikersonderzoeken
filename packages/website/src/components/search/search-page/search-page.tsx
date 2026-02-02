@@ -5,6 +5,10 @@ import { BodyCopy } from '@nl-design-system-community/ma-components/body-copy/bo
 import { useEffect, useState } from 'react';
 import { fetchResults } from '../algolia-api/fetch-results.ts';
 
+function pageTitle(query?: string | null) {
+  return query ? `Zoeken naar: "${query}"` : 'Zoeken';
+}
+
 function updateUrlParameter(name: string, value?: string | null) {
   const url = new URL(window.location.href);
   if (value) {
@@ -42,7 +46,7 @@ export const SearchPage = () => {
     <>
       <PageSection>
         <BodyCopy small>
-          <Heading level={1}>{searchQuery ? `Zoeken naar: "${searchQuery}"` : 'Zoeken'}</Heading>
+          <Heading level={1}>{pageTitle(searchQuery)}</Heading>
         </BodyCopy>
       </PageSection>
 
