@@ -4,7 +4,7 @@ import { GebruikersonderzoekenFooter } from '@components/gebruikersonderzoeken-f
 import { GebruikersonderzoekenHeader } from '@components/gebruikersonderzoeken-header/gebruikersonderzoeken-header';
 import { GebruikersonderzoekenNavigationDrawer } from '@components/gebruikersonderzoeken-navigation-drawer/gebruikersonderzoeken-navigation-drawer';
 import logo from '@components/logo/logo.svg?raw';
-import { cspValue } from '@utils/csp.ts';
+import { generateDocumentTitle } from '@utils/document-title.ts';
 import '@assets/styles.css';
 import '@fontsource/fira-code';
 import '@fontsource/fira-sans/700';
@@ -29,7 +29,7 @@ const fallbackCover: Cover = {
 };
 
 const lang = 'nl';
-const title = pageTitle ? `${pageTitle} | Gebruikersonderzoeken` : 'Gebruikersonderzoeken';
+const title = generateDocumentTitle(pageTitle);
 const cover = pageCover ?? fallbackCover;
 
 const navigationBarItems = [
@@ -107,6 +107,16 @@ const navigationBarItems = [
 
     <div hidden set:html={logo} />
 
+    <script>
+      import { UpdateDocumentTitleEvent } from '@utils/document-title.js';
+
+      document.addEventListener(UpdateDocumentTitleEvent.eventName, (event: Event) => {
+        const titleElement = document.querySelector<HTMLTitleElement>('head title');
+        if (event instanceof UpdateDocumentTitleEvent && titleElement) {
+          titleElement.innerText = event.newTitle;
+        }
+      });
+    </script>
     <script>
       import 'invokers-polyfill';
     </script>
