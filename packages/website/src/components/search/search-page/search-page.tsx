@@ -1,11 +1,12 @@
 import { PageSection } from '@components/page-section/page-section.tsx';
+import { SearchForm } from '@components/search/search-form/search-form.tsx';
 import { Heading } from '@nl-design-system-candidate/heading-react';
 import { BodyCopy } from '@nl-design-system-community/ma-components/body-copy/body-copy.tsx';
 import { useEffect, useState } from 'react';
 import { fetchResults } from '../algolia-api/fetch-results.ts';
 
 export const SearchPage = () => {
-  const [searchQuery, setSearchQuery] = useState<string | null>(null);
+  const [searchQuery, setSearchQuery] = useState<string | undefined | null>(null);
   const [loading, setLoading] = useState(false);
   const [results, setResults] = useState<Array<object>>([]);
 
@@ -27,6 +28,10 @@ export const SearchPage = () => {
         <BodyCopy small>
           <Heading level={1}>{searchQuery ? `Zoeken naar: "${searchQuery}"` : 'Zoeken'}</Heading>
         </BodyCopy>
+      </PageSection>
+
+      <PageSection>
+        <SearchForm value={searchQuery} onChange={(value) => setSearchQuery(value)} />
       </PageSection>
 
       <PageSection>
