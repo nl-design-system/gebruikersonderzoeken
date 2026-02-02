@@ -2,6 +2,7 @@ import { PageSection } from '@components/page-section/page-section.tsx';
 import { SearchForm } from '@components/search/search-form/search-form.tsx';
 import { Heading } from '@nl-design-system-candidate/heading-react';
 import { BodyCopy } from '@nl-design-system-community/ma-components/body-copy/body-copy.tsx';
+import { updateDocumentTitle } from '@utils/document-title.ts';
 import { useEffect, useState } from 'react';
 import { fetchResults } from '../algolia-api/fetch-results.ts';
 
@@ -17,6 +18,8 @@ function updateUrlParameter(name: string, value?: string | null) {
     url.searchParams.delete(name);
   }
 
+  const newPageTitle = pageTitle(value);
+  updateDocumentTitle(newPageTitle);
   window.history.pushState({}, '', url.toString());
 }
 
