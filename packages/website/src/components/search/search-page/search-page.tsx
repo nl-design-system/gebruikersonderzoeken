@@ -5,6 +5,17 @@ import { BodyCopy } from '@nl-design-system-community/ma-components/body-copy/bo
 import { useEffect, useState } from 'react';
 import { fetchResults } from '../algolia-api/fetch-results.ts';
 
+function updateUrlParameter(name: string, value?: string | null) {
+  const url = new URL(window.location.href);
+  if (value) {
+    url.searchParams.set(name, value);
+  } else {
+    url.searchParams.delete(name);
+  }
+
+  window.history.pushState({}, '', url.toString());
+}
+
 export const SearchPage = () => {
   const [searchQuery, setSearchQuery] = useState<string | undefined | null>(null);
   const [loading, setLoading] = useState(false);
@@ -14,13 +25,18 @@ export const SearchPage = () => {
     const url = new URL(document.URL);
     const query = url.searchParams.get('query');
     setSearchQuery(query);
-    if (query) {
+  }, []);
+
+  useEffect(() => {
+    updateUrlParameter('query', searchQuery);
+
+    if (searchQuery) {
       setLoading(true);
-      fetchResults(query)
+      fetchResults(searchQuery)
         .then((map) => setResults(map))
         .finally(() => setLoading(false));
     }
-  }, []);
+  }, [searchQuery]);
 
   return (
     <>
