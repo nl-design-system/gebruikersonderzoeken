@@ -4,7 +4,9 @@ import { Heading } from '@nl-design-system-candidate/heading-react';
 import { BodyCopy } from '@nl-design-system-community/ma-components/body-copy/body-copy.tsx';
 import { updateDocumentTitle } from '@utils/document-title.ts';
 import { useEffect, useState } from 'react';
+import type { SearchResult } from '../types.js';
 import { fetchResults } from '../algolia-api/fetch-results.ts';
+import { groupHitsToPages } from '../algolia-api/group-hits-to-pages.ts';
 
 function pageTitle(query?: string | null) {
   return query ? `Zoeken naar: "${query}"` : 'Zoeken';
@@ -26,7 +28,7 @@ function updateUrlParameter(name: string, value?: string | null) {
 export const SearchPage = () => {
   const [searchQuery, setSearchQuery] = useState<string | undefined | null>(null);
   const [loading, setLoading] = useState(false);
-  const [results, setResults] = useState<Array<object>>([]);
+  const [results, setResults] = useState<SearchResult[]>();
 
   useEffect(() => {
     const url = new URL(document.URL);
@@ -40,7 +42,12 @@ export const SearchPage = () => {
     if (searchQuery) {
       setLoading(true);
       fetchResults(searchQuery)
-        .then((map) => setResults(map))
+        .then(groupHitsToPages)
+        .then(([, searchResults]) => {
+          if (searchResults) {
+            setResults(searchResults);
+          }
+        })
         .finally(() => setLoading(false));
     }
   }, [searchQuery]);
@@ -63,11 +70,13 @@ export const SearchPage = () => {
             <p>Aan het zoeken</p>
           ) : (
             <ul id="result-list">
-              {results.map((result) => (
-                <li key={result.urlWithoutAnchor}>
-                  <a href={result.urlWithoutAnchor} dangerouslySetInnerHTML={{ __html: result.value }} />
+              {results?.map((result) => (
+                <li key={result.url}>
+                  <a href={result.url} dangerouslySetInnerHTML={{ __html: result.title }} />
                   <br />
-                  {result.snippet && <span dangerouslySetInnerHTML={{ __html: result.snippet }} />}
+                  {result.snippets?.map((snippet) => (
+                    <span key={snippet} dangerouslySetInnerHTML={{ __html: snippet }} />
+                  ))}
                 </li>
               ))}
             </ul>
