@@ -1,7 +1,6 @@
-import type { SearchHit } from '../types.js';
-import type { AlgoliaSearchResult } from './types.js';
+import type { AlgoliaResponse } from '../types.js';
 
-export type FetchSuccess = [null, AlgoliaSearchResult<SearchHit>];
+export type FetchSuccess = [null, AlgoliaResponse];
 export type FetchFailed = [SearchError, null];
 export type FetchResult = FetchSuccess | FetchFailed;
 
@@ -38,7 +37,7 @@ export async function fetchResults(query: string): Promise<FetchResult> {
     method: 'POST',
   })
     .then((res) => res.json())
-    .then((searchResult: AlgoliaSearchResult<SearchHit>) => {
+    .then((searchResult: AlgoliaResponse) => {
       result = searchResult;
     });
 
