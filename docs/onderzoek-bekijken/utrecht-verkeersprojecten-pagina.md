@@ -176,21 +176,26 @@ Gebruikers missen expliciete, samengevatte key-info die direct antwoord geeft op
 
 Tussen 15 en 20 januari 2026 zijn in totaal negen interviews afgenomen met inwoners van de gemeente Utrecht die het Stadskantoor bezochten.
 
-**Observatieonderzoek.** De inwoner krijgt een opdracht mee om uit te voeren in de testomgeving van utrecht.nl. Tijdens het uitvoeren van deze opdracht wordt de inwoner geobserveerd, zonder dat er wordt bijgestuurd. Het doel hiervan is te beoordelen of de inwoner zelfstandig in staat is om relevante informatie te vinden.
+### Observatieonderzoek
 
-**Doel.** Het doel van dit onderzoek is vast te stellen of de gebruikte sjablonen aansluiten bij de verwachtingen en behoeften van gebruikers, of dat aanpassingen noodzakelijk zijn. Twee varianten worden hierbij onderzocht: een sjabloon waarin een promolink is opgenomen en een sjabloon dat werkt met ankerlinks. De uitkomsten van dit onderzoek bieden handvatten om weloverwogen keuzes te maken en de sjablonen zo vorm te geven dat zij bijdragen aan een optimale gebruikerservaring.
+De inwoner krijgt een opdracht mee om uit te voeren in de testomgeving van utrecht.nl. Tijdens het uitvoeren van deze opdracht wordt de inwoner geobserveerd, zonder dat er wordt bijgestuurd. Het doel hiervan is te beoordelen of de inwoner zelfstandig in staat is om relevante informatie te vinden.
+
+### Doel
+
+Het doel van dit onderzoek is vast te stellen of de gebruikte sjablonen aansluiten bij de verwachtingen en behoeften van gebruikers, of dat aanpassingen noodzakelijk zijn. Twee varianten worden hierbij onderzocht: een sjabloon waarin een promolink is opgenomen en een sjabloon dat werkt met ankerlinks. De uitkomsten van dit onderzoek bieden handvatten om weloverwogen keuzes te maken en de sjablonen zo vorm te geven dat zij bijdragen aan een optimale gebruikerservaring.
 
 ### Scenario
 
 Je woont op Socrateslaan 22 in Utrecht, een straat met veel fietsers en geparkeerde auto’s. De gemeente wil de straat opnieuw inrichten om de verkeersveiligheid te verbeteren en meer groen toe te voegen. Je vraagt je af: wat betekent dit voor jouw dagelijkse ritten, je parkeerplek en de bereikbaarheid van je woning? Je hebt een drukke agenda en wilt snel weten wat dit voor jou betekent.
 
-**Opdracht 1 Werkzaamheden bij mij voor de deur.**
+#### Opdracht 1 Werkzaamheden bij mij voor de deur
 
 - Opdracht 1a: Je woont op Socrateslaan 22. Je wilt weten hoe lang ze bezig zijn met de werkzaamheden bij jouw huis.
 - Opdracht 1b: Kan ik nog wel parkeren?
 - Opdracht 1c: Hoe zit het met fietsen?
 
-**Opdracht 2 Kan ik mijn auto nog wel kwijt?**
+#### Opdracht 2 Kan ik mijn auto nog wel kwijt?
+
 "Je hebt een auto die je normaal voor de deur kwijt kan."
 
 Je maakt je zorgen of je na de herinrichting van jouw buurt nog dicht bij huis kunt parkeren, zijn er dan nog wel genoeg plekken? Je weet op dit moment niet: Hoeveel parkeerplaatsen er nu zijn. Hoeveel parkeerplaatsen er straks terugkomen.
@@ -205,6 +210,6 @@ Inwoners van de gemeente Utrecht.
 
 ## Contactinformatie
 
-- Sandra Deckers, Onderzoeker & Adviseur - sandra.deckers@utrecht.nl
-- Wijnand van Eijndthoven, Onderzoeker & Adviseur - wijnand.van.eijndthoven@utrecht.nl
-- Jeroen du Chatinier, UX-researcher - j.du.chatinier@utrecht.nl
+- Sandra Deckers, Onderzoeker & Adviseur - [sandra.deckers@utrecht.nl](mailto:sandra.deckers@utrecht.nl)
+- Wijnand van Eijndthoven, Onderzoeker & Adviseur - [wijnand.van.eijndthoven@utrecht.nl](mailto:wijnand.van.eijndthoven@utrecht.nl)
+- Jeroen du Chatinier, UX-researcher - [j.du.chatinier@utrecht.nl](mailto:j.du.chatinier@utrecht.nl)
