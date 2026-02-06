@@ -1,4 +1,4 @@
-import type { AlgoliaHighlightResult, AlgoliaHit } from './algolia-api/types.js';
+import type { SearchResponse, Hit, HighlightResultOption, SnippetResultOption } from 'algoliasearch';
 
 export type GebruikersonderzoekenHierarchyLevel = 'lvl0' | 'lvl1' | 'lvl2' | 'lvl3' | 'lvl4' | 'lvl5';
 
@@ -11,12 +11,15 @@ export type GebruikersonderzoekenRecord = {
   hierarchy: Record<GebruikersonderzoekenHierarchyLevel, string>;
 };
 
-export interface SearchResult {
+export type AlgoliaHit = Hit<GebruikersonderzoekenRecord> & {
+  _snippetResult?: Record<'content', SnippetResultOption>;
+  _highlightResult?: { hierarchy?: Record<GebruikersonderzoekenHierarchyLevel, HighlightResultOption> };
+};
+
+export type AlgoliaResponse = SearchResponse<GebruikersonderzoekenRecord> & { hits: AlgoliaHit[] };
+
+export type SearchResult = {
   title: string;
   url: string;
   snippets?: string[];
-}
-
-export type SearchHit = AlgoliaHit<GebruikersonderzoekenRecord> & {
-  _highlightResult?: { hierarchy: Record<GebruikersonderzoekenHierarchyLevel, AlgoliaHighlightResult | null> };
 };

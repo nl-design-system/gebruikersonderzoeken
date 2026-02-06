@@ -1,7 +1,7 @@
-import type { SearchHit, SearchResult } from '../types.js';
+import type { AlgoliaHit, SearchResult } from '../types.js';
 import type { FetchResult, SearchError } from './fetch-results.ts';
 
-export type RecordMap = Map<string, SearchHit[]>;
+export type RecordMap = Map<string, AlgoliaHit[]>;
 
 type GroupFailed = [SearchError | GroupError, null];
 type GroupSuccess = [null, SearchResult[]];
@@ -12,7 +12,7 @@ class GroupError extends Error {}
 export function groupHitsToPages(result: FetchResult): GroupResult {
   if (result[0]) return result;
 
-  const hits = result[1].hits.filter((hit) => hit.hierarchy.lvl0);
+  const hits = result[1].hits.filter((hit: AlgoliaHit) => hit.hierarchy.lvl0);
   const hitsPerPage: RecordMap = new Map();
   const searchResults: SearchResult[] = [];
 
@@ -26,7 +26,7 @@ export function groupHitsToPages(result: FetchResult): GroupResult {
     }
   }
 
-  hitsPerPage.forEach((records: SearchHit[]) => {
+  hitsPerPage.forEach((records: AlgoliaHit[]) => {
     const snippets: string[] = [];
 
     records.forEach((record) => {
