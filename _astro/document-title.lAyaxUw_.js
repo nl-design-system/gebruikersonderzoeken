@@ -1,0 +1,1 @@
+const r=e=>e?.endsWith(" | Gebruikersonderzoeken")?e:e?`${e} | Gebruikersonderzoeken`:"Gebruikersonderzoeken",s=e=>{const t=r(e);document.dispatchEvent(new n(t))};class n extends Event{static eventName="update-document-title";newTitle;constructor(t){super(n.eventName,{bubbles:!0,composed:!0}),this.newTitle=t}}export{n as U,s as u};
