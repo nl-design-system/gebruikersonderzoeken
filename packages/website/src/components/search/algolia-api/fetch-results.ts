@@ -19,7 +19,7 @@ const headers: HeadersInit = {
 
 const highlightTags = {
   highlightPostTag: '</mark>',
-  highlightPreTag: '<mark>',
+  highlightPreTag: '<mark class="nl-mark">',
 };
 
 export async function fetchResults(query: string): Promise<FetchResult> {
