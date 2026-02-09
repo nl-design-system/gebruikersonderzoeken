@@ -26,7 +26,7 @@ const headers: HeadersInit = {
 
 const highlightTags = {
   highlightPostTag: '</mark>',
-  highlightPreTag: '<mark>',
+  highlightPreTag: '<mark class="nl-mark">',
 };
 
 const isError = (response: AlgoliaResponse) => response.message;
