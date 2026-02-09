@@ -29,10 +29,12 @@ const highlightTags = {
   highlightPreTag: '<mark>',
 };
 
+const isError = (response: AlgoliaResponse) => response.message;
+
 export async function fetchResults(query: string): Promise<FetchResult> {
   if (!query) throw new SearchError('No query provided', 400);
 
-  const error = new SearchError('Could not load search results');
+  let error = new SearchError('Could not load search results');
   let result = null;
 
   await fetch(`https://${appId}.algolia.net/1/indexes/${index}/query`, {
@@ -44,8 +46,12 @@ export async function fetchResults(query: string): Promise<FetchResult> {
     method: 'POST',
   })
     .then((res) => res.json())
-    .then((searchResult: AlgoliaResponse) => {
-      result = searchResult;
+    .then((response: AlgoliaResponse) => {
+      if (isError(response)) {
+        error = new SearchError(response['message'], response['status']);
+      } else {
+        result = response;
+      }
     });
 
   return result ? [null, result] : [error, null];
