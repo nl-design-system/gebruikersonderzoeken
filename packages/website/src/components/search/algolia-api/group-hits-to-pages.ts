@@ -7,7 +7,7 @@ type GroupFailed = [SearchError | GroupError, null];
 type GroupSuccess = [null, SearchResult[]];
 type GroupResult = GroupSuccess | GroupFailed;
 
-class GroupError extends Error {}
+export class GroupError extends Error {}
 
 export function groupHitsToPages(result: FetchResult): GroupResult {
   if (result[0]) return result;
