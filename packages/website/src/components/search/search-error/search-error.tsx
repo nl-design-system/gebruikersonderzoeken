@@ -19,6 +19,12 @@ export function SearchError(props: SearchErrorProps) {
     console.error(`Group Error:`, props.error);
   }
 
+  // Algolia has documented these status codes for their response:
+  // 200 (Success):          Not relevant for this component
+  // 400 (Bad Request):      Provide a user friendly message, since the user can do something about it
+  // 402 (Payment Required): A message for us, not the user. Fallback to default message
+  // 403 (Forbidden):        We did something wrong, not the user. Fallback to default message
+  // 404 (Not Found):        Informative for the user
   switch (status) {
     case 400:
       userMessage = 'Er is een verkeerde zoekterm gebruikt';
