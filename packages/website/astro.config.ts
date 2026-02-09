@@ -25,7 +25,7 @@ const cspProdConfig: AstroUserConfig = {
         "default-src 'self'",
         "font-src 'self'",
         "form-action 'self'",
-        "frame-ancestors 'none'",
+        // "frame-ancestors 'none'", // in astro, csp is handled via <meta> element. where this directive is not allowed
         "img-src 'self' https://raw.githubusercontent.com blob: data:",
         "object-src 'none'",
         'worker-src blob:',
