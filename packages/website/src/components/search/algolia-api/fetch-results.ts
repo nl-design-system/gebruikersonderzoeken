@@ -49,6 +49,8 @@ export async function fetchResults(query: string): Promise<FetchResult> {
     .then((response: AlgoliaResponse) => {
       if (isError(response)) {
         error = new SearchError(response['message'], response['status']);
+      } else if (response.hits.length === 0) {
+        error = new SearchError('No search results', 404);
       } else {
         result = response;
       }
