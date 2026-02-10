@@ -58,6 +58,7 @@ In dit onderzoek zijn drie hoofdvragen met elk een aantal subvragen gedefinieerd
 - Zijn hier duidelijkheden/onduidelijkheden?
 
 **Hoe gebruikt een inwoner de homepage?**
+
 - Begrijpt de inwoner de homepage?
 - Wat associeert een inwoner met de termen op de homepage?
 - Begrijpt de inwoner de acties/status en hoe hij acties moet uitvoeren?
@@ -135,7 +136,7 @@ Het (zaak)nummer wekt in de lijstweergave verwarring op, omdat hier niet wordt a
 
 Vanuit het onderzoek hebben we twee interessante inzichten opgedaan, als bijvangst:
 
-- Meerdere inwoners in de leeftijd van 60+ probeerden op een 13inch laptop het beeldscherm aan te raken om de taak te voltooien. Dit doet vermoeden dat men gewend is aan een tablet of laptop met touchscreen.
+Meerdere inwoners in de leeftijd van 60+ probeerden op een 13inch laptop het beeldscherm aan te raken om de taak te voltooien. Dit doet vermoeden dat men gewend is aan een tablet of laptop met touchscreen.
 
 ## Wat is ermee gedaan?
 
@@ -155,10 +156,7 @@ Voor meer informatie, bekijk de [Figma Designs](https://www.figma.com/design/iKG
 
 ### Onderzoeksfase
 
-In totaal hebben 27 inwoners deelgenomen. 10 inwoners op desktop, 17
-inwoners op mobiel. Er zijn meer mensen op een mobiel apparaat getest, omdat
-de gemeente Groningen terugziet in data dat inwoners meer actief zijn op een
-mobiel apparaat. 
+In totaal hebben 27 inwoners deelgenomen. 10 inwoners op desktop, 17 inwoners op mobiel. Er zijn meer mensen op een mobiel apparaat getest, omdat de gemeente Groningen terugziet in data dat inwoners meer actief zijn op een mobiel apparaat. 
 
 ## Contactinformatie
 
