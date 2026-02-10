@@ -1,22 +1,22 @@
 ---
-title: Onderzoek MijnAanvragen in Open Inwoner Platform (OIP) – Mijn Omgeving
+title: Onderzoek Homepage Mijn Omgeving in Open Inwoner Platform (OIP) – Mijn Omgeving
 hide_title: true
 hide_table_of_contents: false
-sidebar_label: Onderzoek MijnAanvragen in Open Inwoner Platform (OIP) – Mijn Omgeving
+sidebar_label: Onderzoek Homepage Mijn Omgeving in Open Inwoner Platform (OIP) – Mijn Omgeving
 sidebar_position: 2
-pagination_label: Onderzoek MijnAanvragen in Open Inwoner Platform (OIP) – Mijn Omgeving
-description: Onderzoek naar hoe inwoners documenten uploaden en de status volgen bij lopende aanvragen in de Mijn omgeving.
-summary: Een Mijn Omgeving is een omgeving waarin een inwoner zijn / haar aanvragen kan blijven volgen. Het is belangrijk om acties duidelijk te maken aan inwoners, irrelevante informatie in overzichten te vermijden, en op alle pagina’s en onderdelen te communiceren in bewoordingen die inwoners begrijpen.
+pagination_label: Onderzoek Homepage Mijn Omgeving in Open Inwoner Platform (OIP) – Mijn Omgeving
+description: De gemeente Groningen heeft met 27 respondenten (verdeeld over mobiel en desktop) vernieuwde designs voor de homepage van het Podium D portaal getest. Het onderzoek richtte zich op navigatie en terminologie van functionaliteiten. Uit de resultaten blijkt dat inwoners de namen van een aantal functionaliteiten verwarrend vinden en dat de zijnavigatie op mobiel beter werkt als deze sticky is. Deze inzichten worden meegenomen in toekomstige designs en doorontwikkeling van het platform.
 keywords:
   - onderzoek
   - mijnomgeving
-  - email
+  - homepage
   - groningen
 tags:
   - groningen
   - mijn omgeving
-  - mijn zaken
-  - status component
+  - homepage
+  - zijnavigatie component
+  - sidenavigation component
 themes:
   - mijn-omgeving
   - navigatie
@@ -25,122 +25,143 @@ themes:
 conducted_by:
   - gemeente Groningen
   - Maykin Media
-date_added: 2024-05-21
+date_added: 2025-12-05
 ---
 
 <!-- @license CC0-1.0 -->
 
-# Onderzoek MijnAanvragen in Open Inwoner Platform (OIP) – Mijn Omgeving
+# Onderzoek Homepage Mijn Omgeving in Open Inwoner Platform (OIP) – Mijn Omgeving
 
-_Onderzoek uitgevoerd in 2023 door Team UX – Gemeente Groningen_
+_Onderzoek uitgevoerd in 2025 door Team UX – Gemeente Groningen_
 
 ## Doel
 
-Mijn Groningen is een Mijn Omgeving, gebouwd in Dimpact verband (Open Inwoner Platform / OIP). In deze Mijn Omgeving kan een inwoner zijn / haar aanvraagproces volgen en documenten uploaden. Dat doet de inwoner in het zogeheten onderdeel Mijn Aanvragen. Het Mijn Aanvragen onderdeel wordt in dit onderzoek onder de loep genomen.
+### Aanleiding van het onderzoek
 
-Het doel van dit onderzoek is om te valideren of de flow van het uploaden van een document bij een bestaande zaak en de weergave van de status duidelijk is voor een inwoner.
+Het Podium D Portaal is een Mijn Omgeving ontwikkeld door Dimpact (leverancier Maykin), met verschillende functionaliteiten. Bijvoorbeeld het tonen van balieafspraken, zaken of openstaande acties.
+
+Een gemeente die het product afneemt, kan kiezen welke functionaliteiten deze in OIP toont. Het aantal functionaliteiten groeit en ook is er een wens deze te tonen op de homepage, maar er is nog geen (eerder) onderzoek beschikbaar die richting geeft hoe dit gebruiksvriendelijk kan worden ingericht. En of een inwoner alle verschillende functionaliteiten kan vinden en begrijpt.
+
+Daarnaast is er een grote wens om meer standaardisatie in overheidsland te organiseren. Zo geldt dat ook voor het onderwerp Mijn Omgeving, waarvoor een landelijke standaard wordt ontwikkeld qua opzet (Mijn Services) en design (NL Design System).
+
+Dit onderzoek is ook uitgevoerd met dit streven: de standaardisatie onderdelen zo goed mogelijk inrichten op het bestaande product Podium D Portaal. En te achterhalen hoe deze wordt ervaren door gebruikers.
+
+[afbeelding]
+
+### Onderzoeksvraag
+
+In dit onderzoek zijn drie hoofdvragen met elk een aantal subvragen gedefinieerd:
+
+**Kunnen inwoners na het inloggen de zijnavigatie vinden en gebruiken?**
+
+- Wat associeert de inwoner met de termen?
+- Gebruikt een inwoner de zijnavigatie?
+- Wat zijn de verwachtingen van de zijnavigatie?
+- Weet de inwoner hoe hij vanuit de zijnavigatie naar dieperliggende pagina's gaat?
+- Zijn hier duidelijkheden/onduidelijkheden?
+
+**Hoe gebruikt een inwoner de homepage?**
+- Begrijpt de inwoner de homepage?
+- Wat associeert een inwoner met de termen op de homepage?
+- Begrijpt de inwoner de acties/status en hoe hij acties moet uitvoeren?
+- Begrijpt een inwoner de overige functionaliteiten op de homepage (bijvoorbeeld: Mijn zaken, onderwerpen)?
+- Snapt een inwoner hoe hij vanuit de homepage naar een dierperliggende pagina gaat?
+  - Wat is zijn flow?
+ 
+**Is er een verschil in de gebruikerservaring tussen de tegel-en lijstweergave van 'mijn zaken’ op de homepage?**
+
+Verder hielden we ook rekening met bijvangst en inventariseren we welke vragen
+of opmerkingen een inwoner heeft over de homepage (of flow).
+
+## Advies
+
+De volgende adviezen zijn opgesteld naar aanleiding van het onderzoek:
+
+- Termen (functionaliteiten) die op de homepage staan (‘mijn uitkeringen’, ‘mijn zaken’) moeten ook consistent terugkomen in de zijnavigatie.
+- Toon alleen functionaliteiten aan de inwoner, die hij daadwerkelijkheid heeft.
+- Sluit de terminologie van de functionaliteiten aan op de verwachtingen van de inwoner.
+- Behoudt op mobiel de scheiding tussen de navigatie menu (links) en ‘mijn profiel’ (rechts).
+- Maak het mobiele menu sticky.
+- Plaats ‘openstaande actie’ bovenaan en maak met kleuren duidelijk welke acties urgent zijn.
+- Maak een duidelijk onderscheid tussen lopende en afgeronde zaken.
+- Onderzoek of ‘Ga naar’ met een externe indicatie logisch is.
+- Laat onderwerpen alleen terugkomen in de header op de homepage, niet als onderdeel op de homepage.
+- Onderzoek of de doelgroep ‘samenwerken’ begrijpt.
+- Pas de tegelweergave toe in plaats van de lijstweergave voor ‘Mijn zaken’.
 
 ## Resultaten en inzichten
 
-Hieronder staan de belangrijkste resultaten en inzichten, per categorie.
+De resultaten en inzichten worden aan de hand van de drie verschillende
+onderzoeksvragen gedeeld:
 
-### Acties
+### Onderzoeksvraag 1 – Kunnen inwoners na het inloggen de zijnavigatie vinden en gebruiken?
 
-Maak acties duidelijk en zichtbaar voor de inwoner, bijvoorbeeld door in de workflow te specificeren welke documenten geüpload moeten worden.
+- De zijnavigatie wordt op desktop goed gevonden.
+- De zijnavigatie wordt op sticky mobiel menu aanzienlijk beter gevonden dan bij een non-sticky menu.
+- Op desktop wordt het verschil in functionaliteiten/navigatiemogelijkheden tussen de homepage en zijnavigatie niet als probleem ervaren, maar op mobiel wekt dit verwarring op bij inwoners.
+- De scheiding op mobiel tussen ‘profiel’ en ‘menu’ werkt goed. Inwoners loggen uit door te klikken op het poppetje (rechts).
+  - Inwoners verwachten persoonsgegevens en adresgegevens achter het item ‘mijn profiel’.
+- Bij ‘mijn uitkeringen’ denken alle inwoners dat er uitkeringen staan die je hebt of hebt aangevraagd.
+- Voor inwoners is het verschil tussen ‘mijn vragen’ en ‘mijn berichten’ niet altijd duidelijk.
+  - Een vraag leidt namelijk tot een antwoord. En het stellen van een vraag kan ook een bericht zijn.
+- ‘Mijn berichten’ is voor inwoners een soort Mijn Berichtenbox, met officiële berichtgeving en statusupdates, Sommige inwoners verwachten hier een chatmogelijkheid.
+- ‘Mijn vragen’ bevat volgens inwoners FAQ's en is een plek waar je zelf vragen kunt stellen.
 
-Inwoners kunnen bijvoorbeeld enkel in de e-mail zien welke documenten toegevoegd moeten worden. Op de detailinformatie ontbrak deze informatie, waardoor inwoners heen en weer bewogen tussen mail en detailpagina.
+[afbeelding]
 
-In onderzoeksfase 2 werden attentiebalken bij de aanvraag opgemerkt, zodat men meteen wist bij welke aanvraag men documenten bij moet voegen.
+### Onderzoeksvraag 2 – Hoe gebruikt een inwoner de homepage?
 
-![Schermopname van een Mijn Omgeving van de aanvragen pagina. Links navigatie van open, lopende en afgeronde aanvragen. Rechts twee aanvragen getoond als tegel.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/groningen-mijn-omgeving__mijn-aanvragen.png)
+- De gekleurde labels bij de openstaande acties vallen goed op, en inwoners kennen verschil in urgentie hieraan toe op basis van de kleuren.
+  - Geel/oranje als meest urgent, gevolgd door blauw.
+- Inwoners verwachten direct een document te kunnen toevoegen en dat vertelt wordt welk document dit is, wanneer zij klikken op een openstaande actie met de melding ‘u moet een document toevoegen’.
+- De positie van openstaande acties en balieafspraken bovenaan wordt gewaardeerd door inwoners.
+- Inwoners snappen bij de balieafspraken waar ze moeten zijn, wanneer en voor wat.
+- Inwoners verwachten na het klikken een afspraak te kunnen wijzigen of annuleren.
+- Inwoners verwachten alleen de lopende zaken te zien op de homepage.
+  - Binnen elke zaak verwachten inwoners de status te kunnen volgen en documenten te kunnen zien.
+  - Terminologie titel ‘aanvraag subsidie klimaat’ draagt hieraan bij.
+  - Afgesloten zaken zijn volgens inwoners te vinden achter ‘bekijk alle zaken’ of op een andere plek.
+- Inwoners verwachten bij ‘ga naar’ geen externe verwijzing naar andere systemen/websites, maar direct inzage in deze onderdelen.
+  - Inwoners noemen expliciet dat ze gemeentelijke belastingen verwachten.
+- Geen enkele inwoner snapt de functionaliteit ‘samenwerken’.
+- Op de homepage wordt achter ‘onderwerpen’ enerzijds meer informatie verwacht, anderzijds verwacht men persoonlijke informatie (eigen gevolgde opleiding, parkeervergunning, etc.)
 
-![Schermopname van een Mijn Omgeving van de aanvragen pagina. Nieuw design, na iteratiefase. Nu is navigatie weg en worden alle aanvragen getoond in tegels. Tegels waarvoor je actie moet ondernemen, hebben een gekleurde balk bovenin.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/groningen-mijn-omgeving__mijn-aanvragen-2.png)
+[afbeelding]
 
-### Informatievoorziening
+### Onderzoeksvraag 3 – Is er een verschil in de gebruikerservaring tussen de tegel-en lijstweergave van ‘mijn zaken’ op de homepage?
 
-Bied enkel informatie aan die van belang is voor de inwoner, zoals bijvoorbeeld de einddatum: Wanneer ontvang ik de uitslag? Geef zo duidelijk mogelijk aan waar de gemeente achter de schermen mee bezig is, bijvoorbeeld met de beoordeling van een aanvraag.
+Het (zaak)nummer wekt in de lijstweergave verwarring op, omdat hier niet wordt aangegeven om wat voor nummer het gaat.
 
-In onderzoeksfase 1 werd bijvoorbeeld ondervonden dat de detailpagina irrelevante en onduidelijke informatie bevat. Zoals de aanvrager, het aantal documenten in de aanvraag en de verwachte einddatum. De status miste context en werd hierdoor niet gezien.
+[afbeelding]
 
-![Schermopname van een Mijn Omgeving van de Aanvraag Witgoedregeling behandelen pagina.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/groningen-mijn-omgeving__aanvraag-witgoedregeling-behandelen.png)
+### Bijvangst
 
-In onderzoeksfase 2 kreeg de status een prominente plek op de detailpagina. De termen en het uitklapbare venster helpen bij het begrijpen wat de inwoner / gemeente wanneer doet.
+Vanuit het onderzoek hebben we twee interessante inzichten opgedaan, als bijvangst:
 
-![Schermopname van een Mijn Omgeving van de Bijzondere bijstand aanvragen pagina.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/groningen-mijn-omgeving__bijzondere-bijstand-aanvragen.png)
+- Meerdere inwoners in de leeftijd van 60+ probeerden op een 13inch laptop het beeldscherm aan te raken om de taak te voltooien. Dit doet vermoeden dat men gewend is aan een tablet of laptop met touchscreen.
 
-### Taal van de inwoner
+## Wat is ermee gedaan?
 
-Vermijd overheidsterminologie, deze kan de inwoner verwarren. Wanneer je wel specifieke terminologie gebruikt, leg dan uit wat deze betekent.
-
-Inwoners kunnen bijvoorbeeld geen onderscheid maken tussen ‘lopende’, ‘open’ en ‘afgeronde’ aanvragen. Bovendien blijkt de status in onderzoeksfase 1 onduidelijk. Inwoners denken dat bij een status ‘ontvangen’ dat de aanvraag is afgerond en men geld heeft ontvangen, terwijl de daadwerkelijke status betekent dat de aanvraag door de gemeente is ontvangen.
-
-In onderzoeksfase 2 werden termen aangepast naar ‘aanvraag ingediend op’ en ‘verwachte uitslag op’. Deze werden begrepen door inwoners.
-
-### Documenten
-
-Toon alleen relevante documenten aan de inwoner. Bepaal welke documenten belangrijk zijn en overweeg het gebruik van iconen / status indicators om onderscheid te maken tussen oude en nieuwe documenten.
-
-Inwoners konden in het onderzoek niet goed aangeven welke documenten in de aanvraag door hen waren ingediend, en welke door de gemeente.
-
-Ook over het design van het uploaden van documenten zijn bevindingen.
-
-In onderzoeksfase 1 bevatte de uploadfunctie twee knoppen, waarbij het onderscheid niet werd begrepen. Een iteratie in onderzoeksfase 2 , met daarbij een uploadraster en 1 knop, werd beter begrepen.
-
-### Doelgroep
-
-Wees bewust van de doelgroep van je dienstverlening. Niet alles is bijvoorbeeld geschikt voor laaggeletterden. Zij zullen minder snel een Mijn Omgeving gebruiken en sneller een ander kanaal. Bied de mogelijkheid om zaken te regelen buiten een Mijn Omgeving.
-
-## Wat is er mee gedaan?
-
-1. De designs zijn op basis van onderzoeksfase 2 als verbetering bevonden en doorgevoerd in de Mijn Omgeving.
-2. Besluit om actieflow verder te ontwikkelen. Om zo aan te geven welke stappen inwoner moet ondernemen, ook op de homepage. Kijken naar technische mogelijkheden om: zaakspecifiek te kunnen communiceren met betrekking tot de documenten, consistentie in de e-mailflows te waarborgen en onderscheid te maken in documenten die door gemeente en inwoner zijn geüpload.
+Deze onderzoeksresultaten zijn gedeeld met Dimpact en Maykin. De inzichten worden in (toekomstige) designs en doorontwikkeling van het platform geborgd. Bijvoorbeeld: voor het weergeven van ‘Mijn zaken’ is nu gekozen op basis van het onderzoek de tegelweergave te hanteren.
 
 ## Opzet
 
+Usability testing, think aloud methode is gekozen om deze designs voor te leggen aan inwoners. De inwoners zijn geworven op diverse tijdstippen, dagen en gemeentelijke locaties. Een inwoner werd dan aangesproken in de ontvangsthal om mee te doen, en na diens afspraak nam deze deel aan een éénop-één interview in een aparte kamer. Hen werd een scenario voorgelegd, dat zij in een design hebben doorlopen.
+
+Het scenario en de gegevens in het portaal zijn fictief.
+
 ### Voorbereiding onderzoeksfase
 
-Customer journey mapping uitgevoerd en probleemdefinitie vastgesteld. Zo is een verbetersprint bij Maykin uitgezet met daarin een iteratie op de header, navigatie en uploadfunctie voor Mijn Aanvragen.
+In samenwerking met Maykin, zijn verschillende designs opgesteld waarin alle mogelijke functionaliteiten zijn opgenomen. In totaal waren er 2 desktop designs, 2 mobiele designs. Het verschil tussen de twee varianten was de tegelen lijstweergave van het onderdeel ‘mijn zaken’.
 
-### Onderzoeksfase 1
+Voor meer informatie, bekijk de [Figma Designs](https://www.figma.com/design/iKGhWhstaLIlFSaND2q7cE/OIP---Designs--new-?node-id=7248-10636&t=9Xg0VVzGGIp7T43D-0).
 
-De header en navigatie zijn getest in de testomgeving van de Mijn Groningen omgeving getest met 11 inwoners. Dit is in persoon gedaan, waarbij usability testing is toegepast. Hierbij kregen inwoners een scenario voorgelegd en werd hen gevraagd hardop te denken (Think aloud/describe what you see). 5 inwoners hebben getest op laptop, de andere 6 op mobiel. De uploadfunctie van Mijn Aanvragen is bekeken.
+### Onderzoeksfase
 
-#### Onderzoeksvraag
-
-Is de flow van het uploaden van een document bij een bestaande zaak duidelijk voor een inwoner?
-
-#### Subvragen
-
-- Kan de inwoner zelfstandig navigeren naar Mijn Aanvragen? ​
-- Is de Mijn Aanvragen overzichtspagina duidelijk voor de inwoner?
-- Kan de inwoner een document toevoegen aan en bestaande zaak?
-- Begrijpt de inwoner de voorwaarden waaraan een document moet voldoen?
-
-#### Design iteratie
-
-Naar aanleiding van onderzoeksfase 1, was een herinrichting van de overzichts-en detailpagina van de sectie ‘Mijn Aanvragen’ de focus. Een iteratie op de document uploadfunctie is hier ook in meegenomen.
-
-In samenwerking met de designers van Maykin Media en Dimpact is een nieuw ontwerp voor de Mijn Aanvragen overzichts- en detailpagina opgesteld.
-
-#### Aanvullende data
-
-Als aanvulling op de eerste kwalitatieve onderzoeksfase, is kwantitatieve data verzameld uit SiteImprove. Hieruit bleek o.a. dat 70% van de inwoners Mijn Groningen bezoekt op mobiel en de navigatie hierop slecht werkt. Deze input heeft er ook toe geleidt dat er in onderzoeksfase 2 meer aandacht is gegaan naar het testen van de scenario’s op mobiel.
-
-### Onderzoeksfase 2
-
-De opgestelde designs in de design iteratie fase zijn vervolgens getest in onderzoeksfase 2. Hier is getest met prototypes en niet met de testomgeving. Wel is gebruik gemaakt van eenzelfde opzet (usability testing met scenarios / Think aloud). In totaal is met 20 inwoners getest, waarvan 8 op laptop en 12 op mobiel.
-
-#### Onderzoeksvraag
-
-Valideren of de flow van het uploaden van een document bij een bestaande zaak en de weergave van de status duidelijk is voor een inwoner.​
-
-#### Subvragen
-
-- Is de Mijn Aanvragen overzichtspagina duidelijk voor de inwoner?​
-- Is het duidelijk in welke status de inwoner zich bevindt en welke acties de inwoner moet uitvoeren.
-- Begrijpt de inwoner de toekomstige statussen? ​
-- Kan de inwoner een document toevoegen aan een bestaande zaak en begrijpt de inwoner de voorwaarden?
-- Wordt het tonen van een nieuw document gezien en hoe wordt dit geïnterpreteerd?
+In totaal hebben 27 inwoners deelgenomen. 10 inwoners op desktop, 17
+inwoners op mobiel. Er zijn meer mensen op een mobiel apparaat getest, omdat
+de gemeente Groningen terugziet in data dat inwoners meer actief zijn op een
+mobiel apparaat. 
 
 ## Contactinformatie
 
@@ -154,4 +175,4 @@ Aan dit onderzoek werkten de volgende mensen mee.
 
 ### Leverancier Maykin Media
 
-- Jacki Guettting , UX-designer
+- Lidwien Lumkeman, UX-designer - [lidwien@maykinmedia.nl](mailto:lidwien@maykinmedia.nl) - Maykin
