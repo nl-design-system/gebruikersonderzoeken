@@ -1,0 +1,1 @@
+:root{--nl-mark-background-color: #715b16;--nl-mark-color: #ffffff}.nl-mark{background-color:var(--nl-mark-background-color, revert);color:var(--nl-mark-color, revert)}@media (forced-colors: active){.nl-mark{--nl-mark-background-color: Highlight;--nl-mark-color: HighlightText}}
