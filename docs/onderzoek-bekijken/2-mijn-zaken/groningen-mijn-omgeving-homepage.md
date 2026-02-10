@@ -5,7 +5,8 @@ hide_table_of_contents: false
 sidebar_label: Onderzoek Homepage Mijn Omgeving in Open Inwoner Platform (OIP) – Mijn Omgeving
 sidebar_position: 2
 pagination_label: Onderzoek Homepage Mijn Omgeving in Open Inwoner Platform (OIP) – Mijn Omgeving
-description: De gemeente Groningen heeft met 27 respondenten (verdeeld over mobiel en desktop) vernieuwde designs voor de homepage van het Podium D portaal getest. Het onderzoek richtte zich op navigatie en terminologie van functionaliteiten. Uit de resultaten blijkt dat inwoners de namen van een aantal functionaliteiten verwarrend vinden en dat de zijnavigatie op mobiel beter werkt als deze sticky is. Deze inzichten worden meegenomen in toekomstige designs en doorontwikkeling van het platform.
+description: Onderzoek naar hoe inwoners onderdelen van de Homepage van de Mijn omgeving ervaren.
+summary: De gemeente Groningen heeft met 27 respondenten (verdeeld over mobiel en desktop) vernieuwde designs voor de homepage van het Podium D portaal getest. Het onderzoek richtte zich op navigatie en terminologie van functionaliteiten. Uit de resultaten blijkt dat inwoners de namen van een aantal functionaliteiten verwarrend vinden en dat de zijnavigatie op mobiel beter werkt als deze sticky is. Deze inzichten worden meegenomen in toekomstige designs en doorontwikkeling van het platform.
 keywords:
   - onderzoek
   - mijnomgeving
@@ -32,11 +33,7 @@ date_added: 2025-12-05
 
 # Onderzoek Homepage Mijn Omgeving in Open Inwoner Platform (OIP) – Mijn Omgeving
 
-_Onderzoek uitgevoerd in 2025 door Team UX – Gemeente Groningen_
-
-## Doel
-
-### Aanleiding van het onderzoek
+## Doel van het onderzoek
 
 Het Podium D Portaal is een Mijn Omgeving ontwikkeld door Dimpact (leverancier Maykin), met verschillende functionaliteiten. Bijvoorbeeld het tonen van balieafspraken, zaken of openstaande acties.
 
@@ -46,7 +43,7 @@ Daarnaast is er een grote wens om meer standaardisatie in overheidsland te organ
 
 Dit onderzoek is ook uitgevoerd met dit streven: de standaardisatie onderdelen zo goed mogelijk inrichten op het bestaande product Podium D Portaal. En te achterhalen hoe deze wordt ervaren door gebruikers.
 
-![Schermopname van een Mijn Omgeving van de aanvragen pagina. Links navigatie van open, lopende en afgeronde aanvragen. Rechts twee aanvragen getoond als tegel.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/groningen-mijn-omgeving__mijn-aanvragen.png)
+![Screenshots van oude Mijn Omgeving Homepage Gemeente Groningen.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/groningen_mijn-omgeving_home_oud.png)
 
 ### Onderzoeksvraag
 
@@ -107,7 +104,9 @@ onderzoeksvragen gedeeld:
 - ‘Mijn berichten’ is voor inwoners een soort Mijn Berichtenbox, met officiële berichtgeving en statusupdates, Sommige inwoners verwachten hier een chatmogelijkheid.
 - ‘Mijn vragen’ bevat volgens inwoners FAQ's en is een plek waar je zelf vragen kunt stellen.
 
-![Screenshots van oude Mijn Omgeving Homepage Gemeente Groningen.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/groningen_mijn-omgeving_home_oud.png)
+![Screenshots van Mijn Omgeving Homepage Gemeente Groningen op een klein scherm. Links staan de onderdelen die zichtbaar worden wanneer men op de Button 'Menu' tikt. Bestaande uit: Homepage, Mijn zaken, Samenwerken, Mijn uitkeringen, Mijn vragen, Mijn berichten, Onderwerpen. Rechts staan de onderdelen wanneer men op het icoon van een poppetje tikt. Bestaande uit: Mijn profiel, Uitloggen, Lees voor, Vergroten, Dyslexie, Help.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/groningen_mijn-omgeving_home_SV_navigatie.png)
+
+![Screenshot van Mijn Omgeving Homepage Gemeente Groningen op een groot scherm. Links staan de navigatie onderdelen bestaande uit: Mijn zaken, Samenwerken, Mijn uitkeringen, Mijn vragen en Mijn berichten.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/groningen_mijn-omgeving_home_LV_navigatie.png)
 
 ### Onderzoeksvraag 2 – Hoe gebruikt een inwoner de homepage?
 
@@ -125,10 +124,6 @@ onderzoeksvragen gedeeld:
   - Inwoners noemen expliciet dat ze gemeentelijke belastingen verwachten.
 - Geen enkele inwoner snapt de functionaliteit ‘samenwerken’.
 - Op de homepage wordt achter ‘onderwerpen’ enerzijds meer informatie verwacht, anderzijds verwacht men persoonlijke informatie (eigen gevolgde opleiding, parkeervergunning, etc.)
-
-![Screenshots van Mijn Omgeving Homepage Gemeente Groningen op een klein scherm. Links staan de onderdelen die zichtbaar worden wanneer men op de Button 'Menu' tikt. Bestaande uit: Homepage, Mijn zaken, Samenwerken, Mijn uitkeringen, Mijn vragen, Mijn berichten, Onderwerpen. Rechts staan de onderdelen wanneer men op het icoon van een poppetje tikt. Bestaande uit: Mijn profiel, Uitloggen, Lees voor, Vergroten, Dyslexie, Help.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/groningen_mijn-omgeving_home_SV_navigatie.png)
-
-![Screenshot van Mijn Omgeving Homepage Gemeente Groningen op een groot scherm. Links staan de navigatie onderdelen bestaande uit: Mijn zaken, Samenwerken, Mijn uitkeringen, Mijn vragen en Mijn berichten.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/groningen_mijn-omgeving_home_LV_navigatie.png)
 
 ### Onderzoeksvraag 3 – Is er een verschil in de gebruikerservaring tussen de tegel-en lijstweergave van ‘mijn zaken’ op de homepage?
 
