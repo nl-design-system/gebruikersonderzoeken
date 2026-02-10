@@ -46,7 +46,7 @@ Daarnaast is er een grote wens om meer standaardisatie in overheidsland te organ
 
 Dit onderzoek is ook uitgevoerd met dit streven: de standaardisatie onderdelen zo goed mogelijk inrichten op het bestaande product Podium D Portaal. En te achterhalen hoe deze wordt ervaren door gebruikers.
 
-[afbeelding]
+![Schermopname van een Mijn Omgeving van de aanvragen pagina. Links navigatie van open, lopende en afgeronde aanvragen. Rechts twee aanvragen getoond als tegel.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/groningen-mijn-omgeving__mijn-aanvragen.png)
 
 ### Onderzoeksvraag
 
@@ -107,7 +107,7 @@ onderzoeksvragen gedeeld:
 - ‘Mijn berichten’ is voor inwoners een soort Mijn Berichtenbox, met officiële berichtgeving en statusupdates, Sommige inwoners verwachten hier een chatmogelijkheid.
 - ‘Mijn vragen’ bevat volgens inwoners FAQ's en is een plek waar je zelf vragen kunt stellen.
 
-[afbeelding]
+![Screenshots van oude Mijn Omgeving Homepage Gemeente Groningen.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/groningen_mijn-omgeving_home_oud.png)
 
 ### Onderzoeksvraag 2 – Hoe gebruikt een inwoner de homepage?
 
@@ -126,13 +126,15 @@ onderzoeksvragen gedeeld:
 - Geen enkele inwoner snapt de functionaliteit ‘samenwerken’.
 - Op de homepage wordt achter ‘onderwerpen’ enerzijds meer informatie verwacht, anderzijds verwacht men persoonlijke informatie (eigen gevolgde opleiding, parkeervergunning, etc.)
 
-[afbeelding]
+![Screenshots van Mijn Omgeving Homepage Gemeente Groningen op een klein scherm. Links staan de onderdelen die zichtbaar worden wanneer men op de Button 'Menu' tikt. Bestaande uit: Homepage, Mijn zaken, Samenwerken, Mijn uitkeringen, Mijn vragen, Mijn berichten, Onderwerpen. Rechts staan de onderdelen wanneer men op het icoon van een poppetje tikt. Bestaande uit: Mijn profiel, Uitloggen, Lees voor, Vergroten, Dyslexie, Help.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/groningen_mijn-omgeving_home_SV_navigatie.png)
+
+![Screenshot van Mijn Omgeving Homepage Gemeente Groningen op een groot scherm. Links staan de navigatie onderdelen bestaande uit: Mijn zaken, Samenwerken, Mijn uitkeringen, Mijn vragen en Mijn berichten.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/groningen_mijn-omgeving_home_LV_navigatie.png)
 
 ### Onderzoeksvraag 3 – Is er een verschil in de gebruikerservaring tussen de tegel-en lijstweergave van ‘mijn zaken’ op de homepage?
 
 Het (zaak)nummer wekt in de lijstweergave verwarring op, omdat hier niet wordt aangegeven om wat voor nummer het gaat.
 
-[afbeelding]
+![Screenshots van Mijn Omgeving Homepage Gemeente Groningen op een groot scherm. Bij het linker screenshot staan de items van mijn zaken in een tegel. Hierin staat onder andere zaaknummer: 523 - 2025. In het rechter screenshot staan de items van mijn zaken in de lijst. Hierin staat enkel het nummer 523 - 2025 vermeld, zonder de term 'zaaknummer'.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/groningen_mijn-omgeving_home_tegel-vs-lijst.png)
 
 ### Bijvangst
 
