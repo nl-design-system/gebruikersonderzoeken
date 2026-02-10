@@ -65,7 +65,7 @@ In dit onderzoek zijn drie hoofdvragen met elk een aantal subvragen gedefinieerd
 - Begrijpt een inwoner de overige functionaliteiten op de homepage (bijvoorbeeld: Mijn zaken, onderwerpen)?
 - Snapt een inwoner hoe hij vanuit de homepage naar een dierperliggende pagina gaat?
   - Wat is zijn flow?
- 
+
 **Is er een verschil in de gebruikerservaring tussen de tegel-en lijstweergave van 'mijn zaken’ op de homepage?**
 
 Verder hielden we ook rekening met bijvangst en inventariseren we welke vragen
@@ -156,7 +156,7 @@ Voor meer informatie, bekijk de [Figma Designs](https://www.figma.com/design/iKG
 
 ### Onderzoeksfase
 
-In totaal hebben 27 inwoners deelgenomen. 10 inwoners op desktop, 17 inwoners op mobiel. Er zijn meer mensen op een mobiel apparaat getest, omdat de gemeente Groningen terugziet in data dat inwoners meer actief zijn op een mobiel apparaat. 
+In totaal hebben 27 inwoners deelgenomen. 10 inwoners op desktop, 17 inwoners op mobiel. Er zijn meer mensen op een mobiel apparaat getest, omdat de gemeente Groningen terugziet in data dat inwoners meer actief zijn op een mobiel apparaat.
 
 ## Contactinformatie
 
