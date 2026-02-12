@@ -98,8 +98,8 @@ importers:
         specifier: 1.6.1
         version: 1.6.1
       '@utrecht/textbox-css':
-        specifier: 2.0.0
-        version: 2.0.0
+        specifier: 3.1.0
+        version: 3.1.0
       react:
         specifier: 19.2.4
         version: 19.2.4
@@ -2081,11 +2081,11 @@ packages:
   '@utrecht/textarea-css@3.0.1':
     resolution: {integrity: sha512-byy2EpNx6g9ORxTZyeGxWclsvzJxbkmi1uqLSCS7286nw3t7PkwiWSKBPBJ568153nKgBD7FgiZrjR0Oe7TDnA==}
 
-  '@utrecht/textbox-css@2.0.0':
-    resolution: {integrity: sha512-z4ewJ6WxC3TMTG2jR4I7k73O5NijdjE/ydR1lovzPr4/Wa27l3I7pM0qjymSarKtc5IapfXsFhIpwV/kKbPPSA==}
-
   '@utrecht/textbox-css@3.0.1':
     resolution: {integrity: sha512-SP3CFpTd/6CffvSBcpBQ+uKzYusgDB/ri0vmEA/uYfWnRyen1ETQkeCoDJeSUR/D8g24NMdFu7xmOniiwGpRQg==}
+
+  '@utrecht/textbox-css@3.1.0':
+    resolution: {integrity: sha512-KT2r6v1yTcdQPFZhswo/7+dMPL7x8aulBLeYO9SmrlVkpY47owJcB0KrkmMbF51/VvTLh4kW0qbaQ+vKnjwUsg==}
 
   '@utrecht/textbox-react@1.0.12':
     resolution: {integrity: sha512-ulGmFq6Guq4LSdjX9HtZrMDfoRjHd9Y6PdAl8vk/nne0m9p1XMe9nc+FRaa05gcaDHNxjpVidO7MvOjelIGZKg==}
@@ -6636,9 +6636,9 @@ snapshots:
 
   '@utrecht/textarea-css@3.0.1': {}
 
-  '@utrecht/textbox-css@2.0.0': {}
-
   '@utrecht/textbox-css@3.0.1': {}
+
+  '@utrecht/textbox-css@3.1.0': {}
 
   '@utrecht/textbox-react@1.0.12(@babel/runtime@7.27.0)(react-dom@19.2.4(react@19.2.4))(react@19.2.4)':
     dependencies:
