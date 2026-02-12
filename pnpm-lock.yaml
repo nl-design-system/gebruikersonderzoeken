@@ -203,8 +203,8 @@ importers:
         specifier: 2.0.0
         version: 2.0.0
       '@utrecht/paragraph-css':
-        specifier: 2.3.1
-        version: 2.3.1
+        specifier: 3.0.1
+        version: 3.0.1
       '@utrecht/separator-css':
         specifier: 1.5.1
         version: 1.5.1
@@ -2013,9 +2013,6 @@ packages:
 
   '@utrecht/pagination-css@2.0.3':
     resolution: {integrity: sha512-LXXWZXEgiOacCHljs9jm9Nm2MQW7dmNtq5Ck4PENOA62oT/HVCXbiviWeT+dYLsv8Nwv+JCFYWm4CA1UGY7MOw==}
-
-  '@utrecht/paragraph-css@2.3.1':
-    resolution: {integrity: sha512-sbOs8y2UZOfNp7CI9S2catbBb/FSQ8PwpyH3WNZ5LDcuF0fZgKoqijunrrpS5FPviTMmkLLCJIwajyZRqEzicA==}
 
   '@utrecht/paragraph-css@3.0.1':
     resolution: {integrity: sha512-Go+9gTJTdUuqzFiPvz7dxQohor7ExQ0Pj52wJewx3G2Acl9xbrv0mNyrLe38+v1C+wrJpy1Vg0lkvCF16HQNgw==}
@@ -6587,8 +6584,6 @@ snapshots:
   '@utrecht/page-header-css@2.0.1': {}
 
   '@utrecht/pagination-css@2.0.3': {}
-
-  '@utrecht/paragraph-css@2.3.1': {}
 
   '@utrecht/paragraph-css@3.0.1': {}
 
