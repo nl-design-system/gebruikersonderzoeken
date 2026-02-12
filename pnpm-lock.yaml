@@ -255,8 +255,8 @@ importers:
         specifier: 1.2.1
         version: 1.2.1
       '@utrecht/breadcrumb-nav-css':
-        specifier: 1.5.1
-        version: 1.5.1
+        specifier: 2.1.0
+        version: 2.1.0
       '@utrecht/root-css':
         specifier: 1.2.1
         version: 1.2.1
@@ -1659,9 +1659,6 @@ packages:
 
   '@utrecht/body-css@1.2.1':
     resolution: {integrity: sha512-YKB/y3Z+OjiDp39HTInrEme8ZOV+fffeHLybWTqCQjiP4JdPyiwUo82p7TYoyGe/isSGOSJQqVByhniadZI8mg==}
-
-  '@utrecht/breadcrumb-nav-css@1.5.1':
-    resolution: {integrity: sha512-C6da4Wo4cUSa0oag5riOYs1u4iFKuOJIvjdk93dUN/iW+h3YoWi0PNOiWnY0HbzecH5UxbwSCbqAitH5pmfogg==}
 
   '@utrecht/breadcrumb-nav-css@2.1.0':
     resolution: {integrity: sha512-BOYqFSnrR5rVzU1mb4eDb4BbpuE9TSEPN5FTlJJduYDvsJr5DLDaxADmFp1p05di7GWV1qTaPBMxw0gEuMAbaQ==}
@@ -6183,8 +6180,6 @@ snapshots:
   '@utrecht/blockquote-css@2.0.1': {}
 
   '@utrecht/body-css@1.2.1': {}
-
-  '@utrecht/breadcrumb-nav-css@1.5.1': {}
 
   '@utrecht/breadcrumb-nav-css@2.1.0': {}
 
