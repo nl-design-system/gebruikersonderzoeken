@@ -74,7 +74,7 @@
     "@types/hast": "3.0.4",
     "@types/react": "19.2.10",
     "@types/react-dom": "19.2.3",
-    "@utrecht/body-css": "1.2.1",
+    "@utrecht/body-css": "2.0.1",
     "@utrecht/breadcrumb-nav-css": "1.5.1",
     "@utrecht/root-css": "1.2.1",
     "algoliasearch": "5.47.0",
