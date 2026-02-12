@@ -75,7 +75,7 @@
     "@types/react": "19.2.10",
     "@types/react-dom": "19.2.3",
     "@utrecht/body-css": "1.2.1",
-    "@utrecht/breadcrumb-nav-css": "1.5.1",
+    "@utrecht/breadcrumb-nav-css": "2.1.0",
     "@utrecht/root-css": "1.2.1",
     "algoliasearch": "5.47.0",
     "astro": "5.16.15",
