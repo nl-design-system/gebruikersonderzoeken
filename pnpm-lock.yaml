@@ -188,8 +188,8 @@ importers:
         specifier: 1.5.1
         version: 1.5.1
       '@utrecht/figure-css':
-        specifier: 1.6.0
-        version: 1.6.0
+        specifier: 2.0.1
+        version: 2.0.1
       '@utrecht/heading-group-css':
         specifier: 1.5.1
         version: 1.5.1
@@ -1807,9 +1807,6 @@ packages:
       '@babel/runtime': '*'
       react: ^18.0.0 || ^19.0.0
       react-dom: ^18.0.0 || ^19.0.0
-
-  '@utrecht/figure-css@1.6.0':
-    resolution: {integrity: sha512-RilLivUp4KzN0UmrjOtzaIERa/Q2v+Bp/g3PcOt9/MstXDWb2oY+w0+v0VMeVhHxcTE8CstBP6vK0nJdI6LMzQ==}
 
   '@utrecht/figure-css@2.0.1':
     resolution: {integrity: sha512-+mAPgdcd+0ZrQZR74h4VdDsxqkfs3e1DYDhgfcu9qAmQfb1MfSz8HkHFkZFtkuQYd854UsHeTTVq3UkwZTM04g==}
@@ -6416,8 +6413,6 @@ snapshots:
       clsx: 2.1.1
       react: 19.2.4
       react-dom: 19.2.4(react@19.2.4)
-
-  '@utrecht/figure-css@1.6.0': {}
 
   '@utrecht/figure-css@2.0.1': {}
 
