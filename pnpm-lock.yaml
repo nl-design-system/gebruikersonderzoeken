@@ -88,8 +88,8 @@ importers:
   packages/ma-components:
     dependencies:
       '@utrecht/heading-group-css':
-        specifier: 1.5.1
-        version: 1.5.1
+        specifier: 2.0.1
+        version: 2.0.1
     devDependencies:
       '@utrecht/button-css':
         specifier: 2.3.1
@@ -191,8 +191,8 @@ importers:
         specifier: 1.6.0
         version: 1.6.0
       '@utrecht/heading-group-css':
-        specifier: 1.5.1
-        version: 1.5.1
+        specifier: 2.0.1
+        version: 2.0.1
       '@utrecht/img-css':
         specifier: 1.3.1
         version: 1.3.1
@@ -1887,9 +1887,6 @@ packages:
 
   '@utrecht/heading-6-css@2.0.1':
     resolution: {integrity: sha512-8D+DMYiWpKgLT5Kx4hqNgKEvutkAQIONfXCwplVAxs20g0BHsg+T2Li4H+LYn+7fP/s8l/uKj92rLl77w/C8ZQ==}
-
-  '@utrecht/heading-group-css@1.5.1':
-    resolution: {integrity: sha512-INFePIMQevIK1GGlyfPe1bccrtEDg8hSfkIYt6Ts+l4ptb5yILFhPrYT+odW2Pq+F9h9HPJ0c545kZnik4VhWA==}
 
   '@utrecht/heading-group-css@2.0.1':
     resolution: {integrity: sha512-MgeMBWVcmLXG4bZRtneSdBvf0cq1PR9mBHSS5ldPKCfJZ0Xdl2bOH9CMah6XABUL5reyvw55JbE0zvJoHyKvmA==}
@@ -6490,8 +6487,6 @@ snapshots:
   '@utrecht/heading-5-css@2.0.1': {}
 
   '@utrecht/heading-6-css@2.0.1': {}
-
-  '@utrecht/heading-group-css@1.5.1': {}
 
   '@utrecht/heading-group-css@2.0.1': {}
 
