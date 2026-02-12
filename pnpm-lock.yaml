@@ -209,8 +209,8 @@ importers:
         specifier: 1.5.1
         version: 1.5.1
       '@utrecht/spotlight-section-css':
-        specifier: 1.6.1
-        version: 1.6.1
+        specifier: 2.0.1
+        version: 2.0.1
       '@utrecht/unordered-list-css':
         specifier: 1.5.1
         version: 1.5.1
@@ -2056,9 +2056,6 @@ packages:
 
   '@utrecht/skip-link-css@2.0.1':
     resolution: {integrity: sha512-cH2UHLrcSKJHWid1i+VRzsrZMxLAHjmXiU332H5PJDLf5ImjjF0YVaw41+/d0yfWVH5UIEJj+el7naFzyA9/1w==}
-
-  '@utrecht/spotlight-section-css@1.6.1':
-    resolution: {integrity: sha512-sbaBDiPaozjqz7irQj+McIrGWNAGBFPHlKl3phApCb/ljoccdo//fDdPnlAgp1Hhwz2sSkj77ISdg0NKfwvimA==}
 
   '@utrecht/spotlight-section-css@2.0.1':
     resolution: {integrity: sha512-BzymCAj6Im0OAzpHs3iSqX+5lNIVD9EbElC9RCeFASTlp5Yc9iO2hj9CCeQD6yPuVuZBD84vND6p4JeMgeLPJg==}
@@ -6619,8 +6616,6 @@ snapshots:
   '@utrecht/separator-css@2.0.1': {}
 
   '@utrecht/skip-link-css@2.0.1': {}
-
-  '@utrecht/spotlight-section-css@1.6.1': {}
 
   '@utrecht/spotlight-section-css@2.0.1': {}
 
