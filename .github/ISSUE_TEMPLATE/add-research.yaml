@@ -215,5 +215,5 @@ body:
       label: Licentie-akkoord
       description: Bevestig dat je akkoord gaat met de licentievoorwaarden
       options:
-        - label: Ik heb het [colofon](https://gebruikersonderzoeken.nl/colofon) gelezen en ga akkoord met het publiceren van de gedeelde inzichten onder de CC0 1.0 Universeel licentie
+        - label: Ik heb het [colofon](https://gebruikersonderzoeken.nl/docs/colofon) gelezen en ga akkoord met het publiceren van de gedeelde inzichten onder de CC0 1.0 Universeel licentie
           required: true
