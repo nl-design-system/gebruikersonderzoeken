@@ -23,7 +23,7 @@
   },
   "devDependencies": {
     "@utrecht/button-css": "2.3.1",
-    "@utrecht/link-css": "1.6.1",
+    "@utrecht/link-css": "2.0.1",
     "@utrecht/textbox-css": "2.0.0",
     "react": "19.2.4"
   }
