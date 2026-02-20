@@ -6,7 +6,7 @@ sidebar_label: Terminologie MijnProducten – Mijn Omgeving
 sidebar_position: 2
 pagination_label: Terminologie MijnProducten – Mijn Omgeving
 description: In dit onderzoek is met een focusgroep van inwoners onderzocht hoe zij de termen 'Product', 'Zaak', 'Actie' en 'Taak' begrijpen binnen een digitale Mijn Omgeving, om de terminologie van de functionaliteit 'Mijn Producten' beter te laten aansluiten op hun belevingswereld.
-summary: Deelnemers zien 'Zaken' als lopende processen met 'status', 'Producten' als afgeronde resultaten en ervaren 'Acties' en 'Taken' als oproepen tot handelen (al dan niet verplicht of te delegeren) die duidelijke context en consistente terminologie vereisen. 
+summary: Deelnemers zien 'Zaken' als lopende processen met 'status', 'Producten' als afgeronde resultaten en ervaren 'Acties' en 'Taken' als oproepen tot handelen (al dan niet verplicht of te delegeren) die duidelijke context en consistente terminologie vereisen.
 keywords:
   - onderzoek
   - groningen
