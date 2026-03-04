@@ -110,7 +110,7 @@ Het betreft een kleinschalige, indicatieve test.
 
 ## Contactinformatie
 
-Bas Kroese – UX Designer - [bas.kroese@amsterdam.nl](mailto:bas.kroese@amsterdam.nl) - bas.kroese@amsterdam.nl
+Bas Kroese – UX Designer - [bas.kroese@amsterdam.nl](mailto:bas.kroese@amsterdam.nl)
 
 ## Bijlage
 
