@@ -31,6 +31,8 @@
     "test-update": "pnpm run --if-present lint && pnpm run --if-present test && pnpm run --if-present build && pnpm run --if-present lint-build && pnpm run --if-present test-build",
     "prettier": "prettier --write .",
     "typecheck": "tsc",
+    "test-e2e": "pnpm exec playwright test test/e2e/",
+    "test-a11y": "pnpm exec playwright test test/a11y/",
     "update-patch": "npm-check-updates --configFileName .ncurc.patch.cjs",
     "update-minor": "npm-check-updates --configFileName .ncurc.minor.cjs",
     "update-major": "npm-check-updates --configFileName .ncurc.major.cjs"
@@ -43,12 +45,16 @@
     "stylelint-order": "7.0.1"
   },
   "devDependencies": {
+    "@axe-core/playwright": "4.11.0",
     "@changesets/cli": "2.29.8",
     "@eslint/js": "9.39.2",
     "@eslint/json": "0.14.0",
     "@nl-design-system-unstable/nlds-design-tokens": "1.0.1",
     "@nl-design-system/eslint-config": "2.2.0",
+    "@playwright/test": "1.58.2",
     "@types/node": "24.10.9",
+    "axe-core": "4.11.1",
+    "cheerio": "1.2.0",
     "eslint": "9.39.2",
     "eslint-config-prettier": "10.1.8",
     "eslint-plugin-astro": "1.5.0",

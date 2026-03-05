@@ -61,3 +61,10 @@ package-lock.json
 
 # Ignore generated files from Stencil
 components.d.ts
+
+# Playwright
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+/playwright/.auth/
