@@ -1,0 +1,57 @@
+.ma-task-list {
+  --ma-task-list-item-column-gap: 12px;
+  --ma-task-list-font-size: var(--utrecht-paragraph-font-size);
+  --ma-task-list-icon-color: #167e33;
+  --ma-task-list-icon-size: 16px;
+  --ma-task-list-item-marker-size: 24px;
+  --ma-task-list-item-marker-background-color: #0a2750;
+  --ma-task-list-item-marker-checked-background-color: inherit;
+  --utrecht-space-around: 0.4;
+  --utrecht-heading-3-font-size: var(--ma-task-list-font-size);
+  --utrecht-heading-3-margin-block-start: 0;
+  --utrecht-heading-3-margin-block-end: 0;
+  --utrecht-paragraph-margin-block-start: 0;
+  --utrecht-icon-size: var(--ma-task-list-icon-size);
+
+  list-style-type: none;
+  padding-block-start: 4px;
+  padding-inline-start: 0;
+}
+
+.ma-task-list-item {
+  align-items: baseline;
+  column-gap: var(--ma-task-list-item-column-gap);
+  display: flex;
+  flex-direction: row;
+  margin-block-end: 16px;
+  margin-block-start: 4px;
+}
+
+.ma-task-list-item__marker {
+  align-items: center;
+  background-color: white;
+  block-size: var(--ma-task-list-item-marker-size);
+  border-radius: 50%;
+  display: flex;
+  inline-size: var(--ma-task-list-item-marker-size);
+  justify-content: center;
+  min-inline-size: var(--ma-task-list-item-marker-size);
+  position: relative;
+}
+
+.ma-task-list-item__marker-label {
+  block-size: 1px;
+  inline-size: 1px;
+  margin-block: -1px;
+  margin-inline: -1px;
+  overflow: hidden;
+  padding-block: 0;
+  padding-inline: 0;
+  position: absolute;
+}
+
+.ma-task-list-item__marker--checked {
+  --utrecht-icon-color: var(--ma-task-list-icon-color);
+
+  background-color: var(--ma-task-list-item-marker-checked-background-color);
+}
