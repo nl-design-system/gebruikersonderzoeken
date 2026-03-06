@@ -130,6 +130,15 @@ importers:
         specifier: 1.89.2
         version: 1.89.2
 
+  packages/components-css/ma-navigation-bar-css:
+    devDependencies:
+      rimraf:
+        specifier: 6.0.1
+        version: 6.0.1
+      sass:
+        specifier: 1.89.2
+        version: 1.89.2
+
   packages/components-react/ma-banner-react:
     dependencies:
       clsx:
@@ -326,6 +335,55 @@ importers:
         specifier: 3.2.4
         version: 3.2.4(@types/debug@4.1.12)(@types/node@24.10.9)(sass@1.89.2)(tsx@4.21.0)(yaml@2.8.2)
 
+  packages/components-react/ma-navigation-bar-react:
+    dependencies:
+      clsx:
+        specifier: 2.1.1
+        version: 2.1.1
+    devDependencies:
+      '@babel/plugin-transform-runtime':
+        specifier: 7.28.5
+        version: 7.28.5(@babel/core@7.28.6)
+      '@babel/preset-env':
+        specifier: 7.28.0
+        version: 7.28.0(@babel/core@7.28.6)
+      '@babel/preset-react':
+        specifier: 7.27.1
+        version: 7.27.1(@babel/core@7.28.6)
+      '@babel/preset-typescript':
+        specifier: 7.27.1
+        version: 7.27.1(@babel/core@7.28.6)
+      '@babel/runtime':
+        specifier: 7.28.2
+        version: 7.28.2
+      '@nl-design-system-community/ma-navigation-bar-css':
+        specifier: workspace:*
+        version: link:../../components-css/ma-navigation-bar-css
+      '@nl-design-system/rollup-config-react-component':
+        specifier: 1.0.6
+        version: 1.0.6(@types/babel__core@7.20.5)(postcss@8.5.6)(rollup@4.46.2)(tslib@2.8.1)(typescript@5.9.2)
+      '@nl-design-system/tsconfig':
+        specifier: 1.0.5
+        version: 1.0.5(typescript@5.9.2)
+      '@types/react':
+        specifier: 19.2.7
+        version: 19.2.7
+      react:
+        specifier: 19.2.3
+        version: 19.2.3
+      rimraf:
+        specifier: 6.0.1
+        version: 6.0.1
+      rollup:
+        specifier: 4.46.2
+        version: 4.46.2
+      typescript:
+        specifier: 5.9.2
+        version: 5.9.2
+      vitest:
+        specifier: 3.2.4
+        version: 3.2.4(@types/debug@4.1.12)(@types/node@24.10.9)(sass@1.89.2)(tsx@4.21.0)(yaml@2.8.2)
+
   packages/ma-components:
     dependencies:
       '@utrecht/heading-group-css':
@@ -434,6 +492,12 @@ importers:
       '@nl-design-system-community/ma-focus-indicator-css':
         specifier: workspace:*
         version: link:../components-css/ma-focus-indicator-css
+      '@nl-design-system-community/ma-navigation-bar-css':
+        specifier: workspace:*
+        version: link:../components-css/ma-navigation-bar-css
+      '@nl-design-system-community/ma-navigation-bar-react':
+        specifier: workspace:*
+        version: link:../components-react/ma-navigation-bar-react
       '@sindresorhus/slugify':
         specifier: 3.0.0
         version: 3.0.0
