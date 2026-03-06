@@ -1,6 +1,6 @@
 import type { PropsWithChildren } from 'react';
+import { CardAsLink } from '@components/card-as-link/card-as-link.tsx';
 import { Heading } from '@nl-design-system-candidate/heading-react';
-import { CardAsLink } from '@nl-design-system-community/ma-components/card-as-link/card-as-link.tsx';
 import { CardList } from '@nl-design-system-community/ma-components/card-list/card-list.tsx';
 import { toCleanRoute } from '@utils/to-clean-route.ts';
 import { type CollectionEntry } from 'astro:content';

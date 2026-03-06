@@ -1,7 +1,7 @@
 import type { CollectionEntry } from 'astro:content';
 import type { PropsWithChildren } from 'react';
+import { CardAsLinkTheme } from '@components/card-as-link/card-as-link.tsx';
 import { Heading } from '@nl-design-system-candidate/heading-react';
-import { CardAsLinkTheme } from '@nl-design-system-community/ma-components/card-as-link/card-as-link.tsx';
 import { CardList } from '@nl-design-system-community/ma-components/card-list/card-list.tsx';
 import { dynamicImports } from '@tabler/icons-react';
 import './card-list-theme.css';

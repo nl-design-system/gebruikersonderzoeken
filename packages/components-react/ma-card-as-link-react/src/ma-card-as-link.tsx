@@ -1,12 +1,12 @@
-import { ReactNode } from 'react';
-import './card-as-link.css';
+import type { ReactNode, HTMLAttributes } from 'react';
+import { forwardRef } from 'react';
 
 interface MetadataProps {
   icon?: ReactNode;
   label: string;
 }
 
-export interface CardAsLinkProps {
+export interface CardAsLinkProps extends HTMLAttributes<HTMLDivElement> {
   className?: string;
   heading: ReactNode;
   href?: string;
@@ -15,7 +15,7 @@ export interface CardAsLinkProps {
   footer?: ReactNode;
 }
 
-export function CardAsLink(props: CardAsLinkProps) {
+export const CardAsLink = forwardRef<HTMLDivElement, CardAsLinkProps>(function CardAsLink(props, forwardedRef) {
   let metadata;
   if (
     (Array.isArray(props.metadata) && props.metadata.length > 0) ||
@@ -24,8 +24,8 @@ export function CardAsLink(props: CardAsLinkProps) {
     metadata =
       Array.isArray(props.metadata) === false ? (
         <div className="ma-card-as-link__metadata">
-          {props.metadata.icon && <span className="ma-card-as-link__metadata-icon">{props.metadata.icon}</span>}
-          {props.metadata.label}
+          {props?.metadata?.icon && <span className="ma-card-as-link__metadata-icon">{props?.metadata?.icon}</span>}
+          {props?.metadata?.label}
         </div>
       ) : (
         <ul className="ma-card-as-link__metadata-list">
@@ -40,7 +40,7 @@ export function CardAsLink(props: CardAsLinkProps) {
   }
 
   return (
-    <div className="ma-card-as-link__container">
+    <div ref={forwardedRef} className="ma-card-as-link__container">
       <article className={`ma-card-as-link ${props.className || ''}`.trim()}>
         <header className="ma-card-as-link__header">
           {props.href ? (
@@ -58,13 +58,15 @@ export function CardAsLink(props: CardAsLinkProps) {
       </article>
     </div>
   );
-}
+});
+
+CardAsLink.displayName = 'CardAsLink';
 
 export interface CardAsLinkThemeProps extends CardAsLinkProps {
   icon?: ReactNode;
 }
 
-export function CardAsLinkTheme(props: CardAsLinkThemeProps) {
+export const CardAsLinkTheme = (props: CardAsLinkThemeProps) => {
   const { heading, href, icon, ...restProps } = props;
   const headingElements = (
     <>
@@ -76,4 +78,6 @@ export function CardAsLinkTheme(props: CardAsLinkThemeProps) {
   );
 
   return <CardAsLink {...restProps} className="ma-card-as-link-theme" heading={headingElements} />;
-}
+};
+
+CardAsLinkTheme.displayName = 'CardAsLinkTheme';
