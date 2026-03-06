@@ -1,0 +1,67 @@
+{
+  "name": "@nl-design-system-community/ma-navigation-bar-react",
+  "author": "Community for NL Design System",
+  "version": "0.0.0",
+  "description": "React implementatie voor de MA Navigation Bar component",
+  "keywords": [
+    "nl-design-system"
+  ],
+  "license": "EUPL-1.2",
+  "homepage": "https://github.com/nl-design-system/community/tree/main/packages/components-react/ma-navigation-bar-react#readme",
+  "type": "module",
+  "main": "./dist/navigation-bar.js",
+  "files": [
+    "./dist/"
+  ],
+  "exports": {
+    ".": {
+      "types": "./dist/ma-navigation-bar.d.ts",
+      "import": "./dist/ma-navigation-bar.js"
+    },
+    "./css": {
+      "types": "./dist/css.d.ts",
+      "import": "./dist/css.js"
+    }
+  },
+  "repository": {
+    "type": "git+ssh",
+    "url": "git@github.com:nl-design-system/candidate.git",
+    "directory": "packages/components-react/ma-navigation-bar-react"
+  },
+  "private": true,
+  "publishConfig": {
+    "access": "public",
+    "provenance": true
+  },
+  "scripts": {
+    "build": "rollup --config ./rollup.config.mjs",
+    "clean": "rimraf ./dist/ ./*.tsbuildinfo ./.rollup.cache/ ./coverage/",
+    "test": "vitest run",
+    "test:coverage": "vitest run --coverage",
+    "test:watch": "vitest",
+    "typecheck": "tsc"
+  },
+  "devDependencies": {
+    "@babel/plugin-transform-runtime": "7.28.5",
+    "@babel/preset-env": "7.28.0",
+    "@babel/preset-react": "7.27.1",
+    "@babel/preset-typescript": "7.27.1",
+    "@babel/runtime": "7.28.2",
+    "@nl-design-system/tsconfig": "1.0.5",
+    "@nl-design-system-community/ma-navigation-bar-css": "workspace:*",
+    "@nl-design-system/rollup-config-react-component": "1.0.6",
+    "@types/react": "19.2.7",
+    "react": "19.2.3",
+    "rimraf": "6.0.1",
+    "rollup": "4.46.2",
+    "typescript": "5.9.2",
+    "vitest": "3.2.4"
+  },
+  "peerDependencies": {
+    "@babel/runtime": "^7",
+    "react": "^18 || ^19"
+  },
+  "dependencies": {
+    "clsx": "2.1.1"
+  }
+}
