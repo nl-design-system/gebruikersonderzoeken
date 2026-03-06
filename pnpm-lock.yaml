@@ -121,6 +121,15 @@ importers:
         specifier: 1.89.2
         version: 1.89.2
 
+  packages/components-css/ma-focus-indicator-css:
+    devDependencies:
+      rimraf:
+        specifier: 6.0.1
+        version: 6.0.1
+      sass:
+        specifier: 1.89.2
+        version: 1.89.2
+
   packages/components-react/ma-banner-react:
     dependencies:
       clsx:
@@ -422,6 +431,9 @@ importers:
       '@nl-design-system-community/ma-design-tokens':
         specifier: 2.5.0
         version: 2.5.0
+      '@nl-design-system-community/ma-focus-indicator-css':
+        specifier: workspace:*
+        version: link:../components-css/ma-focus-indicator-css
       '@sindresorhus/slugify':
         specifier: 3.0.0
         version: 3.0.0
