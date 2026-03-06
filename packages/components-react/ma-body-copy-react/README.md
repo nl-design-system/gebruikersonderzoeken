@@ -1,0 +1,42 @@
+<!-- @license CC0-1.0 -->
+
+# Body Copy
+
+## Installation
+
+Using npm
+
+```shell
+npm install @nl-design-system-community/ma-body-copy-react
+```
+
+Using pnpm
+
+```shell
+pnpm add @nl-design-system-community/ma-body-copy-react
+```
+
+Using yarn
+
+```shell
+yarn add @nl-design-system-community/ma-body-copy-react
+```
+
+## Usage
+
+If you just want the React component
+
+```typescript
+import { BodyCopy } from '@nl-design-system-community/ma-body-copy-react';
+```
+
+If you want the React component with styles
+
+```typescript
+import { BodyCopy } from '@nl-design-system-community/ma-body-copy-react/css';
+```
+
+## Properties
+
+| Property | Description | Type | Default |
+| -------- | ----------- | ---- | ------- |
