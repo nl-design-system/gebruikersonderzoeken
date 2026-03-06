@@ -1,13 +1,14 @@
-import { Heading } from '@nl-design-system-candidate/heading-react';
-import { Paragraph } from '@nl-design-system-candidate/paragraph-react';
-import { Banner } from '@nl-design-system-community/ma-components/banner/banner.tsx';
+import { Heading } from '@components/heading/heading.tsx';
+import { Paragraph } from '@components/paragraph/paragraph.tsx';
+import { Banner } from '@nl-design-system-community/ma-banner-react';
+import '@nl-design-system-community/ma-banner-css/ma-banner.css';
 
 export function Hero() {
   return (
     <Banner
       version="hero"
       heading={<Heading level={1}>Gebruikersonderzoeken binnen de overheid</Heading>}
-      content={
+      copy={
         <Paragraph purpose="lead">
           Het centrale platform waar Nederlandse overheidsinstanties hun gebruikersonderzoeken delen. Vind inspiratie,
           voorkom dubbel werk en maak betere beslissingen op basis van bewezen inzichten.

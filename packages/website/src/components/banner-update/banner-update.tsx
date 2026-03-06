@@ -1,7 +1,8 @@
 import type { ReactNode } from 'react';
-import { Heading } from '@nl-design-system-candidate/heading-react';
-import { Paragraph } from '@nl-design-system-candidate/paragraph-react';
-import { Banner } from '@nl-design-system-community/ma-components/banner/banner.tsx';
+import { Heading } from '@components/heading/heading.tsx';
+import { Paragraph } from '@components/paragraph/paragraph.tsx';
+import { Banner } from '@nl-design-system-community/ma-banner-react/css';
+import '@nl-design-system-community/ma-banner-css/ma-banner.css';
 
 export interface BannerUpdateProps {
   image?: ReactNode;
@@ -20,7 +21,7 @@ export function BannerUpdate(props: BannerUpdateProps) {
       imageAppearance="small"
       version="updates"
       heading={<Heading level={2}>{props.heading}</Heading>}
-      content={<Paragraph>{props.content}</Paragraph>}
+      copy={<Paragraph>{props.content}</Paragraph>}
       footer={
         props.footerActions ? (
           <div className="utrecht-action-group">
