@@ -52,6 +52,7 @@
     "@nl-design-system-community/ma-card-list-react": "workspace:*",
     "@nl-design-system-community/ma-components": "workspace:*",
     "@nl-design-system-community/ma-design-tokens": "2.5.0",
+    "@nl-design-system-community/ma-focus-indicator-css": "workspace:*",
     "@sindresorhus/slugify": "3.0.0",
     "@types/mdast": "4.0.4",
     "@utrecht/action-group-css": "2.0.0",
