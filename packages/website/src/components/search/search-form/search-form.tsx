@@ -1,4 +1,5 @@
-import { Button, Textbox } from '@utrecht/component-library-react';
+import { Button } from '@components/button/button.tsx';
+import { Textbox } from '@utrecht/component-library-react';
 import { useEffect, useState, type FormEvent, type FormEventHandler } from 'react';
 
 export interface SearchFormProps {

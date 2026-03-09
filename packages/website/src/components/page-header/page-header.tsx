@@ -1,3 +1,4 @@
+import { Button } from '@components/button/button.tsx';
 import { Logo } from '@components/logo/logo.tsx';
 import { Search } from '@components/search/search.tsx';
 import '@nl-design-system-community/ma-page-header-css/ma-page-header.css';
@@ -8,7 +9,6 @@ import {
 } from '@nl-design-system-community/ma-navigation-bar-react';
 import { PageHeader as MaPageHeader } from '@nl-design-system-community/ma-page-header-react';
 import { IconMenu2 as IconMenu } from '@tabler/icons-react';
-import { Button } from '@utrecht/component-library-react';
 import '@nl-design-system-community/ma-navigation-bar-css/dist/ma-navigation-bar.css';
 import './page-header.css';
 
