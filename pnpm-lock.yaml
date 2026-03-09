@@ -166,6 +166,15 @@ importers:
         specifier: 1.89.2
         version: 1.89.2
 
+  packages/components-css/ma-sr-only-css:
+    devDependencies:
+      rimraf:
+        specifier: 6.0.1
+        version: 6.0.1
+      sass:
+        specifier: 1.89.2
+        version: 1.89.2
+
   packages/components-react/ma-banner-react:
     dependencies:
       clsx:
@@ -693,6 +702,9 @@ importers:
       '@nl-design-system-community/ma-page-header-react':
         specifier: workspace:*
         version: link:../components-react/ma-page-header-react
+      '@nl-design-system-community/ma-sr-only-css':
+        specifier: workspace:*
+        version: link:../components-css/ma-sr-only-css
       '@sindresorhus/slugify':
         specifier: 3.0.0
         version: 3.0.0
