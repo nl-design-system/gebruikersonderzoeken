@@ -1,14 +1,18 @@
-import { Heading } from '@nl-design-system-candidate/heading-react';
-import { Paragraph } from '@nl-design-system-candidate/paragraph-react';
-import { PageFooter, PageFooterSection } from '@nl-design-system-community/ma-components/page-footer/page-footer.tsx';
+import { Heading } from '@components/heading/heading.tsx';
+import { Paragraph } from '@components/paragraph/paragraph.tsx';
+import '@nl-design-system-community/ma-page-footer-css/ma-page-footer.css';
+import {
+  PageFooter as MaPageFooter,
+  PageFooterSection as MaPageFooterSection,
+} from '@nl-design-system-community/ma-page-footer-react';
 import { IconArrowRight, IconChevronRight } from '@tabler/icons-react';
 import { ButtonLink } from '@utrecht/component-library-react';
 
-export function GebruikersonderzoekenFooter() {
+export function PageFooter() {
   return (
-    <PageFooter
+    <MaPageFooter
       sections={[
-        <PageFooterSection
+        <MaPageFooterSection
           key="1"
           action={
             <ButtonLink href="https://nldesignsystem.nl" appearance="primary-action-button">
@@ -23,9 +27,9 @@ export function GebruikersonderzoekenFooter() {
             Gebruikersonderzoeken.nl is een initiatief van het NL Design System. Je vindt hier inzichten uit
             gebruikersonderzoeken bij de overheid.
           </Paragraph>
-        </PageFooterSection>,
+        </MaPageFooterSection>,
 
-        <PageFooterSection
+        <MaPageFooterSection
           key="2"
           action={
             <ButtonLink href="/docs/onderzoek-delen/" appearance="primary-action-button">
@@ -39,9 +43,9 @@ export function GebruikersonderzoekenFooter() {
           <Paragraph>
             Heb je zelf onderzoek gedaan dat relevant is voor anderen? Deel je inzichten op een laagdrempelige manier.
           </Paragraph>
-        </PageFooterSection>,
+        </MaPageFooterSection>,
 
-        <PageFooterSection key="3">
+        <MaPageFooterSection key="3">
           <Heading level={2} appearance="level-4">
             Hulp nodig
           </Heading>
@@ -53,7 +57,7 @@ export function GebruikersonderzoekenFooter() {
               </a>
             </li>
           </ul>
-        </PageFooterSection>,
+        </MaPageFooterSection>,
       ]}
       metaLinks={[
         <a key="1" className="nl-link" href="/docs/privacyverklaring/">
