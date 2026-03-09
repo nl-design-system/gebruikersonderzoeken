@@ -1,3 +1,4 @@
+import { ButtonLink } from '@components/button/button.tsx';
 import { Heading } from '@components/heading/heading.tsx';
 import { Paragraph } from '@components/paragraph/paragraph.tsx';
 import '@nl-design-system-community/ma-page-footer-css/ma-page-footer.css';
@@ -6,7 +7,6 @@ import {
   PageFooterSection as MaPageFooterSection,
 } from '@nl-design-system-community/ma-page-footer-react';
 import { IconArrowRight, IconChevronRight } from '@tabler/icons-react';
-import { ButtonLink } from '@utrecht/component-library-react';
 
 export function PageFooter() {
   return (
