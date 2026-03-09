@@ -1,7 +1,7 @@
 import type { PropsWithChildren } from 'react';
 import { Heading } from '@components/heading/heading.tsx';
+import { Link } from '@components/link/link.tsx';
 import { Paragraph } from '@components/paragraph/paragraph.tsx';
-import { Link } from '@nl-design-system-candidate/link-react';
 import './respond-to-onderzoek.css';
 
 export interface RespondToOnderzoekProps {
