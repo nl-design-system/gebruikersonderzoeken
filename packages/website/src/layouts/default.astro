@@ -1,9 +1,9 @@
 ---
 import type { Cover } from '@schemas/cover.ts';
-import { GebruikersonderzoekenFooter } from '@components/gebruikersonderzoeken-footer/gebruikersonderzoeken-footer';
 import { GebruikersonderzoekenHeader } from '@components/gebruikersonderzoeken-header/gebruikersonderzoeken-header';
 import logo from '@components/logo/logo.svg?raw';
 import { NavigationDrawer } from '@components/navigation-drawer/navigation-drawer';
+import { PageFooter } from '@components/page-footer/page-footer';
 import { generateDocumentTitle } from '@utils/document-title.ts';
 import '@assets/styles.css';
 import '@fontsource/fira-code';
@@ -103,7 +103,7 @@ const navigationBarItems = [
     <GebruikersonderzoekenHeader navigationBarItems={navigationBarItems} />
     <NavigationDrawer navigationBarItems={navigationBarItems} />
     <main id="main" class={mainClass}><slot /></main>
-    <GebruikersonderzoekenFooter />
+    <PageFooter />
 
     <div hidden set:html={logo} />
 
