@@ -1,6 +1,0 @@
-{
-  "compilerOptions": {
-    "jsx": "react-jsx",
-    "jsxImportSytax": "react"
-  }
-}
