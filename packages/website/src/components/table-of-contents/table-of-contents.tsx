@@ -1,6 +1,6 @@
 import type { AnchorHTMLAttributes } from 'react';
 import '@utrecht/spotlight-section-css/dist/index.min.css';
-import { Heading } from '@nl-design-system-candidate/heading-react';
+import { Heading } from '@components/heading/heading.tsx';
 
 export interface TableOfContentsItem extends AnchorHTMLAttributes<HTMLAnchorElement> {
   label?: string;

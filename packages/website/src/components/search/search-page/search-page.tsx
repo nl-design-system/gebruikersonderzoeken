@@ -1,8 +1,8 @@
+import { BodyCopy } from '@components/body-copy/body-copy.tsx';
+import { Heading } from '@components/heading/heading.tsx';
 import { PageSection } from '@components/page-section/page-section.tsx';
 import { SearchForm } from '@components/search/search-form/search-form.tsx';
-import { Heading } from '@nl-design-system-candidate/heading-react';
 import { Paragraph } from '@nl-design-system-candidate/paragraph-react';
-import { BodyCopy } from '@nl-design-system-community/ma-components/body-copy/body-copy.tsx';
 import { updateDocumentTitle } from '@utils/document-title.ts';
 import { useEffect, useState } from 'react';
 import type { SearchResult } from '../types.js';
