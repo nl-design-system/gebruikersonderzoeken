@@ -59,6 +59,8 @@
     "@nl-design-system-community/ma-navigation-drawer-react": "workspace:*",
     "@nl-design-system-community/ma-page-footer-css": "workspace:*",
     "@nl-design-system-community/ma-page-footer-react": "workspace:*",
+    "@nl-design-system-community/ma-page-header-css": "workspace:*",
+    "@nl-design-system-community/ma-page-header-react": "workspace:*",
     "@sindresorhus/slugify": "3.0.0",
     "@types/mdast": "4.0.4",
     "@utrecht/action-group-css": "2.0.0",
