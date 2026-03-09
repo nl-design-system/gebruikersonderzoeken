@@ -1,4 +1,4 @@
-import { Paragraph } from '@nl-design-system-candidate/paragraph-react';
+import { Paragraph } from '@components/paragraph/paragraph.tsx';
 import { SearchError as SearchErrorClass } from '../algolia-api/fetch-results.ts';
 import { GroupError } from '../algolia-api/group-hits-to-pages.ts';
 
