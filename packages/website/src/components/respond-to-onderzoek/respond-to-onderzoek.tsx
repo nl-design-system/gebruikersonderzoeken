@@ -1,5 +1,5 @@
 import type { PropsWithChildren } from 'react';
-import { Heading } from '@nl-design-system-candidate/heading-react';
+import { Heading } from '@components/heading/heading.tsx';
 import { Link } from '@nl-design-system-candidate/link-react';
 import './respond-to-onderzoek.css';
 import { Paragraph } from '@nl-design-system-candidate/paragraph-react';

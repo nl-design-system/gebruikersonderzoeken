@@ -1,6 +1,6 @@
 import type { CollectionEntry } from 'astro:content';
-import { Heading } from '@nl-design-system-candidate/heading-react';
-import { Tag } from '@nl-design-system-community/ma-components/tag/tag.tsx';
+import { Heading } from '@components/heading/heading.tsx';
+import { Tag } from '@components/tag/tag.tsx';
 import { type PropsWithChildren } from 'react';
 import './theme-list.css';
 
