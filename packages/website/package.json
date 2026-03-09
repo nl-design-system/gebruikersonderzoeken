@@ -50,7 +50,6 @@
     "@nl-design-system-community/ma-card-as-link-react": "workspace:*",
     "@nl-design-system-community/ma-card-list-css": "workspace:*",
     "@nl-design-system-community/ma-card-list-react": "workspace:*",
-    "@nl-design-system-community/ma-components": "workspace:*",
     "@nl-design-system-community/ma-design-tokens": "2.5.0",
     "@nl-design-system-community/ma-focus-indicator-css": "workspace:*",
     "@nl-design-system-community/ma-navigation-bar-css": "workspace:*",
