@@ -1,15 +1,16 @@
 import { Logo } from '@components/logo/logo.tsx';
 import { Search } from '@components/search/search.tsx';
-import { MaPageHeader } from '@nl-design-system-community/ma-components/page-header/page-header.tsx';
+import '@nl-design-system-community/ma-page-header-css/ma-page-header.css';
 import {
   NavigationBar as MaNavigationBar,
   NavigationBarItem as MaNavigationBarItem,
   type NavigationBarItemProps as MaNavigationBarItemProps,
 } from '@nl-design-system-community/ma-navigation-bar-react';
+import { PageHeader as MaPageHeader } from '@nl-design-system-community/ma-page-header-react';
 import { IconMenu2 as IconMenu } from '@tabler/icons-react';
 import { Button } from '@utrecht/component-library-react';
-import '@nl-design-system-community/ma-navigation-bar-css/ma-navigation-bar.css';
-import './gebruikersonderzoeken-header.css';
+import '@nl-design-system-community/ma-navigation-bar-css/dist/ma-navigation-bar.css';
+import './page-header.css';
 
 export interface PageHeaderProps {
   navigationBarItems?: MaNavigationBarItemProps[];
@@ -17,10 +18,10 @@ export interface PageHeaderProps {
 
 const navLabel = 'Hoofdmenu';
 
-export function GebruikersonderzoekenHeader(props: PageHeaderProps) {
+export function PageHeader(props: PageHeaderProps) {
   return (
     <MaPageHeader
-      className="ma-gebruikersonderzoeken-header"
+      className="ma-page-header--gebruikersonderzoeken"
       startGroup={
         <nav aria-label={navLabel}>
           <Button
@@ -34,7 +35,7 @@ export function GebruikersonderzoekenHeader(props: PageHeaderProps) {
         </nav>
       }
       centerGroup={
-        <a className="ma-gebruikersonderzoeken-header__logo-wrapper" href="/">
+        <a className="ma-page-header--gebruikersonderzoeken__logo-wrapper" href="/">
           <span className="ma-sr-only">Gebruikersonderzoeken logo, naar de Homepagina</span>
           <Logo />
         </a>
