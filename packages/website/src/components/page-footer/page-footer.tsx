@@ -1,4 +1,4 @@
-import { ButtonLink } from '@components/button/button.tsx';
+import { ButtonLink } from '@components/button-link/button-link.tsx';
 import { Heading } from '@components/heading/heading.tsx';
 import { Paragraph } from '@components/paragraph/paragraph.tsx';
 import '@nl-design-system-community/ma-page-footer-css/ma-page-footer.css';
