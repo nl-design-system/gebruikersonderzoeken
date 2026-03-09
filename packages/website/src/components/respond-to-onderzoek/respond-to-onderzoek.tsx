@@ -1,8 +1,8 @@
 import type { PropsWithChildren } from 'react';
 import { Heading } from '@components/heading/heading.tsx';
+import { Paragraph } from '@components/paragraph/paragraph.tsx';
 import { Link } from '@nl-design-system-candidate/link-react';
 import './respond-to-onderzoek.css';
-import { Paragraph } from '@nl-design-system-candidate/paragraph-react';
 
 export interface RespondToOnderzoekProps {
   filePath?: string;
