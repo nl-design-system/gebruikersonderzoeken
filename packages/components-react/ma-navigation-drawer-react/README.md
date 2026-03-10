@@ -27,7 +27,7 @@ yarn add @nl-design-system-community/ma-navigation-drawer-react
 If you just want the React component
 
 ```typescript
-import { NavigationDrawer } from '@nl-design-system-community/ma-navigation-drawer-react';
+import { NavigationDrawer } from '@nl-design-system-community/ma-navigation-drawer-react/dist/ma-navigation-drawer.js';
 ```
 
 

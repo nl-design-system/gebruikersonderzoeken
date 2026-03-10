@@ -9,12 +9,12 @@
   "license": "EUPL-1.2",
   "homepage": "https://github.com/nl-design-system/community/tree/main/packages/components-react/ma-page-footer-react#readme",
   "type": "module",
-  "main": "./dist/page-footer.js",
+  "main": "./dist/ma-page-footer.js",
   "files": [
     "./dist/"
   ],
   "exports": {
-    ".": {
+    "./dist/ma-page-footer.js": {
       "types": "./dist/ma-page-footer.d.ts",
       "import": "./dist/ma-page-footer.js"
     }

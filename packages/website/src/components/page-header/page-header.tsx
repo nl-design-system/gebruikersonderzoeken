@@ -1,13 +1,13 @@
 import { Button } from '@components/button/button.tsx';
 import { Logo } from '@components/logo/logo.tsx';
 import { Search } from '@components/search/search.tsx';
-import '@nl-design-system-community/ma-page-header-css/ma-page-header.css';
+import '@nl-design-system-community/ma-page-header-css/dist/ma-page-header.css';
 import {
   NavigationBar as MaNavigationBar,
   NavigationBarItem as MaNavigationBarItem,
   type NavigationBarItemProps as MaNavigationBarItemProps,
-} from '@nl-design-system-community/ma-navigation-bar-react';
-import { PageHeader as MaPageHeader } from '@nl-design-system-community/ma-page-header-react';
+} from '@nl-design-system-community/ma-navigation-bar-react/dist/ma-navigation-bar.js';
+import { PageHeader as MaPageHeader } from '@nl-design-system-community/ma-page-header-react/dist/ma-page-header.js';
 import { IconMenu2 as IconMenu } from '@tabler/icons-react';
 import '@nl-design-system-community/ma-navigation-bar-css/dist/ma-navigation-bar.css';
 import './page-header.css';

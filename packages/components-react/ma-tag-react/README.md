@@ -27,7 +27,7 @@ yarn add @nl-design-system-community/ma-tag-react
 If you just want the React component
 
 ```typescript
-import { Tag } from '@nl-design-system-community/ma-tag-react';
+import { Tag } from '@nl-design-system-community/ma-tag-react/dist/ma-tag.js';
 ```
 
 

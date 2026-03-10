@@ -13,8 +13,8 @@
     "./src/"
   ],
   "exports": {
-    "./*.css": "./dist/*.css",
-    "./*.scss": "./src/*.scss"
+    "./dist/*.css": "./dist/*.css",
+    "./src/*.scss": "./src/*.scss"
   },
   "repository": {
     "type": "git+ssh",
