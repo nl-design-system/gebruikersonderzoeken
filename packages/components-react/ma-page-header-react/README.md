@@ -24,13 +24,9 @@ yarn add @nl-design-system-community/ma-page-header-react
 
 ## Usage
 
-If you just want the React component
-
 ```typescript
 import { PageHeader } from '@nl-design-system-community/ma-page-header-react/dist/ma-page-header.mjs';
 ```
-
-
 
 ## Properties
 

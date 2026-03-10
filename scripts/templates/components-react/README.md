@@ -24,13 +24,9 @@ yarn add @nl-design-system-community/ma-new-component-react
 
 ## Usage
 
-If you just want the React component
-
 ```typescript
 import { NewComponent } from '@nl-design-system-community/ma-new-component-react/dist/ma-new-component.mjs';
 ```
-
-
 
 ## Properties
 
