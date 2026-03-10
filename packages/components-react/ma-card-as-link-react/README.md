@@ -30,11 +30,7 @@ If you just want the React component
 import { CardAsLink } from '@nl-design-system-community/ma-card-as-link-react';
 ```
 
-If you want the React component with styles
 
-```typescript
-import { CardAsLink } from '@nl-design-system-community/ma-card-as-link-react/css';
-```
 
 ## Properties
 

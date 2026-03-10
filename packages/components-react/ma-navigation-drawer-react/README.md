@@ -30,11 +30,7 @@ If you just want the React component
 import { NavigationDrawer } from '@nl-design-system-community/ma-navigation-drawer-react';
 ```
 
-If you want the React component with styles
 
-```typescript
-import { NavigationDrawer } from '@nl-design-system-community/ma-navigation-drawer-react/css';
-```
 
 ## Properties
 

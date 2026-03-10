@@ -17,10 +17,6 @@
     ".": {
       "types": "./dist/ma-navigation-bar.d.ts",
       "import": "./dist/ma-navigation-bar.js"
-    },
-    "./css": {
-      "types": "./dist/css.d.ts",
-      "import": "./dist/css.js"
     }
   },
   "repository": {

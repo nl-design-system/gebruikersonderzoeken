@@ -17,10 +17,6 @@
     ".": {
       "types": "./dist/ma-page-footer.d.ts",
       "import": "./dist/ma-page-footer.js"
-    },
-    "./css": {
-      "types": "./dist/css.d.ts",
-      "import": "./dist/css.js"
     }
   },
   "repository": {
