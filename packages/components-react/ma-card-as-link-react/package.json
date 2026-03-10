@@ -17,10 +17,6 @@
     ".": {
       "types": "./dist/ma-card-as-link.d.ts",
       "import": "./dist/ma-card-as-link.js"
-    },
-    "./css": {
-      "types": "./dist/css.d.ts",
-      "import": "./dist/css.js"
     }
   },
   "repository": {

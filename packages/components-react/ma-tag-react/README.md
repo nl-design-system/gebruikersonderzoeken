@@ -30,11 +30,7 @@ If you just want the React component
 import { Tag } from '@nl-design-system-community/ma-tag-react';
 ```
 
-If you want the React component with styles
 
-```typescript
-import { Tag } from '@nl-design-system-community/ma-tag-react/css';
-```
 
 ## Properties
 

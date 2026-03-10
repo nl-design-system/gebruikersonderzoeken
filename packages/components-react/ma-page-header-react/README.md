@@ -30,11 +30,7 @@ If you just want the React component
 import { PageHeader } from '@nl-design-system-community/ma-page-header-react';
 ```
 
-If you want the React component with styles
 
-```typescript
-import { PageHeader } from '@nl-design-system-community/ma-page-header-react/css';
-```
 
 ## Properties
 

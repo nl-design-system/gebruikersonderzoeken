@@ -17,10 +17,6 @@
     ".": {
       "types": "./dist/ma-banner.d.ts",
       "import": "./dist/ma-banner.js"
-    },
-    "./css": {
-      "types": "./dist/css.d.ts",
-      "import": "./dist/css.js"
     }
   },
   "repository": {

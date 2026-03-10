@@ -30,11 +30,7 @@ If you just want the React component
 import { NewComponent } from '@nl-design-system-community/ma-new-component-react';
 ```
 
-If you want the React component with styles
 
-```typescript
-import { NewComponent } from '@nl-design-system-community/ma-new-component-react/css';
-```
 
 ## Properties
 

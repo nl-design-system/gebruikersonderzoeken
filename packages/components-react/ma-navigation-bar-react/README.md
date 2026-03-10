@@ -30,11 +30,7 @@ If you just want the React component
 import { NavigationBar } from '@nl-design-system-community/ma-navigation-bar-react';
 ```
 
-If you want the React component with styles
 
-```typescript
-import { NavigationBar } from '@nl-design-system-community/ma-navigation-bar-react/css';
-```
 
 ## Properties
 

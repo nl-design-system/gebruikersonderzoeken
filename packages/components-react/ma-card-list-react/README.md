@@ -30,11 +30,7 @@ If you just want the React component
 import { CardList } from '@nl-design-system-community/ma-card-list-react';
 ```
 
-If you want the React component with styles
 
-```typescript
-import { CardList } from '@nl-design-system-community/ma-card-list-react/css';
-```
 
 ## Properties
 

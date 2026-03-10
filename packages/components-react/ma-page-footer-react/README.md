@@ -30,11 +30,7 @@ If you just want the React component
 import { PageFooter } from '@nl-design-system-community/ma-page-footer-react';
 ```
 
-If you want the React component with styles
 
-```typescript
-import { PageFooter } from '@nl-design-system-community/ma-page-footer-react/css';
-```
 
 ## Properties
 

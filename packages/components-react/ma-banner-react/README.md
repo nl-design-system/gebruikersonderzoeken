@@ -30,11 +30,7 @@ If you just want the React component
 import { Banner } from '@nl-design-system-community/ma-banner-react';
 ```
 
-If you want the React component with styles
 
-```typescript
-import { Banner } from '@nl-design-system-community/ma-banner-react/css';
-```
 
 ## Properties
 

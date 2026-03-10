@@ -30,11 +30,7 @@ If you just want the React component
 import { BodyCopy } from '@nl-design-system-community/ma-body-copy-react';
 ```
 
-If you want the React component with styles
 
-```typescript
-import { BodyCopy } from '@nl-design-system-community/ma-body-copy-react/css';
-```
 
 ## Properties
 
