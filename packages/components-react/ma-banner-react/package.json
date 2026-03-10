@@ -9,14 +9,14 @@
   "license": "EUPL-1.2",
   "homepage": "https://github.com/nl-design-system/community/tree/main/packages/components-react/ma-banner-react#readme",
   "type": "module",
-  "main": "./dist/ma-banner.js",
+  "main": "./dist/ma-banner.mjs",
   "files": [
     "./dist/"
   ],
   "exports": {
-    "./dist/ma-banner.js": {
+    "./dist/ma-banner.mjs": {
       "types": "./dist/ma-banner.d.ts",
-      "import": "./dist/ma-banner.js"
+      "import": "./dist/ma-banner.mjs"
     }
   },
   "repository": {

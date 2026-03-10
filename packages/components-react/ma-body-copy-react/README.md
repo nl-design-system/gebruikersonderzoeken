@@ -27,7 +27,7 @@ yarn add @nl-design-system-community/ma-body-copy-react
 If you just want the React component
 
 ```typescript
-import { BodyCopy } from '@nl-design-system-community/ma-body-copy-react/dist/ma-body-copy.js';
+import { BodyCopy } from '@nl-design-system-community/ma-body-copy-react/dist/ma-body-copy.mjs';
 ```
 
 

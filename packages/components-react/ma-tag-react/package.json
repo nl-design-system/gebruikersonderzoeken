@@ -9,14 +9,14 @@
   "license": "EUPL-1.2",
   "homepage": "https://github.com/nl-design-system/community/tree/main/packages/components-react/ma-tag-react#readme",
   "type": "module",
-  "main": "./dist/ma-tag.js",
+  "main": "./dist/ma-tag.mjs",
   "files": [
     "./dist/"
   ],
   "exports": {
-    "./dist/ma-tag.js": {
+    "./dist/ma-tag.mjs": {
       "types": "./dist/ma-tag.d.ts",
-      "import": "./dist/ma-tag.js"
+      "import": "./dist/ma-tag.mjs"
     }
   },
   "repository": {

@@ -5,7 +5,7 @@ import '@nl-design-system-community/ma-page-footer-css/dist/ma-page-footer.css';
 import {
   PageFooter as MaPageFooter,
   PageFooterSection as MaPageFooterSection,
-} from '@nl-design-system-community/ma-page-footer-react/dist/ma-page-footer.js';
+} from '@nl-design-system-community/ma-page-footer-react/dist/ma-page-footer.mjs';
 import { IconArrowRight, IconChevronRight } from '@tabler/icons-react';
 
 export function PageFooter() {

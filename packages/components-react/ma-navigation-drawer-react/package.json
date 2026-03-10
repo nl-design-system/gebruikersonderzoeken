@@ -9,14 +9,14 @@
   "license": "EUPL-1.2",
   "homepage": "https://github.com/nl-design-system/community/tree/main/packages/components-react/ma-navigation-drawer-react#readme",
   "type": "module",
-  "main": "./dist/ma-navigation-drawer.js",
+  "main": "./dist/ma-navigation-drawer.mjs",
   "files": [
     "./dist/"
   ],
   "exports": {
-    "./dist/ma-navigation-drawer.js": {
+    "./dist/ma-navigation-drawer.mjs": {
       "types": "./dist/ma-navigation-drawer.d.ts",
-      "import": "./dist/ma-navigation-drawer.js"
+      "import": "./dist/ma-navigation-drawer.mjs"
     }
   },
   "repository": {
