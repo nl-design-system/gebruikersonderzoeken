@@ -24,13 +24,9 @@ yarn add @nl-design-system-community/ma-navigation-bar-react
 
 ## Usage
 
-If you just want the React component
-
 ```typescript
 import { NavigationBar } from '@nl-design-system-community/ma-navigation-bar-react/dist/ma-navigation-bar.mjs';
 ```
-
-
 
 ## Properties
 
