@@ -27,7 +27,7 @@ yarn add @nl-design-system-community/ma-card-as-link-react
 If you just want the React component
 
 ```typescript
-import { CardAsLink } from '@nl-design-system-community/ma-card-as-link-react/dist/ma-card-as-link.js';
+import { CardAsLink } from '@nl-design-system-community/ma-card-as-link-react/dist/ma-card-as-link.mjs';
 ```
 
 

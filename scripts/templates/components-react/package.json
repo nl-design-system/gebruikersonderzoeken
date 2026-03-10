@@ -9,14 +9,14 @@
   "license": "EUPL-1.2",
   "homepage": "https://github.com/nl-design-system/community/tree/main/packages/components-react/ma-new-component-react#readme",
   "type": "module",
-  "main": "./dist/ma-new-component.js",
+  "main": "./dist/ma-new-component.mjs",
   "files": [
     "./dist/"
   ],
   "exports": {
-    "./dist/ma-new-component.js": {
+    "./dist/ma-new-component.mjs": {
       "types": "./dist/ma-new-component.d.ts",
-      "import": "./dist/ma-new-component.js"
+      "import": "./dist/ma-new-component.mjs"
     }
   },
   "repository": {

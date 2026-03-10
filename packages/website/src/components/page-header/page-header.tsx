@@ -6,8 +6,8 @@ import {
   NavigationBar as MaNavigationBar,
   NavigationBarItem as MaNavigationBarItem,
   type NavigationBarItemProps as MaNavigationBarItemProps,
-} from '@nl-design-system-community/ma-navigation-bar-react/dist/ma-navigation-bar.js';
-import { PageHeader as MaPageHeader } from '@nl-design-system-community/ma-page-header-react/dist/ma-page-header.js';
+} from '@nl-design-system-community/ma-navigation-bar-react/dist/ma-navigation-bar.mjs';
+import { PageHeader as MaPageHeader } from '@nl-design-system-community/ma-page-header-react/dist/ma-page-header.mjs';
 import { IconMenu2 as IconMenu } from '@tabler/icons-react';
 import '@nl-design-system-community/ma-navigation-bar-css/dist/ma-navigation-bar.css';
 import './page-header.css';

@@ -4,7 +4,7 @@ import {
   NavigationDrawer as MaNavigationDrawer,
   NavigationDrawerItem as MaNavigationDrawerItem,
   NavigationDrawerHeader as MaNavigationDrawerHeader,
-} from '@nl-design-system-community/ma-navigation-drawer-react/dist/ma-navigation-drawer.js';
+} from '@nl-design-system-community/ma-navigation-drawer-react/dist/ma-navigation-drawer.mjs';
 import { IconX } from '@tabler/icons-react';
 
 interface GebruikersonderzoekenNavigationDrawerProps {

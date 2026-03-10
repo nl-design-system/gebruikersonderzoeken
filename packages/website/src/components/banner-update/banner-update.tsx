@@ -1,7 +1,7 @@
 import type { ReactNode } from 'react';
 import { Heading } from '@components/heading/heading.tsx';
 import { Paragraph } from '@components/paragraph/paragraph.tsx';
-import { Banner } from '@nl-design-system-community/ma-banner-react/dist/ma-banner.js';
+import { Banner } from '@nl-design-system-community/ma-banner-react/dist/ma-banner.mjs';
 import '@nl-design-system-community/ma-banner-css/dist/ma-banner.css';
 
 export interface BannerUpdateProps {

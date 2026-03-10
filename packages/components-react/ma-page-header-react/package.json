@@ -9,14 +9,14 @@
   "license": "EUPL-1.2",
   "homepage": "https://github.com/nl-design-system/community/tree/main/packages/components-react/ma-page-header-react#readme",
   "type": "module",
-  "main": "./dist/ma-page-header.js",
+  "main": "./dist/ma-page-header.mjs",
   "files": [
     "./dist/"
   ],
   "exports": {
-    "./dist/ma-page-header.js": {
+    "./dist/ma-page-header.mjs": {
       "types": "./dist/ma-page-header.d.ts",
-      "import": "./dist/ma-page-header.js"
+      "import": "./dist/ma-page-header.mjs"
     }
   },
   "repository": {

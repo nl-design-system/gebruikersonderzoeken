@@ -27,7 +27,7 @@ yarn add @nl-design-system-community/ma-page-footer-react
 If you just want the React component
 
 ```typescript
-import { PageFooter } from '@nl-design-system-community/ma-page-footer-react/dist/ma-page-footer.js';
+import { PageFooter } from '@nl-design-system-community/ma-page-footer-react/dist/ma-page-footer.mjs';
 ```
 
 
