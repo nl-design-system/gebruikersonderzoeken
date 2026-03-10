@@ -2,9 +2,9 @@ import type { CollectionEntry } from 'astro:content';
 import type { PropsWithChildren } from 'react';
 import { CardAsLinkTheme } from '@components/card-as-link/card-as-link.tsx';
 import { Heading } from '@components/heading/heading.tsx';
-import { CardList } from '@nl-design-system-community/ma-card-list-react';
+import { CardList } from '@nl-design-system-community/ma-card-list-react/dist/ma-card-list.js';
 import { dynamicImports } from '@tabler/icons-react';
-import '@nl-design-system-community/ma-card-list-css/ma-card-list.css';
+import '@nl-design-system-community/ma-card-list-css/dist/ma-card-list.css';
 
 interface ThemeEntryWithItems extends CollectionEntry<'themes'> {
   items?: object[];

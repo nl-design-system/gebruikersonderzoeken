@@ -1,10 +1,10 @@
 import { Button } from '@components/button/button.tsx';
-import '@nl-design-system-community/ma-navigation-drawer-css/ma-navigation-drawer.css';
+import '@nl-design-system-community/ma-navigation-drawer-css/dist/ma-navigation-drawer.css';
 import {
   NavigationDrawer as MaNavigationDrawer,
   NavigationDrawerItem as MaNavigationDrawerItem,
   NavigationDrawerHeader as MaNavigationDrawerHeader,
-} from '@nl-design-system-community/ma-navigation-drawer-react';
+} from '@nl-design-system-community/ma-navigation-drawer-react/dist/ma-navigation-drawer.js';
 import { IconX } from '@tabler/icons-react';
 
 interface GebruikersonderzoekenNavigationDrawerProps {

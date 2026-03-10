@@ -628,25 +628,6 @@ importers:
         specifier: 3.2.4
         version: 3.2.4(@types/debug@4.1.12)(@types/node@24.10.9)(sass@1.89.2)(tsx@4.21.0)(yaml@2.8.2)
 
-  packages/ma-components:
-    dependencies:
-      '@utrecht/heading-group-css':
-        specifier: 1.5.1
-        version: 1.5.1
-    devDependencies:
-      '@utrecht/button-css':
-        specifier: 2.3.1
-        version: 2.3.1
-      '@utrecht/link-css':
-        specifier: 1.6.1
-        version: 1.6.1
-      '@utrecht/textbox-css':
-        specifier: 2.0.0
-        version: 2.0.0
-      react:
-        specifier: 19.2.4
-        version: 19.2.4
-
   packages/website:
     dependencies:
       '@astrojs/markdown-remark':
@@ -835,10 +816,10 @@ importers:
     devDependencies:
       '@astrojs/react':
         specifier: 4.4.2
-        version: 4.4.2(@types/node@24.10.9)(@types/react-dom@19.2.3(@types/react@19.2.10))(@types/react@19.2.10)(react-dom@19.2.4(react@19.2.4))(react@19.2.4)(tsx@4.21.0)(yaml@2.8.2)
+        version: 4.4.2(@types/node@24.10.9)(@types/react-dom@19.2.3(@types/react@19.2.10))(@types/react@19.2.10)(react-dom@19.2.4(react@19.2.4))(react@19.2.4)(sass@1.89.2)(tsx@4.21.0)(yaml@2.8.2)
       '@nl-design-system/tsconfig':
         specifier: 1.0.5
-        version: 1.0.5
+        version: 1.0.5(typescript@5.9.3)
       '@tabler/icons-react':
         specifier: 3.34.0
         version: 3.34.0(react@19.2.4)
@@ -865,7 +846,7 @@ importers:
         version: 5.47.0
       astro:
         specifier: 5.16.15
-        version: 5.16.15(@types/node@24.10.9)(rollup@4.46.2)(tsx@4.21.0)(yaml@2.8.2)
+        version: 5.16.15(@types/node@24.10.9)(rollup@4.46.2)(sass@1.89.2)(tsx@4.21.0)(typescript@5.9.3)(yaml@2.8.2)
       hast-util-is-element:
         specifier: 3.0.0
         version: 3.0.0
@@ -3159,9 +3140,6 @@ packages:
   '@utrecht/link-button-css@2.0.1':
     resolution: {integrity: sha512-7HxgKyp7IkV0PAZb90ASvr9Iz+BPMw4yqpiN3IiD5HdPzTwQY8CjW7k4/hFZXrh/MMwnRUwcrDLJsbCLSfyKrw==}
 
-  '@utrecht/link-css@1.6.1':
-    resolution: {integrity: sha512-99cJTMztRvcgDDCM/EGvjtzBQ6k7Fh8/sv6bHS8lQxoCHgm88m0fUfns1RJkrLEFhYVsbdPxqYTn7npZhsAUtA==}
-
   '@utrecht/link-css@2.0.1':
     resolution: {integrity: sha512-2mpaFeKybBeL+qIvJ73UC0jtwhn0IBM3vn8BD9OTwYQK6djY0tVwQwpouDWrzPRU169swp8BPllMU19A0xfyZA==}
 
@@ -3324,9 +3302,6 @@ packages:
 
   '@utrecht/textarea-css@3.0.1':
     resolution: {integrity: sha512-byy2EpNx6g9ORxTZyeGxWclsvzJxbkmi1uqLSCS7286nw3t7PkwiWSKBPBJ568153nKgBD7FgiZrjR0Oe7TDnA==}
-
-  '@utrecht/textbox-css@2.0.0':
-    resolution: {integrity: sha512-z4ewJ6WxC3TMTG2jR4I7k73O5NijdjE/ydR1lovzPr4/Wa27l3I7pM0qjymSarKtc5IapfXsFhIpwV/kKbPPSA==}
 
   '@utrecht/textbox-css@3.0.1':
     resolution: {integrity: sha512-SP3CFpTd/6CffvSBcpBQ+uKzYusgDB/ri0vmEA/uYfWnRyen1ETQkeCoDJeSUR/D8g24NMdFu7xmOniiwGpRQg==}
@@ -6816,15 +6791,15 @@ snapshots:
     dependencies:
       prismjs: 1.30.0
 
-  '@astrojs/react@4.4.2(@types/node@24.10.9)(@types/react-dom@19.2.3(@types/react@19.2.10))(@types/react@19.2.10)(react-dom@19.2.4(react@19.2.4))(react@19.2.4)(tsx@4.21.0)(yaml@2.8.2)':
+  '@astrojs/react@4.4.2(@types/node@24.10.9)(@types/react-dom@19.2.3(@types/react@19.2.10))(@types/react@19.2.10)(react-dom@19.2.4(react@19.2.4))(react@19.2.4)(sass@1.89.2)(tsx@4.21.0)(yaml@2.8.2)':
     dependencies:
       '@types/react': 19.2.10
       '@types/react-dom': 19.2.3(@types/react@19.2.10)
-      '@vitejs/plugin-react': 4.7.0(vite@6.4.1(@types/node@24.10.9)(tsx@4.21.0)(yaml@2.8.2))
+      '@vitejs/plugin-react': 4.7.0(vite@6.4.1(@types/node@24.10.9)(sass@1.89.2)(tsx@4.21.0)(yaml@2.8.2))
       react: 19.2.4
       react-dom: 19.2.4(react@19.2.4)
       ultrahtml: 1.6.0
-      vite: 6.4.1(@types/node@24.10.9)(tsx@4.21.0)(yaml@2.8.2)
+      vite: 6.4.1(@types/node@24.10.9)(sass@1.89.2)(tsx@4.21.0)(yaml@2.8.2)
     transitivePeerDependencies:
       - '@types/node'
       - jiti
@@ -8329,11 +8304,13 @@ snapshots:
       - tslib
       - typescript
 
-  '@nl-design-system/tsconfig@1.0.5': {}
-
   '@nl-design-system/tsconfig@1.0.5(typescript@5.9.2)':
     dependencies:
       typescript: 5.9.2
+
+  '@nl-design-system/tsconfig@1.0.5(typescript@5.9.3)':
+    dependencies:
+      typescript: 5.9.3
 
   '@nodelib/fs.scandir@2.1.5':
     dependencies:
@@ -9192,8 +9169,6 @@ snapshots:
 
   '@utrecht/link-button-css@2.0.1': {}
 
-  '@utrecht/link-css@1.6.1': {}
-
   '@utrecht/link-css@2.0.1': {}
 
   '@utrecht/link-list-css@2.3.1': {}
@@ -9319,8 +9294,6 @@ snapshots:
 
   '@utrecht/textarea-css@3.0.1': {}
 
-  '@utrecht/textbox-css@2.0.0': {}
-
   '@utrecht/textbox-css@3.0.1': {}
 
   '@utrecht/textbox-react@1.0.12(@babel/runtime@7.28.2)(react-dom@19.2.4(react@19.2.4))(react@19.2.4)':
@@ -9343,7 +9316,7 @@ snapshots:
 
   '@utrecht/vega-visualization-css@1.4.2': {}
 
-  '@vitejs/plugin-react@4.7.0(vite@6.4.1(@types/node@24.10.9)(tsx@4.21.0)(yaml@2.8.2))':
+  '@vitejs/plugin-react@4.7.0(vite@6.4.1(@types/node@24.10.9)(sass@1.89.2)(tsx@4.21.0)(yaml@2.8.2))':
     dependencies:
       '@babel/core': 7.28.6
       '@babel/plugin-transform-react-jsx-self': 7.27.1(@babel/core@7.28.6)
@@ -9351,7 +9324,7 @@ snapshots:
       '@rolldown/pluginutils': 1.0.0-beta.27
       '@types/babel__core': 7.20.5
       react-refresh: 0.17.0
-      vite: 6.4.1(@types/node@24.10.9)(tsx@4.21.0)(yaml@2.8.2)
+      vite: 6.4.1(@types/node@24.10.9)(sass@1.89.2)(tsx@4.21.0)(yaml@2.8.2)
     transitivePeerDependencies:
       - supports-color
 
@@ -9569,7 +9542,7 @@ snapshots:
     transitivePeerDependencies:
       - supports-color
 
-  astro@5.16.15(@types/node@24.10.9)(rollup@4.46.2)(tsx@4.21.0)(yaml@2.8.2):
+  astro@5.16.15(@types/node@24.10.9)(rollup@4.46.2)(sass@1.89.2)(tsx@4.21.0)(typescript@5.9.3)(yaml@2.8.2):
     dependencies:
       '@astrojs/compiler': 2.13.0
       '@astrojs/internal-helpers': 0.7.5
@@ -9620,20 +9593,20 @@ snapshots:
       svgo: 4.0.0
       tinyexec: 1.0.2
       tinyglobby: 0.2.15
-      tsconfck: 3.1.6
+      tsconfck: 3.1.6(typescript@5.9.3)
       ultrahtml: 1.6.0
       unifont: 0.7.3
       unist-util-visit: 5.1.0
       unstorage: 1.17.4
       vfile: 6.0.3
-      vite: 6.4.1(@types/node@24.10.9)(tsx@4.21.0)(yaml@2.8.2)
-      vitefu: 1.1.1(vite@6.4.1(@types/node@24.10.9)(tsx@4.21.0)(yaml@2.8.2))
+      vite: 6.4.1(@types/node@24.10.9)(sass@1.89.2)(tsx@4.21.0)(yaml@2.8.2)
+      vitefu: 1.1.1(vite@6.4.1(@types/node@24.10.9)(sass@1.89.2)(tsx@4.21.0)(yaml@2.8.2))
       xxhash-wasm: 1.1.0
       yargs-parser: 21.1.1
       yocto-spinner: 0.2.3
       zod: 3.25.76
       zod-to-json-schema: 3.25.1(zod@3.25.76)
-      zod-to-ts: 1.2.0(zod@3.25.76)
+      zod-to-ts: 1.2.0(typescript@5.9.3)(zod@3.25.76)
     optionalDependencies:
       sharp: 0.34.5
     transitivePeerDependencies:
@@ -12939,7 +12912,9 @@ snapshots:
     dependencies:
       typescript: 5.9.3
 
-  tsconfck@3.1.6: {}
+  tsconfck@3.1.6(typescript@5.9.3):
+    optionalDependencies:
+      typescript: 5.9.3
 
   tslib@2.8.1:
     optional: true
@@ -13193,23 +13168,9 @@ snapshots:
       tsx: 4.21.0
       yaml: 2.8.2
 
-  vite@6.4.1(@types/node@24.10.9)(tsx@4.21.0)(yaml@2.8.2):
-    dependencies:
-      esbuild: 0.25.4
-      fdir: 6.5.0(picomatch@4.0.3)
-      picomatch: 4.0.3
-      postcss: 8.5.6
-      rollup: 4.46.2
-      tinyglobby: 0.2.15
+  vitefu@1.1.1(vite@6.4.1(@types/node@24.10.9)(sass@1.89.2)(tsx@4.21.0)(yaml@2.8.2)):
     optionalDependencies:
-      '@types/node': 24.10.9
-      fsevents: 2.3.3
-      tsx: 4.21.0
-      yaml: 2.8.2
-
-  vitefu@1.1.1(vite@6.4.1(@types/node@24.10.9)(tsx@4.21.0)(yaml@2.8.2)):
-    optionalDependencies:
-      vite: 6.4.1(@types/node@24.10.9)(tsx@4.21.0)(yaml@2.8.2)
+      vite: 6.4.1(@types/node@24.10.9)(sass@1.89.2)(tsx@4.21.0)(yaml@2.8.2)
 
   vitest@3.2.4(@types/debug@4.1.12)(@types/node@24.10.9)(sass@1.89.2)(tsx@4.21.0)(yaml@2.8.2):
     dependencies:
@@ -13360,8 +13321,9 @@ snapshots:
     dependencies:
       zod: 3.25.76
 
-  zod-to-ts@1.2.0(zod@3.25.76):
+  zod-to-ts@1.2.0(typescript@5.9.3)(zod@3.25.76):
     dependencies:
+      typescript: 5.9.3
       zod: 3.25.76
 
   zod@3.25.76: {}

@@ -1,10 +1,10 @@
 import type { PropsWithChildren } from 'react';
 import { CardAsLink } from '@components/card-as-link/card-as-link.tsx';
 import { Heading } from '@components/heading/heading.tsx';
-import { CardList } from '@nl-design-system-community/ma-card-list-react';
+import { CardList } from '@nl-design-system-community/ma-card-list-react/dist/ma-card-list.js';
 import { toCleanRoute } from '@utils/to-clean-route.ts';
 import { type CollectionEntry } from 'astro:content';
-import '@nl-design-system-community/ma-card-list-css/ma-card-list.css';
+import '@nl-design-system-community/ma-card-list-css/dist/ma-card-list.css';
 
 export interface CardListThemeProps {
   headingLevels?: 2 | 3 | 4 | 5 | 6;

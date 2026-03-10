@@ -1,11 +1,11 @@
 import { ButtonLink } from '@components/button-link/button-link.tsx';
 import { Heading } from '@components/heading/heading.tsx';
 import { Paragraph } from '@components/paragraph/paragraph.tsx';
-import '@nl-design-system-community/ma-page-footer-css/ma-page-footer.css';
+import '@nl-design-system-community/ma-page-footer-css/dist/ma-page-footer.css';
 import {
   PageFooter as MaPageFooter,
   PageFooterSection as MaPageFooterSection,
-} from '@nl-design-system-community/ma-page-footer-react';
+} from '@nl-design-system-community/ma-page-footer-react/dist/ma-page-footer.js';
 import { IconArrowRight, IconChevronRight } from '@tabler/icons-react';
 
 export function PageFooter() {

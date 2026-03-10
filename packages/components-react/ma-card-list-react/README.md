@@ -27,7 +27,7 @@ yarn add @nl-design-system-community/ma-card-list-react
 If you just want the React component
 
 ```typescript
-import { CardList } from '@nl-design-system-community/ma-card-list-react';
+import { CardList } from '@nl-design-system-community/ma-card-list-react/dist/ma-card-list.js';
 ```
 
 
