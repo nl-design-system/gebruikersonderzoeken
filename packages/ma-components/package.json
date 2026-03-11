@@ -19,7 +19,7 @@
   },
   "type": "module",
   "dependencies": {
-    "@utrecht/heading-group-css": "1.5.1"
+    "@utrecht/heading-group-css": "2.0.1"
   },
   "devDependencies": {
     "@utrecht/button-css": "2.3.1",
