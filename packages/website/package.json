@@ -63,6 +63,8 @@
     "@nl-design-system-community/ma-sr-only-css": "workspace:*",
     "@nl-design-system-community/ma-tag-css": "workspace:*",
     "@nl-design-system-community/ma-tag-react": "workspace:*",
+    "@nl-design-system-community/ma-task-list-css": "workspace:*",
+    "@nl-design-system-community/ma-task-list-react": "workspace:*",
     "@sindresorhus/slugify": "3.0.0",
     "@types/mdast": "4.0.4",
     "@utrecht/action-group-css": "2.0.0",
