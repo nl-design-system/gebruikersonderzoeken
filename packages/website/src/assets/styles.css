@@ -24,6 +24,7 @@
 /* Styles from ma-components */
 @import "@nl-design-system-community/ma-focus-indicator-css/dist/ma-focus-indicator.css";
 @import "@nl-design-system-community/ma-sr-only-css/dist/ma-sr-only.css";
+@import "@nl-design-system-community/ma-task-list-css/dist/ma-task-list.css";
 
 /* Styles from local components */
 @import "./strong.css";

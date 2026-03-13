@@ -1,0 +1,64 @@
+{
+  "name": "@nl-design-system-community/ma-task-list-react",
+  "author": "Community for NL Design System",
+  "version": "0.0.0",
+  "description": "React implementatie voor de MA Task List component",
+  "keywords": [
+    "nl-design-system"
+  ],
+  "license": "EUPL-1.2",
+  "homepage": "https://github.com/nl-design-system/community/tree/main/packages/components-react/ma-task-list-react#readme",
+  "type": "module",
+  "main": "./dist/ma-task-list.mjs",
+  "files": [
+    "./dist/"
+  ],
+  "exports": {
+    "./dist/ma-task-list.mjs": {
+      "types": "./dist/ma-task-list.d.ts",
+      "import": "./dist/ma-task-list.mjs"
+    }
+  },
+  "repository": {
+    "type": "git+ssh",
+    "url": "git@github.com:nl-design-system/candidate.git",
+    "directory": "packages/components-react/ma-task-list-react"
+  },
+  "private": true,
+  "publishConfig": {
+    "access": "public",
+    "provenance": true
+  },
+  "scripts": {
+    "build": "rollup --config ./rollup.config.mjs",
+    "clean": "rimraf ./dist/ ./*.tsbuildinfo ./.rollup.cache/ ./coverage/",
+    "test": "vitest run",
+    "test:coverage": "vitest run --coverage",
+    "test:watch": "vitest",
+    "typecheck": "tsc"
+  },
+  "devDependencies": {
+    "@babel/plugin-transform-runtime": "7.28.5",
+    "@babel/preset-env": "7.28.0",
+    "@babel/preset-react": "7.27.1",
+    "@babel/preset-typescript": "7.27.1",
+    "@babel/runtime": "7.28.2",
+    "@nl-design-system-community/ma-task-list-css": "workspace:*",
+    "@nl-design-system/rollup-config-react-component": "1.0.6",
+    "@nl-design-system/tsconfig": "1.0.5",
+    "@types/react": "19.2.7",
+    "react": "19.2.3",
+    "rimraf": "6.0.1",
+    "rollup": "4.46.2",
+    "typescript": "5.9.2",
+    "vitest": "3.2.4"
+  },
+  "peerDependencies": {
+    "@babel/runtime": "^7",
+    "react": "^18 || ^19"
+  },
+  "dependencies": {
+    "@nl-design-system-candidate/heading-react": "1.1.7",
+    "clsx": "2.1.1"
+  }
+}
