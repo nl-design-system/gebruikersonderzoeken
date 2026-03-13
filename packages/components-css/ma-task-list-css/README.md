@@ -2,8 +2,6 @@
 
 # MA Task List
 
-
-
 ## Installation
 
 Using npm

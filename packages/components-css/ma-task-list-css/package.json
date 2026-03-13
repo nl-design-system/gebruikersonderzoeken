@@ -1,7 +1,7 @@
 {
   "name": "@nl-design-system-community/ma-task-list-css",
   "author": "Community for NL Design System",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "CSS voor de MA Task List component",
   "keywords": [
     "nl-design-system"
@@ -21,7 +21,7 @@
     "url": "git@github.com:nl-design-system/gebruikersonderzoeken.git",
     "directory": "packages/components-css/ma-task-list-css"
   },
-  "private": true,
+  "private": false,
   "publishConfig": {
     "access": "public",
     "provenance": true
