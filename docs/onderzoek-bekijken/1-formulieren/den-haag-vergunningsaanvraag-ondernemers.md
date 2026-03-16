@@ -48,11 +48,11 @@ We tonen de belangrijkste aanpassingen vanuit het nieuwe ontwerp. Aan de hand va
 
 Hiermee hebben wij antwoord kunnen geven op de volgende onderzoeksvragen:
 
-1. **Juiste documenten:** In hoeverre geeft dit ontwerp voldoende ondersteuning om de benodigde documenten op te kunnen stellen?
-2. **Volledige aanvraag:** In hoeverre stimuleert dit ontwerp ondernemers om de aanvraag volledig in te dienen?
-3. **Vertrouwen:** In hoeverre hebben ondernemers het vertrouwen dat ze aan de hand van dit ontwerp zelf een correcte aanvraag kunnen indienen?
-4. **Navigatie:** Hoe ervaren ondernemers de navigatie door het aanvraagproces?
-5. **Volledigheid:** In hoeverre is de informatie volledig en duidelijk?
+1. **Juiste documenten:**In hoeverre geeft dit ontwerp voldoende ondersteuning om de benodigde documenten op te kunnen stellen?
+2. **Volledige aanvraag:**In hoeverre stimuleert dit ontwerp ondernemers om de aanvraag volledig in te dienen?
+3. **Vertrouwen:**In hoeverre hebben ondernemers het vertrouwen dat ze aan de hand van dit ontwerp zelf een correcte aanvraag kunnen indienen?
+4. **Navigatie:**Hoe ervaren ondernemers de navigatie door het aanvraagproces?
+5. **Volledigheid:**In hoeverre is de informatie volledig en duidelijk?
 
 ## Belangrijkste aanpassingen
 
@@ -91,9 +91,11 @@ Voordat we het prototype hebben voorgelegd bij de ondernemers, hebben we eerst e
 Ze zien de toegevoegde waarde van het ontwerp in. Het speelt op diverse punten in op de huidige behoefte binnen formulieren. Ook zijn er nog een aantal kleine verbeterpunten die in het ontwerp zijn doorgevoerd.
 
 ## Juridisch gezien mag een aanvraag niet geweigerd worden
+
 De groene vinkjes, zoals benoemd op de vorige pagina, waren geen ideale oplossing. Het is namelijk niet toegestaan om een aanvraag te weigeren als deze onvolledig is. Hoewel je de aanvraag kan starten zonder alle documenten, wekt deze pagina het idee dat dit niet kan. Daarom hebben we ervoor gekozen om dit uit het ontwerp te halen en te vervangen voor een bullet list.
 
 ## Benoem dat legeskosten verloren kunnen gaan bij een onvolledige aanvraag
+
 De oranje waarschuwing valt goed op. De waarschuwing zelf komt echter nogal mild over. Naar verwachting zal het meer impact op de ondernemers hebben door te benoemen dat ze, door een onvolledige aanvraag in te dienen, de kans lopen dat ze hun legeskosten kwijtraken zonder dat de aanvraag kan worden opgepakt.
 
 > "Dit soort verbeteringen hebben we het al lang over. Goed dat jullie dit gaan oppakken en testen."
