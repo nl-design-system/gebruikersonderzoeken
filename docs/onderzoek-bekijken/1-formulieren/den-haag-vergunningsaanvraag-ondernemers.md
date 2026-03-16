@@ -90,11 +90,11 @@ Voordat we het prototype hebben voorgelegd bij de ondernemers, hebben we eerst e
 
 Ze zien de toegevoegde waarde van het ontwerp in. Het speelt op diverse punten in op de huidige behoefte binnen formulieren. Ook zijn er nog een aantal kleine verbeterpunten die in het ontwerp zijn doorgevoerd.
 
-## Juridisch gezien mag een aanvraag niet geweigerd worden
+### Juridisch gezien mag een aanvraag niet geweigerd worden
 
 De groene vinkjes, zoals benoemd op de vorige pagina, waren geen ideale oplossing. Het is namelijk niet toegestaan om een aanvraag te weigeren als deze onvolledig is. Hoewel je de aanvraag kan starten zonder alle documenten, wekt deze pagina het idee dat dit niet kan. Daarom hebben we ervoor gekozen om dit uit het ontwerp te halen en te vervangen voor een bullet list.
 
-## Benoem dat legeskosten verloren kunnen gaan bij een onvolledige aanvraag
+### Benoem dat legeskosten verloren kunnen gaan bij een onvolledige aanvraag
 
 De oranje waarschuwing valt goed op. De waarschuwing zelf komt echter nogal mild over. Naar verwachting zal het meer impact op de ondernemers hebben door te benoemen dat ze, door een onvolledige aanvraag in te dienen, de kans lopen dat ze hun legeskosten kwijtraken zonder dat de aanvraag kan worden opgepakt.
 
