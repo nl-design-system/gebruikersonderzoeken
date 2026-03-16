@@ -27,7 +27,7 @@ themes:
 conducted_by:
   - gemeente Den Haag
 date_added: 2025-03-12
-date_conducted: 2024-02-1
+date_conducted: 2024-02-01
 target_group: ondernemers uit Den Haag
 type: kwalitatief onderzoek, usability research
 ---
