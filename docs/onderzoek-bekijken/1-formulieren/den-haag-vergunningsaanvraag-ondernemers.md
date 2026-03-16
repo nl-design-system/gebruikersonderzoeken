@@ -42,7 +42,7 @@ type: kwalitatief onderzoek, usability research
 
 We merken dat vergunningsaanvragen vaak onjuist of onvolledig worden ingediend, wat veel extra tijd kost voor zowel de ondernemer als medewerker.
 
-Ons nieuwe ontwerp focust op het begeleiden van ondernemers bij het correct opstellen en indienen van documenten en benadrukt het belang van het aanleveren van alle benodigde documenten. 
+Ons nieuwe ontwerp focust op het begeleiden van ondernemers bij het correct opstellen en indienen van documenten en benadrukt het belang van het aanleveren van alle benodigde documenten.
 
 We tonen de belangrijkste aanpassingen vanuit het nieuwe ontwerp. Aan de hand van een usabilitytest hebben we getoetst hoe ondernemers dit ontwerp ervaren en of het hen daadwerkelijk ondersteunt bij het volledig en juist indienen van een aanvraag. 
 
@@ -50,139 +50,162 @@ We tonen de belangrijkste aanpassingen vanuit het nieuwe ontwerp. Aan de hand va
 
 Hiermee hebben wij antwoord kunnen geven op de volgende onderzoeksvragen:
 
-- Juiste documenten In hoeverre geeft dit ontwerp voldoende ondersteuning om de benodigde documenten op te kunnen stellen?
-- Volledige aanvraag In hoeverre stimuleert dit ontwerp ondernemers om de aanvraag volledig in te dienen?
-- Vertrouwen In hoeverre hebben ondernemers het vertrouwen dat ze aan de hand van dit ontwerp zelf een correcte aanvraag kunnen indienen?
-- Navigatie Hoe ervaren ondernemers de navigatie door het aanvraagproces?
-- Volledigheid In hoeverre is de informatie volledig en duidelijk?
+1. **Juiste documenten:** In hoeverre geeft dit ontwerp voldoende ondersteuning om de benodigde documenten op te kunnen stellen?
+2. **Volledige aanvraag:** In hoeverre stimuleert dit ontwerp ondernemers om de aanvraag volledig in te dienen?
+3. **Vertrouwen:** In hoeverre hebben ondernemers het vertrouwen dat ze aan de hand van dit ontwerp zelf een correcte aanvraag kunnen indienen?
+4. **Navigatie:** Hoe ervaren ondernemers de navigatie door het aanvraagproces?
+5. **Volledigheid:** In hoeverre is de informatie volledig en duidelijk?
 
-...Tot hier gekomen...
+## Belangrijkste aanpassingen
 
-## Advies
+Hieronder zie je een overzicht van de belangrijkste elementen die in het nieuwe ontwerp zijn doorgevoerd.
 
-### Bouw het contactformulier zoals het ontworpen is
+### Benodigde documenten afvinken.
 
-Het contactformulier wordt zonder problemen ingevuld, de inwoners waarderen hoe simpel het is. Bouw het contactformulier zo simpel als het ontworpen is.
+Voordat je de aanvraag kan starten, zodat ondernemers niet onvoorbereid aan de aanvraag beginnen. Dit is uiteindelijk niet meegenomen in de test, zie feedback van medewerkers.
 
-### Maak de scheiding tussen het contactformulier en het klanttevredenheidsonderzoek duidelijker
+![Screenshot van Checklist met als titel 'heeft u deze documenten?'](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/den-haag_vergunningformulier-01.png)
 
-De scheiding tussen het contactformulier en het klanttevredenheidsonderzoek moet verbeterd worden. De inwoners die het KTO zagen vulden het in voordat ze het formulier verstuurden. Dit gaat leiden tot ruis bij het invullen van het contactformulier en bij het klanttevredenheidsonderzoek formulier.
+### Extra uitleg bij benodigde documenten
 
-Mogelijke oplossingsrichtingen zijn:
+Met onder andere voorbeelden en standaardformulieren waar mogelijk, om ondernemers te ondersteunen bij het opstellen van de documenten.
 
-- Voeg een extra kop toe boven het klanttevredenheidsonderzoek
-- Voeg extra ruimte (padding) toe tussen het klanttevredenheindsonderzoek en het contactformulier.
+![Screenshot van een Accordion. Het tweede accordeon-item is open. Deze heeft de tekst 'Ondernemingsplan'. Onderaan staan twee documenten met de titels 'Voorbeeld ondernemingsplan' en 'Formulier ondernemingsplan'. Die documnenteren kunnen gedownload worden als pdf.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/den-haag_vergunningformulier-02.png)
 
-De gekozen oplossing kan getest worden met de inwoners door ze hetzelfde scenario te laten doorlopen en te kijken of ze het klanttevredenheidsonderzoek wel of niet aanklikken voordat ze het ingevulde contactformulier versturen.
+### Een waarschuwing bij missende documenten
 
-### Voeg (nog) geen telefoonnummer toe
+Op het moment dat de ondernemer de aanvraag wil afronden, zonder alle documenten te hebben geüpload.
 
-Voeg nog geen optie toe om een telefoonnummer in te vullen. Alle inwoners gaven aan dat ze e-mail prettiger vonden dan het telefoonnummer. Ook worden er veel aannames gedaan over op welke wijze er contact wordt opgenomen met de inwoner als deze het telefoonnummer invult.
+![Screenshot van een waarschuwings Alert. In de alert staat de tekst: "U heeft niet alle bestanden geüpload. Het lijkt erop dat niet alle benodigde documenten zijn bijgevoegd om u aanvraag goed te kunnen beoordelen is het belangrijk dat alle documenten compleet zijn als alles volledig is, kunnen we uw aanvraag sneller verwerken. Hier is een lijst van de documenten die nog ontbreken. Een verklaring omtrent gedrag (VOG) van leidinggevende(n). Een ingevuld BIBOB-formulier inclusief de bijbehorende bijlagen. Wilt u doorgaan met de aanvraag?"](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/den-haag_vergunningformulier-03.png)
 
-### Responstijd op bevestingspagina
+### De mogelijkheid om op te slaan
 
-Zet de reactietijd op de bevestiging die de inwoner krijgt in de bevestiging op de webpagina. Dit zorgt er voor dat de inwoner direct vertrouwen krijgt dat hij een antwoord zal ontvangen.
+Om later verder te kunnen gaan met de aanvraag, zonder alle stappen opnieuw te moeten doorlopen.
 
-### Referentie in bevestiging
+![Screenshot van een Model-dialog met sluit-optie. Daarbinnen staat de tekst: Opslaan en later verdergaan. Er wordt een unieke link naar uw mailadres gestuurd. Hiermee kunt u dit formulier op een later moment afmaken. Alleen gegevens uit de afgemaakte stap van het formulier worden opgeslagen. Het formulier wordt 30 dagen bewaard daarna staat een invulveld voor een e-mailadres en een knop om te versturen.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/den-haag_vergunningformulier-04.png)
 
-Voeg een referentienummer toe aan de bevestigingen op de webpagina en in de e-mail wanneer dat mogelijk is. Dit geeft de inwoner vertrouwen dat ze contact op kunnen nemen met de gemeente over hun vraag als dat mogelijk is. Als een bewoner meerdere vragen stelt, kan hij op deze manier refereren naar de specifieke vraag.
+## Feedback medewerkers
+
+Voordat we het prototype hebben voorgelegd bij de ondernemers, hebben we eerst een aantal medewerkers gesproken om initiële feedback op het prototype op te halen en op basis van hun ervaringen nog dingen aan te kunnen passen. Zie hieronder de belangrijkste inzichten.
+
+### De eerste indruk op het ontwerp was positief
+
+Ze zien de toegevoegde waarde van het ontwerp in. Het speelt op diverse punten in op de huidige behoefte binnen formulieren. Ook zijn er nog een aantal kleine verbeterpunten die in het ontwerp zijn doorgevoerd.
+
+## Juridisch gezien mag een aanvraag niet geweigerd worden
+De groene vinkjes, zoals benoemd op de vorige pagina, waren geen ideale oplossing. Het is namelijk niet toegestaan om een aanvraag te weigeren als deze onvolledig is. Hoewel je de aanvraag kan starten zonder alle documenten, wekt deze pagina het idee dat dit niet kan. Daarom hebben we ervoor gekozen om dit uit het ontwerp te halen en te vervangen voor een bullet list.
+
+## Benoem dat legeskosten verloren kunnen gaan bij een onvolledige aanvraag
+De oranje waarschuwing valt goed op. De waarschuwing zelf komt echter nogal mild over. Naar verwachting zal het meer impact op de ondernemers hebben door te benoemen dat ze, door een onvolledige aanvraag in te dienen, de kans lopen dat ze hun legeskosten kwijtraken zonder dat de aanvraag kan worden opgepakt.
+
+> "Dit soort verbeteringen hebben we het al lang over. Goed dat jullie dit gaan oppakken en testen."
 
 ## Resultaten en inzichten
 
-De inzichten zijn in te delen in drie categorieën:
+Hieronder is een overzicht van de belangrijkste inzichten per onderzoeksvraag.
 
-- Vinden en invullen van het contactformulier
-- E-mailadres & telefoonnummer
-- Vertrouwen
+### Algemene indruk
 
-### Vinden en invullen van het contactformulier
+Ondernemers vonden dit een fijne manier om hun aanvraag in te dienen.
 
-#### Afleiding bij het vinden van het contactformulier
+> "Het is fijn dat ik kan opslaan en niet alles opnieuw moet doen als ik later verder wil gaan."
 
-De inwoners vinden uiteindelijk het contactformulier, maar ze worden door een aantal dingen afgeleid op weg naar het contactformulier: de grote hoeveelheid content op de pagina, het Klanttevredenheidsonderzoek, de verschillende calls-to-action (buttons en links) en de interactieve kaart boven het contactformulier. Op de mobiele telefoon leidt ook de button van de gemBot af.
+> "Het ging veel sneller dan verwacht om dit formulier te doorlopen."
 
-Uiteindelijk vinden de inwoners het contactformulier wel.
+> "Wat handig dat er een voorbeeld van het ondernemingsplan beschikbaar is! Dan weet ik waar ik ongeveer aan moet voldoen."
 
-#### Gemakkelijk invullen en verzenden
+> "Als ik deze melding zou zien, dan zou ik eerst zorgen dat ik de laatste documenten heb, voordat ik mijn aanvraag indien."
 
-> "Jullie vragen weinig info, dat is wel prima en fijn."
+### Juiste documenten
 
-Als inwoners het formulier eenmaal hebben gevonden, kunnen ze het met gemak invullen en verzenden. De inwoners waarderen het simpele formulier.
+In hoeverre geeft dit ontwerp voldoende ondersteuning om de benodigde documenten op te kunnen stellen?
 
-#### Het contactformulier is herkenbaar
+![Screenshot van een Accordion. Het tweede accordeon-item is open. Deze heeft de tekst 'Ondernemingsplan'. Onderaan staan twee documenten met de titels 'Voorbeeld ondernemingsplan' en 'Formulier ondernemingsplan'. Die documnenteren kunnen gedownload worden als pdf.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/den-haag_vergunningformulier-05.png)
 
-> "Ik neem aan dat het hier moet gebeuren."
+#### Algemene inzichten
 
-De inwoners herkennen het contactformulier als een patroon op een website. Ze herkennen het als een manier om hun vraag te stellen.
+Om deze vraag te beantwoorden, is het goed om te weten dat we de ondernemers niet rechtstreeks de documenten hebben laten opstellen. Wat we wel hebben gedaan, is hun reacties verzamelen en hen gevraagd in hoeverre zij het gevoel hadden dat de website voldoende informatie bood om zelf de documenten op te stellen.
 
-#### Het Klanttevredenheidsonderzoek wordt mee ingevuld
+Hierop waren de reacties erg positief.
 
-![Screenshot van het contactformulier waarin we de verzenden knop zien, en een aangeklikte radiobuttin in het klanttevredenheidsonderzoek](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/utrecht-contactformulier__kto.png)
+> "Echt fijn dat de gemeente een formulier daarvoor heeft, dan ben je wel een stuk verder geholpen. Vooral als je dan een plan hebt wat de gemeente goedkeurt. Nu weet ik welke voorwaarden de gemeente wilt in een ondernemingsplan."
 
-Inwoners die het Klanttevredenheidsonderzoek zien, vullen de eerste vraag in (Hebt u gevonden wat u zocht op deze pagina?) voordat ze het contactformulier versturen.
+Er ontstond alleen wat twijfel door het voorbeeld en het formulier.
 
-### E-mailadres & telefoonnummer
+> "Wat als ik net geld heb uitgegeven aan een bureau om mijn plan op te stellen en nu zie ik pas dit formulier. Mag ik die dan niet inleveren?"
 
-#### E-mailadres invullen
+#### Verbeterkansen
 
-De inwoners vullen zonder enige twijfel het e-mailadres in.
+- Een kopje in bold toevoegen met ‘Wat is dit?’, zodat ondernemers direct weten waar de alinea over gaat en kunnen scannen of de alinea voor hen relevant is om te lezen.
+- Het is belangrijk om te benadrukken dat het formulier dient als hulpmiddel, zodat ondernemers die hun plan bijvoorbeeld door een extern bureau hebben laten opstellen, zich bewust zijn dat dit ook in een ander format mag worden ingediend.
 
-#### E-mailadres versus telefoonnummer
+### Juiste documenten
 
-De inwoners geven allemaal aan dat ze bij een vraag liever een e-mailadres invullen dan een telefoonnummer. Er worden verschillende redenen gegeven:
+In hoeverre stimuleert dit ontwerp ondernemers om de aanvraag volledig in te dienen?
 
-- Een e-mail is te bewaren, en daarmee gemakkelijker te gebruiken als bewijs.
-- De inwoner kan het antwoord lezen op een moment dat ze het beste uitkomt.
-- E-mail is overzichtelijker dan een SMS-bericht.
+![Screenshot van een introductiepagina. Op deze pagina staan drie kopjes: Voorwaarden, Dit heeft u nodig, Handig om te weten.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/den-haag_vergunningformulier-06.png)
 
-#### Teruggebeld worden
+![Screenshot van een waarschuwings Alert. In de alert staat de tekst: "U heeft niet alle bestanden geüpload. Het lijkt erop dat niet alle benodigde bestanden zijn bijgevoegd. Als u de bestanden niet uploadt, kan uw aanvraag mogelijk niet worden behandeld. En, als gevolg daarvan, krijgt u ook de kosten die u heeft betaald voor de aanvraag niet terug. Zorg er dus voor dat u alle benodigde bestanden uploadt. Dit zijn de documenten die nog ontbreken: een verklaring omtrent gedrag (FOG) van de leidinggevende(n). Een ingevuld BIBOB-formulier inclusief de bijbehorende bijlagen. Wilt u doorgaan met de aanvraag?"](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/den-haag_vergunningformulier-03.png)
 
-> "Ik ben niet zo'n beller."
+#### Algemene inzichten
 
-Bijna alle inwoners doen de aanname dat het invullen van een telefoonnummer betekent dat ze teruggebeld worden. Op basis van die aanname geven ze aan dat ze
+Wat opviel was dat alle ondernemers die op de introductiepagina terechtkwamen, het kopje met ‘Dit heeft u nodig’ lazen.
 
-- De inwoner wil niet gebeld worden op een onhandig tijdstip.
-- De inwoner wil niet gebeld worden door een onbekend nummer, dan nemen ze niet op.
+De meeste ondernemers, maar niet iedereen, gaven ook aan dat ze eerst dit lijstje zouden verzamelen voordat ze het formulier zouden starten.
+
+Wel gaven ze aan dat het naar hun idee niet heel erg zou zijn om het formulier zonder alle gevraagde documenten te starten.
+
+Wat opviel bij de waarschuwing aan het eind van het formulier, was dat alle ondernemers aangaven dat ze **niet** door zouden gaan. Dit kwam met name door de zin over legeskosten die eventueel verloren kunnen gaan.
+
+> “Als ik niet alle documenten zou hebben, dan zou ik opslaan en die eerst verzamelen of ik zou even bellen of ik gewoon door kan gaan zonder dat document.”
+
+#### Verbeterkansen
+
+- Op de introductiepagina onder het kopje ‘Handig om te weten’ ook benoemen dat legeskosten eventueel verloren kunnen gaan als de aanvraag onvolledig wordt ingediend.
+- In de waarschuwings ook benoemen dat je het formulier kan opslaan. Sommige ondernemers schrokken er een beetje van en waren bang dat ze nu het hele formulier weer opnieuw moesten doen.
 
 ### Vertrouwen
 
-#### Vertrouwen op antwoord
+In hoeverre hebben ondernemers het vertrouwen dat ze aan de hand van dit ontwerp zelf een correcte aanvraag kunnen indienen?
 
-> "Ik heb het idee dat de gemeente haar inwoners serieus neemt."
+![Screenshot van twee documenten die zijn te downloaden als PDF met de titels: Voorbeeld ondernemingsplan en Formulier ondernemingsplan.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/den-haag_vergunningformulier-08.png)
 
-Alle inwoners vertrouwen er op dat zij in de beloofde periode een antwoord krijgen van de gemeente.
+![Screenshot van contact-blok met de titel 'Contact intakevergunningen horeca' gevolgd door contactgegevens voor telefoon en email.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/den-haag_vergunningformulier-09.png)
 
-#### Onzekerheid door gebrek aan responstijd op de bevestingspagina
+![Screenshot van een pagina waar je bestanden kunt uploaden. Er wordt gevraagd naar identiteitskaart of paspoort, een kopie van uw bedrijf – of ondernemingsplan, een plattegrond van het pand met de ligging en indeling.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/den-haag_vergunningformulier-10.png)
 
-De inwoner ervaart onzekerheid bij de bevestiging op de pagina (na het versturen van de opmerking) als deze niet ziet wanneer hij nou antwoord krijgt. Het vertrouwen dat hij een antwoord krijgt verdwijnt.
+#### Algemene inzichten
 
-#### Belang van de responstijd
+Ondernemers wisten zelf de aanvraag te starten en waren positief over het doorlopen van de stappen. Ze vonden het eenvoudig en duidelijk en hadden ook het gevoel dat dit hen wel zou lukken. 
 
-> "Ja dit is wat ik miste!"
+Dit komt met name door de voorbeelden van de documenten, het overzicht van de documenten die ze als een soort checklist af kunnen werken en door de contactmogelijkheden. 
 
-Zodra de responstijd "5 dagen" gelezen wordt in de mail is het vertrouwen weer terug. Inwoners geven aan dat ze de reactietijd verwachten in de bevestiging op de webpagina.
+> "Als ik er niet uit zou komen, dan zou ik gewoon even bellen. Als ik daar niet direct mijn antwoord uit krijg, dan zou ik het opslaan en gaan mailen."
 
-#### Responstijd: '5 dagen'
+Ook vonden ze het fijn om de checklist op hun mail te kunnen ontvangen en uitprinten.
 
-De waarde '5 dagen' is een belangrijke waarde voor de inwoner. Het geeft de inwoner vertrouwen dat het antwoord er aan komt, binnen die tijd.
+#### Verbeterkansen
 
-Of ze het nou kort of lang vinden, aan alle inwoners geeft het houvast dat ze even niks meer hoeven te doen totdat ze een antwoord krijgen, of totdat de responstijd verlopen is.
+- De contactmogelijkheden sloten aan bij de behoefte, indien mogelijk zouden de ondernemers wel ook graag een chatfunctie zien. 
+- Daarnaast zouden ook de contactmogelijkheden iets duidelijker in beeld kunnen worden gebracht. Iedereen heeft ze kunnen vinden in de footer, maar meerdere ondernemers gaven aan dat ze dit graag wat duidelijker in beeld zouden willen hebben.
 
-#### Referentienummer
+### Navigatie
 
-Eén van de inwoners gaf aan dat hij een referentienummer zou willen hebben voor als hij een vraag had aan de gemeente over zijn gestelde vraag.
+Hoe ervaren ondernemers de navigatie door het aanvraagproces?
 
-## Wat is er mee gedaan?
+![Screenshot van bevestiging pagina met de titel 'Wat gaat er nu gebeuren?' gevolgd door tekst waarin wordt aangegeven dat er een bevestigingsmail wordt verstuurd en overige vervolgstappen.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/den-haag_vergunningformulier-11.png)
 
-De adviezen van dit onderzoek zijn doorgegeven aan het project team wat bezig is met de implementatie van het contactformulier. Het advies over het klanttevredenheidsonderzoek wordt meegegeven aan de webmasters.
+![Screenshot van een link met de tekst 'Vorige stap'. Daaronder staat de tekst stap 13 van 16.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/den-haag_vergunningformulier-12.png)
 
-Er is een [vervolgonderzoek gedaan](https://gebruikersonderzoeken.nl/docs/onderzoek-bekijken/formulieren/utrecht-contactformulier-vervolg/) om er achter te komen hoe we het klanttevredenheidsonderzoek en het contactformulier meer van elkaar kunnen onderscheiden.
+![Screenshot van een link met de tekst 'Vorige stap'. Daaronder staat de tekst 'Stap 6 van 16' met daaronder de titel 'Gegevens pand'. Daaronder staat de vraag: 'Bent u de eigenaar van het pand?' met twee keuzes 'ja' en 'nee'.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/den-haag_vergunningformulier-13.png)
+
+![Screenshot van een link met de tekst 'Vorige stap'. Daaronder staat de tekst 'Stap 7 van 16' met daaronder de titel 'Gegevens pand'. Daaronder staat de vraag: 'Sinds wanneer bent u eigenaar?' met een invulveld voor een datum.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/den-haag_vergunningformulier-14.png)
+
+(tot hier gekomen)
 
 ## Opzet onderzoek
 
-Er is kwalitatief onderzoek gedaan, namelijk usability research. Op 21 en 22 oktober 2025 zijn in totaal zes interviews uitgevoerd met inwoners van Utrecht die aanwezig waren in het Stadskantoor van de gemeente Utrecht. De inwoners zijn direct aangesproken op de publieksvloer.
-
-De inwoners is gevraagd het contactformulier in te vullen in het [prototype van de webpagina met het contactformulier](https://nl-design-system.github.io/utrecht/storybook/?path=/docs/react_contactformulier-stap-1--docs).
+We hebben zes ondernemers gesproken. Één uur per participant. Zij hebben het nieuwe vergunningsaanvraag-formulier doorlopen. Via een Figma prototype van het ontwerp. Ze kregen hierbij opdrachten en vragen aan de hand van een vooropgesteldscript.
 
 ## Contactinformatie
 
