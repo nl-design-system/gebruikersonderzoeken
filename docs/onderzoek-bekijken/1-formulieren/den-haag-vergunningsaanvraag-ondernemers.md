@@ -36,15 +36,13 @@ type: kwalitatief onderzoek, usability research
 
 # Formulierontwerp voor vergunningsaanvragen door ondernemers Den Haag
 
-...
-
 ## Doel van het onderzoek
 
 We merken dat vergunningsaanvragen vaak onjuist of onvolledig worden ingediend, wat veel extra tijd kost voor zowel de ondernemer als medewerker.
 
 Ons nieuwe ontwerp focust op het begeleiden van ondernemers bij het correct opstellen en indienen van documenten en benadrukt het belang van het aanleveren van alle benodigde documenten.
 
-We tonen de belangrijkste aanpassingen vanuit het nieuwe ontwerp. Aan de hand van een usabilitytest hebben we getoetst hoe ondernemers dit ontwerp ervaren en of het hen daadwerkelijk ondersteunt bij het volledig en juist indienen van een aanvraag. 
+We tonen de belangrijkste aanpassingen vanuit het nieuwe ontwerp. Aan de hand van een usabilitytest hebben we getoetst hoe ondernemers dit ontwerp ervaren en of het hen daadwerkelijk ondersteunt bij het volledig en juist indienen van een aanvraag.
 
 ### Onderzoeksvraag
 
@@ -176,9 +174,9 @@ In hoeverre hebben ondernemers het vertrouwen dat ze aan de hand van dit ontwerp
 
 #### Algemene inzichten
 
-Ondernemers wisten zelf de aanvraag te starten en waren positief over het doorlopen van de stappen. Ze vonden het eenvoudig en duidelijk en hadden ook het gevoel dat dit hen wel zou lukken. 
+Ondernemers wisten zelf de aanvraag te starten en waren positief over het doorlopen van de stappen. Ze vonden het eenvoudig en duidelijk en hadden ook het gevoel dat dit hen wel zou lukken.
 
-Dit komt met name door de voorbeelden van de documenten, het overzicht van de documenten die ze als een soort checklist af kunnen werken en door de contactmogelijkheden. 
+Dit komt met name door de voorbeelden van de documenten, het overzicht van de documenten die ze als een soort checklist af kunnen werken en door de contactmogelijkheden.
 
 > "Als ik er niet uit zou komen, dan zou ik gewoon even bellen. Als ik daar niet direct mijn antwoord uit krijg, dan zou ik het opslaan en gaan mailen."
 
@@ -186,7 +184,7 @@ Ook vonden ze het fijn om de checklist op hun mail te kunnen ontvangen en uitpri
 
 #### Verbeterkansen
 
-- De contactmogelijkheden sloten aan bij de behoefte, indien mogelijk zouden de ondernemers wel ook graag een chatfunctie zien. 
+- De contactmogelijkheden sloten aan bij de behoefte, indien mogelijk zouden de ondernemers wel ook graag een chatfunctie zien.
 - Daarnaast zouden ook de contactmogelijkheden iets duidelijker in beeld kunnen worden gebracht. Iedereen heeft ze kunnen vinden in de footer, maar meerdere ondernemers gaven aan dat ze dit graag wat duidelijker in beeld zouden willen hebben.
 
 ### Navigatie
@@ -201,7 +199,57 @@ Hoe ervaren ondernemers de navigatie door het aanvraagproces?
 
 ![Screenshot van een link met de tekst 'Vorige stap'. Daaronder staat de tekst 'Stap 7 van 16' met daaronder de titel 'Gegevens pand'. Daaronder staat de vraag: 'Sinds wanneer bent u eigenaar?' met een invulveld voor een datum.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/den-haag_vergunningformulier-14.png)
 
-(tot hier gekomen)
+#### Algemene inzichten
+
+De ondernemers vonden navigatie door het formulier fijn, eenvoudig en intuïtief.
+
+> "Dat ging een stuk sneller dan ik had verwacht!."
+
+Wat opviel was dat, als je wilt dat alle informatie op een pagina wordt gelezen, moet deze in één oogopslag te lezen zijn. Wanneer er te veel informatie staat, neigen mensen er toch weer naar om te gaan scannen.
+
+Het viel ook op dat ondernemers klikken op wat voor hen relevant lijkt. Als je wilt dat specifieke (langere) stukken worden gelezen, is het belangrijk om ze scanbaar te maken en geen knoppen of linkjes toe te voegen die afleiden tijdens het lezen.
+
+Wat ondernemers verder fijn vonden om te zien was het element met ‘stap X van de 16’.
+
+> "Het is fijn om een idee te hebben hoe lang je hier nog mee bezig bent."
+
+#### Verbeterkansen
+
+- Sommige stappen binnen het formulier hadden dezelfde titel (omdat het conditionele vragen waren). Dit was niet per sé storend, maar riep wel vragen op, wat eventueel voor ruis kan zorgen. Dit is op te lossen door in de titel aan te geven dat het om een vervolg vraag gaat of door vragen samen te voegen waar mogelijk.
+
+> "Waarom staan die vragen niet gewoon onder elkaar?"
+
+- Ondernemers scannen eerder dan dat ze lange teksten volledig lezen. Als iets relevant lijkt, zullen ze de volledige tekst bekijken. Daarom is het belangrijk dat lange teksten goed scanbaar zijn. Zo wordt direct duidelijk waar elke alinea over gaat en kan de ondernemer ervoor kiezen om alles te lezen.
+- Zorg dat knoppen juist geplaatst zijn en niet voor afleiding zorgen.
+
+### Volledigheid
+
+In hoeverre is de informatie volledig en duidelijk?
+
+![Screenshot van een lichtgroen kader met als titel 'Voorwaarden'. Daaronder is een uitgebreide checklist te lezen.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/den-haag_vergunningformulier-15.png)
+
+![Screenshot van een formulier met de vraag: welke categorie wilt u hanteren voor de sluitingstijden? Gevolgd door drie opties, dag horeca, avond/nacht horeca, nacht horeca.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/den-haag_vergunningformulier-16.png)
+
+#### Algemene inzichten
+
+Over het algemeen vonden de ondernemers de informatie duidelijk en volledig. Wel waren er een aantal punten waar dit nog verbeterd kon worden, bijvoorbeeld in de voorwaarden.
+
+> "Er staat hier dat de activiteit moet passen binnen het bestemmingsplan van de locatie, maar er staat verder geen informatie over dit plan. Waar moet ik dit nu vinden?"
+
+Het is belangrijk om voldoende informatie te benoemen, of door te linken naar bepaalde informatie, om te voorkomen dat ondernemers zelf op zoek moeten gaan op bijvoorbeeld Google.
+
+Naast dat dit frustraties oplevert, zorgt dit namelijk ook voor extra onzekerheid.
+
+> "Ik zou dit gaan Googelen, maar als ik verschillende informatie zou vinden, dan weet ik niet wat ik aan moet houden."
+
+#### Verbeterkansen
+
+- Kijk nog een kritisch naar alle informatie op de site en het formulier om te checken of deze volledig is. Waar nodig, zorg ervoor dat de informatie wordt aangevuld of dat er duidelijk wordt benoemd waar deze informatie te vinden is.
+
+> "Het is fijn dat de categorieën hier uitgelegd staan en dat ik het niet zelf hoef op te zoeken."
+
+- Een ander belangrijk onderdeel wat nog in het huidige ontwerp ontbreekt zijn de kosten. Ondernemers verwachten dit te kunnen vinden nog voordat ze de aanvraag starten.
+- Wat betreft de duidelijkheid is het belangrijk om het volledige formulier nog eens op B1 niveau te checken. Niet alles was nu volgens de richtlijnen van Direct Duidelijk, denk hierbij aan zinnen zoals ‘ten gehore brengen’.
 
 ## Opzet onderzoek
 
@@ -211,10 +259,5 @@ We hebben zes ondernemers gesproken. Één uur per participant. Zij hebben het n
 
 De volgende mensen hebben het onderzoek uitgevoerd:
 
-- [René Olling, UX Designer](mailto:r.olling@utrecht.nl) - Gemeente Utrecht
-- [Joram Burer, UX Designer](mailto:joram.burer@utrecht.nl) - Gemeente Utrecht
-- [Jeroen du Chatinier, UX Designer](mailto:j.du.chatinier@utrecht.nl) - Gemeente Utrecht
-
-## Bijlagen
-
-- Het [onderzoeksplan en de aantekeningen in MIRO](https://miro.com/app/board/uXjVJ1optJY=/?share_link_id=723823079899).
+- Margo Welling - [margo.welling@denhaag.nl](mailto:margo.welling@denhaag.nl) - Onderzoeker – Gemeente Den Haag
+- Ananta Mulyono - [ananta.mulyono@denhaag.nl](mailto:ananta.mulyono@denhaag.nl) - UX Designer – Gemeente Den Haag
