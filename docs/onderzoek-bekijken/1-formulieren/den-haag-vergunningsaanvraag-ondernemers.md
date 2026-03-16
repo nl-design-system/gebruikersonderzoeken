@@ -48,11 +48,11 @@ We tonen de belangrijkste aanpassingen vanuit het nieuwe ontwerp. Aan de hand va
 
 Hiermee hebben wij antwoord kunnen geven op de volgende onderzoeksvragen:
 
-1. **Juiste documenten:**In hoeverre geeft dit ontwerp voldoende ondersteuning om de benodigde documenten op te kunnen stellen?
-2. **Volledige aanvraag:**In hoeverre stimuleert dit ontwerp ondernemers om de aanvraag volledig in te dienen?
-3. **Vertrouwen:**In hoeverre hebben ondernemers het vertrouwen dat ze aan de hand van dit ontwerp zelf een correcte aanvraag kunnen indienen?
-4. **Navigatie:**Hoe ervaren ondernemers de navigatie door het aanvraagproces?
-5. **Volledigheid:**In hoeverre is de informatie volledig en duidelijk?
+1. Juiste documenten: In hoeverre geeft dit ontwerp voldoende ondersteuning om de benodigde documenten op te kunnen stellen?
+2. Volledige aanvraag: In hoeverre stimuleert dit ontwerp ondernemers om de aanvraag volledig in te dienen?
+3. Vertrouwen: In hoeverre hebben ondernemers het vertrouwen dat ze aan de hand van dit ontwerp zelf een correcte aanvraag kunnen indienen?
+4. Navigatie: Hoe ervaren ondernemers de navigatie door het aanvraagproces?
+5. Volledigheid: In hoeverre is de informatie volledig en duidelijk?
 
 ## Belangrijkste aanpassingen
 
