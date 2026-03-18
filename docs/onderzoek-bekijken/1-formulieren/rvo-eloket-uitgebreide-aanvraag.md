@@ -304,11 +304,11 @@ De titel en subtitels zijn niet overal gelijk. Zo komt de naam van de titel 'Con
 
 Wijzig de titel 'Controleren' naar 'Controle en verzenden' en maak de tekst groter. Maak daarnaast de subtitels 'Gegevens aanvrager', 'Autogegevens' en 'Bijlagen' net zo klein als de subtitel 'Verklaringen'. Zet ook de subtitel 'Autogegevens' boven het grijze vlak. Om alles gelijk te houden door het hele formulier is het ook nodig om de titel 'Autogegevens' op de pagina 'Autogegevens' boven het grijze vlak te zetten net zoals op de andere pagina's.
 
-![](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rvo_eloket-20.png)
+![Screenshot toont stukje van een formulier. Links staat formulier navigatie met als titel Progress tracker. Rechts staat het formulier met een titel en daarboven een link met de tekst terug.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rvo_eloket-20.png)
 
 #### Tekst onder 'Verklaringen' is moeilijk te scannen
 
-![Screenshot van ...](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rvo_eloket-21.png)
+![Screenshot van een stukje formulier met de titel verklaringen. Daaronder staat een checkbox met de tekst 'hierbij verklaard de indiener het volgende', gevolgd door een hele lange tekst.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rvo_eloket-21.png)
 
 ##### Bevinding
 
@@ -322,11 +322,11 @@ De tekst onder 'Verklaringen' is moeilijk te scannen, doordat de opsommingen nie
 
 Maak de rondjes van de opsommingen gesloten en lijn de tekst netjes uit. Zorg ook voor meer ruimte tussen de verschillende zinnen en onderbreek de tekst met tussenkopjes om de scanbaarheid te vergroten.
 
-![Screenshot van ...](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rvo_eloket-22.png)
+![Screenshot van een stuk fictieve tekst met een titel, paragraaf, opsomming en genummerde opsomming.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rvo_eloket-22.png)
 
 #### Op controle en verzenden pagina staat een loos grijs blok
 
-![Screenshot van ...](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rvo_eloket-23.png)
+![Screenshot van een stukje formulier. Links staat formulier-navigatie de tekst 'controle en verzenden' is geselecteerd. Rechts is een stukje van het formulier te zien met de titel 'bijlage'.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rvo_eloket-23.png)
 
 ##### Bevinding
 
@@ -340,11 +340,11 @@ Het grijze blok waar niks in staat kan verwarring bij gebruikers veroorzaken als
 
 Verwijder het grijze blok onder de tabel onder 'Bijlage' op de 'Controle en verzenden' pagina.
 
-![Screenshot van ...](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rvo_eloket-24.png)
+![Screenshot van een tabel met daaromheen wit ruimte.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rvo_eloket-24.png)
 
 #### Onduidelijk wat het vervolg is na verzenden van het formulier
 
-![Screenshot van ...](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rvo_eloket-25.png)
+![Screenshot van een stukje formulier links is de formulier-navigatie te zien. De tekst 'ontvangstbevestiging' is geselecteerd. Rechts staat de titel 'subsubsidieregeling elektrische personen auto's particulieren' met daaronder de tekst 'Uw aanvraag subsidieregeling zonnepanelen is door ons ontvangen.'.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rvo_eloket-25.png)
 
 ##### Bevinding
 
@@ -360,7 +360,7 @@ Geef op de ontvangstbevestiging pagina aan wat de vervolgstappen zijn en geef aa
 
 #### Na verzenden van het formulier is het nog steeds mogelijk om verklaringen uit/aan te zetten
 
-![Screenshot van ...](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rvo_eloket-26.png)
+![Screenshot van een stukje formulier links is de formulier -navigatie te zien. De tekst 'controle en verzenden' is geselecteerd. Rechtsstaat de titel verklaringen met daaronder een chatbox met de tekst 'Hierbij verklaart de indiener het volgende': Gevolgd door een hele lap tekst.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rvo_eloket-26.png)
 
 ##### Bevinding
 
@@ -376,7 +376,7 @@ Zorg ervoor dat het vinkje onder verklaringen niet meer aan te passen is na het 
 
 #### Vooraf is niet duidelijk welke documenten nodig zijn
 
-![Screenshot van ...](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rvo_eloket-27.png)
+![Twee screenshots van formulier pagina's. De eerste toont de stap bijlage. Het tweede screenshot toont de startpagina.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rvo_eloket-27.png)
 
 ##### Bevinding
 
@@ -392,7 +392,7 @@ Beschrijf op de startpagina goed welke documenten nodig zijn om het formulier co
 
 #### Informatie onder 'verklaringen' komt als een verrassing
 
-![Screenshot van ...](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rvo_eloket-28.png)
+![Screenshot van van een stukje formulier met de titel verklaringen. Daaronder staat een chatbox met de tekst 'Hierbij verklaart de indiener het volgende:' gevolgd door een hele lap tekst](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rvo_eloket-28.png)
 
 ##### Bevinding
 
@@ -408,7 +408,7 @@ Verwijs op de startpagina naar de voorwaarden van de regeling op rvo.nl. Wijs de
 
 #### Informatie op startpagina over geld is niet relevant genoeg
 
-![Screenshot van ...](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rvo_eloket-29.png)
+![Screenshot van een stukje van een formulier links staat de formulier navigatie. De tekst startpagina is geselecteerd. Rechts staat de inhoud van de startpaginawaar onder andere enkele voorwaarden staan opgesomd.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rvo_eloket-29.png)
 
 ##### Bevinding
 
@@ -424,7 +424,7 @@ Beschrijf op de startpagina hoeveel geld nog beschikbaar is en wat dat betekent 
 
 #### De eisen voor bijlagen zijn niet zichtbaar genoeg
 
-![Screenshot van ...](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rvo_eloket-30.png)
+![Screenshot van een stukje formulier met de titel 'Nog toevoegen'. Daaronder staan de mogelijkheden om een koopovereenkomst en overige bestanden toe te voegen. Maar er staat nergens iets over de criteria waaraan de bestanden moeten voldoen.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rvo_eloket-30.png)
 
 ##### Bevinding
 
@@ -432,13 +432,13 @@ Een aantal respondenten gaven aan dat informatie ontbreekt over hoe bijlagen moe
 
 ##### Wat betekent dit?
 
-De informatie over de eisen van de bijlagen ziet men pas wanneer er op 'bestand toevoegen' is geklikt in een pop-up. Dit is te laat, want als men bestanden in een niet toegestaan type klaar heeft staan zorgt dit voor frustratie.
+De informatie over de eisen van de bijlagen ziet men pas wanneer er op 'bestand toevoegen' is geklikt in een pop-up. Dit is te laat, want als men bestanden in een niet toegestaan type klaar heeft staan, zorgt dit voor frustratie.
 
 ##### Aanbeveling
 
 Geef met tekst aan wat de eisen zijn van de bijlagen (zie screenshot). Als dit niet mogelijk is, voeg dan tekst toe achter de zin 'Voeg hier de koopovereenkomst toe'.
 
-![Screenshot van ...](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rvo_eloket-31.png)
+![Screenshot van en stukje formulier met de titel bijlagen. Daaronder staat een opsomming van de criteria waaraan een bijlage moet of mag voldoen.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rvo_eloket-31.png)
 
 #### Fout in tekst op ontvangstbevestiging pagina 'zonnepanelen'
 
@@ -452,7 +452,7 @@ Pas de tekst aan en stem af op de SEPP-regeling.
 
 #### Jargon wordt niet goed begrepen
 
-![Screenshot van ...](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rvo_eloket-32.png)
+![Screenshot van een stukje formulier met de titel betaalgegevens. Daaronder staan twee invulvelden met de labels IBAN en BIC.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rvo_eloket-32.png)
 
 ##### Bevinding
 
@@ -470,13 +470,13 @@ Gebruik begrijpelijke, makkelijke taal en vermijd jargon als 'penvoerder' en 'da
 
 #### Tussentijds opslaan en formulier sluiten is niet duidelijk
 
-![Screenshot van ...](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rvo_eloket-33.png)
+![Screenshot van een stukje formulier bovenaan het formulier staat een blauwe balk. Links staat 'formulier sluiten' rechts staat: opslaan, printer, verleng sessie.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rvo_eloket-33.png)
 
 ##### Bevinding
 
-De knop 'Opslaan' wordt door de meeste respondenten gevonden. Nadat op Opslaan is geklikt, verschijnt er geen melding dat het opslaan is gelukt, dit zorgt voor verwarring en onzekerheid. Een respondent gebruikt de rechter muisknop om het formulier op te slaan op de computer.
+De knop 'Opslaan' wordt door de meeste respondenten gevonden. Nadat op 'Opslaan' is geklikt, verschijnt er geen melding dat het opslaan is gelukt, dit zorgt voor verwarring en onzekerheid. Een respondent gebruikt de rechtermuisknop om het formulier op te slaan op de computer.
 
-Formulier sluiten wordt door slechts een respondent gezien. Een respondent zegt eerst op Volgende te klikken om het formulier mogelijk verderop te kunnen sluiten.
+'Formulier sluiten' wordt door slechts één respondent gezien. Een respondent zegt eerst op 'Volgende' te klikken om het formulier mogelijk verderop te kunnen sluiten.
 
 ##### Wat betekent dit?
 
@@ -484,17 +484,17 @@ Niet alle acties in de blauwe balk worden goed gezien en wijken daarnaast af van
 
 ##### Aanbeveling
 
-Plaats Formulier sluiten helemaal rechts. Voeg onderaan het formulier een knop Opslaan en sluiten toe. Laat ook de gebruiker niet in verwarring achter, laat zien wat er gebeurt als op een knop wordt geklikt.
+Plaats 'Formulier sluiten' helemaal rechts. Voeg onderaan het formulier een knop 'Opslaan en sluiten' toe. Laat de gebruiker ook niet in verwarring achter; laat zien wat er gebeurt als op een knop wordt geklikt.
 
-![Screenshot van ...](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rvo_eloket-34.png)
+![Screenshot van een stukjeformulier. Daarboven staat een blauwe balk. In deze balk staat  links staat de tekst 'terug naar mijn RVO' en rechts staat 'uitloggen'. Onder het formulier zelf staat link een button met de tekst 'opslaan en sluiten' en rechts een button met de tekst 'opslaan en verder'.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rvo_eloket-34.png)
 
 #### Opslaan formulier kan niet bij een foutmelding
 
-![Screenshot van ...](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rvo_eloket-35.png)
+![Screenshot van een foutmelding die over het formulier heen ligt. In de foutmelding staat de tekst: Let op, er zijn fouten op het formulier. Weet u zeker dat u het formulier wilt sluiten zonder op te slaan? Gevolgd door de opties 'ja' en 'nee'.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rvo_eloket-35.png)
 
 ##### Bevinding
 
-Als er ergens een foutmelding is in het formulier werkt opslaan niet. Na klikken op Formulier sluiten verschijnt de melding dat je het formulier alleen kunt sluiten zonder op te slaan omdat er fouten op het formulier zijn. Als je het formulier toch sluit zijn alle gegevens gewist en moet je de volgende keer opnieuw beginnen.
+Als er ergens een foutmelding is in het formulier werkt opslaan niet. Na klikken op 'Formulier sluiten' verschijnt de melding dat je het formulier alleen kunt sluiten zonder op te slaan omdat er fouten op het formulier zijn. Als je het formulier toch sluit, zijn alle gegevens gewist en moet je de volgende keer opnieuw beginnen.
 
 ##### Wat betekent dit?
 
@@ -506,13 +506,13 @@ Pas de werking van het opslaan van het formulier aan zodat deze ook met foutmeld
 
 #### Wat gebeurt er na klikken op Opslaan?
 
-![Screenshot van ...](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rvo_eloket-36.png)
+![twee screenshots van een stukje formulier. Het eerste screenshot toont de melding. Uw aanvraag is opgeslagen. Het tweede screenshot toont de foutmelding die over het formulier heen ligt. In de foutmelding staat de tekst: Let op, er zijn fouten op het formulier. Weet u zeker dat u het formulier wilt sluiten zonder op te slaan? Gevolgd door de opties 'ja' en 'nee'.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rvo_eloket-36.png)
 
 ##### Bevinding
 
-Het is niet duidelijk of het formulier is opgeslagen na klikken op de knop 'Opslaan'. Vaak gebeurt er niks, maar soms verschijnt de melding Uw aanvraag is opgeslagen. Klik je daarna op Formulier sluiten dan krijg je melding dat je alleen kan sluiten zonder op te slaan. Dit zorgt voor onzekerheid, is het formulier wel of niet opgeslagen?
+Het is niet duidelijk of het formulier is opgeslagen na het klikken op de knop 'Opslaan'. Vaak gebeurt er niks, maar soms verschijnt de melding 'Uw aanvraag is opgeslagen'. Klik je daarna op 'Formulier sluiten' dan krijg je melding dat je alleen kan sluiten zonder op te slaan. Dit zorgt voor onzekerheid: is het formulier wel of niet opgeslagen?
 
-Een respondent vindt deze melding voor opslaan gek. Hij heeft al op 'opslaan' geklikt. Vraagt zich af waar het nu is opgeslagen.
+Een respondent vindt deze melding voor opslaan gek. Hij heeft al op 'Opslaan' geklikt. Vraagt zich af waar het nu is opgeslagen.
 
 ##### Wat betekent dit?
 
@@ -520,13 +520,13 @@ Het is onduidelijk wat er gebeurt na het klikken op opslaan. Is het formulier we
 
 ##### Aanbeveling
 
-Maak duidelijk door meldingen of pop-up scherm wat er gebeurt na klikken op opslaan.
+Maak duidelijk door meldingen of pop-up scherm wat er gebeurt na klikken op 'Opslaan'.
 
 ### Hoe ervaren de gebruikers het wijzigen van de gegevens in het formulier?
 
 #### Gegevens autobedrijf wijzigen
 
-![Screenshot van ...](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rvo_eloket-37.png)
+![Screenshot van een stukje formulier met de titel autobedrijf. Daaronder staat de tekst 'Selecteer R DW erkent autobedrijf'. Daaronder staat, op ruime afstand, de link 'verwijder autobedrijfgegevens.'](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rvo_eloket-37.png)
 
 ##### Bevinding
 
@@ -542,7 +542,7 @@ Maak een duidelijk knop in plaats van een link. Plaats deze knop dichterbij de i
 
 #### Vanuit controleren melding oplossen
 
-![Screenshot van ...](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rvo_eloket-38.png)
+![Drie losse screenshots onder elkaar. Tussen de screenshots wijzen pijlen naar beneden. Op het eerste screenshot staat de titel 'Gegevens aanvrager'. Daaronder staat een foutmelding met de link 'Ga naar pagina'. Het volgende screenshot toont het veld 'e-mail'. Het volgende screenshot toont formulier-stap 'auto gegevens''.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rvo_eloket-38.png)
 
 ##### Bevinding
 
@@ -558,7 +558,7 @@ Als vanuit de pagina 'Controleren' een foutmelding wordt opgelost, zorg dan voor
 
 #### Formulier bekijken na verzenden
 
-![Screenshot van ...](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rvo_eloket-39.png)
+![Drie losse screenshots. Het eerste screenshot heeft de titel 'details aanvraag', daarnaast is er een icoon van een papier met een pen te zien. Het volgende screenshot toont een stukje van het formulier met de titel 'Auto gegevens'. Hier is onder andere een invoerveld zichtbaar met het label 'kenteken'. Het laatste screenshot toont een stukje van een formulier met de titel verklaringen. Daaronder staat een lege chatbox met de tekst. Hierbij verklaart de indiener het volgende gevolgd door een hele lange tekst.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rvo_eloket-39.png)
 
 ##### Bevinding
 
@@ -576,7 +576,7 @@ Zorg bij het bekijken van een formulier dat niks meer aan te passen is en het fo
 
 #### Foutmelding bij navigeren door menu
 
-![Screenshot van ...](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rvo_eloket-40.png)
+![Screenshot van een stukje formulier links is de formulier-navigatie zichtbaar. De tekst 'kom ik in aanmerking' is geselecteerd, daarvoor staat een rode cirkel met een kruis. Rechts is het formulier zichtbaar. Met de titel 'kom ik in aanmerking'. Er zijn verschillende foutmeldingen zichtbaar per formulierveld.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rvo_eloket-40.png)
 
 ##### Bevinding
 
@@ -590,11 +590,11 @@ Gebruiker schrikken van rode meldingen. Gebruik deze zorgvuldig.
 
 Zorg dat er alleen een foutmelding/rood kruis in het menu verschijnt nadat een pagina is doorlopen en er een fout is op de pagina.
 
-![Screenshot van ...](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rvo_eloket-41.png)
+![Screenshot van van het radio group component. Er is een foutmelding zichtbaar met de tekst 'This is een error' links van deze tekst staat een rode cirkel met een kruis. Links van alle keuze-opties loopt een dikke rode streep.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rvo_eloket-41.png)
 
 #### Navigatie labels 'Kom ik in aanmerking en 'Aanvullende vragen' is dubbelop
 
-![Screenshot van ...](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rvo_eloket-42.png)
+![Screenshot van een stukje formulier. Links is de formulier-navigatie zichtbaar. De tekst 'kom ik in aanmerking' is geselecteerd. Rechts is het formulier zichtbaar met de titel 'kom ik in aanmerking'.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rvo_eloket-42.png)
 
 ##### Bevinding
 
@@ -610,7 +610,7 @@ Maak geen gebruik van verschillende labels die naar dezelfde pagina verwijzen. D
 
 #### Terugkeren na opslaan
 
-![Screenshot van ...](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rvo_eloket-43.png)
+![Drie losse screenshots onder elkaar met daartussen pijlen die naar beneden wijzen. Het eerste screenshot toont een foutmelding die over het formulier ligt met de vraag 'Wilt u de wijzigingen opslaan?'. Het tweede screenshot toont de titel 'Concepten' met onder andere het icoon van een papier met een pen, deze heeft een tooltip met tekst 'openen aanvraag'. Het laatste screenshot toont de Startpagina van een formulier.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rvo_eloket-43.png)
 
 ##### Bevinding
 
@@ -626,7 +626,7 @@ Zorg ervoor dat het formulier opent op de plek van waaruit het formulier is opge
 
 #### Vinkjes in menu verdwijnen na opslaan
 
-![Screenshot van ...](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rvo_eloket-44.png)
+![Screenshot van een stukje formulier. Links staat de formulier-navigatie daarbij is de tekst 'startpagina' geselecteerd. Rechts is de startpagina te zien.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rvo_eloket-44.png)
 
 ##### Bevinding
 
