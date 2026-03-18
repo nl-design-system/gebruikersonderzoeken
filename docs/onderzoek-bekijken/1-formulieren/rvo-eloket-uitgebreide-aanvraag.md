@@ -44,7 +44,7 @@ type: kwalitatief onderzoek, usability research
 
 Het doel van het onderzoek is achterhalen of de nieuwe ontwerpen van eLoket gebruiksvriendelijker en begrijpelijker zijn ten opzichte van de oude ontwerpen, maar ook het ontdekken waar nog eventuele verbeterkansen liggen.
 
-Voor het onderzoek wordt een prototype gebruikt van het aanvraagformulier voor de SEPP regeling
+Voor het onderzoek wordt een prototype gebruikt van het aanvraagformulier voor de SEPP regeling.
 
 ### Wat is het eLoket?
 
