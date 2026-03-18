@@ -114,7 +114,7 @@ Gebruikers zijn onzeker of het formulier wel is opgeslagen, doordat de bevestigi
 
 #### De startpagina is lastig te scannen
 
-![Screenshot van ...](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rvo_eloket-01.png)
+![Screenshot van de startpagina. Te zien is dat rode de lijnen van de eye-tracker van links boven naar rechts ondergaan, en weer terug.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rvo_eloket-01.png)
 
 ##### Bevinding
 
@@ -128,11 +128,11 @@ Op de startpagina staan de opsommingstekens dicht op elkaar en ze zijn niet goed
 
 Maak van alle opsommingstekens bullet points en lijn de tekst op de startpagina netjes uit, zodat het scannen van de informatie makkelijker is.
 
-![Screenshot van ...](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rvo_eloket-02.png)
+![Screenshot van een stuk fictieve tekst, bovenaan staat een titel. Daaronder staat een paragraaf en daaronder staat een opsomming.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rvo_eloket-02.png)
 
 #### Gegevens aanvrager te lange pagina
 
-![Screenshot van ...](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rvo_eloket-03.png)
+![Screenshot van een formulier bestaande uit drie secties namelijk: contactgegevens, adres, betaalgegevens. Elke sectie heeft meerdere formuliervelden. Over het screenshot ligt een lichtgroen praatje met de tekst: ik vind het een langformulier voor deze hoeveelheid gegevens die ik zie.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rvo_eloket-03.png)
 
 ##### Bevinding
 
@@ -146,11 +146,11 @@ De gebruiker moet veel scrollen terwijl er maar weinig gegevens hoeven te worden
 
 Maak de pagina 'Gegevens aanvrager' compacter. Zijn er velden achter elkaar te plaatsen? Kunnen de voor ingevulde gegevens op een andere compactere manier worden weergegeven? Aanbeveling vanuit ROOS: Zorg dat een veld even lang is als de verwachte input. Een veld waar een huisnummer gevraagd wordt hoeft dus maar een paar karakters lang te zijn. Daarnaast, groepeer velden die bij elkaar horen en zet ze op dezelfde lijn, zoals straatnaam, huisnummer, postcode en plaats. Zorg er wel voor dat het formulier maar 1 kolom heeft, maak er dus geen 2 kolommen van.
 
-![Screenshot van ...](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rvo_eloket-04.png)
+![Screenshot van een stukje formulier met drie velden met verschillende lengtes.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rvo_eloket-04.png)
 
 #### De sterretjes zijn niet voor iedereen duidelijk
 
-![Screenshot van ...](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rvo_eloket-05.png)
+![Screenshot van een stuk formulier met de titel 'Aanvullende vragen'. Er zijn verschillende formulier velden te zien en achter elke vraag staat een rood sterretje.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rvo_eloket-05.png)
 
 ##### Bevinding
 
@@ -166,7 +166,7 @@ Haal alle sterretjes weg en zet achter vragen die niet verplicht zijn tussen haa
 
 #### De informatie iconen zijn niet overal gelijk
 
-![Screenshot van ...](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rvo_eloket-06.png)
+![Twee losse screenshots een stukje formulier. Bij het eerste screenshot formulier staat een 'i' icoon op een lichtblauwvakje met daarachter tekst. Bij het tweede screenshot staat het 'i' icoon ook op een lichtblauwvakje iets groter uiterst rechts en zonder tekst.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rvo_eloket-06.png)
 
 ##### Bevinding
 
@@ -180,11 +180,11 @@ De manier waarop toelichting wordt gegeven is niet overal gelijk. Dat kan verwar
 
 Geef de toelichting overal op een gelijke manier weer. Zet een uitvouwbare link met toelichtende tekst onder de titel van het invulveld. Dit is op basis van het ROOS design system.
 
-![Screenshot van ...](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rvo_eloket-07.png)
+![Twee losse screenshots een stukje formulier. In het linker screenshot staat de blauwe tekst 'Expendable helper tekst', met daarachter een pijl die naar beneden wijst, tussen het label en het invulveld. In het rechter screenshot staat dezelfde tekst, maar nu wijst de pijl naar boven. Onder de blauwe tekst staat de zwarte tekst.'This is a helper tekst which can't be used for instruction.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rvo_eloket-07.png)
 
 #### Waarschuwingsiconen zijn verwarrend en niet overal gelijk
 
-![Screenshot van ...](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rvo_eloket-08.png)
+![Screenshot van van een stukje formulier met de titel auto gegevens. In het formulier zijn twee lichtgele driehoeken te zien met daarbinnen een uitroepteken. Over het screenshot is een lichtgroene praatal te zien met de tekst: net een waarschuwingsbord.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rvo_eloket-08.png)
 
 ##### Bevinding
 
@@ -198,11 +198,11 @@ De oranje/gele kleur geeft het gevoel dat er iets fout is gegaan. Dit kan ervoor
 
 Vervang de waarschuwingsmelding door een i-icoon met toelichtingstekst (Expandable helper tekst), zoals in het ROOS systeem staat. Hierdoor komt het niet meer over als een fout maar geef je toch de belangrijke info weer. Zorg ervoor dat meldingen altijd tussen de subtitel en het invulveld staan. Vergeet niet ook de waarschuwingsmeldingen op de pagina 'Controle en verzenden' weg te halen.
 
-![Screenshot van ...](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rvo_eloket-09.png)
+![Twee losse screenshots een stukje formulier. In het linker screenshot staat de blauwe tekst 'Expendable helper tekst', met daarachter een pijl die naar beneden wijst, tussen het label en het invulveld. In het rechter screenshot staat dezelfde tekst, maar nu wijst de pijl naar boven. Onder de blauwe tekst staat de zwarte tekst.'This is a helper tekst which can't be used for instruction.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rvo_eloket-09.png)
 
 #### Gegevens van geselecteerd autobedrijf zijn onoverzichtelijk
 
-![Screenshot van ...](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rvo_eloket-10.png)
+![Screenshot van van een stukje formulier met de titel autobedrijf. Te zien zijn gegevens van het autobedrijf en de link: verwijder autobedrijfgegevens.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rvo_eloket-10.png)
 
 ##### Bevinding
 
@@ -218,7 +218,7 @@ Verwijder de tekst 'Selecteer RDW erkend autobedrijf' en 'Vink aan wanneer uw au
 
 #### Niet duidelijk dat men kan klikken op het zoekicoon
 
-![Screenshot van ...](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rvo_eloket-11.png)
+![Screenshot van een stukje formulier met de titel autobedrijf. Daaronder staat het label selecteer RD W erkent autobedrijf. Daaronder staat een wit invulveld, binnen het invoerveld staat rechts een lichtblauw vlak met een wit vergrootglas.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rvo_eloket-11.png)
 
 ##### Bevinding
 
@@ -230,15 +230,15 @@ Het toetsenbord werkt niet als men wil typen in de witte balk. Daarnaast begrijp
 
 ##### Aanbeveling
 
-Zorg ervoor dat bij het klikken op de witte veld van 'Selecteer RDW erkend autobedrijf' men direct kan typen en voeg tekst toe aan de button 'Open lijst van RDW erkende autobedrijven'.
+Zorg ervoor dat bij het klikken op het witte veld van 'Selecteer RDW erkend autobedrijf' men direct kan typen en voeg tekst toe aan de button 'Open lijst van RDW erkende autobedrijven'.
 
-![Screenshot van ...](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rvo_eloket-12.png)
+![Screenshot van een blauw button component met de tekst: button.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rvo_eloket-12.png)
 
-![Screenshot van ...](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rvo_eloket-13.png)
+![Screenshot van een Select component met daarbinnen de tekst: option 1.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rvo_eloket-13.png)
 
 #### Het subsidie bedrag staat te ver van het euroteken
 
-![Screenshot van ...](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rvo_eloket-14.png)
+![Screenshot van een stukje formulier. Te zien is dat het euro-teken uiterst links staat en het bedrag uiterst rechts staat.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rvo_eloket-14.png)
 
 ##### Bevinding
 
@@ -254,7 +254,7 @@ Zet het bedrag direct naast het euroteken.
 
 #### Niet duidelijk of bijlage is toegevoegd
 
-![Screenshot van ...](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rvo_eloket-15.png)
+![Screenshot van een stukje formulier met de titel bijlagen. Er is een bijlage toegevoegd de bestandsnaam van de bijlage is lichtblauw en onderstreept. Daaronder staat een titel nog toevoegen. Waarbij 'koopovereenkomst' en 'overig' als opties worden gegeven om bijlagen aan toe te voegen.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rvo_eloket-15.png)
 
 ##### Bevinding
 
@@ -268,11 +268,11 @@ Bij het uploaden van de bijlage verschijnt het bestand bovenaan terwijl de tekst
 
 Gebruik een inputveld waarin gebruikers een document kunnen selecteren en uploaden (zie screenshot). Als dit niet mogelijk is, plaats de tabel 'Toegevoegde bijlage' onder het bestand dat is geüpload in plaats van erboven, zodat het opvalt dat een bestand is toegevoegd.
 
-![Screenshot van ...](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rvo_eloket-16.png)
+![Screenshot van een File upload component](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rvo_eloket-16.png)
 
 #### Tekst van toegevoegde bijlage lijkt aanklikbaar
 
-![Screenshot van ...](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rvo_eloket-17.png)
+![Screenshot van een tabel met de titel bijlagen. Er zijn twee bijlagen toegevoegd. De bestandsnamen van deze bijlagen zijn lichtblauw en onderstreept.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rvo_eloket-17.png)
 
 ##### Bevinding
 
@@ -286,11 +286,11 @@ De toegevoegde bijlage is blauw en onderstreept. Hierdoor lijkt het alsof het ee
 
 Maak downloaden / openen van een geüpload bestand mogelijk. Als dit niet mogelijk is, maak dan de tekst van de toegevoegde bijlage zwart/grijs van kleur en verwijder de onderstreep (zie screenshot).
 
-![Screenshot van ...](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rvo_eloket-18.png)
+![Screenshot van een tabel met op de plek waar de bestandsnaam zou komen staan zwarte tekst.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rvo_eloket-18.png)
 
 #### Titel en subtitels op 'Controle en verzenden' niet overal gelijk
 
-![Screenshot van ...](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rvo_eloket-19.png)
+![Screenshot van een stuk formulier links staat de formulier-navigatie geselecteerd is de tekst 'Controle en verzenden'. Rechts staat de pagina met de titel controleren.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rvo_eloket-19.png)
 
 ##### Bevinding
 
@@ -304,7 +304,7 @@ De titel en subtitels zijn niet overal gelijk. Zo komt de naam van de titel 'Con
 
 Wijzig de titel 'Controleren' naar 'Controle en verzenden' en maak de tekst groter. Maak daarnaast de subtitels 'Gegevens aanvrager', 'Autogegevens' en 'Bijlagen' net zo klein als de subtitel 'Verklaringen'. Zet ook de subtitel 'Autogegevens' boven het grijze vlak. Om alles gelijk te houden door het hele formulier is het ook nodig om de titel 'Autogegevens' op de pagina 'Autogegevens' boven het grijze vlak te zetten net zoals op de andere pagina's.
 
-![Screenshot van ...](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rvo_eloket-20.png)
+![](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rvo_eloket-20.png)
 
 #### Tekst onder 'Verklaringen' is moeilijk te scannen
 
