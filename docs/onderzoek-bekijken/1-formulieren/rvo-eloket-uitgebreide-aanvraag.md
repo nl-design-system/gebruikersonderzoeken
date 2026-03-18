@@ -655,5 +655,5 @@ Neem contact met ons op via [klantinzicht@rvo.nl](mailto:klantinzicht@rvo.nl)
 
 ## Bijlage
 
-- [PDF-document van het onderzoek]()
+- [PDF-document van het onderzoek (2,2MB)]((https://github.com/user-attachments/files/26089698/Rapport.UX.onderzoek.eLoket.fase.2.pdf)
 - [eLoket design in Figma](<https://www.figma.com/file/0uZR7vjufJq1T7AziFlNGa/eloket-(RVO-Design-System)?node-id=3693%3A18486&t=bh9pPtYeDITvN4Vu-1>)
