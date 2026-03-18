@@ -88,7 +88,7 @@ De onderzoeksvraag van dit onderzoek is: Hoe ervaart de gebruiker het nieuwe ont
 
 ### Conclusie
 
-Over het algemeen wordt het formulier als 'makkelijk' ervaren, het invullen en verzenden lukt alle respondenten. Het scannen van de tekst en het begrijpen van waarschuwingsiconen gaat lastiger. Dit komt vooral doordat gelijke elementen niet overal op dezelfde manier worden gebruikt. Het opslaan van het formulier gaat soms mis en respondenten missen feedback van het systeem dat het formulier is opgeslagen. Ook is het niet altijd duidelijk hoe gegevens in het formulier kunnen worden gewijzigd. Het navigeren door het formulier gaat meestal goed, maar na tussentijds opslaan, formulier sluiten en verder gaan ontbreken de vinkjes in het menu en komt de respondent op een andere plek in het formulier terug dan de plek van sluiten, dit is verwarrend. 
+Over het algemeen wordt het formulier als 'makkelijk' ervaren, het invullen en verzenden lukt alle respondenten. Het scannen van de tekst en het begrijpen van waarschuwingsiconen gaat lastiger. Dit komt vooral doordat gelijke elementen niet overal op dezelfde manier worden gebruikt. Het opslaan van het formulier gaat soms mis en respondenten missen feedback van het systeem dat het formulier is opgeslagen. Ook is het niet altijd duidelijk hoe gegevens in het formulier kunnen worden gewijzigd. Het navigeren door het formulier gaat meestal goed, maar na tussentijds opslaan, formulier sluiten en verder gaan ontbreken de vinkjes in het menu en komt de respondent op een andere plek in het formulier terug dan de plek van sluiten, dit is verwarrend.
 
 #### Bevindingen
 
@@ -100,9 +100,9 @@ Door het niet overal gelijk gebruik van elementen, zoals titels en iconen, worde
 
 Gebruikers zijn onzeker of het formulier wel is opgeslagen, doordat de bevestiging daarvan ontbreekt.
 
-##### Wijzigen van de gegevens 
+##### Wijzigen van de gegevens
 
-- De knop 'wijzig gegevens' bij 'Autogegevens' wordt niet gezien.
+- De knop 'Wijzig gegevens' bij 'Autogegevens' wordt niet gezien.
 - Men verwacht na een wijziging vanuit de pagina ‘Controle en verzenden’ weer op deze pagina terug te komen.
 
 ##### Navigatie
@@ -144,7 +144,7 @@ De gebruiker moet veel scrollen terwijl er maar weinig gegevens hoeven te worden
 
 ##### Aanbeveling
 
-Maak de pagina 'Gegevens aanvrager' compacter. Zijn er velden achter elkaar te plaatsen? Kunnen de voor ingevulde gegevens op een andere compactere manier worden weergegeven? Aanbeveling vanuit ROOS: Zorg dat een veld even lang is als de verwachte input. Een veld waar een huisnummer gevraagd wordt hoeft dus maar een paar karakters lang te zijn. Daarnaast, groepeer velden die bij elkaar horen en zet ze op dezelfde lijn zoals straatnaam, huisnummer, postcode en plaats. Zorg er wel voor dat het formulier maar 1 kolom heeft, maak er dus geen 2 kolommen van. 
+Maak de pagina 'Gegevens aanvrager' compacter. Zijn er velden achter elkaar te plaatsen? Kunnen de voor ingevulde gegevens op een andere compactere manier worden weergegeven? Aanbeveling vanuit ROOS: Zorg dat een veld even lang is als de verwachte input. Een veld waar een huisnummer gevraagd wordt hoeft dus maar een paar karakters lang te zijn. Daarnaast, groepeer velden die bij elkaar horen en zet ze op dezelfde lijn zoals straatnaam, huisnummer, postcode en plaats. Zorg er wel voor dat het formulier maar 1 kolom heeft, maak er dus geen 2 kolommen van.
 
 ![Screenshot van ...](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rvo_eloket-04.png)
 
@@ -412,15 +412,15 @@ Verwijs op de startpagina naar de voorwaarden van de regeling op rvo.nl. Wijs de
 
 ##### Bevinding
 
-Een respondent gaf aan dat de informatie op de startpagina over hoeveel geld er totaal beschikbaar is niet zoveel zegt. Hij geeft aan dat het nuttiger zou zijn als er staat hoeveel geld nog beschikbaar is op dat moment, zodat hij gelijk weet of het nog zin heeft om de aanvraag te starten. 
+Een respondent gaf aan dat de informatie op de startpagina over hoeveel geld er totaal beschikbaar is niet zoveel zegt. Hij geeft aan dat het nuttiger zou zijn als er staat hoeveel geld nog beschikbaar is op dat moment, zodat hij gelijk weet of het nog zin heeft om de aanvraag te starten.
 
 ##### Wat betekent dit?
 
-Informatie moet relevant zijn voor de aanvrager. Nu is het geschreven vanuit het perspectief van de overheid en niet vanuit het perspectief van de burger. 
+Informatie moet relevant zijn voor de aanvrager. Nu is het geschreven vanuit het perspectief van de overheid en niet vanuit het perspectief van de burger.
 
 ##### Aanbeveling
 
-Beschrijf op de startpagina hoeveel geld nog beschikbaar is en wat dat betekent voor de aanvrager. 
+Beschrijf op de startpagina hoeveel geld nog beschikbaar is en wat dat betekent voor de aanvrager.
 
 #### De eisen voor bijlagen zijn niet zichtbaar genoeg
 
@@ -428,7 +428,7 @@ Beschrijf op de startpagina hoeveel geld nog beschikbaar is en wat dat betekent 
 
 ##### Bevinding
 
-Een aantal respondenten gaven aan dat informatie ontbreekt over hoe bijlagen moeten worden toegevoegd. Het is niet duidelijk of het een foto, een pdf of een scan mag zijn. 
+Een aantal respondenten gaven aan dat informatie ontbreekt over hoe bijlagen moeten worden toegevoegd. Het is niet duidelijk of het een foto, een pdf of een scan mag zijn.
 
 ##### Wat betekent dit?
 
@@ -448,7 +448,7 @@ Het viel alle respondenten op dat op de ontvangstbevestigingspagina het woord �
 
 ##### Aanbeveling
 
-Pas de tekst aan en stem af op de SEPP-regeling. 
+Pas de tekst aan en stem af op de SEPP-regeling.
 
 #### Jargon wordt niet goed begrepen
 
@@ -656,4 +656,4 @@ Neem contact met ons op via [klantinzicht@rvo.nl](mailto:klantinzicht@rvo.nl)
 ## Bijlage
 
 - [PDF-document van het onderzoek]()
-- [eLoket design in Figma](https://www.figma.com/file/0uZR7vjufJq1T7AziFlNGa/eloket-(RVO-Design-System)?node-id=3693%3A18486&t=bh9pPtYeDITvN4Vu-1)
+- [eLoket design in Figma](<https://www.figma.com/file/0uZR7vjufJq1T7AziFlNGa/eloket-(RVO-Design-System)?node-id=3693%3A18486&t=bh9pPtYeDITvN4Vu-1>)
