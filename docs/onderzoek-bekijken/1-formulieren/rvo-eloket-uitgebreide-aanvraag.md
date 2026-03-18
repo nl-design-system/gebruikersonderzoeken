@@ -158,7 +158,7 @@ Een aantal respondenten klikt op de sterretjes en verwacht informatie te zien ne
 
 ##### Wat betekent dit?
 
-Het is onduidelijk wat het sterretje * betekent, omdat de toelichting '* verplicht veld' ver weg staat en het sterretje achter elke vraag staat.
+Het is onduidelijk wat het sterretje _ betekent, omdat de toelichting '_ verplicht veld' ver weg staat en het sterretje achter elke vraag staat.
 
 ##### Aanbeveling
 
