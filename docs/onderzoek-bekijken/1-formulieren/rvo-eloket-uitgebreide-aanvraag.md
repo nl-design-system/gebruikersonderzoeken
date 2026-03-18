@@ -88,7 +88,7 @@ De onderzoeksvraag van dit onderzoek is: Hoe ervaart de gebruiker het nieuwe ont
 
 ### Conclusie
 
-Over het algemeen wordt het formulier als 'makkelijk' ervaren, het invullen en verzenden lukt alle respondenten. Het scannen van de tekst en het begrijpen van waarschuwingsiconen gaat lastiger. Dit komt vooral doordat gelijke elementen niet overal op dezelfde manier worden gebruikt. Het opslaan van het formulier gaat soms mis en respondenten missen feedback van het systeem dat het formulier is opgeslagen. Ook is het niet altijd duidelijk hoe gegevens in het formulier kunnen worden gewijzigd. Het navigeren door het formulier gaat meestal goed, maar na tussentijds opslaan, formulier sluiten en verder gaan ontbreken de vinkjes in het menu en komt de respondent op een andere plek in het formulier terug dan de plek van sluiten, dit is verwarrend.
+Over het algemeen wordt het formulier als 'makkelijk' ervaren. Het invullen en verzenden lukt alle respondenten. Het scannen van de tekst en het begrijpen van waarschuwingsiconen gaat lastiger. Dit komt vooral doordat gelijke elementen niet overal op dezelfde manier worden gebruikt. Het opslaan van het formulier gaat soms mis en respondenten missen feedback van het systeem dat het formulier is opgeslagen. Ook is het niet altijd duidelijk hoe gegevens in het formulier kunnen worden gewijzigd. Het navigeren door het formulier gaat meestal goed, maar na tussentijds opslaan, formulier sluiten en verdergaan ontbreken de vinkjes in het menu en komt de respondent op een andere plek in het formulier terug dan op de plek van sluiten. Dit is verwarrend.
 
 #### Bevindingen
 
@@ -103,12 +103,12 @@ Gebruikers zijn onzeker of het formulier wel is opgeslagen, doordat de bevestigi
 ##### Wijzigen van de gegevens
 
 - De knop 'Wijzig gegevens' bij 'Autogegevens' wordt niet gezien.
-- Men verwacht na een wijziging vanuit de pagina ‘Controle en verzenden’ weer op deze pagina terug te komen.
+- Men verwacht na een wijziging vanuit de pagina 'Controle en verzenden' weer op deze pagina terug te komen.
 
 ##### Navigatie
 
-- Rode kruizen verschijnen in het menu na klikken door het menu en vinkjes in het menu verdwijnen na opslaan - sluiten - openen.
-- Men verwacht na opslaan verder te gaan bij laatst ingevulde pagina.
+- Rode kruizen verschijnen in het menu na klikken door het menu en vinkjes in het menu verdwijnen na opslaan, sluiten, openen.
+- Men verwacht na opslaan verder te gaan bij de laatst ingevulde pagina.
 
 ### Hoe ervaren de gebruikers het invullen en verzenden van het formulier?
 
@@ -122,7 +122,7 @@ Een respondent gaf aan dat de uitlijning en de opsommingstekens beter kunnen bij
 
 ##### Wat betekent dit?
 
-Op de startpagina staan de opsommingstekens dicht op elkaar en ze zijn niet goed uitgelijnd. Hierdoor is de informatie lastig te scannen. Verschillende onderzoeken laten zien dat gebruikers teksten niet woord-voor-woord lezen maar dat ze de tekst scannen.
+Op de startpagina staan de opsommingstekens dicht op elkaar en ze zijn niet goed uitgelijnd. Hierdoor is de informatie lastig te scannen. Verschillende onderzoeken laten zien dat gebruikers teksten niet woord voor woord lezen, maar dat ze de tekst scannen.
 
 ##### Aanbeveling
 
@@ -136,7 +136,7 @@ Maak van alle opsommingstekens bullet points en lijn de tekst op de startpagina 
 
 ##### Bevinding
 
-De pagina Gegevens aanvrager is een hele lange pagina maar er wordt heel weinig gevraagd. Kan dit niet compacter?
+De pagina 'Gegevens aanvrager' is een hele lange pagina maar er wordt heel weinig gevraagd. Kan dit niet compacter?
 
 ##### Wat betekent dit?
 
@@ -144,7 +144,7 @@ De gebruiker moet veel scrollen terwijl er maar weinig gegevens hoeven te worden
 
 ##### Aanbeveling
 
-Maak de pagina 'Gegevens aanvrager' compacter. Zijn er velden achter elkaar te plaatsen? Kunnen de voor ingevulde gegevens op een andere compactere manier worden weergegeven? Aanbeveling vanuit ROOS: Zorg dat een veld even lang is als de verwachte input. Een veld waar een huisnummer gevraagd wordt hoeft dus maar een paar karakters lang te zijn. Daarnaast, groepeer velden die bij elkaar horen en zet ze op dezelfde lijn zoals straatnaam, huisnummer, postcode en plaats. Zorg er wel voor dat het formulier maar 1 kolom heeft, maak er dus geen 2 kolommen van.
+Maak de pagina 'Gegevens aanvrager' compacter. Zijn er velden achter elkaar te plaatsen? Kunnen de voor ingevulde gegevens op een andere compactere manier worden weergegeven? Aanbeveling vanuit ROOS: Zorg dat een veld even lang is als de verwachte input. Een veld waar een huisnummer gevraagd wordt hoeft dus maar een paar karakters lang te zijn. Daarnaast, groepeer velden die bij elkaar horen en zet ze op dezelfde lijn, zoals straatnaam, huisnummer, postcode en plaats. Zorg er wel voor dat het formulier maar 1 kolom heeft, maak er dus geen 2 kolommen van.
 
 ![Screenshot van ...](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rvo_eloket-04.png)
 
@@ -154,15 +154,15 @@ Maak de pagina 'Gegevens aanvrager' compacter. Zijn er velden achter elkaar te p
 
 ##### Bevinding
 
-Een aantal respondenten klikt op de sterretjes en verwacht informatie te zien net zoals dat onder het ‘I-icoon’ staat. Een respondent verwacht dat hij gegevens kan wijzigen door op het sterretje te klikken, maar spreekt ook uit dat het sterretje staat voor ‘iets invullen’.
+Een aantal respondenten klikt op de sterretjes en verwacht informatie te zien net zoals onder het 'I-icoon' staat. Een respondent verwacht dat hij gegevens kan wijzigen door op het sterretje te klikken, maar spreekt ook uit dat het sterretje staat voor 'iets invullen'.
 
 ##### Wat betekent dit?
 
-Het is onduidelijk wat het sterretje* betekent, omdat de toelichting ‘*verplicht veld’ ver weg staat en het sterretje achter elke vraag staat.
+Het is onduidelijk wat het sterretje * betekent, omdat de toelichting '* verplicht veld' ver weg staat en het sterretje achter elke vraag staat.
 
 ##### Aanbeveling
 
-Haal alle sterretjes weg en zet achter vragen die niet verplicht zijn tussen haakjes ‘Niet verplicht’. Dit komt overeen met het advies van het NL Design System. Als vragen niet verplicht zijn, bedenk dan goed of de vraag wel nodig is (AVG).
+Haal alle sterretjes weg en zet achter vragen die niet verplicht zijn tussen haakjes 'Niet verplicht'. Dit komt overeen met het advies van het NL Design System. Als vragen niet verplicht zijn, bedenk dan goed of de vraag wel nodig is (AVG).
 
 #### De informatie iconen zijn niet overal gelijk
 
@@ -170,7 +170,7 @@ Haal alle sterretjes weg en zet achter vragen die niet verplicht zijn tussen haa
 
 ##### Bevinding
 
-Respondenten geven aan dat het duidelijk is dat ze op het 'i' icoon kunnen klikken voor meer informatie. Ze geven ook aan dat het ‘i' icoon dat verschijnt onder de vraag 'Is de elektrische auto nieuw of gebruikt?' heel klein is, anders dan bij andere vragen. Een respondent spreekt uit dat toelichtende informatie bij de vragen op verschillende manieren wordt gegeven.
+Respondenten geven aan dat het duidelijk is dat ze op het 'i' icoon kunnen klikken voor meer informatie. Ze geven ook aan dat het 'i' icoon dat verschijnt onder de vraag 'Is de elektrische auto nieuw of gebruikt?' heel klein is, anders dan bij andere vragen. Een respondent spreekt uit dat toelichtende informatie bij de vragen op verschillende manieren wordt gegeven.
 
 ##### Wat betekent dit?
 
@@ -196,7 +196,7 @@ De oranje/gele kleur geeft het gevoel dat er iets fout is gegaan. Dit kan ervoor
 
 ##### Aanbeveling
 
-Vervang de waarschuwingsmelding door een i-icoon met toelichtingstekst (Expandable helper tekst), zoals in het ROOS systeem staat. Hierdoor komt het niet meer over als een fout maar geef je toch de belangrijke info weer. Zorg ervoor dat meldingen altijd tussen de subtitel en het invulveld staan. Vergeet niet ook de waarschuwingsmeldingen op de pagina ‘controle en verzenden' weg te halen.
+Vervang de waarschuwingsmelding door een i-icoon met toelichtingstekst (Expandable helper tekst), zoals in het ROOS systeem staat. Hierdoor komt het niet meer over als een fout maar geef je toch de belangrijke info weer. Zorg ervoor dat meldingen altijd tussen de subtitel en het invulveld staan. Vergeet niet ook de waarschuwingsmeldingen op de pagina 'Controle en verzenden' weg te halen.
 
 ![Screenshot van ...](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rvo_eloket-09.png)
 
@@ -206,15 +206,15 @@ Vervang de waarschuwingsmelding door een i-icoon met toelichtingstekst (Expandab
 
 ##### Bevinding
 
-Na het selecteren van een autobedrijf vinden respondenten de gegevens onoverzichtelijk. Een respondent klikt op de tekst 'Selecteer RDW erkend autobedrijf' en vervolgens op het rode sterretje. Ook zien de meeste respondenten het ‘Verwijder autobedrijf gegevens’ niet. Een respondent geeft aan dat hij het nummer van het autobedrijf verwarrend vind, hij ziet liever direct de naam van het bedrijf bovenaan staan.
+Na het selecteren van een autobedrijf vinden respondenten de gegevens onoverzichtelijk. Een respondent klikt op de tekst 'Selecteer RDW erkend autobedrijf' en vervolgens op het rode sterretje. Ook zien de meeste respondenten het 'Verwijder autobedrijf gegevens' niet. Een respondent geeft aan dat hij het nummer van het autobedrijf verwarrend vind, hij ziet liever direct de naam van het bedrijf bovenaan staan.
 
 ##### Wat betekent dit?
 
-Het woord 'Selecteer' is verwarrend, de respondent denkt dat hij letterlijk iets kan selecteren. Daarnaast is het verwarrend dat deze tekst er überhaupt staat na het selecteren als men dat net heeft gedaan. Ook leest men over ‘verwijder autobedrijfgegevens’ heen, omdat het visueel gezien niet opvalt tussen de tekst.
+Het woord 'Selecteer' is verwarrend, de respondent denkt dat hij letterlijk iets kan selecteren. Daarnaast is het verwarrend dat deze tekst er überhaupt staat na het selecteren als men dat net heeft gedaan. Ook leest men over 'Verwijder autobedrijfgegevens' heen, omdat het visueel gezien niet opvalt tussen de tekst.
 
 ##### Aanbeveling
 
-Verwijder de tekst ‘Selecteer RDW erkend autobedrijf’ en ‘Vink aan wanneer uw autobedrijf niet in de lijst staat’. Zet de naam van het autobedrijf bovenaan en zet het nummer daaronder. Verplaats ‘Verwijder autobedrijf gegevens’ naar beneden onder alle gegevens.
+Verwijder de tekst 'Selecteer RDW erkend autobedrijf' en 'Vink aan wanneer uw autobedrijf niet in de lijst staat'. Zet de naam van het autobedrijf bovenaan en zet het nummer daaronder. Verplaats 'Verwijder autobedrijf gegevens' naar beneden onder alle gegevens.
 
 #### Niet duidelijk dat men kan klikken op het zoekicoon
 
@@ -222,7 +222,7 @@ Verwijder de tekst ‘Selecteer RDW erkend autobedrijf’ en ‘Vink aan wanneer
 
 ##### Bevinding
 
-De meeste respondenten klikken in de witte balk van het invulveld ‘Selecteer RDW erkend autobedrijf’ voor het selecteren van een autobedrijf en starten direct met typen. Echter werkt het toetsenbord hier niet. Vervolgens zetten ze een vinkje dat autobedrijf niet in de lijst staat en vullen de gegevens handmatig in. Zij begrijpen niet dat je op het blauwe zoek-icoon kan klikken.
+De meeste respondenten klikken in de witte balk van het invulveld 'Selecteer RDW erkend autobedrijf' voor het selecteren van een autobedrijf en starten direct met typen. Echter werkt het toetsenbord hier niet. Vervolgens zetten ze een vinkje dat het autobedrijf niet in de lijst staat en vullen de gegevens handmatig in. Zij begrijpen niet dat je op het blauwe zoek-icoon kan klikken.
 
 ##### Wat betekent dit?
 
@@ -230,7 +230,7 @@ Het toetsenbord werkt niet als men wil typen in de witte balk. Daarnaast begrijp
 
 ##### Aanbeveling
 
-Zorg ervoor dat bij het klikken op de witte balk van ‘Selecteer RDW erkend autobedrijf’ men direct kan typen en voeg tekst toe aan de button 'Open lijst van RDW erkende autobedrijven'.
+Zorg ervoor dat bij het klikken op de witte veld van 'Selecteer RDW erkend autobedrijf' men direct kan typen en voeg tekst toe aan de button 'Open lijst van RDW erkende autobedrijven'.
 
 ![Screenshot van ...](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rvo_eloket-12.png)
 
@@ -262,11 +262,11 @@ Een respondent zag na het uploaden van de bijlage niet duidelijk dat het bestand
 
 ##### Wat betekent dit?
 
-Bij het uploaden van de bijlage verschijnt het bestand bovenaan terwijl de tekst onder ‘Nog toevoegen’ gelijk blijft. Het is niet duidelijk of een bestand is toegevoegd of niet.
+Bij het uploaden van de bijlage verschijnt het bestand bovenaan terwijl de tekst onder 'Nog toevoegen' gelijk blijft. Het is niet duidelijk of een bestand is toegevoegd of niet.
 
 ##### Aanbeveling
 
-Gebruik een inputveld waarin gebruikers een document kunnen selecteren en uploaden (zie screenshot). Als dit niet mogelijk is, plaats de tabel ‘Toegevoegde bijlage’ onder het bestand dat is geüpload in plaats van erboven, zodat het opvalt dat een bestand is toegevoegd.
+Gebruik een inputveld waarin gebruikers een document kunnen selecteren en uploaden (zie screenshot). Als dit niet mogelijk is, plaats de tabel 'Toegevoegde bijlage' onder het bestand dat is geüpload in plaats van erboven, zodat het opvalt dat een bestand is toegevoegd.
 
 ![Screenshot van ...](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rvo_eloket-16.png)
 
@@ -288,7 +288,7 @@ Maak downloaden / openen van een geüpload bestand mogelijk. Als dit niet mogeli
 
 ![Screenshot van ...](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rvo_eloket-18.png)
 
-#### Titel en subtitels op ‘Controle en verzenden’ niet overal gelijk
+#### Titel en subtitels op 'Controle en verzenden' niet overal gelijk
 
 ![Screenshot van ...](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rvo_eloket-19.png)
 
@@ -298,21 +298,21 @@ Een respondent gaf aan dat de spaties rondom de titel op de pagina 'Controle en 
 
 ##### Wat betekent dit?
 
-De titel en subtitels zijn niet overal gelijk. Zo komt de naam van de titel ‘Controleren’ niet overeen met de naam van de stap ‘Controle en verzenden’ in het menu. Ook is de hoofdtitel kleiner dan de hoofdtitels op andere pagina’s en zijn de subtitels groter dan de hoofdtitel.
+De titel en subtitels zijn niet overal gelijk. Zo komt de naam van de titel 'Controleren' niet overeen met de naam van de stap 'Controle en verzenden' in het menu. Ook is de hoofdtitel kleiner dan de hoofdtitels op andere pagina's en zijn de subtitels groter dan de hoofdtitel.
 
 ##### Aanbeveling
 
-Wijzig de titel ‘Controleren’ naar ‘Controle en verzenden’ en maak de tekst groter. Maak daarnaast de subtitels ‘Gegevens aanvrager’, ‘Autogegevens’ en ‘Bijlagen’ net zo klein als de subtitel ‘Verklaringen’. Zet ook de subtitel ‘Autogegevens’ boven het grijze vlak. Om alles gelijk te houden door het hele formulier is het ook nodig om de titel ‘Autogegevens’ op de pagina ‘Autogegevens’ boven het grijze vlak te zetten net zoals op de andere pagina’s.
+Wijzig de titel 'Controleren' naar 'Controle en verzenden' en maak de tekst groter. Maak daarnaast de subtitels 'Gegevens aanvrager', 'Autogegevens' en 'Bijlagen' net zo klein als de subtitel 'Verklaringen'. Zet ook de subtitel 'Autogegevens' boven het grijze vlak. Om alles gelijk te houden door het hele formulier is het ook nodig om de titel 'Autogegevens' op de pagina 'Autogegevens' boven het grijze vlak te zetten net zoals op de andere pagina's.
 
 ![Screenshot van ...](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rvo_eloket-20.png)
 
-#### Tekst onder ‘Verklaringen’ is moeilijk te scannen
+#### Tekst onder 'Verklaringen' is moeilijk te scannen
 
 ![Screenshot van ...](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rvo_eloket-21.png)
 
 ##### Bevinding
 
-Meerdere respondenten gaven aan dat de tekst onder ‘Verklaringen’ op de pagina ‘Controle en verzenden’ chaotisch is. Een respondent zei: “Weet ook niet waarom dit open rondjes zijn“.
+Meerdere respondenten gaven aan dat de tekst onder 'Verklaringen' op de pagina 'Controle en verzenden' chaotisch is. Een respondent zei: “Weet ook niet waarom dit open rondjes zijn“.
 
 ##### Wat betekent dit?
 
@@ -330,7 +330,7 @@ Maak de rondjes van de opsommingen gesloten en lijn de tekst netjes uit. Zorg oo
 
 ##### Bevinding
 
-Een respondent zei dat op de pagina ’Controle en verzenden' een loos grijs blok staat onder 'Bijlage'.
+Een respondent zei dat op de pagina 'Controle en verzenden' een loos grijs blok staat onder 'Bijlage'.
 
 ##### Wat betekent dit?
 
@@ -348,11 +348,11 @@ Verwijder het grijze blok onder de tabel onder 'Bijlage' op de 'Controle en verz
 
 ##### Bevinding
 
-Voor de meeste respondenten is het niet duidelijk wat de vervolgstappen zijn als zij op de pagina Ontvangstbevestiging zijn De verwachting is dat de communicatie via de mail verloopt, maar daar is onzekerheid over. Een respondent navigeert terug naar ‘Gegevens aanvrager’ om te checken of zijn e-mailadres juist is ingevuld.
+Voor de meeste respondenten is het niet duidelijk wat de vervolgstappen zijn als zij op de pagina 'Ontvangstbevestiging' zijn. De verwachting is dat de communicatie via de mail verloopt, maar daar is onzekerheid over. Een respondent navigeert terug naar 'Gegevens aanvrager' om te checken of zijn e-mailadres juist is ingevuld.
 
 ##### Wat betekent dit?
 
-De respondent die terug navigeerde is opzoek naar bevestiging. Hij wil er zeker van zijn dat hij het goed heeft gedaan.
+De respondent die terug navigeerde is op zoek naar bevestiging. Hij wil er zeker van zijn dat hij het goed heeft gedaan.
 
 ##### Aanbeveling
 
@@ -364,7 +364,7 @@ Geef op de ontvangstbevestiging pagina aan wat de vervolgstappen zijn en geef aa
 
 ##### Bevinding
 
-Een respondent navigeert terug na het indienen van het formulier. Hij kan nog steeds het vinkje onder ‘Verklaringen’ aan en uit zetten.
+Een respondent navigeert terug na het indienen van het formulier. Hij kan nog steeds het vinkje onder 'Verklaringen' aan en uit zetten.
 
 ##### Wat betekent dit?
 
@@ -372,7 +372,7 @@ De respondent is op zoek naar bevestiging. Hij wil er zeker van zijn dat hij het
 
 ##### Aanbeveling
 
-Zorg ervoor dat het vinkje onder verklaringen niet meer aan te passen is na het verzenden van het formulier en laat zien dat het vinkje ‘aan’ staat. Verwijder ook de ‘verzenden’ button.
+Zorg ervoor dat het vinkje onder verklaringen niet meer aan te passen is na het verzenden van het formulier en laat zien dat het vinkje 'aan' staat. Verwijder ook de 'Verzenden' button.
 
 #### Vooraf is niet duidelijk welke documenten nodig zijn
 
@@ -390,13 +390,13 @@ Als men tijdens het invullen er pas achter komt welke documenten nodig zijn om t
 
 Beschrijf op de startpagina goed welke documenten nodig zijn om het formulier compleet in te kunnen vullen.
 
-#### Informatie onder ‘verklaringen’ komt als een verrassing
+#### Informatie onder 'verklaringen' komt als een verrassing
 
 ![Screenshot van ...](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rvo_eloket-28.png)
 
 ##### Bevinding
 
-Een respondent gaf aan dat de eerste 2-3 punten onder ‘verklaringen’ als een verrassing komen. Ze vraagt zich af wat de gevolgen zijn als ze niet kan voldoen aan deze eisen, maar dat wordt nergens uitgelegd.
+Een respondent gaf aan dat de eerste 2-3 punten onder 'verklaringen' als een verrassing komen. Ze vraagt zich af wat de gevolgen zijn als ze niet kan voldoen aan deze eisen, maar dat wordt nergens uitgelegd.
 
 ##### Wat betekent dit?
 
@@ -404,7 +404,7 @@ Nieuwe informatie bij verklaringen kan voor angst zorgen. Het roept nieuwe vrage
 
 ##### Aanbeveling
 
-Verwijs op de startpagina naar de voorwaarden van de regeling op rvo.nl. Wijs de aanvrager erop deze te lezen voordat een aanvraag wordt ingediend. Onder verklaringen kan ook deze link geplaatst worden naar rvo.nl
+Verwijs op de startpagina naar de voorwaarden van de regeling op rvo.nl. Wijs de aanvrager erop deze te lezen voordat een aanvraag wordt ingediend. Onder verklaringen kan ook deze link geplaatst worden naar rvo.nl.
 
 #### Informatie op startpagina over geld is niet relevant genoeg
 
@@ -432,19 +432,19 @@ Een aantal respondenten gaven aan dat informatie ontbreekt over hoe bijlagen moe
 
 ##### Wat betekent dit?
 
-De informatie over de eisen van de bijlagen ziet men pas wanneer er op ‘bestand toevoegen’ is geklikt in een pop-up. Dit is te laat, want als men bestanden in een niet toegestaan type klaar heeft staan zorgt dit voor frustratie.
+De informatie over de eisen van de bijlagen ziet men pas wanneer er op 'bestand toevoegen' is geklikt in een pop-up. Dit is te laat, want als men bestanden in een niet toegestaan type klaar heeft staan zorgt dit voor frustratie.
 
 ##### Aanbeveling
 
-Geef met tekst aan wat de eisen zijn van de bijlagen (zie screenshot). Als dit niet mogelijk is, voeg dan tekst toe achter de zin ‘Voeg hier de koopovereenkomst toe’.
+Geef met tekst aan wat de eisen zijn van de bijlagen (zie screenshot). Als dit niet mogelijk is, voeg dan tekst toe achter de zin 'Voeg hier de koopovereenkomst toe'.
 
 ![Screenshot van ...](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rvo_eloket-31.png)
 
-#### Fout in tekst op ontvangstbevestiging pagina ‘zonnepanelen’
+#### Fout in tekst op ontvangstbevestiging pagina 'zonnepanelen'
 
 ##### Bevinding
 
-Het viel alle respondenten op dat op de ontvangstbevestigingspagina het woord ‘Zonnepanelen’ staat.
+Het viel alle respondenten op dat op de ontvangstbevestigingspagina het woord 'Zonnepanelen' staat.
 
 ##### Aanbeveling
 
@@ -456,7 +456,7 @@ Pas de tekst aan en stem af op de SEPP-regeling.
 
 ##### Bevinding
 
-Een respondent gaf aan ‘penvoerder’ en ‘datum 1e toelating’ niet te begrijpen. Een andere respondent vroeg zich af waarom ‘IBAN’ niet gewoon ‘bankrekeningnummer’ heette. En alle respondenten wisten niet direct wat ‘BIC’ betekende.
+Een respondent gaf aan 'penvoerder' en 'datum 1e toelating' niet te begrijpen. Een andere respondent vroeg zich af waarom 'IBAN' niet gewoon 'bankrekeningnummer' heette. En alle respondenten wisten niet direct wat 'BIC' betekende.
 
 ##### Wat betekent dit?
 
@@ -464,7 +464,7 @@ Veel jargon dat duidelijk is voor werknemers van RVO is niet duidelijk voor alle
 
 ##### Aanbeveling
 
-Gebruik begrijpelijke, makkelijke taal en vermijd jargon als ‘penvoerder’ en ‘datum 1e toelating’. Als dit niet mogelijk is, geef dan goede toelichting bij een moeilijk woord onder een informatie icoon.
+Gebruik begrijpelijke, makkelijke taal en vermijd jargon als 'penvoerder' en 'datum 1e toelating'. Als dit niet mogelijk is, geef dan goede toelichting bij een moeilijk woord onder een informatie icoon.
 
 ### Hoe ervaren de gebruikers het pauzeren en opslaan van het formulier?
 
@@ -510,9 +510,9 @@ Pas de werking van het opslaan van het formulier aan zodat deze ook met foutmeld
 
 ##### Bevinding
 
-Het is niet duidelijk of het formulier is opgeslagen na klikken op de knop ‘Opslaan’. Vaak gebeurt er niks, maar soms verschijnt de melding Uw aanvraag is opgeslagen. Klik je daarna op Formulier sluiten dan krijg je melding dat je alleen kan sluiten zonder op te slaan. Dit zorgt voor onzekerheid, is het formulier wel of niet opgeslagen?
+Het is niet duidelijk of het formulier is opgeslagen na klikken op de knop 'Opslaan'. Vaak gebeurt er niks, maar soms verschijnt de melding Uw aanvraag is opgeslagen. Klik je daarna op Formulier sluiten dan krijg je melding dat je alleen kan sluiten zonder op te slaan. Dit zorgt voor onzekerheid, is het formulier wel of niet opgeslagen?
 
-Een respondent vindt deze melding voor opslaan gek. Hij heeft al op 'opslaan’ geklikt. Vraagt zich af waar het nu is opgeslagen.
+Een respondent vindt deze melding voor opslaan gek. Hij heeft al op 'opslaan' geklikt. Vraagt zich af waar het nu is opgeslagen.
 
 ##### Wat betekent dit?
 
@@ -530,7 +530,7 @@ Maak duidelijk door meldingen of pop-up scherm wat er gebeurt na klikken op opsl
 
 ##### Bevinding
 
-De respondenten die handmatig een autobedrijf hebben ingevuld zien niet de link Verwijder autobedrijfgegevens. Ze passen de naam aan in het veld.
+De respondenten die handmatig een autobedrijf hebben ingevuld zien niet de link 'Verwijder autobedrijfgegevens'. Ze passen de naam aan in het veld.
 
 ##### Wat betekent dit?
 
@@ -546,15 +546,15 @@ Maak een duidelijk knop in plaats van een link. Plaats deze knop dichterbij de i
 
 ##### Bevinding
 
-Respondent krijgt de opdracht het e-mailadres niet in te vullen. Op de pagina Controleren verschijnt de foutmelding. De respondent klikt in de melding op Ga naar pagina om het e-mailadres in te vullen. Na het invullen van het e-mailadres op de pagina Gegevens aanvrager verwacht de respondent na klikken op Volgende terug te gaan naar Controleren maar de route gaat naar de pagina Autogegevens.
+Respondent krijgt de opdracht het e-mailadres niet in te vullen. Op de pagina 'Controleren' verschijnt de foutmelding. De respondent klikt in de melding op 'Ga naar pagina' om het e-mailadres in te vullen. Na het invullen van het e-mailadres op de pagina 'Gegevens aanvrager' verwacht de respondent na klikken op 'Volgende' terug te gaan naar 'Controleren', maar de route gaat naar de pagina 'Autogegevens'.
 
 ##### Wat betekent dit?
 
-Vanuit Controleren klik je op Ga naar pagina om de melding op te lossen. Daarna moet je weer het hele formulier door om bij Controleren terug te komen. Dit is omslachtig en verwarrend voor de gebruiker.
+Vanuit 'Controleren' klik je op 'Ga naar pagina' om de melding op te lossen. Daarna moet je weer het hele formulier door om bij 'Controleren' terug te komen. Dit is omslachtig en verwarrend voor de gebruiker.
 
 ##### Aanbeveling
 
-Als vanuit de pagina ‘Controleren' een foutmelding wordt opgelost zorg dan voor een pad dat direct terug gaat naar Controleren.
+Als vanuit de pagina 'Controleren' een foutmelding wordt opgelost, zorg dan voor een pad dat direct teruggaat naar 'Controleren'.
 
 #### Formulier bekijken na verzenden
 
@@ -562,7 +562,7 @@ Als vanuit de pagina ‘Controleren' een foutmelding wordt opgelost zorg dan voo
 
 ##### Bevinding
 
-Open je een verzonden formulier vanuit het portaal dan lijkt het veld 'Kenteken' nog aanpasbaar te zijn. Ook is bij Verklaringen het vinkje verdwenen. Vink je dit weer aan dan kun je het formulier weer verzenden.
+Open je een verzonden formulier vanuit het portaal, dan lijkt het veld 'Kenteken' nog aanpasbaar te zijn. Ook is bij Verklaringen het vinkje verdwenen. Vink je dit weer aan, dan kun je het formulier weer verzenden.
 
 ##### Wat betekent dit?
 
@@ -592,21 +592,21 @@ Zorg dat er alleen een foutmelding/rood kruis in het menu verschijnt nadat een p
 
 ![Screenshot van ...](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rvo_eloket-41.png)
 
-#### Navigatie labels ‘Kom ik in aanmerking en ‘Aanvullende vragen’ is dubbelop
+#### Navigatie labels 'Kom ik in aanmerking en 'Aanvullende vragen' is dubbelop
 
 ![Screenshot van ...](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rvo_eloket-42.png)
 
 ##### Bevinding
 
-In het menu staat het label ‘Kom ik in aanmerking’ en daaronder het label ‘Aanvullende vragen’. Deze twee labels verwijzen naar dezelfde pagina. Een respondent klikte op "Kom ik in aanmerking" en vervolgens op ‘Aanvullende vragen’. Hij bleef heen en weer klikken en begreep niet dat dit dezelfde pagina was.
+In het menu staat het label 'Kom ik in aanmerking' en daaronder het label 'Aanvullende vragen'. Deze twee labels verwijzen naar dezelfde pagina. Een respondent klikte op 'Kom ik in aanmerking' en vervolgens op 'Aanvullende vragen'. Hij bleef heen en weer klikken en begreep niet dat dit dezelfde pagina was.
 
 ##### Wat betekent dit?
 
-Twee verschillende labels die naar dezelfde pagina verwijzen is verwarrend. Als je op het label ‘Aanvullende vragen’ klikt is de verwachting op een andere pagina uit te komen.
+Twee verschillende labels die naar dezelfde pagina verwijzen zijn verwarrend. Als je op het label 'Aanvullende vragen' klikt, is de verwachting dat je op een andere pagina uitkomt.
 
 ##### Aanbeveling
 
-Maak geen gebruik van verschillende labels die naar dezelfde pagina verwijzen. Dit is verwarrend. Haal het label ‘Aanvullende vragen’ weg.
+Maak geen gebruik van verschillende labels die naar dezelfde pagina verwijzen. Dit is verwarrend. Haal het label 'Aanvullende vragen' weg.
 
 #### Terugkeren na opslaan
 
@@ -642,7 +642,7 @@ Zorg dat een formulier exact zo wordt weergegeven als dat het is opgeslagen door
 
 ## Opzet onderzoek
 
-De methode van dit onderzoek was het uitvoeren van een ‘gebruiksvriendelijkheidonderzoek’. De gebruiksvriendelijkheid van het nieuwe formulier in eLoket werd getest in het UX lab van RVO in Assen. Er zijn 5 particulieren uitgenodigd die samen met de klantonderzoekers een subsidieaanvraag hebben gedaan in de testomgeving. Het formulier van de SEPP-regeling werd als voorbeeld genomen. De bevindingen zijn opgenomen in dit rapport.
+De methode van dit onderzoek was het uitvoeren van een 'gebruiksvriendelijkheidonderzoek'. De gebruiksvriendelijkheid van het nieuwe formulier in eLoket werd getest in het UX lab van RVO in Assen. Er zijn 5 particulieren uitgenodigd die samen met de klantonderzoekers een subsidieaanvraag hebben gedaan in de testomgeving. Het formulier van de SEPP-regeling werd als voorbeeld genomen. De bevindingen zijn opgenomen in dit rapport.
 
 ## Contactinformatie
 
