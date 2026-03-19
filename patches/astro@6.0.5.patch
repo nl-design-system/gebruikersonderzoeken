@@ -1,0 +1,13 @@
+diff --git a/dist/vite-plugin-scripts/index.js b/dist/vite-plugin-scripts/index.js
+index aca63803717e4519e06219d229e7f23ae0e73346..f4c80d2db68ed28d23502a72cdd696fd5ae9aef4 100644
+--- a/dist/vite-plugin-scripts/index.js
++++ b/dist/vite-plugin-scripts/index.js
+@@ -38,7 +38,7 @@ function astroScriptsPlugin({ settings }) {
+     },
+     buildStart() {
+       const hasHydrationScripts = settings.scripts.some((s) => s.stage === "before-hydration");
+-      if (hasHydrationScripts && (this.environment.name === ASTRO_VITE_ENVIRONMENT_NAMES.client || this.environment.name === ASTRO_VITE_ENVIRONMENT_NAMES.prerender || this.environment.name === ASTRO_VITE_ENVIRONMENT_NAMES.ssr)) {
++      if (hasHydrationScripts && !this.meta.watchMode && (this.environment.name === ASTRO_VITE_ENVIRONMENT_NAMES.client || this.environment.name === ASTRO_VITE_ENVIRONMENT_NAMES.prerender || this.environment.name === ASTRO_VITE_ENVIRONMENT_NAMES.ssr)) {
+         this.emitFile({
+           type: "chunk",
+           id: BEFORE_HYDRATION_SCRIPT_ID,
