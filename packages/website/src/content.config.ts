@@ -1,7 +1,8 @@
 import { CoverSchema } from '@schemas/cover.ts';
 import iconList from '@tabler/icons-react/dist/esm/icons-list.mjs';
-import { defineCollection, reference, z } from 'astro:content';
+import { defineCollection, reference } from 'astro:content';
 import { glob } from 'astro/loaders'; // Not available with legacy API
+import { z } from 'astro/zod';
 
 const onderzoeken = defineCollection({
   loader: glob({ base: '../../docs/onderzoek-bekijken/', pattern: '**/!(_)(*).md' }),
@@ -19,7 +20,7 @@ const onderzoeken = defineCollection({
       // Having it excluded from the frontmatter, makes frontmatter much easier to work with
       .transform((string) => (string ? string.replace(/^[Ss]amengevat:(\s)?/, '') : string)),
     target_group: z.union([z.array(z.string()), z.string()]).optional(),
-    themes: z.array(reference('themes')).default(['overig']),
+    themes: z.array(reference('themes')).prefault(['overig']),
     title: z.string(),
     type: z.union([z.array(z.string()), z.string()]).optional(),
   }),
