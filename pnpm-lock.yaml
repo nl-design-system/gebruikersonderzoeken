@@ -653,16 +653,16 @@ importers:
     devDependencies:
       '@babel/plugin-transform-runtime':
         specifier: 7.28.5
-        version: 7.28.5(@babel/core@7.28.6)
+        version: 7.28.5(@babel/core@7.29.0)
       '@babel/preset-env':
         specifier: 7.28.0
-        version: 7.28.0(@babel/core@7.28.6)
+        version: 7.28.0(@babel/core@7.29.0)
       '@babel/preset-react':
         specifier: 7.27.1
-        version: 7.27.1(@babel/core@7.28.6)
+        version: 7.27.1(@babel/core@7.29.0)
       '@babel/preset-typescript':
         specifier: 7.27.1
-        version: 7.27.1(@babel/core@7.28.6)
+        version: 7.27.1(@babel/core@7.29.0)
       '@babel/runtime':
         specifier: 7.28.2
         version: 7.28.2
