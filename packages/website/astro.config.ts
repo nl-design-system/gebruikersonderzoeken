@@ -11,13 +11,13 @@ import { removeH1FromMarkdown } from './markdown-plugins/remark-remove-h1/index.
 const siteUrl = 'https://gebruikersonderzoeken.nl';
 
 const cspDevConfig: AstroUserConfig = {
-  experimental: {
+  security: {
     csp: false,
   },
 };
 
 const cspProdConfig: AstroUserConfig = {
-  experimental: {
+  security: {
     csp: {
       directives: [
         "base-uri 'self'",
@@ -44,9 +44,6 @@ export default defineConfig({
   devToolbar: {
     enabled: false,
   },
-  experimental: {
-    csp: cspConfig.experimental?.csp,
-  },
   integrations: [
     react(),
     sitemap({
@@ -59,6 +56,9 @@ export default defineConfig({
   markdown: {
     rehypePlugins: [nldsComponentsRehypePlugin, addTrailingSlashPlugin({ siteUrl, stripOrigin: true })],
     remarkPlugins: [nldsComponentsRemarkPlugin, coverPlugin, removeH1FromMarkdown({ filter: 'onderzoek-bekijken' })],
+  },
+  security: {
+    csp: cspConfig.security?.csp,
   },
   site: siteUrl,
   vite: {
