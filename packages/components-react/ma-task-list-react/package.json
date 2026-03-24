@@ -21,7 +21,7 @@
   },
   "repository": {
     "type": "git+ssh",
-    "url": "git@github.com:nl-design-system/candidate.git",
+    "url": "git@github.com:nl-design-system/gebruikersonderzoeken.git",
     "directory": "packages/components-react/ma-task-list-react"
   },
   "private": false,
