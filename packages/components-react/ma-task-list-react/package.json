@@ -1,7 +1,7 @@
 {
   "name": "@nl-design-system-community/ma-task-list-react",
   "author": "Community for NL Design System",
-  "version": "0.0.3",
+  "version": "0.0.4",
   "description": "React implementatie voor de MA Task List component",
   "keywords": [
     "nl-design-system"

@@ -1,5 +1,13 @@
 # @nl-design-system-community/gebruikersonderzoeken.nl
 
+## 0.0.5
+
+### Patch Changes
+
+- Updated dependencies [d655c54]
+  - @nl-design-system-community/ma-task-list-css@0.0.3
+  - @nl-design-system-community/ma-task-list-react@0.0.4
+
 ## 0.0.4
 
 ### Patch Changes
