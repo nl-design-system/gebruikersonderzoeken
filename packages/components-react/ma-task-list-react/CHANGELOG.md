@@ -1,5 +1,11 @@
 # @nl-design-system-community/ma-task-list-react
 
+## 0.0.5
+
+### Patch Changes
+
+- a8df056: Add a prop for the headingLevelAppearance
+
 ## 0.0.4
 
 ### Patch Changes
