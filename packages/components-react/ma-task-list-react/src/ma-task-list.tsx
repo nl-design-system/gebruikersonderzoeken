@@ -10,6 +10,7 @@ export interface TaskListItemProps extends HTMLAttributes<HTMLLIElement> {
   description: string;
   checked: boolean;
   headingLevel?: HeadingLevel;
+  headingLevelAppearance?: HeadingLevel;
 }
 
 export interface TaskListProps extends HTMLAttributes<HTMLUListElement> {
@@ -29,7 +30,16 @@ export const TaskList = forwardRef<HTMLUListElement, TaskListProps>(function Tas
 TaskList.displayName = 'TaskList';
 
 export const TaskListItem = forwardRef<HTMLLIElement, TaskListItemProps>(function TaskListItem(props, forwardedRef) {
-  const { checked, children, className, description, heading, headingLevel = 3, ...restProps } = props;
+  const {
+    checked,
+    children,
+    className,
+    description,
+    heading,
+    headingLevel = 3,
+    headingLevelAppearance,
+    ...restProps
+  } = props;
   return (
     <li ref={forwardedRef} className={clsx('ma-task-list-item', className)} {...restProps}>
       <div
@@ -55,7 +65,7 @@ export const TaskListItem = forwardRef<HTMLLIElement, TaskListItemProps>(functio
       </div>
       <div>
         {heading ? (
-          <Heading appearance="level-3" level={headingLevel}>
+          <Heading appearance={`level-${headingLevelAppearance || headingLevel}`} level={headingLevel}>
             {heading}
           </Heading>
         ) : null}
