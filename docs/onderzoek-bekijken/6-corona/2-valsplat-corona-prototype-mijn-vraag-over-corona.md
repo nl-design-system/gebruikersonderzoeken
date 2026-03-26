@@ -88,4 +88,4 @@ Kwalitatieve UX test. 1-op-1 interviews (remote, via smartphone) waarbij respond
 Bij vragen over dit onderwerp kan je terecht bij:
 
 - [Valsplat](https://www.valsplat.nl) - Research & Design bureau
-- [Paul van Sommeren](mailto:paul@valsplat.nl) en Niel van Middelkoop
+- Niel van Middelkoop
