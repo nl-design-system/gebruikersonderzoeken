@@ -158,4 +158,4 @@ Kwalitatieve UX test. 1-op-1 interviews (bij Happy Labs, Amsterdam) waarbij resp
 Bij vragen over dit onderwerp kan je terecht bij:
 
 - [Valsplat](https://www.valsplat.nl) - Research & Design lab
-- [Paul van Sommeren - paul@valsplat.nl](mailto:paul@valsplat.nl) en Jikke de Hoop
+- Jikke de Hoop

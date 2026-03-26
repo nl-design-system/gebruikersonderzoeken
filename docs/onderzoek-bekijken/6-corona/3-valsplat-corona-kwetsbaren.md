@@ -95,4 +95,3 @@ Respondenten zijn geselecteerd op (medische) kwetsbaarheid, waarbij ze het in ze
 Bij vragen over dit onderwerp kan je terecht bij:
 
 - [Valsplat](https://www.valsplat.nl) - Research & Design bureau
-- [Paul van Sommeren](mailto:paul@valsplat.nl)
