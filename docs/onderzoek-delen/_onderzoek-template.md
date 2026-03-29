@@ -17,7 +17,7 @@ tags:
   - ((tag 2))
   - ((tag 3))
 themes:
-  - ((Deze themas worden gebruikt om onderzoeken op de homepage te vinden en met een badge navigatie aan elkaar te relateren. Kies een thema uit de lijst))
+  - ((Deze thema's worden gebruikt om onderzoeken op de homepage te vinden en met een badge navigatie aan elkaar te relateren. Kies een thema uit de lijst))
   - ((diensten-en-processen))
   - ((doelgroep-specifiek))
   - ((formulieren))
@@ -29,7 +29,8 @@ themes:
   - ((taal-en-begrijpelijkheid))
   - ((toegankelijkheid))
 conducted_by:
-  - ((Lijst van organisaties die het onderzoek hebben utigevoerd))
+  - ((Lijst van organisaties die het onderzoek hebben uitgevoerd))
+client: ((Organisatie de de opdracht heeft gegeven om het onderzoek uit te voeren))
 date_added: ((in te vullen door degene die het onderzoek op de website publiceert))
 date_conducted: ((datum van het onderzoek. Vul de datum van het laatste onderzoek in wanneer het verslag over meerdere iteraties gaat))
 target_group: ((niet verplicht - beschrijf de doelgroep voor het onderzoek))
