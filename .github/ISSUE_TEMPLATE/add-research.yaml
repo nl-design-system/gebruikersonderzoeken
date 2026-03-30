@@ -92,6 +92,15 @@ body:
       required: true
 
   - type: input
+    id: client
+    attributes:
+      label: Opdrachtgever
+      description: Organisatie die de opdracht heeft gegeven voor het onderzoek
+      placeholder: bijv. Gemeente Utrecht
+    validations:
+      required: true
+
+  - type: input
     id: date_conducted
     attributes:
       label: Datum onderzoek
