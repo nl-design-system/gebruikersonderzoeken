@@ -84,7 +84,7 @@ Daarom geven we niet overal uitgesproken conclusies of aanbevelingen over specif
 
 #### Niet duidelijk hoe je start met tekenen
 
-![Screenshot van](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/kadaster-1.png)
+![Screenshot van prototype toont titel: nieuwe KLIC melding. Daaronder een stap indicator waarbij stap twee is geselecteerd. Daaronder de vraag: Op welke locatie wilt u graven? Daaronder enkele formulierelementen en een kaart. Onder de kaart staan twee knoppen met de tekst 'vorige' en 'teken graafgebied'.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/kadaster-1.png)
 
 ##### Observaties
 
@@ -96,7 +96,7 @@ Verschillende respondenten willen al in dit scherm beginnen met tekenen en zien 
 
 #### Toetsenbord besturing
 
-![Screenshot van](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/kadaster-2.png)
+![Screenshot van prototype toont een kaart met daarop een ronde lichtgevende cirkel als kruissteken. Rechts in de bovenhoek ligt op de kaart een element met vier iconen. Het eerste icoon is geselecteerd. Onder de iconen staat de titel: Hoe wilt u de kaart besturen? Daaronder staan twee opties: muis en toetsenbord. Daaronder staat een tekst met de titel: Toetsenbordbesturing.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/kadaster-2.png)
 
 ##### Observaties
 
@@ -117,7 +117,7 @@ Verschillende respondenten willen al in dit scherm beginnen met tekenen en zien 
 
 #### Kaart beweging
 
-![Screenshot van](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/kadaster-3.png)
+![Screenshot van prototype toont een kaart met daarop een blauw rechthoekig kader. In het kader staat een kruis van pijlen die naar boven, rechts, onder en links wijzen. Onder dit rechthoek staat een button met de tekst 'Kies gebied'.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/kadaster-3.png)
 
 ##### Observaties
 
@@ -135,7 +135,7 @@ Verschillende respondenten willen al in dit scherm beginnen met tekenen en zien 
 
 #### Stapgrootte
 
-![Screenshot van](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/kadaster-4.png)
+![Screenshot van prototype toont een kaart. Rechts in de bovenhoek ligt op de kaart een element met vier iconen. Het tweede icoon is geselecteerd. Onder de iconen staan vier opties: Picro, Klein, Middel en Groot. Middel is geselecteerd. Daaronder staat een tekst met de titel: Pas de afstand aan waarmee u de kaart verplaatst.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/kadaster-4.png)
 
 ##### Observaties
 
@@ -160,7 +160,7 @@ Verschillende respondenten willen al in dit scherm beginnen met tekenen en zien 
 
 #### Tekenen, aanpassen & toevoegen
 
-![Screenshot van](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/kadaster-5.png)
+![Screenshot van prototype toont een kaart met daarop een ronde lichtgevende cirkel als kruissteken. Rechts in de bovenhoek ligt op de kaart een element met vier iconen. Het vierde icoon is geselecteerd. Onder de iconen staan vier opties: Hoekpunt aanpassen, Hoekpunt toevoegen, Opslaan, Annuleren. Hoekpunt aanpassen is geselecteerd. Daaronder staat een tekst met de titel: Kies het hoekpunt dat u wilt bewerken.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/kadaster-5.png)
 
 ##### Observaties
 
@@ -177,7 +177,7 @@ Verschillende respondenten willen al in dit scherm beginnen met tekenen en zien 
 
 #### Opslaan
 
-![Screenshot van](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/kadaster-6.png)
+![Screenshot van prototype toont een kaart met daarop een ronde lichtgevende cirkel als kruissteken. Rechts in de bovenhoek ligt op de kaart een element met vier iconen. Het vierde icoon is geselecteerd. Onder de iconen staan vier opties: Hoekpunt aanpassen, Hoekpunt toevoegen, Opslaan, Annuleren. Hoekpunt toevoegen is geselecteerd. Daaronder staat een tekst met de titel: Kies de lijn waar u een hoekpunt wilt toevoegen. Linksonder de kaart staan twee knoppen met de tekst 'Annuleren' en 'Opslaan'.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/kadaster-6.png)
 
 ##### Observaties
 
@@ -194,7 +194,7 @@ Niet iedereen ziet beide knoppen voor 'opslaan'. En als men het ziet, kan niet i
 
 #### Kruistekens & achtergronden
 
-[afbeelding]
+[Ronde lichtgevende cirkel als kruissteken op drie verschillende kaart-typen. Illustratief, zwart-wit en satelietfoto.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/kadaster-7.png)
 
 ##### Observaties
 
