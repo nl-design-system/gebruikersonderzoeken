@@ -244,4 +244,4 @@ Happy Labs:
 
 ## Bijlagen
 
-[kadaster-toegankelijkheid-tekenen-op-de-kaart-sanity-check (PDF, 2,8MB](https://github.com/user-attachments/files/26438420/kadaster-toegankelijkheid-tekenen-op-de-kaart-sanity-check.pdf)
+[kadaster-toegankelijkheid-tekenen-op-de-kaart-sanity-check (PDF, 2,8MB)](https://github.com/user-attachments/files/26438420/kadaster-toegankelijkheid-tekenen-op-de-kaart-sanity-check.pdf)
