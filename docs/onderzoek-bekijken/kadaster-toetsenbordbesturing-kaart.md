@@ -65,7 +65,7 @@ Ook het principe van tekenen + aanpassen op een kaart sluit aan bij hoe men dit 
 Wel is er op verschillende punten verbetering mogelijk:
 
 - De combinatie van zeer verschillende soorten functionaliteit binnen hetzelfde menu (kiezen van
-bediening en configureren van stapgrootte vs tekenen en aanpassen) is niet vanzelfsprekend - zeker wanneer er geen labels bij staan.
+  bediening en configureren van stapgrootte vs tekenen en aanpassen) is niet vanzelfsprekend - zeker wanneer er geen labels bij staan.
 - De formulering en vormgeving van de toelichting maakt het soms lastig om goed te begrijpen wat je moet doen
 - De mogelijkheid van het instellen van stapgrootte is hierdoor soms ook lastig te begrijpen en toe te passen.
 - 'Opslaan' wordt op verschillende plekken aangeboden, waardoor het niet duidelijk is welke je moet gebruiken om wat op te slaan.
@@ -74,7 +74,7 @@ bediening en configureren van stapgrootte vs tekenen en aanpassen) is niet vanze
 
 We gaan in deze beknopte rapportage vooral in op verwachting en perceptie van de mogelijkheden binnen het tekenen op de kaart. Echte interactie was met het statische prototype niet mogelijk.
 
-Daarom geven we niet overal uitgesproken conclusies of aanbevelingen over specifieke details van daadwerkelijk gebruik. Dat zou zeker in een vervolgtest met een werkend prototype goed zijn om nader te onderzoeken. 
+Daarom geven we niet overal uitgesproken conclusies of aanbevelingen over specifieke details van daadwerkelijk gebruik. Dat zou zeker in een vervolgtest met een werkend prototype goed zijn om nader te onderzoeken.
 
 ## Resultaten en inzichten
 
@@ -146,7 +146,7 @@ Verschillende respondenten willen al in dit scherm beginnen met tekenen en zien 
 - Soms heeft men moeite met het vinden van de '[' en ']' karakters op het toetsenbord.
 - De relatie tussen het aanpassen en de termen 'micro/klein/middel/groot' wordt niet altijd begrepen en ook niet expliciet gemaakt.
 
-##### Aanbevelingen 
+##### Aanbevelingen
 
 - Het configureren van de stapgrootte staat als functionaliteit niet op hetzelfde niveau als tekenen en aanpassen - maak in de interface een duidelijk onderscheid hiertussen.
 - Leg in de toelichting duidelijk verband tussen de 4 gradaties: “Kies met behulp van '[' en ']' - toetsen om te wisselen tussen micro, klein, middel en grote afstand van je stap”. Of label de stappen met 1, 2, 3, 4 en maak de keuze heel direct door ze met nummertoetsen te kunnen kiezen.
