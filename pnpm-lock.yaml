@@ -694,7 +694,7 @@ importers:
         specifier: 3.2.4
         version: 3.2.4(@types/debug@4.1.12)(@types/node@24.10.9)(sass@1.89.2)(tsx@4.21.0)(yaml@2.8.2)
 
-  packages/plugins/postcss-ma-design-tokens:
+  packages/plugins/postcss-remove-unused-design-tokens:
     devDependencies:
       postcss:
         specifier: 8.5.6
@@ -825,6 +825,9 @@ importers:
       '@nl-design-system-community/ma-task-list-react':
         specifier: workspace:*
         version: link:../components-react/ma-task-list-react
+      '@nl-design-system-unstable/postcss-remove-unused-design-tokens':
+        specifier: workspace:*
+        version: link:../plugins/postcss-remove-unused-design-tokens
       '@sindresorhus/slugify':
         specifier: 3.0.0
         version: 3.0.0
