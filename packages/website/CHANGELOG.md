@@ -1,5 +1,12 @@
 # @nl-design-system-community/gebruikersonderzoeken.nl
 
+## 0.0.7
+
+### Patch Changes
+
+- Updated dependencies [f2296df]
+  - @nl-design-system-unstable/postcss-remove-unused-design-tokens@0.0.1
+
 ## 0.0.6
 
 ### Patch Changes
