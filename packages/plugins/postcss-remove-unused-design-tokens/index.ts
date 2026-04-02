@@ -1,6 +1,6 @@
 import type { Plugin } from 'postcss';
-// @ts-expect-error - ma-design-tokens does not export type information in package.json
-import * as maJsDesignTokens from '@nl-design-system-community/ma-design-tokens/dist/variables.mjs';
+
+type TokenCollection = Record<string, string>;
 
 /**
  * CSS Indent Token: https://www.w3.org/TR/css-syntax-3/#ident-token-diagram
@@ -33,17 +33,19 @@ const cssVarToJsVar = (string: string): string =>
 /**
  * Check if `key` is available as key of a design token in `maJsDesignTokens`
  */
-const isExistingDesignToken = (key: unknown): key is keyof typeof maJsDesignTokens => {
-  const _key = key as keyof typeof maJsDesignTokens;
-  return Boolean(maJsDesignTokens[_key]);
+const isExistingDesignToken = (key: string, collection: TokenCollection): key is keyof typeof maJsDesignTokens => {
+  const _key = key as keyof typeof collection;
+  return Boolean(collection[_key]);
 };
 
-export default function maDesignTokens(): Plugin {
+export default function removeUnusedDesignTokens(
+  { designTokens }: { designTokens: TokenCollection } = { designTokens: {} },
+): Plugin {
   return {
-    postcssPlugin: 'ma-design-tokens',
+    postcssPlugin: 'remove-unused-design-tokens',
 
     prepare() {
-      const variables: Record<string, object> = {};
+      const variables: Record<string, string> = {};
 
       return {
         /**
@@ -55,8 +57,8 @@ export default function maDesignTokens(): Plugin {
             (decl.value.match(identToken) ?? []).forEach((cssVariable) => {
               const jsDesignToken = cssVarToJsVar(cssVariable);
 
-              if (isExistingDesignToken(jsDesignToken)) {
-                const designTokenValue = maJsDesignTokens[jsDesignToken];
+              if (isExistingDesignToken(jsDesignToken, designTokens)) {
+                const designTokenValue = designTokens[jsDesignToken];
                 variables[cssVariable] = designTokenValue;
               }
             });
