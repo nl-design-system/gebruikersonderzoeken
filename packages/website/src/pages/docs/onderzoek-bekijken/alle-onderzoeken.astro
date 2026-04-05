@@ -1,0 +1,32 @@
+---
+import { CardListOnderzoek } from '@components/card-list-onderzoek/card-list-onderzoek.tsx';
+import { PageSection } from '@components/page-section/page-section.tsx';
+import Layout from '@layouts/default.astro';
+import { Heading } from '@nl-design-system-candidate/heading-react';
+import { Paragraph } from '@nl-design-system-candidate/paragraph-react';
+import { getCollection } from 'astro:content';
+
+const onderzoeken = await getCollection('onderzoeken');
+
+const recentOnderzoeken = onderzoeken.toSorted((a, b) => b.data.date_added - a.data.date_added);
+const contributers = onderzoeken.reduce((acc, onderzoek) => {
+  if (onderzoek.data.conducted_by) {
+    onderzoek.data.conducted_by.map((contributer) => acc.add(contributer));
+  }
+  return acc;
+}, new Set<string>([]));
+---
+
+<Layout canonical={Astro.url} description="Gedeelde gebruikersonderzoeken voor de overheid">
+  <PageSection withSpace>
+    <Heading level={2}>Alle onderzoeken</Heading>
+    <Paragraph>Er zijn nu {onderzoeken.length} gedeeld door</Paragraph>
+    <ul>
+      {[...contributers].sort((a, b) => a.toLowerCase() - b.toLowerCase()).map((c) => <li>{c}</li>)}
+    </ul>
+    <div>
+      <a href="/docs/onderzoek-bekijken/" class="nl-link">Bekijk alle onderzoeken gegroepeert per thema</a>
+    </div>
+    <CardListOnderzoek headingLevels={3} onderzoeken={recentOnderzoeken} />
+  </PageSection>
+</Layout>
