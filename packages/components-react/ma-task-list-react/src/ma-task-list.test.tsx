@@ -2,7 +2,7 @@ import '@testing-library/jest-dom/vitest';
 import { cleanup, render, screen } from '@testing-library/react';
 import { createRef } from 'react';
 import { afterEach, describe, expect, it } from 'vitest';
-import { TaskList } from './task-list';
+import { TaskList } from './ma-task-list';
 
 const displayName = 'TaskList';
 
@@ -16,8 +16,13 @@ describe('TaskList', () => {
   });
 
   it('forwards React refs to the HTMLButtonElement', () => {
-    const ref = createRef<HTMLDivElement>();
-    render(<TaskList ref={ref}>task-list</TaskList>);
+    const ref = createRef<HTMLUListElement>();
+    render(
+      <TaskList ref={ref}>
+        <p>task-list</p>
+        <p>task-list</p>
+      </TaskList>,
+    );
     const element = screen.getByText('task-list');
 
     expect(ref.current).toBe(element);
