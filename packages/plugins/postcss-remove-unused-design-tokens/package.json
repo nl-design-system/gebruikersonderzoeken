@@ -9,6 +9,9 @@
   "license": "EUPL-1.2",
   "homepage": "https://github.com/nl-design-system/gebruikersonderzoeken/tree/main/packages/plugins/postcss-remove-unused-design-tokens#readme",
   "type": "module",
+  "scripts": {
+    "typecheck": "tsc"
+  },
   "main": "./index.ts",
   "files": [
     "./index.ts"
@@ -24,6 +27,8 @@
     "provenance": true
   },
   "devDependencies": {
-    "postcss": "8.5.6"
+    "@nl-design-system/tsconfig": "1.0.5",
+    "postcss": "8.5.6",
+    "typescript": "5.9.2"
   }
 }
