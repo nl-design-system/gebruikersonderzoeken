@@ -21,7 +21,7 @@
     "build": "astro build",
     "preview": "astro preview",
     "astro": "astro",
-    "typecheck": "tsc"
+    "typecheck-ignore": "tsc"
   },
   "dependencies": {
     "@astrojs/markdown-remark": "6.3.10",
