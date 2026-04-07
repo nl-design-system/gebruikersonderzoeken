@@ -31,9 +31,9 @@ const cssVarToJsVar = (string: string): string =>
     .replace(/^./, (char) => char.toLowerCase()); // lowercase the first letter of the result
 
 /**
- * Check if `key` is available as key of a design token in `maJsDesignTokens`
+ * Check if `key` is available as key of a design token in `collection`
  */
-const isExistingDesignToken = (key: string, collection: TokenCollection): key is keyof typeof maJsDesignTokens => {
+const isExistingDesignToken = (key: string, collection: TokenCollection): key is keyof typeof collection => {
   const _key = key as keyof typeof collection;
   return Boolean(collection[_key]);
 };
