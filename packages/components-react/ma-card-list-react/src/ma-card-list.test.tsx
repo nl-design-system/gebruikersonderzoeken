@@ -2,7 +2,7 @@ import '@testing-library/jest-dom/vitest';
 import { cleanup, render, screen } from '@testing-library/react';
 import { createRef } from 'react';
 import { afterEach, describe, expect, it } from 'vitest';
-import { CardList } from './card-list';
+import { CardList } from './ma-card-list';
 
 const displayName = 'CardList';
 
@@ -16,7 +16,7 @@ describe('CardList', () => {
   });
 
   it('forwards React refs to the HTMLButtonElement', () => {
-    const ref = createRef<HTMLDivElement>();
+    const ref = createRef<HTMLUListElement>();
     render(<CardList ref={ref}>card-list</CardList>);
     const element = screen.getByText('card-list');
 

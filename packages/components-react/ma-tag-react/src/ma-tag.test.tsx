@@ -2,7 +2,7 @@ import '@testing-library/jest-dom/vitest';
 import { cleanup, render, screen } from '@testing-library/react';
 import { createRef } from 'react';
 import { afterEach, describe, expect, it } from 'vitest';
-import { Tag } from './tag';
+import { Tag } from './ma-tag';
 
 const displayName = 'Tag';
 
@@ -16,7 +16,7 @@ describe('Tag', () => {
   });
 
   it('forwards React refs to the HTMLButtonElement', () => {
-    const ref = createRef<HTMLDivElement>();
+    const ref = createRef<HTMLAnchorElement>();
     render(<Tag ref={ref}>tag</Tag>);
     const element = screen.getByText('tag');
 

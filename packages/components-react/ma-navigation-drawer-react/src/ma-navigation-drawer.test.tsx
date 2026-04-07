@@ -2,7 +2,7 @@ import '@testing-library/jest-dom/vitest';
 import { cleanup, render, screen } from '@testing-library/react';
 import { createRef } from 'react';
 import { afterEach, describe, expect, it } from 'vitest';
-import { NavigationDrawer } from './navigation-drawer';
+import { NavigationDrawer } from './ma-navigation-drawer';
 
 const displayName = 'NavigationDrawer';
 
@@ -16,7 +16,7 @@ describe('NavigationDrawer', () => {
   });
 
   it('forwards React refs to the HTMLButtonElement', () => {
-    const ref = createRef<HTMLDivElement>();
+    const ref = createRef<HTMLDialogElement>();
     render(<NavigationDrawer ref={ref}>navigation-drawer</NavigationDrawer>);
     const element = screen.getByText('navigation-drawer');
 
