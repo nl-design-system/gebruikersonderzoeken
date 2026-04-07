@@ -1,7 +1,7 @@
 {
   "name": "@nl-design-system-unstable/postcss-remove-unused-design-tokens",
   "author": "Community for NL Design System",
-  "version": "0.0.1",
+  "version": "0.0.2",
   "description": "PostCSS plugin to remove unused ma-design-tokens from the build",
   "keywords": [
     "nl-design-system"
