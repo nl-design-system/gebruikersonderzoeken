@@ -32,7 +32,7 @@
     "lint-fix:styles": "stylelint --fix '**/*.{css,scss}'",
     "test-update": "pnpm run --if-present lint && pnpm run --if-present test && pnpm run --if-present build && pnpm run --if-present lint-build && pnpm run --if-present test-build",
     "prettier": "prettier --write .",
-    "typecheck": "tsc",
+    "typecheck": "pnpm --recursive run typecheck",
     "update-patch": "npm-check-updates --configFileName .ncurc.patch.cjs",
     "update-minor": "npm-check-updates --configFileName .ncurc.minor.cjs",
     "update-major": "npm-check-updates --configFileName .ncurc.major.cjs"
