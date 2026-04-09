@@ -1,0 +1,77 @@
+{
+  "name": "@nl-design-system-unstable/rehype-nlds-components",
+  "author": "Community for NL Design System",
+  "version": "0.0.0",
+  "description": "A ReHype plugin to add nlds component classes to provided html",
+  "keywords": [
+    "nl-design-system"
+  ],
+  "license": "EUPL-1.2",
+  "homepage": "https://github.com/nl-design-system/community/tree/main/packages/plugins/rehype-nlds-components#readme",
+  "type": "module",
+  "main": "./dist/index.js",
+  "module": "./dist/index.js",
+  "exports": {
+    ".": {
+      "types": "./dist/index.d.ts",
+      "import": "./dist/index.js",
+      "default": "./dist/index.js"
+    },
+    "./has-class-name.js": {
+      "import": "./dist/_has-class-name.js",
+      "default": "./dist/_has-class-name.js"
+    },
+    "./add-class-name.js": {
+      "import": "./dist/_add-class-name.js",
+      "default": "./dist/_add-class-name.js"
+    }
+  },
+  "files": [
+    "./dist/"
+  ],
+  "scripts": {
+    "build": "tsc",
+    "test": "vitest run",
+    "test:coverage": "vitest run --coverage",
+    "test:watch": "vitest",
+    "typecheck": "tsc --noEmit"
+  },
+  "repository": {
+    "type": "git+ssh",
+    "url": "git@github.com:nl-design-system/gebruikersonderzoeken.git",
+    "directory": "packages/plugins/rehype-nlds-components"
+  },
+  "private": true,
+  "publishConfig": {
+    "access": "public",
+    "provenance": true
+  },
+  "devDependencies": {
+    "@nl-design-system/tsconfig": "1.0.5",
+    "rehype-parse": "9.0.1",
+    "rehype-stringify": "10.0.1",
+    "typescript": "5.9.2",
+    "unified": "11.0.5",
+    "vitest": "3.2.4"
+  },
+  "dependencies": {
+    "@types/hast": "3.0.4",
+    "hast-util-is-element": "3.0.0",
+    "hast-util-select": "6.0.4",
+    "unist-util-visit": "5.1.0"
+  },
+  "peerDependencies": {
+    "@nl-design-system-candidate/link-css": "^2",
+    "@nl-design-system-candidate/code-css": "^2",
+    "@nl-design-system-candidate/heading-css": "^1",
+    "@nl-design-system-candidate/paragraph-css": "^2",
+    "@nl-design-system-candidate/code-block-css": "^1",
+    "@utrecht/blockquote-css": "^3",
+    "@utrecht/emphasis-css": "^3",
+    "@utrecht/figure-css": "^3",
+    "@utrecht/separator-css": "^3",
+    "@utrecht/img-css": "^3",
+    "@utrecht/ordered-list-css": "^4",
+    "@utrecht/unordered-list-css": "^3"
+  }
+}
