@@ -1,5 +1,18 @@
 # @nl-design-system-community/gebruikersonderzoeken.nl
 
+## 0.0.9
+
+### Patch Changes
+
+- Updated dependencies [da7bf5b]
+  - @nl-design-system-community/ma-navigation-bar-react@0.0.1
+  - @nl-design-system-community/ma-page-footer-react@0.0.1
+  - @nl-design-system-community/ma-page-header-react@0.0.1
+  - @nl-design-system-community/ma-navigation-bar-css@0.0.1
+  - @nl-design-system-community/ma-page-footer-css@0.0.1
+  - @nl-design-system-community/ma-page-header-css@0.0.1
+  - @nl-design-system-community/ma-sr-only-css@0.0.1
+
 ## 0.0.8
 
 ### Patch Changes
