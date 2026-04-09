@@ -1,7 +1,7 @@
 {
   "name": "@nl-design-system-community/ma-page-footer-react",
   "author": "Community for NL Design System",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "React implementatie voor de MA Page Footer component",
   "keywords": [
     "nl-design-system"

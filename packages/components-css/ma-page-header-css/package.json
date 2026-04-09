@@ -1,7 +1,7 @@
 {
   "name": "@nl-design-system-community/ma-page-header-css",
   "author": "Community for NL Design System",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "description": "CSS voor de MA Page Header component",
   "keywords": [
     "nl-design-system"
