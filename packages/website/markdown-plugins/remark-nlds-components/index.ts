@@ -1,9 +1,11 @@
 import type { Root, Html } from 'mdast';
+import rehypeNLDSComponents from '@nl-design-system-unstable/rehype-nlds-components';
 import rehypeParse from 'rehype-parse';
 import rehypeStringify from 'rehype-stringify';
 import { unified } from 'unified';
 import { visit } from 'unist-util-visit';
-import { nldsComponentsPlugin as nldsComponentsRehypePlugin } from '../rehype-nlds-components/index.ts';
+import { strong } from '../rehype-nlds-strong.ts';
+import { unorderedList } from '../rehype-nlds-unordered-list.ts';
 
 // This plugin transforms HTML blocks in markdown files into NL Design System
 // components.
@@ -25,7 +27,7 @@ export function nldsComponentsPlugin() {
 function runRehypePluginOnNode(node: Html) {
   const result = unified()
     .use(rehypeParse, { fragment: true })
-    .use(nldsComponentsRehypePlugin)
+    .use(rehypeNLDSComponents, { components: { strong, ul: unorderedList } })
     .use(rehypeStringify)
     .processSync(node.value);
 
