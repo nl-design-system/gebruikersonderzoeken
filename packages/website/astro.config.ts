@@ -1,8 +1,10 @@
 import type { AstroUserConfig } from 'astro';
 import react from '@astrojs/react';
 import sitemap from '@astrojs/sitemap';
+import rehypeNLDSComponents from '@nl-design-system-unstable/rehype-nlds-components';
 import { defineConfig } from 'astro/config';
-import { nldsComponentsPlugin as nldsComponentsRehypePlugin } from './markdown-plugins/rehype-nlds-components/index.ts';
+import { strong } from './markdown-plugins/rehype-nlds-strong.ts';
+import { unorderedList } from './markdown-plugins/rehype-nlds-unordered-list.ts';
 import { addTrailingSlashPlugin } from './markdown-plugins/rehype-trailing-slash/index.ts';
 import { coverPlugin } from './markdown-plugins/remark-cover/index.ts';
 import { nldsComponentsPlugin as nldsComponentsRemarkPlugin } from './markdown-plugins/remark-nlds-components/index.ts';
@@ -54,7 +56,10 @@ export default defineConfig({
     }),
   ],
   markdown: {
-    rehypePlugins: [nldsComponentsRehypePlugin, addTrailingSlashPlugin({ siteUrl, stripOrigin: true })],
+    rehypePlugins: [
+      () => rehypeNLDSComponents({ components: { strong, ul: unorderedList } }),
+      addTrailingSlashPlugin({ siteUrl, stripOrigin: true }),
+    ],
     remarkPlugins: [nldsComponentsRemarkPlugin, coverPlugin, removeH1FromMarkdown({ filter: 'onderzoek-bekijken' })],
   },
   security: {

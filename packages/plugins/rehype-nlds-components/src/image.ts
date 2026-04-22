@@ -1,6 +1,6 @@
 import type { Element } from 'hast';
 import { isElement } from 'hast-util-is-element';
-import { addClassName } from './_add-class-name.ts';
+import { addClassName } from './_add-class-name.js';
 
 export function image(element: Element) {
   if (isElement(element, 'img') === false) return;

@@ -1,7 +1,7 @@
 import type { Element } from 'hast';
 import { isElement } from 'hast-util-is-element';
 import { selectAll } from 'hast-util-select';
-import { addClassName } from './_add-class-name.ts';
+import { addClassName } from './_add-class-name.js';
 
 export function orderedList(element: Element) {
   if (isElement(element, 'ol') === false) return;
@@ -12,5 +12,5 @@ export function orderedList(element: Element) {
 
   selectAll('li', element).forEach(addClassName('utrecht-ordered-list__item'));
 
-  selectAll('li > ul', element).forEach(addClassName('utrecht-ordered-list--nested'));
+  selectAll('li > ol', element).forEach(addClassName('utrecht-ordered-list--nested'));
 }

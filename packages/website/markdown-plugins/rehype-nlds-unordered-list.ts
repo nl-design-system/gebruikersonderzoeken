@@ -1,8 +1,8 @@
 import type { Element } from 'hast';
+import { addClassName } from '@nl-design-system-unstable/rehype-nlds-components/add-class-name.js';
+import { hasClassName } from '@nl-design-system-unstable/rehype-nlds-components/has-class-name.js';
 import { isElement } from 'hast-util-is-element';
 import { selectAll } from 'hast-util-select';
-import { addClassName } from './_add-class-name.ts';
-import { hasClassName } from './_has-class-name.ts';
 
 export function unorderedList(element: Element) {
   if (isElement(element, 'ul') === false) return;
