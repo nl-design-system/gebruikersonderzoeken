@@ -23,7 +23,4 @@ minimumReleaseAgeExclude:
   - 'react@19.2.3'
   - 'react-dom@19.2.3'
 
-patchedDependencies:
-  astro@6.0.5: patches/astro@6.0.5.patch
-
 savePrefix: ''
