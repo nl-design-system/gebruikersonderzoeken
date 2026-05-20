@@ -23,10 +23,10 @@ themes:
   - diensten-en-processen
 conducted_by:
   - gemeente Utrecht
-date_added: 2025-05-08
+date_added: '2025-05-08'
 target_group: horeca eigenaren
 type: kwalitatief onderzoek, interviews
-date_conducted: 2025-02-01
+date_conducted: '2025-02-01'
 ---
 
 <!-- @license CC0-1.0 -->

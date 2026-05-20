@@ -19,10 +19,10 @@ themes:
   - taal-en-begrijpelijkheid
 conducted_by:
   - gemeente Venray
-date_added: 2025-12-17
+date_added: '2025-12-17'
 target_group: inwoners van Venray
 type: kwalitatief onderzoek, usability research
-date_conducted: 2025-03-01
+date_conducted: '2025-03-01'
 ---
 
 <!-- @license CC0-1.0 -->

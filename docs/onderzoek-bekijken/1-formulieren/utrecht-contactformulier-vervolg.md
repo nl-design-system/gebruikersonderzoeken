@@ -24,8 +24,8 @@ themes:
   - gedrag-en-conversie
 conducted_by:
   - gemeente Utrecht
-date_added: 2025-11-05
-date_conducted: 2025-11-04
+date_added: '2025-11-05'
+date_conducted: '2025-11-04'
 target_group: inwoners van Utrecht
 type: kwalitatief onderzoek, usability research
 ---

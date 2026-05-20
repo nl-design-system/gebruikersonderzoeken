@@ -23,10 +23,10 @@ themes:
   - doelgroep-specifiek
 conducted_by:
   - gemeente Utrecht
-date_added: 2023-04-18
+date_added: '2023-04-18'
 target_group: bezoekers van utrecht.nl
 type: kwantitatief onderzoek
-date_conducted: 2023-03-01
+date_conducted: '2023-03-01'
 ---
 
 <!-- @license CC0-1.0 -->

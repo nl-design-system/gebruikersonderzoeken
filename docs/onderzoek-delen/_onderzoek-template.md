@@ -31,8 +31,8 @@ themes:
 conducted_by:
   - ((Lijst van organisaties die het onderzoek hebben uitgevoerd))
 client: ((Organisatie de de opdracht heeft gegeven om het onderzoek uit te voeren))
-date_added: ((in te vullen door degene die het onderzoek op de website publiceert))
-date_conducted: ((datum van het onderzoek. Vul de datum van het laatste onderzoek in wanneer het verslag over meerdere iteraties gaat))
+date_added: '((YYYY-MM-DD, in te vullen door degene die het onderzoek op de website publiceert))'
+date_conducted: '((YYYY-MM-DD, datum van het onderzoek. Vul de datum van het laatste onderzoek in wanneer het verslag over meerdere iteraties gaat))'
 target_group: ((niet verplicht - beschrijf de doelgroep voor het onderzoek))
 type: ((niet verplicht - beschrijf het type onderzoek))
 ---

@@ -25,10 +25,10 @@ themes:
   - gedrag-en-conversie
 conducted_by:
   - gemeente Utrecht
-date_added: 2023-06-01
+date_added: '2023-06-01'
 target_group: houders gehandicaptenparkeerkaart
 type: kwalitatief onderzoek, usability research
-date_conducted: 2023-01-01
+date_conducted: '2023-01-01'
 ---
 
 <!-- @license CC0-1.0 -->

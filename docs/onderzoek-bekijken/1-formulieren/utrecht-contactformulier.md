@@ -23,8 +23,8 @@ themes:
   - formulieren
 conducted_by:
   - gemeente Utrecht
-date_added: 2025-10-22
-date_conducted: 2025-10-21
+date_added: '2025-10-22'
+date_conducted: '2025-10-21'
 target_group: inwoners van Utrecht
 type: kwalitatief onderzoek, usability research
 ---

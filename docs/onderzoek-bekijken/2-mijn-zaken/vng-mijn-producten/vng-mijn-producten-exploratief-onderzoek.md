@@ -29,7 +29,7 @@ themes:
 conducted_by:
   - gemeente Den Haag
   - VNG
-date_added: 2025-01-22
+date_added: '2025-01-22'
 ---
 
 <!-- @license CC0-1.0 -->

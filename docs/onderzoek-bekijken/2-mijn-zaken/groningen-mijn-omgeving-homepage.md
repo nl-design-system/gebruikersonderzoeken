@@ -26,7 +26,7 @@ themes:
 conducted_by:
   - gemeente Groningen
   - Maykin Media
-date_added: 2025-12-05
+date_added: '2025-12-05'
 ---
 
 <!-- @license CC0-1.0 -->

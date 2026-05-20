@@ -21,8 +21,8 @@ themes:
   - doelgroep-specifiek
 conducted_by:
   - gemeente Utrecht
-date_added: 2025-11-06
-date_conducted: 2025-10-01
+date_added: '2025-11-06'
+date_conducted: '2025-10-01'
 target_group: ondernemers
 type: kwalitatief onderzoek, observatieonderzoek
 ---

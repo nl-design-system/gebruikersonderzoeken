@@ -42,7 +42,7 @@ themes:
 conducted_by:
   - Deloitte
   - RVO
-date_added: 2025-04-17
+date_added: '2025-04-17'
 ---
 
 <!-- @license CC0-1.0 -->
