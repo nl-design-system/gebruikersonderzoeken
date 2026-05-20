@@ -29,8 +29,8 @@ themes:
   - toegankelijkheid
 conducted_by:
   - Valsplat / Happy Labs
-date_added: 2026-04-01
-date_conducted: 2026-02-27
+date_added: '2026-04-01'
+date_conducted: '2026-02-27'
 target_group: Mensen die geen muis kunnen gebruiken en afhankelijk zijn van toetsenbord, spraakbesturing of screenreader
 type: Interviews
 ---

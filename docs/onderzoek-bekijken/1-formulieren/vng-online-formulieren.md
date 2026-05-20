@@ -33,7 +33,7 @@ conducted_by:
   - NL Design System
   - Stichting Accessibility
   - VNG
-date_added: 2024-01-22
+date_added: '2024-01-22'
 ---
 
 <!-- @license CC0-1.0 -->

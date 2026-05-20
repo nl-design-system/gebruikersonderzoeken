@@ -22,10 +22,10 @@ themes:
   - mijn-omgeving
 conducted_by:
   - gemeente Amsterdam
-date_added: 2026-03-03
+date_added: '2026-03-03'
 target_group: Inwoners van de gemeente Amsterdam
 type: kwalitatief onderzoek, usability research
-date_conducted: 2025-02-27
+date_conducted: '2025-02-27'
 ---
 
 <!-- @license CC0-1.0 -->

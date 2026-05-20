@@ -30,8 +30,8 @@ themes:
   - diensten-en-processen
 conducted_by:
   - RVO
-date_added: 2024-05-21
-date_conducted: 2023-10-01
+date_added: '2024-05-21'
+date_conducted: '2023-10-01'
 target_group: particulieren uit Assen
 type: kwalitatief onderzoek, usability research
 ---

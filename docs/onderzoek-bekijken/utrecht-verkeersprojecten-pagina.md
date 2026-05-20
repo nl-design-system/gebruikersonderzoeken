@@ -20,10 +20,10 @@ themes:
   - navigatie
 conducted_by:
   - gemeente Utrecht
-date_added: 2026-02-05
+date_added: '2026-02-05'
 target_group: Inwoners van Utrecht
 type: kwalitatief onderzoek, usability research
-date_conducted: 2026-01-15
+date_conducted: '2026-01-15'
 ---
 
 <!-- @license CC0-1.0 -->

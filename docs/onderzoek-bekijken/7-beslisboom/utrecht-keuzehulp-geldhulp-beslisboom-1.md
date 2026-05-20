@@ -28,10 +28,10 @@ themes:
   - diensten-en-processen
 conducted_by:
   - gemeente Utrecht
-date_added: 2025-01-30
+date_added: '2025-01-30'
 target_group: U-pas houders
 type: kwalitatief onderzoek, usability research
-date_conducted: 2024-10-05
+date_conducted: '2024-10-05'
 ---
 
 <!-- @license CC0-1.0 -->

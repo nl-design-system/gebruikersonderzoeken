@@ -27,8 +27,8 @@ themes:
   - taal-en-begrijpelijkheid
 conducted_by:
   - gemeente Groningen
-date_added: 2026-02-16
-date_conducted: 2025-12-17
+date_added: '2026-02-16'
+date_conducted: '2025-12-17'
 target_group: inwoners van de gemeente Groningen
 type: kwalitatief onderzoek, focusgroep
 ---

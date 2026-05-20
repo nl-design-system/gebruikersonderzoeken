@@ -27,7 +27,7 @@ conducted_by:
   - gemeente Den Haag
   - gemeente Utrecht
   - VNG
-date_added: 2023-04-21
+date_added: '2023-04-21'
 ---
 
 <!-- @license CC0-1.0 -->
