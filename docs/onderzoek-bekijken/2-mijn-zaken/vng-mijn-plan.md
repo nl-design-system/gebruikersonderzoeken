@@ -32,6 +32,7 @@ themes:
 conducted_by:
   - gemeente Den Haag
   - VNG
+  - Acato
 date_added: '2026-04-08'
 ---
 
@@ -816,7 +817,8 @@ Paneldiscussie met:
 **Service Design**
 
 **Namens VNG:** Vincent van Beek en Deside Romagnolo  
-**Gemeente Den Haag:** Lieneke van der Laan en Merlijn Sluiter
+**Gemeente Den Haag:** Lieneke van der Laan en Merlijn Sluiter  
+**Acato:** Annet van Vulpen en Joni Hartog
 
 **Maart 2026**
 
@@ -831,6 +833,7 @@ Paneldiscussie met:
 - Deside Romagnolo
 - Lieneke van der Laan
 - Merlijn Sluiter
+- Annet van Vulpen
 
 ## Naam - rol - organisatie
 
@@ -838,13 +841,9 @@ Paneldiscussie met:
 - Deside Romagnolo — namens VNG — VNG
 - Lieneke van der Laan — Gemeente Den Haag — Gemeente Den Haag
 - Merlijn Sluiter — Gemeente Den Haag — Gemeente Den Haag
+- Annet van Vulpen — UX Research — Acato
+- Joni Hartog — UX design — Acato
 
 ## Documentatie
 
-- Rapportage MijnPlan
-- Referentie: link naar Figma
 - Referentie: [link naar het prototype](https://www.figma.com/proto/RCHZdQClPESi6PRA2PWmew/MijnServices---Acato?page-id=2601:28532&node-id=2601-28535&starting-point-node-id=2601:28535&scaling=scale-down&content-scaling=fixed&t=t3mB78aNqpB1nxv6-1)
-- Documentatie op **NL Design System Discussions**
-- PDCA-register / **OpenSociaal**
-- Definitief prototype
-- wachtwoord: `MijnPlan2026`
