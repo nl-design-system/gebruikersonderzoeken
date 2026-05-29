@@ -30,7 +30,7 @@ Zou je het leuk vinden om de inzichten uit het onderzoek toe te lichten tijdens 
 
 https://www.nldesignsystem.nl/events/heartbeat/
 
-We horen het graag van je, dan kunnen we samen kijken naar een geschikte datum. 
+We horen het graag van je, dan kunnen we samen kijken naar een geschikte datum.
 
 Vriendelijke groet,
 {naam}
