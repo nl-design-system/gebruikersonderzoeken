@@ -2,7 +2,7 @@
 
 ## Algemeen
 
-```
+```md
 Goede{morgen/middag} {naam-ontvanger},
 
 Het onderzoek dat jullie hebben uitgevoerd rondom {onderwerp} staat op gebruikersonderzoeken.nl
@@ -17,7 +17,7 @@ Vriendelijke groet,
 
 ## Heartbeat vraag
 
-```
+```md
 Goede{morgen/middag} {naam-ontvanger},
 
 Het onderzoek dat jullie hebben uitgevoerd rondom {onderwerp} staat op gebruikersonderzoeken.nl
