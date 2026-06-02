@@ -20,13 +20,13 @@ const cspProdConfig: AstroUserConfig = {
   security: {
     csp: {
       directives: [
-        "base-uri 'self'",
-        "connect-src 'self' https://*.algolia.net https://*.algolianet.com https://*.algolia.io blob: data:",
-        "default-src 'self'",
-        "font-src 'self'",
-        "form-action 'self'",
+        "base-uri 'self' https://gebruikersonderzoeken.nl",
+        "connect-src 'self' https://gebruikersonderzoeken.nl https://*.algolia.net https://*.algolianet.com https://*.algolia.io blob: data:",
+        "default-src 'self' https://gebruikersonderzoeken.nl",
+        "font-src 'self' https://gebruikersonderzoeken.nl",
+        "form-action 'self' https://gebruikersonderzoeken.nl",
         // "frame-ancestors 'none'", // in astro, csp is handled via <meta> element. where this directive is not allowed
-        "img-src 'self' https://raw.githubusercontent.com blob: data:",
+        "img-src 'self' https://gebruikersonderzoeken.nl https://raw.githubusercontent.com blob: data:",
         "object-src 'none'",
         'worker-src blob:',
       ],
