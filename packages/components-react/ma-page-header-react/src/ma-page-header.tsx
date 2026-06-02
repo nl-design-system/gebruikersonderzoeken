@@ -3,7 +3,7 @@ import { clsx } from 'clsx';
 import { forwardRef } from 'react';
 import '@utrecht/button-css/dist/index.css';
 
-export interface PageHeaderProps extends HTMLAttributes<HTMLDivElement> {
+export interface PageHeaderProps extends HTMLAttributes<HTMLElement> {
   className?: string;
   startGroup?: ReactNode;
   centerGroup?: ReactNode;
@@ -11,7 +11,7 @@ export interface PageHeaderProps extends HTMLAttributes<HTMLDivElement> {
   navigationBar?: ReactNode;
 }
 
-export const PageHeader = forwardRef<HTMLDivElement, PageHeaderProps>(function PageHeader(props, forwardedRef) {
+export const PageHeader = forwardRef<HTMLElement, PageHeaderProps>(function PageHeader(props, forwardedRef) {
   const { centerGroup, className, endGroup, navigationBar, startGroup, ...restProps } = props;
 
   return (
