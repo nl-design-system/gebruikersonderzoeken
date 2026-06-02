@@ -15,12 +15,12 @@ describe('CardList', () => {
     expect(CardList.displayName).toBe(displayName);
   });
 
-  it('forwards React refs to the HTMLButtonElement', () => {
+  it('forwards React refs to the HTMLUListElement root node', () => {
     const ref = createRef<HTMLUListElement>();
     render(<CardList ref={ref}>card-list</CardList>);
-    const element = screen.getByText('card-list');
+    const element = screen.getByText('card-list').closest('ul');
 
     expect(ref.current).toBe(element);
-    expect(element).toBeInstanceOf(HTMLDivElement);
+    expect(element).toBeInstanceOf(HTMLUListElement);
   });
 });

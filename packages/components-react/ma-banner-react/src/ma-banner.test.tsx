@@ -15,12 +15,12 @@ describe('Banner', () => {
     expect(Banner.displayName).toBe(displayName);
   });
 
-  it('forwards React refs to the HTMLButtonElement', () => {
-    const ref = createRef<HTMLDivElement>();
-    render(<Banner ref={ref}>banner</Banner>);
-    const element = screen.getByText('banner');
+  it('forwards React refs to the HTMLElement root node', () => {
+    const ref = createRef<HTMLElement>();
+    render(<Banner ref={ref} copy="banner" />);
+    const element = screen.getByText('banner').closest('.ma-banner');
 
     expect(ref.current).toBe(element);
-    expect(element).toBeInstanceOf(HTMLDivElement);
+    expect(element).toBeInstanceOf(HTMLElement);
   });
 });

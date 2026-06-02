@@ -15,14 +15,14 @@ describe('CardAsLink', () => {
     expect(CardAsLink.displayName).toBe(displayName);
   });
 
-  it('forwards React refs to the HTMLButtonElement', () => {
+  it('forwards React refs to the container HTMLDivElement', () => {
     const ref = createRef<HTMLDivElement>();
     render(
       <CardAsLink heading={<h1>heading</h1>} ref={ref}>
         card-as-link
       </CardAsLink>,
     );
-    const element = screen.getByText('card-as-link');
+    const element = screen.getByText('heading').closest('.ma-card-as-link__container');
 
     expect(ref.current).toBe(element);
     expect(element).toBeInstanceOf(HTMLDivElement);

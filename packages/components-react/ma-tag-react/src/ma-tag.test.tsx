@@ -15,12 +15,12 @@ describe('Tag', () => {
     expect(Tag.displayName).toBe(displayName);
   });
 
-  it('forwards React refs to the HTMLButtonElement', () => {
+  it('forwards React refs to the HTMLAnchorElement root node', () => {
     const ref = createRef<HTMLAnchorElement>();
     render(<Tag ref={ref}>tag</Tag>);
     const element = screen.getByText('tag');
 
     expect(ref.current).toBe(element);
-    expect(element).toBeInstanceOf(HTMLDivElement);
+    expect(element).toBeInstanceOf(HTMLAnchorElement);
   });
 });

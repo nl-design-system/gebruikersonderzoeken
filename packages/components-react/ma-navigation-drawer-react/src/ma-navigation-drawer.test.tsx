@@ -15,12 +15,12 @@ describe('NavigationDrawer', () => {
     expect(NavigationDrawer.displayName).toBe(displayName);
   });
 
-  it('forwards React refs to the HTMLButtonElement', () => {
+  it('forwards React refs to the HTMLDialogElement root node', () => {
     const ref = createRef<HTMLDialogElement>();
     render(<NavigationDrawer ref={ref}>navigation-drawer</NavigationDrawer>);
-    const element = screen.getByText('navigation-drawer');
+    const element = screen.getByText('navigation-drawer').closest('dialog');
 
     expect(ref.current).toBe(element);
-    expect(element).toBeInstanceOf(HTMLDivElement);
+    expect(element).toBeInstanceOf(HTMLDialogElement);
   });
 });
