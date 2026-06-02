@@ -30,6 +30,12 @@ const cspProdConfig: AstroUserConfig = {
         "object-src 'none'",
         'worker-src blob:',
       ],
+      scriptDirective: {
+        resources: ["'self'", 'https://gebruikersonderzoeken.nl'],
+      },
+      styleDirective: {
+        resources: ["'self'", 'https://gebruikersonderzoeken.nl'],
+      },
     },
   },
 };
