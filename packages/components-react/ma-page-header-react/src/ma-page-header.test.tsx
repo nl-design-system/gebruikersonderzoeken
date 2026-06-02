@@ -15,12 +15,12 @@ describe('PageHeader', () => {
     expect(PageHeader.displayName).toBe(displayName);
   });
 
-  it('forwards React refs to the HTMLButtonElement', () => {
-    const ref = createRef<HTMLDivElement>();
-    render(<PageHeader ref={ref}>page-header</PageHeader>);
-    const element = screen.getByText('page-header');
+  it('forwards React refs to the HTMLElement root node', () => {
+    const ref = createRef<HTMLElement>();
+    render(<PageHeader ref={ref} startGroup={<p>page-header</p>} />);
+    const element = screen.getByText('page-header').closest('header');
 
     expect(ref.current).toBe(element);
-    expect(element).toBeInstanceOf(HTMLDivElement);
+    expect(element).toBeInstanceOf(HTMLElement);
   });
 });

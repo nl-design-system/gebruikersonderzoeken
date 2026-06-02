@@ -15,16 +15,16 @@ describe('NavigationBar', () => {
     expect(NavigationBar.displayName).toBe(displayName);
   });
 
-  it('forwards React refs to the HTMLButtonElement', () => {
-    const ref = createRef<HTMLDivElement>();
+  it('forwards React refs to the HTMLElement root node', () => {
+    const ref = createRef<HTMLElement>();
     render(
       <NavigationBar label="label" ref={ref}>
         navigation-bar
       </NavigationBar>,
     );
-    const element = screen.getByText('navigation-bar');
+    const element = screen.getByText('navigation-bar').closest('nav');
 
     expect(ref.current).toBe(element);
-    expect(element).toBeInstanceOf(HTMLDivElement);
+    expect(element).toBeInstanceOf(HTMLElement);
   });
 });
