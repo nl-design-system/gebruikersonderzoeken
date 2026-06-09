@@ -44,8 +44,3 @@ Voor de naam van het bestand gebruik je `<naam van het markdown bestand>__<plek 
 ```md
 ![Een lijst van contactmomenten met de datum van het contactmoment, de beschrijving van het type contactmoment en titel](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/denhaag-mijn-omgeving__contactmomenten.png)
 ```
-
-## Content Security Policy
-
-De Content Security Policy wordt geregeld via [de API](https://docs.astro.build/en/reference/configuration-reference/#securitycsp) van Astro. Astro combineert alle directives en injecteert deze in een `<meta>` element in de `<head>` van elke pagina. Deze setup werkt goed wanneer de site bekeken wordt via het eigen domein. Echter, wanneer een vertaaldienst gebruikt wordt, zoals Google Translate, dan zal zorgt dit voor problemen, omdat deze diensten een proxy opzetten en eigen scripts injecteren.
-Daarom is er een integratie toegevoegd die de `<meta>` elementen uit elke gerenderde pagina verwijderd en aan de `.htaccess` file toevoegt. Op die manier serveert de eigen website nette CSP directives, maar blijft de website ook te vertalen.

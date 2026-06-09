@@ -2,7 +2,6 @@ import type { AstroUserConfig } from 'astro';
 import react from '@astrojs/react';
 import sitemap from '@astrojs/sitemap';
 import { defineConfig } from 'astro/config';
-import { appendCSPToHTAccess } from './append-csp-to-htaccess.ts';
 import { nldsComponentsPlugin as nldsComponentsRehypePlugin } from './markdown-plugins/rehype-nlds-components/index.ts';
 import { addTrailingSlashPlugin } from './markdown-plugins/rehype-trailing-slash/index.ts';
 import { coverPlugin } from './markdown-plugins/remark-cover/index.ts';
@@ -59,7 +58,6 @@ export default defineConfig({
       filter: (page) => page !== 'https://gebruikersonderzoeken.nl/zoeken/',
       priority: 0.5,
     }),
-    appendCSPToHTAccess(),
   ],
   markdown: {
     rehypePlugins: [nldsComponentsRehypePlugin, addTrailingSlashPlugin({ siteUrl, stripOrigin: true })],
