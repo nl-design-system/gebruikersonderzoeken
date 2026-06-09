@@ -1,3 +1,9 @@
 DirectoryIndex index.html
 
 ErrorDocument 404 /404.html
+
+# CSP headers are calculated in Astro but should be served via .htaccess. A
+# build script will replace this comment with the CSP headers.
+<IfModule mod_headers.c>
+  Header always set Content-Security-Policy "base-uri 'self' https://gebruikersonderzoeken.nl;connect-src 'self' https://gebruikersonderzoeken.nl https://*.algolia.net https://*.algolianet.com https://*.algolia.io blob: data:;default-src 'self' https://gebruikersonderzoeken.nl;font-src 'self' https://gebruikersonderzoeken.nl;form-action 'self' https://gebruikersonderzoeken.nl;img-src 'self' https://gebruikersonderzoeken.nl https://raw.githubusercontent.com blob: data:;object-src 'none';worker-src blob:; script-src 'self' https://gebruikersonderzoeken.nl 'sha256-BF0290pkb3jxQsE7z00xR8Imp8X34FLC88L0lkMnrGw=' 'sha256-QzWFZi+FLIx23tnm9SBU4aEgx4x8DsuASP07mfqol/c=' 'sha256-0chmwFk0zaA528yFfGV7J9ppIpdfTPPULncDF3WG7Zs=' 'sha256-eIXWvAmxkr251LJZkjniEK5LcPF3NkapbJepohwYRIc=' 'sha256-Q2BPg90ZMplYY+FSdApNErhpWafg2hcRRbndmvxuL/Q=' 'sha256-BrDhGE1lwa85arfXcrBxSo+n37uVSX5CAROXnIM6Q+g=' 'sha256-zZkoMwvbaiyPb1VT5t8N+Lws1+6P+XMoEthPkDNPi2s='; style-src 'self' https://gebruikersonderzoeken.nl 'sha256-vv9IoKo7BSLbWcUHr3tNmfNVmm5L/9Cfn2H6LMk7/ow=' 'sha256-47DEQpj8HBSa+/TImW+5JCeuQeRkm5NMpJWZG3hSuFU=';"
+</IfModule>
