@@ -1,7 +1,3 @@
 DirectoryIndex index.html
 
 ErrorDocument 404 /404.html
-
-# CSP headers are calculated in Astro but should be served via .htaccess. A
-# build script will replace this comment with the CSP headers.
-# {{CSP HEADERS}}
