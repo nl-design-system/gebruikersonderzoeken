@@ -5,7 +5,7 @@ import path from 'node:path';
 import rehypeParse from 'rehype-parse';
 import rehypeStringify from 'rehype-stringify';
 import { unified } from 'unified';
-import { remove } from 'unist-util-remove';
+// import { remove } from 'unist-util-remove';
 import { visit } from 'unist-util-visit';
 
 /**
@@ -65,7 +65,8 @@ export const appendCSPToHTAccess: () => AstroIntegration = () => {
             cspValues.add(content);
           }
 
-          remove(tree, node);
+          // temporary disable remove csp headers
+          // remove(tree, node);
         }
       });
     };
