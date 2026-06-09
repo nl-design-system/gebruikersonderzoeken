@@ -1,6 +1,11 @@
 packages:
   - packages/**
 
+allowBuilds:
+  '@parcel/watcher': true
+  esbuild: true
+  sharp: true
+
 autoInstallPeers: false
 
 # Configure pnpm so it only installs package versions that have been published on the npm registry for at least 24 hours
@@ -24,3 +29,6 @@ minimumReleaseAgeExclude:
   - 'react-dom@19.2.3'
 
 savePrefix: ''
+engineStrict: true
+saveExact: true
+strictPeerDependencies: false
