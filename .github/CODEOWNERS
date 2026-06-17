@@ -1,5 +1,9 @@
 # See: https://nldesignsystem.nl/codeowners
 
+# Logius maintains their own collection of user research:
+docs/onderzoek-bekijken/logius-ux/ @nl-design-system/logius-ux-maintainer @nl-design-system/kernteam-maintainer @nl-design-system/kernteam-admin
+
+# Changes to any file require approval from @nl-design-system/kernteam-committer
 * @nl-design-system/kernteam-committer @nl-design-system/gebruikersonderzoeken
 
 # Protect this file itself (order matters, keep this line last):
