@@ -234,7 +234,7 @@ Communiceer richting omwonenden volgens een vaste tijdlijn, en bied hen de mogel
 
 ## Opzet onderzoek
 
-Het onderzoek is uitgevoerd in de vorm van 2 focusgroepen op 22 en 23 mei 2023. Deelnemers kwamen uit het Stadspanel van gemeente Den Haag: 300 pannelleden die eerder aangaven open te staan voor dit onderwerp zijn uitgenodigd.
+Het onderzoek is uitgevoerd in de vorm van 2 focusgroepen op 22 en 23 mei 2023. Deelnemers kwamen uit het Stadspanel van gemeente Den Haag: 300 panelleden die eerder aangaven open te staan voor dit onderwerp zijn uitgenodigd.
 
 Er zijn 2 groepen van elk 8 inwoners samengesteld, met zo veel mogelijk spreiding op leeftijd, geslacht, wijk en sentiment ten aanzien van opvang en huisvesting. De ene groep had ervaring met opvang en huisvesting in de eigen buurt, de andere niet.
 
