@@ -24,10 +24,10 @@ themes:
   - doelgroep-specifiek
 conducted_by:
   - Gemeente Den Haag
-date_added: 2026-06-25
+date_added: '2026-06-25'
 target_group: inwoners van Den Haag
 type: kwalitatief onderzoek, focusgroepen
-date_conducted: 2023-05-22
+date_conducted: '2023-05-22'
 ---
 
 <!-- @license CC0-1.0 -->
