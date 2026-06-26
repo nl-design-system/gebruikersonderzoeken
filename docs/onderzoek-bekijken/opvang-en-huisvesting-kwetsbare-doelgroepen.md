@@ -36,11 +36,11 @@ date_conducted: 2023-05-22
 
 ## Doel van het onderzoek
 
-De gemeente Den Haag staat voor een grote opgave rond opvang en huisvesting van kwetsbare doelgroepen, en wil weten hoe de communicatie met inwoners hierover het best ingericht kan worden. Daarvoor is inzicht nodig in de wensen en behoeften van inwoners ten aanzien van de inhoud, momenten en vormen van communicatie en ten aanzien van sociale interactie met de gehuisveste groepen. De uitkomsten worden gebruikt voor een algemeen procesontwerp voor toekomstige communicatie bij het openen van een locatie.
+De gemeente Den Haag staat voor een grote opgave rond opvang en huisvesting van kwetsbare doelgroepen, en wil weten hoe de communicatie met inwoners hierover het best ingericht kan worden. Daarvoor is inzicht nodig in de wensen en behoeften van inwoners over de inhoud, momenten en vormen van communicatie en over de sociale interactie met de gehuisveste groepen. De uitkomsten worden gebruikt voor een algemeen procesontwerp voor toekomstige communicatie bij het openen van een locatie.
 
 ### Centrale vraag
 
-Hoe willen Hagenaren, en specifiek omwonenden van opvanglocaties voor kwetsbare doelgroepen, betrokken worden bij de opvang en huisvesting van kwetsbare groepen via communicatie en sociale initiatieven?
+Hoe willen Hagenaren, en specifiek omwonenden van opvanglocaties voor kwetsbare doelgroepen, betrokken worden bij de huisvesting van kwetsbare groepen via communicatie en sociale initiatieven?
 
 #### Bijbehorende deelvragen
 
@@ -56,34 +56,35 @@ Communiceer richting omwonenden volgens een vaste tijdlijn, en bied hen de mogel
 
 #### Vóór de vestiging
 
-- Bereid de stad breed voor op de opgave en de te verwachten toestroom (via krant, lokale radio/tv).
-- Kondig aan dat er locaties moeten komen en nodig inwoners uit om mee te denken (brief aan inwoners of wijkvertegenwoordiging). Inwoners praten mee via bestaande kanalen zoals een wijkberaad of inloopmoment, en via een online participatieplatform.
-- Informeer over de gemaakte locatiekeuze en nodig uit om kennis te maken met de groep (brief).
+- Bereid de stad breed voor op de opgave van de gemeente rond opvang en huisvesting van kwetsbare groepen en de verwachte toestroom van mensen die opvang nodig hebben (via krant, lokale radio/tv).
+- Kondig aan dat er locaties moeten komen en nodig inwoners uit om mee te denken (brief aan inwoners of wijkvertegenwoordiging).
+- Ga in gesprek met inwoners over mogelijke locaties en wat wel of niet past bij de wijk (via bestaande kanalen zoals een wijkberaad of inloopmoment, en via een online participatieplatform).
+- Informeer alle omwonenden zodra de locatiekeuze is gemaakt: welke locatie en waarom, hoe de keuze tot stand kwam, een contactpersoon voor vragen en zorgen en de (verwachte) einddatum (via brief en door de wijk in te gaan).
 
 ![Communicatietijdlijn voor de vestiging van een opvang- of huisvestingslocatie. De tijdlijn toont de communicatie tussen gemeente en direct omwonenden. De gemeente bereidt eerst de stad voor via een brede communicatieaanpak in krant, lokale radio en televisie. Daarna volgt een aankondiging dat er locaties moeten komen, inclusief een uitnodiging aan inwoners of wijkvertegenwoordigers om mee te denken. Inwoners kunnen input geven over geschikte locaties en wat past bij de wijk via bijeenkomsten, bewonersverenigingen, wijkberaden of een online participatieplatform. Na de locatiekeuze informeert de gemeente inwoners per brief en nodigt zij hen uit om kennis te maken met de kwetsbare doelgroep.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/denhaag_voor-de-vestiging.png)
 
 #### Tijdens de vestiging
 
-- Help inwoners kennismaken met de 'nieuwe buren' (bijvoorbeeld een open huis of koffiemoment, circa een maand na opening).
-- Faciliteer afstemming van vraag en aanbod voor sociale initiatieven (bijvoorbeeld via een contactpersoon of locatiemanager).
-- Geef regelmatig eerlijke updates over hoe het gaat (buurtkrant, lokale sociale media, of via het wijkberaad/de bewonersvereniging).
-- Zorg voor een bereikbaar, nabij contactpersoon (zoals wijkagent of locatiemanager) voor ervaringen, ideeën en zorgen.
-- Informeer tijdig en eerlijk over een verlenging of einddatum.
+- Help inwoners kennismaken met de nieuwe bewoners van de locatie (bijvoorbeeld een open huis of koffiemoment, circa een maand na opening, zodat de nieuwe bewoners eerst kunnen wennen).
+- Maak het makkelijk dat omwonenden en de nieuwe bewoners iets voor elkaar kunnen betekenen, door vraag en aanbod op elkaar af te stemmen (bijvoorbeeld via een contactpersoon of locatiemanager).
+- Geef regelmatig eerlijke updates over hoe het rondom de locatie gaat sinds de opening (buurtkrant, lokale sociale media, of via het wijkberaad/de bewonersvereniging).
+- Zorg voor een bereikbaar, nabij contactpersoon (zoals wijkagent of locatiemanager) bij wie inwoners terechtkunnen met ervaringen, ideeën en zorgen over de locatie en de bewoners ervan.
+- Informeer tijdig en eerlijk over of de locatie langer openblijft en tot wanneer.
 
 ![Communicatietijdlijn tijdens de vestiging van een opvang- of huisvestingslocatie. De tijdlijn toont de communicatie tussen gemeente en direct omwonenden vanaf de opening van de locatie tot de langere termijn. Inwoners maken kennis met de nieuwe buren via een open huis of koffiemoment. Vervolgens wordt gesproken over mogelijkheden om iets voor of met de doelgroep te doen, ondersteund door een contactpersoon die vraag en aanbod op elkaar afstemt. De gemeente geeft updates over de eerste maand, latere ontwikkelingen en eventuele belangrijke gebeurtenissen via buurtkrant, sociale media, posters of bewonersorganisaties. Inwoners kunnen doorlopend ervaringen, ideeën en zorgen delen via een bereikbaar aanspreekpunt, zoals een wijkagent of locatiemanager. Op langere termijn informeert de gemeente inwoners over een verlenging of einddatum van de locatie.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/denhaag_tijdens-de-vestiging.png)
 
 ### Aandachtspunten voor de inhoud van de communicatie
 
-- Sentiment ten aanzien opvang en huisvesting van kwetsbare doelgroepen wisselt sterk. Vorm daarom vooraf een goed beeld door in gesprek te gaan met de buurt. Stem de communicatie af op het levende sentiment.
-- Gevoel van oneerlijke verdeling over wijken. Maak daarom duidelijk hoe de verdeling over nieuw te openen locaties in wijken tot stand komt en hoe het momenteel in de stad verdeeld is.
-- Onduidelijkheid over de opgave van de gemeente. Leg daarom uit wat een plicht is, welke keuzes de gemeente zelf maakt en waarom, en wat inwoners kunnen verwachten.
-- Behoefte aan meedenken over mogelijke locaties en aandachtspunten in eigen wijk. Bied daarom de mogelijkheid om input te geven, per wijk via bestaande bijeenkomsten of een inloopbijeenkomst, plus een doorlopend (online) meldpunt.
-- Behoefte aan persoonlijke informatie na een locatiekeuze. Stuur daarom een beknopte, duidelijke brief en ga de wijk in voor laagdrempelig contact (bijvoorbeeld met een koffiekar).
+- Het sentiment ten aanzien van opvang en huisvesting van kwetsbare doelgroepen wisselt sterk. Vorm daarom vooraf een goed beeld door in gesprek te gaan met de buurt, en stem de communicatie af op het sentiment dat in de wijk leeft.
+- Veel inwoners hebben het gevoel dat opvang en huisvesting oneerlijk verdeeld wordt over wijken. Maak daarom duidelijk hoe de verdeling over de wijken tot stand komt en hoe het momenteel in de stad verdeeld is.
+- Voor veel inwoners is het niet duidelijk wat de opgave van de gemeente precies is. Leg daarom uit wat een plicht is, welke keuzes de gemeente zelf maakt en waarom, en wat inwoners kunnen verwachten.
+- Een deel van de inwoners wil graag meedenken over mogelijke locaties en aandachtspunten in de eigen wijk. Bied daarom de mogelijkheid om input te geven, per wijk via bestaande bijeenkomsten of een inloopbijeenkomst, plus een doorlopend (online) meldpunt.
+- Inwoners willen na een locatiekeuze persoonlijke geïnformeerd worden. Stuur daarom een beknopte, duidelijke brief en ga de wijk in voor laagdrempelig contact (bijvoorbeeld met een koffiekar).
 
 ### Aandachtspunten voor sociale interactie
 
-- Deel van inwoners staat open voor interactie, maar weet niet hoe. Faciliteer daarom afstemming van vraag en aanbod, bijvoorbeeld door aan te sluiten bij bestaande initiatieven zoals denhaagdoet.nl of PEP.
-- Multi purpose buildings hebben uitleg nodig. Leg daarom het concept duidelijk uit met concrete voorbeelden, stem de invulling af met wijkbewoners en een lokale coördinator, en gebruik een begrijpelijker naam richting inwoners.
+- Een deel van inwoners staat open voor interactie met de opgevangen groep, maar weet niet hoe ze dat moeten aanpakken. Faciliteer daarom de afstemming van vraag en aanbod, bijvoorbeeld door aan te sluiten bij bestaande initiatieven zoals denhaagdoet.nl of PEP.
+- Het begrip "multi purpose buildings" zegt inwoners weinig en heeft uitleg nodig. Leg daarom het concept duidelijk uit met concrete voorbeelden, stem de invulling af met wijkbewoners en een lokale coördinator, en gebruik een begrijpelijker naam richting inwoners.
 
 ## Resultaten en inzichten
 
@@ -91,10 +92,10 @@ Communiceer richting omwonenden volgens een vaste tijdlijn, en bied hen de mogel
 
 #### Het sentiment wisselt sterk
 
-Hoe inwoners aankijken tegen opvang en huisvesting loopt sterk uiteen, en verschilt bovendien per buurt. Dat maakt één uniforme boodschap lastig.
+Hoe inwoners aankijken tegen opvang en huisvesting loopt sterk uiteen, en verschilt bovendien per buurt. Stem de communicatie daarom af op wat er in een specifieke wijk leeft.
 
 - Sommigen vinden dat iedereen welkom moet zijn, anderen zeggen juist "stop".
-- Het sentiment verschilt sterk per buurt, dus stem de communicatie hierop af.
+- Omdat het sentiment verschilt sterk per buurt, past één aanpak voor de hele stad daar niet bij.
 
 #### Gevoel dat er geen ruimte is voor deze groepen
 
@@ -105,7 +106,7 @@ Een veelgehoord gevoel is dat de stad "vol" is en er weinig ruimte is voor extra
 
 #### Gevoel dat opvang oneerlijk verdeeld wordt over wijken
 
-Veel inwoners hebben het idee dat de lasten niet eerlijk over de stad verdeeld worden.
+Veel inwoners hebben het idee dat opvang en huisvesting niet eerlijk over de wijken verdeeld worden.
 
 - Velen denken dat kwetsbaardere wijken meer opvang krijgen, omdat die minder mondig zouden zijn dan rijkere wijken.
 - Dat voelt als een extra last voor wijken die het al moeilijk hebben.
@@ -117,12 +118,12 @@ Het verleden van een wijk bepaalt mede hoe de komst van een nieuwe locatie wordt
 - In sommige wijken wonen al meer kwetsbare doelgroepen. Eerdere (slechte) ervaringen kleuren het beeld.
 - Dit is belangrijk om rekening mee te houden bij de aanpak per wijk.
 
-#### Het maakt niet uit om welke groep het gaat
+#### Het maakt uit om welke groep het gaat
 
 Het draagvlak hangt sterk af van welke groep wordt ontvangen.
 
 - Voor de opvang van mensen die hier geboren zijn of van Oekraïners is vaak meer begrip dan voor andere vluchtelingen of "mensen van buitenaf".
-- Sommige begrijpen dat statushouders recht op huisvesting hebben. Anderen zien hen als groep die geen voorrang zou mogen krijgen.
+- Sommigen begrijpen dat statushouders recht op huisvesting hebben. Anderen zien hen als groep die geen voorrang zou mogen krijgen.
 
 #### Men ziet snel problemen, minder snel kansen
 
@@ -133,7 +134,7 @@ De aandacht gaat vooral uit naar mogelijke problemen, terwijl de positieve kant 
 
 #### Onduidelijkheid over de opgave van de gemeente
 
-Wat de gemeente moest en wat ze zelf kiest, is voor veel inwoners niet helder, terwijl daar wel behoefte aan is.
+Wat de gemeente moet en wat ze zelf kiest, is voor veel inwoners niet helder, terwijl daar wel behoefte aan is.
 
 - Velen kennen de Spreidingswet, maar weten niet precies wat een plicht is en wat een eigen keuze.
 - Ook het verschil tussen de opgave rond statushouders en vluchtelingen is vaak onduidelijk, evenals of Den Haag boven of onder zijn plicht zit.
@@ -214,7 +215,7 @@ Zodra een locatie er is, willen veel inwoners weten wie er komt wonen.
 
 #### Open voor sociale interactie, maar met hulp
 
-Een deel van de inwoners staat open voor contact met de nieuwe bewoners, maar komt daar nie vanzelf toe.
+Een deel van de inwoners staat open voor contact met de nieuwe bewoners, maar komt daar niet vanzelf toe.
 
 - Een deel staat open voor contact, maar wil geholpen worden bij het realiseren ervan.
 - De behoefte wisselt sterk. Er moet vooral een mogelijkheid zijn, geen verplichting.
@@ -228,7 +229,7 @@ Inwoners willen ook na de opening blijven horen hoe het gaat.
 
 #### Updates moeten eerlijk zijn
 
-Geloofwaarde updates laten ook de minder goede kanten zien.
+Geloofwaardige updates laten ook de minder goede kanten zien.
 
 - Vertel niet alleen wat goed gaat, maar ook wat niet goed gaat en hoe de gemeente dat aanpakt.
 - Eerlijkheid schept meer vertrouwen en geloofwaardigheid dan alleen goed nieuws.
@@ -262,7 +263,7 @@ Veel inwoners staan welwillend tegenover contact met de opgevangen groep, maar w
 De gemeente hoeft sociale interactie niet zelf te organiseren, maar wel mogelijk te maken.
 
 - De invulling kan verder gebeuren door inwoners, lokale initiatieven of een locatiemanager.
-- Sleutelfiguren in een wijk kunnen interactie op gang helpen en bereiken vaak moeilijk bereikbare groepen.
+- Sleutelfiguren in een wijk kunnen interactie op gang helpen en bereiken vaak moeilijk bereikbare groepen. Denk aan 'Appie van de Haagse Markt' of eigenaren van sportscholen.
 
 #### Multi purpose buildings: uitleg nodig, maar sluit aan
 
@@ -286,3 +287,7 @@ Het betreft kwalitatief onderzoek. Het is geen representatieve afspiegeling van 
 
 - [Petra Kramer](petra.kramer@denhaag.nl) - Onderzoeker - Gemeente Den Haag
 - [Margo Welling](margo.welling@denhaag.nl) - Onderzoeker - Gemeente Den Haag
+
+## Bijlagen
+
+[Rapport - Onderzoek opvang en huisvesting kwetsbare groepen (PDF, 8.1 MB)](https://github.com/user-attachments/files/29372748/Rapport.-.Onderzoek.Opvang.en.huisvesting.kwetsbare.groepen.pdf)
