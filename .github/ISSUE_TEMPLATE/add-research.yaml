@@ -47,7 +47,7 @@ body:
         keyword 2
         keyword 3
     validations:
-      required: true
+      required: false
 
   - type: textarea
     id: tags
@@ -59,7 +59,7 @@ body:
         tag 2
         tag 3
     validations:
-      required: true
+      required: false
 
   - type: checkboxes
     id: themes
@@ -84,7 +84,7 @@ body:
     id: conducted_by
     attributes:
       label: Uitgevoerd door
-      description: Lijst van organisaties die het onderzoek hebben uitgevoerd (één per regel)
+      description: Lijst van een of meer organisaties die het onderzoek hebben uitgevoerd (één per regel)
       placeholder: |
         Organisatie 1
         Organisatie 2
@@ -98,7 +98,7 @@ body:
       description: Organisatie die de opdracht heeft gegeven voor het onderzoek
       placeholder: bijv. Gemeente Utrecht
     validations:
-      required: true
+      required: false
 
   - type: input
     id: date_conducted
@@ -141,9 +141,9 @@ body:
     attributes:
       label: Advies
       description: Welk advies geven we op basis van dit onderzoek? Welke actie moet er ondernomen worden?
-      placeholder: Beschrijf aanbevelingen en acties
+      placeholder: Beschrijf wanneer van toepassing de aanbevelingen en acties op basis van de resultaten
     validations:
-      required: true
+      required: false
 
   - type: textarea
     id: results
@@ -158,7 +158,7 @@ body:
     id: actions_taken
     attributes:
       label: Wat is er mee gedaan?
-      description: (Optioneel) Indien op moment van schrijven al van toepassing - een korte beschrijving van wat er met de onderzoeksresultaten wordt gedaan
+      description: Een korte beschrijving van wat er met de onderzoeksresultaten wordt gedaan
       placeholder: Beschrijf indien van toepassing hoe de resultaten zijn geïmplementeerd
     validations:
       required: false
