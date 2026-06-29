@@ -36,6 +36,8 @@ Door met een onderzoekspartner samen te werken kun je nog eens naar je onderzoek
 
 Dat kan iemand zijn met wie je een goede klik hebt. Een directe collega, iemand van een hele andere afdeling of zelfs iemand van een andere organisatie. Zolang jullie maar dezelfde vraag hebben.
 
+**Tip**: [Kijk bij aankomende onderzoeken](https://github.com/nl-design-system/gebruikersonderzoeken/discussions/categories/aankomend-gepland-onderzoek) of iemand al aan een vergelijkbaar onderwerp werkt. Zo voorkom je dubbel werk en vind je misschien een onderzoekspartner. Staat er nog geen vergelijkbaar onderzoek tussen? Kondig dan je eigen geplande onderzoek aan, zodat anderen kunnen aanhaken.
+
 ## Stap 2: De onderzoeksvraag
 
 Voor dit stappenplan nemen we een observatieonderzoek als voorbeeld: Je geeft iemand een opdracht, kijkt wat die persoon doet en ontdek wat er wel en niet werkt.
