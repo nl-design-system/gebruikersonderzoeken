@@ -40,6 +40,14 @@ const recentOnderzoekenTop3 = recentOnderzoeken.toSpliced(3, Infinity);
     <CardListOnderzoek headingLevels={3} onderzoeken={recentOnderzoekenTop3} />
   </PageSection>
 
+  <BannerUpdate
+    heading="Staat er een gebruikersonderzoek op de planning?"
+    content="Deel je geplande onderzoek met de community en ontdek wie aan hetzelfde onderwerp werkt. Zo kun je ervaringen uitwisselen of samenwerken."
+    footerActions={[
+      { href: 'https://github.com/nl-design-system/gebruikersonderzoeken/discussions', label: 'Deel je geplande onderzoek' },
+    ]}
+  />
+
   <PageSection withSpace>
     <Heading level={2}>Thema's</Heading>
     <CardListTheme headingLevels={3} columns={2} themes={sortedThemes} />
