@@ -994,8 +994,8 @@ importers:
         specifier: 4.0.4
         version: 4.0.4
       '@utrecht/action-group-css':
-        specifier: 2.0.0
-        version: 2.0.0
+        specifier: 4.0.1
+        version: 4.0.1
       '@utrecht/blockquote-css':
         specifier: 1.6.1
         version: 1.6.1
@@ -3184,15 +3184,16 @@ packages:
 
   '@ungap/structured-clone@1.3.0':
     resolution: {integrity: sha512-WmoN8qaIAo7WTYWbAZuG8PYEhn5fkz7dZrqTBZ7dtt//lL2Gwms1IcnQ5yHqjDfX8Ft5j4YzDM23f87zBfDe9g==}
+    deprecated: Potential CWE-502 - Update to 1.3.1 or higher
 
   '@utrecht/accordion-css@3.0.1':
     resolution: {integrity: sha512-BWqGNjsJKzZ468gNbicMNyNoAwEAdN6msViCGURrW/tIsWRqoIcck3CozGuWdS9u7pakasfi6hhHvPbXcz4CoA==}
 
-  '@utrecht/action-group-css@2.0.0':
-    resolution: {integrity: sha512-4tx8qwAjuz35FMcmo46EL9pyIh4qbJ8tjswBthPje2ZEHqcCWignKO66suA1rApP9R+Lzf7uaXgEQ82dTb8u1w==}
-
   '@utrecht/action-group-css@3.0.1':
     resolution: {integrity: sha512-IFOWCIMgcr44MuqotyY7wC3KXOMaxvcn8ZoDtCISK+5uG5NjbSsdI9DyegrWBq8M7fGPLnjDMdWCmIVFM2lgCA==}
+
+  '@utrecht/action-group-css@4.0.1':
+    resolution: {integrity: sha512-sOIQgEd1fnPG5e4k8NlYn1jEGv3XoTDeGpFSv+p20b8t5Et53mi1jV2eKw9TQFbnFIPWBsGYh/k7yy5ZIiOfXA==}
 
   '@utrecht/action-group-react@1.1.4':
     resolution: {integrity: sha512-W+0+x2wJ9058wNDYnK1dCfUKCFfNVsDcezm/MmBgmOW/vUnX/095TVzhPboL6vVdHQTESY4uaCjinmvwI/sx6A==}
@@ -6604,6 +6605,7 @@ packages:
   tsconfck@3.1.6:
     resolution: {integrity: sha512-ks6Vjr/jEw0P1gmOVwutM3B7fWxoWBL2KRDb1JfqGVawBmO5UsvmWOQFGHBPl5yxYz4eERr19E6L7NMv+Fej4w==}
     engines: {node: ^18 || >=20}
+    deprecated: unmaintained
     hasBin: true
     peerDependencies:
       typescript: ^5.0.0
@@ -9312,9 +9314,9 @@ snapshots:
 
   '@utrecht/accordion-css@3.0.1': {}
 
-  '@utrecht/action-group-css@2.0.0': {}
-
   '@utrecht/action-group-css@3.0.1': {}
+
+  '@utrecht/action-group-css@4.0.1': {}
 
   '@utrecht/action-group-react@1.1.4(@babel/runtime@7.28.2)(react-dom@19.2.4(react@19.2.4))(react@19.2.4)':
     dependencies:
