@@ -53,7 +53,7 @@
     "globals": "16.5.0",
     "husky": "9.1.7",
     "lint-staged": "16.2.7",
-    "npm-check-updates": "19.3.2",
+    "npm-check-updates": "22.2.9",
     "npm-package-json-lint": "9.1.0",
     "prettier": "3.8.1",
     "prettier-plugin-astro": "0.14.1",
