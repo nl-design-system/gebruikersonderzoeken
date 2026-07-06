@@ -19,6 +19,50 @@ updates:
     cooldown:
       default-days: 1
     groups:
+      nl-design-system:
+        applies-to: "version-updates"
+        patterns:
+          - "@amsterdam/*"
+          - "@gemeente-denhaag/*"
+          - "@gemeente-rotterdam/*"
+          - "@nl-design-system/*"
+          - "@nl-design-system-candidate/*"
+          - "@nl-design-system-community/*"
+          - "@nl-design-system-unstable/*"
+          - "@nl-rvo/*"
+          - "@rijkshuisstijl-community/*"
+      react:
+        applies-to: "version-updates"
+        patterns:
+          - "react"
+          - "react-dom"
+          - "@types/react"
+          - "@types/react-dom"
+      astro:
+        applies-to: "version-updates"
+        patterns:
+          - "astro"
+          - "@astrojs/*"
+      storybook:
+        applies-to: "version-updates"
+        patterns:
+          - "@storybook/*"
+          - "storybook"
+      build-toolchain:
+        applies-to: "version-updates"
+        patterns:
+          - "@babel/*"
+          - "@rollup/*"
+          - "@vitejs/*"
+          - "rollup"
+          - "vite"
+      test-toolchain:
+        applies-to: "version-updates"
+        patterns:
+          - "@testing-library/*"
+          - "@vitest/*"
+          - "jsdom"
+          - "vitest"
       patch-and-minor-updates:
         applies-to: "version-updates"
         update-types:
