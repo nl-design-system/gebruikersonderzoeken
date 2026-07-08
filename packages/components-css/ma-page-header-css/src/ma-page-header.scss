@@ -8,9 +8,9 @@
 }
 
 .ma-page-header__content {
+  border-color: var(--ma-page-header-border-color);
   border-block-end-style: solid;
   border-block-end-width: var(--ma-page-header-border-block-end-width);
-  border-color: var(--ma-page-header-border-color);
   box-sizing: border-box;
   display: flex;
   margin-inline: auto;

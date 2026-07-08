@@ -88,9 +88,9 @@ function whenTaskList(element: Element) {
           children: [
             {
               properties: {
-                strokeWidth: '2',
                 d: 'M 0 2 H 14 M 1 2 V 14 M 0 13 H 14 M 3 15 H 14 M 13 2 V 14 M 15 4 V 16',
                 stroke: 'currentColor',
+                strokeWidth: '2',
               },
               tagName: 'path',
               type: 'element',
