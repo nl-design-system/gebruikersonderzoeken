@@ -18,10 +18,10 @@ const appKey = '74627f8933dc6059f68f48ee8fbecaa9';
 const index = 'gebruikersonderzoek';
 
 const headers: HeadersInit = {
-  'x-algolia-application-id': appId,
   Accept: 'application/json',
   'Content-Type': 'application/json',
   'x-algolia-api-key': appKey,
+  'x-algolia-application-id': appId,
 };
 
 const highlightTags = {

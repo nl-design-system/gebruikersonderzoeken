@@ -2,6 +2,12 @@
  * @type {import('prettier').Config}
  */
 export default {
+  // Use the astro plugin to format .astro files
+  plugins: ['prettier-plugin-astro'],
+  // Use a printWith of 120 characters which is different from the default 80
+  printWidth: 120,
+  // Use single quotes (') instead of the default double quotes ("), but see overrides.
+  singleQuote: true,
   // Overrides for the deviations from the defaults above
   overrides: [
     {
@@ -27,10 +33,4 @@ export default {
       },
     },
   ],
-  // Use a printWith of 120 characters which is different from the default 80
-  printWidth: 120,
-  // Use the astro plugin to format .astro files
-  plugins: ['prettier-plugin-astro'],
-  // Use single quotes (') instead of the default double quotes ("), but see overrides.
-  singleQuote: true,
 };

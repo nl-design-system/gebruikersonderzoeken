@@ -15,7 +15,7 @@
 .ma-navigation-drawer {
   background-color: var(--ma-navigation-drawer-background-color);
   block-size: 100vh;
-  border: none;
+  border-width: 0;
   box-shadow: var(--ma-navigation-drawer-box-shadow);
   display: flex;
   flex-direction: column;
@@ -62,10 +62,10 @@
 }
 
 .ma-navigation-drawer__header {
-  background-color: var(--ma-navigation-drawer-header-background-color);
-  border-block-end: 1px solid;
   border-color: var(--ma-navigation-drawer-header-border-color);
   border-width: var(--ma-navigation-drawer-header-border-width);
+  border-block-end: 1px solid;
+  background-color: var(--ma-navigation-drawer-header-background-color);
   column-gap: var(--ma-navigation-drawer-header-column-gap);
   display: flex;
   inset-block-start: 0;
