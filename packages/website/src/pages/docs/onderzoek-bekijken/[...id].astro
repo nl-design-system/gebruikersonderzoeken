@@ -74,7 +74,6 @@ const dataSummary = [
   .filter((item) => item.detail)
   .map(({ detail, title }) => ({ detail: Array.isArray(detail) ? detail.join(', ') : detail, title }));
 
-console.log('dataSummary', dataSummary);
 
 const tocItems: TableOfContentsItem[] = headings
   .filter((heading) => heading.depth === 2)
