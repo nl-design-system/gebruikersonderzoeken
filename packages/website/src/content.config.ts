@@ -7,6 +7,7 @@ import { z } from 'astro/zod';
 const onderzoeken = defineCollection({
   loader: glob({ base: '../../docs/onderzoek-bekijken/', pattern: '**/!(_)(*).md' }),
   schema: z.object({
+    client: z.array(z.string()).optional(),
     conducted_by: z.array(z.string()).optional(),
     cover: CoverSchema.optional(),
     date_added: z.iso.date().default('2000-01-01'),

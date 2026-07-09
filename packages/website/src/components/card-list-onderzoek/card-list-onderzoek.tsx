@@ -16,7 +16,17 @@ export function CardListOnderzoek(props: PropsWithChildren<CardListThemeProps>) 
   return (
     <CardList>
       {props.onderzoeken.map((onderzoek) => {
-        const metadata = onderzoek.data.conducted_by ? [{ label: onderzoek.data.conducted_by.join(', ') }] : undefined;
+        const client = onderzoek.data.client && onderzoek.data.client.join(', ');
+        const conducted_by = onderzoek.data.conducted_by && onderzoek.data.conducted_by.join(', ');
+
+        const metadata =
+          client && conducted_by
+            ? [{ label: `Uitgevoerd door ${conducted_by} in opdracht van ${client}` }]
+            : client
+              ? [{ label: `In opdracht van ${client}` }]
+              : conducted_by
+                ? [{ label: `Uitgevoerd door ${conducted_by}` }]
+                : undefined;
 
         return (
           <CardAsLink

@@ -66,12 +66,15 @@ function formatDate(date: unknown) {
 
 const dataSummary = [
   { detail: formatDate(onderzoek.data.date_conducted), title: 'Datum onderzoek' },
+  { detail: onderzoek.data.client, title: 'Opdrachtgever' },
   { detail: onderzoek.data.conducted_by, title: 'Uitgevoerd door' },
   { detail: onderzoek.data.type, title: 'Type onderzoek' },
   { detail: onderzoek.data.target_group, title: 'Doelgroep' },
 ]
   .filter((item) => item.detail)
   .map(({ detail, title }) => ({ detail: Array.isArray(detail) ? detail.join(', ') : detail, title }));
+
+console.log('dataSummary', dataSummary);
 
 const tocItems: TableOfContentsItem[] = headings
   .filter((heading) => heading.depth === 2)
