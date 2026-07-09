@@ -11,17 +11,22 @@ export interface CardListThemeProps {
   onderzoeken: CollectionEntry<'onderzoeken'>[];
 }
 
+const concatNames = (list: string[] | undefined) =>
+  list
+    ? list.reduce((string, part, index, list) => {
+        if (index === 0) return part;
+        if (index === list.length - 1) return `${string} en ${part}`;
+        return `${string}, ${part}`;
+      }, '')
+    : list;
+
 export function CardListOnderzoek(props: PropsWithChildren<CardListThemeProps>) {
   const headingLevels = props.headingLevels || 2;
   return (
     <CardList>
       {props.onderzoeken.map((onderzoek) => {
-        const client = onderzoek.data?.client?.reduce((string, part, index, list) => {
-          if (index === 0) return part
-          if (index === list.length - 1) `${string} en ${part}`
-          return `${string}, ${part}`
-        }, '')
-        const conducted_by = onderzoek.data.conducted_by && onderzoek.data.conducted_by.join(', ');
+        const client = concatNames(onderzoek.data?.client);
+        const conducted_by = concatNames(onderzoek.data?.conducted_by);
 
         const metadata =
           client && conducted_by
