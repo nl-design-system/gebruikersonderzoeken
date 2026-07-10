@@ -66,6 +66,7 @@ function formatDate(date: unknown) {
 
 const dataSummary = [
   { detail: formatDate(onderzoek.data.date_conducted), title: 'Datum onderzoek' },
+  { detail: onderzoek.data.client, title: 'Opdrachtgever' },
   { detail: onderzoek.data.conducted_by, title: 'Uitgevoerd door' },
   { detail: onderzoek.data.type, title: 'Type onderzoek' },
   { detail: onderzoek.data.target_group, title: 'Doelgroep' },

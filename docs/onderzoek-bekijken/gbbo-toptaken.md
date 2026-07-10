@@ -26,11 +26,15 @@ themes:
   - navigatie
   - gedrag-en-conversie
 conducted_by:
-  - GBBO in opdracht van Gemeente Zeewolde, Gemeente Ermelo en Gemeente Harderwijk
+  - GBBO
 date_added: '2026-01-23'
 date_conducted: '2019-11-27'
 target_group: Leden van het burgerpanel van gemeente Zeewolde (1.100 leden) en medewerkers van de gemeenten Ermelo en Harderwijk
 type: Vergelijkend taakprestatieonderzoek
+client:
+  - Gemeente Zeewolde
+  - Gemeente Ermelo
+  - Gemeente Harderwijk
 ---
 
 <!-- @license CC0-1.0 -->

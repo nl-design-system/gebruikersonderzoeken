@@ -34,6 +34,8 @@ conducted_by:
   - VNG
   - Acato
 date_added: '2026-04-08'
+client:
+  - VNG
 ---
 
 <!-- @license CC0-1.0 -->

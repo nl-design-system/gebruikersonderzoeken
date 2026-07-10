@@ -33,6 +33,8 @@ date_added: '2026-04-01'
 date_conducted: '2026-02-27'
 target_group: Mensen die geen muis kunnen gebruiken en afhankelijk zijn van toetsenbord, spraakbesturing of screenreader
 type: Interviews
+client:
+  - Kadaster
 ---
 
 <!-- @license CC0-1.0 -->
@@ -232,15 +234,21 @@ De inzichten uit dit onderzoek hebben onder andere waarde voor:
 
 ## Contactinformatie
 
+Kadaster:
+
+- https://www.kadaster.nl
+- https://www.generiekegeocomponenten.nl
+- [ggc@kadaster.nl](mailto:ggc@kadaster.nl)
+
 Valsplat:
 
 - https://valsplat.nl/nl/
-- hello@valsplat.nl
+- [hello@valsplat.nl](mailto:hello@valsplat.nl)
 
 Happy Labs:
 
 - https://happylabs.nl/nl/
-- hello@happylabs.nl
+- [hello@happylabs.nl](mailto:hello@happylabs.nl)
 
 ## Bijlagen
 
