@@ -48,6 +48,16 @@ updates:
         patterns:
           - "@storybook/*"
           - "storybook"
+      docusaurus:
+        applies-to: "version-updates"
+        patterns:
+          - "@docusaurus/*"
+      i18next:
+        applies-to: "version-updates"
+        patterns:
+          - "i18next"
+          - "i18next-*"
+          - "react-i18next"
       build-toolchain:
         applies-to: "version-updates"
         patterns:
@@ -63,6 +73,18 @@ updates:
           - "@vitest/*"
           - "jsdom"
           - "vitest"
+      lint-toolchain:
+        applies-to: "version-updates"
+        patterns:
+          - "@eslint/*"
+          - "eslint"
+          - "husky"
+          - "lint-staged"
+          - "markdownlint-cli"
+          - "npm-package-json-lint"
+          - "prettier"
+          - "stylelint"
+          - "stylelint-*"
       patch-and-minor-updates:
         applies-to: "version-updates"
         update-types:
@@ -72,4 +94,17 @@ updates:
       - dependency-name: "@types/node"
         update-types:
           - "version-update:semver-major"
+      - dependency-name: "@types/react"
+        update-types:
+          - "version-update:semver-major"
+      - dependency-name: "@types/react-dom"
+        update-types:
+          - "version-update:semver-major"
+      - dependency-name: "react"
+        update-types:
+          - "version-update:semver-major"
+      - dependency-name: "react-dom"
+        update-types:
+          - "version-update:semver-major"
+    versioning-strategy: "increase-if-necessary"
     open-pull-requests-limit: 20
