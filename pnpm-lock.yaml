@@ -1082,8 +1082,8 @@ importers:
         specifier: 19.2.3
         version: 19.2.3(@types/react@19.2.10)
       '@utrecht/body-css':
-        specifier: 1.2.1
-        version: 1.2.1
+        specifier: 4.0.1
+        version: 4.0.1
       '@utrecht/breadcrumb-nav-css':
         specifier: 1.5.1
         version: 1.5.1
@@ -3381,8 +3381,8 @@ packages:
   '@utrecht/blockquote-css@2.0.1':
     resolution: {integrity: sha512-uiGEhc77nM8OFEsuAR5viABV2NiRGZi3Mve2wUxtvrctPirLV/kQJWn3/pt2NCKSeuFqSnpVvCzgPe46F8PteQ==}
 
-  '@utrecht/body-css@1.2.1':
-    resolution: {integrity: sha512-YKB/y3Z+OjiDp39HTInrEme8ZOV+fffeHLybWTqCQjiP4JdPyiwUo82p7TYoyGe/isSGOSJQqVByhniadZI8mg==}
+  '@utrecht/body-css@4.0.1':
+    resolution: {integrity: sha512-5bcdCs65CYznjVKtvU5fvo4AtB8KVSV/FxJrmEPCAn6sF0PU0w9DZ1u2KOlKGe7JaCM/cwsxeR6d9UTxxng1OA==}
 
   '@utrecht/breadcrumb-nav-css@1.5.1':
     resolution: {integrity: sha512-C6da4Wo4cUSa0oag5riOYs1u4iFKuOJIvjdk93dUN/iW+h3YoWi0PNOiWnY0HbzecH5UxbwSCbqAitH5pmfogg==}
@@ -9653,7 +9653,7 @@ snapshots:
 
   '@utrecht/blockquote-css@2.0.1': {}
 
-  '@utrecht/body-css@1.2.1': {}
+  '@utrecht/body-css@4.0.1': {}
 
   '@utrecht/breadcrumb-nav-css@1.5.1': {}
 
