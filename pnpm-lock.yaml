@@ -1039,8 +1039,8 @@ importers:
         specifier: 1.5.1
         version: 1.5.1
       '@utrecht/spotlight-section-css':
-        specifier: 1.6.1
-        version: 1.6.1
+        specifier: 3.0.2
+        version: 3.0.2
       '@utrecht/unordered-list-css':
         specifier: 1.5.1
         version: 1.5.1
@@ -3778,11 +3778,11 @@ packages:
   '@utrecht/skip-link-css@2.0.1':
     resolution: {integrity: sha512-cH2UHLrcSKJHWid1i+VRzsrZMxLAHjmXiU332H5PJDLf5ImjjF0YVaw41+/d0yfWVH5UIEJj+el7naFzyA9/1w==}
 
-  '@utrecht/spotlight-section-css@1.6.1':
-    resolution: {integrity: sha512-sbaBDiPaozjqz7irQj+McIrGWNAGBFPHlKl3phApCb/ljoccdo//fDdPnlAgp1Hhwz2sSkj77ISdg0NKfwvimA==}
-
   '@utrecht/spotlight-section-css@2.0.1':
     resolution: {integrity: sha512-BzymCAj6Im0OAzpHs3iSqX+5lNIVD9EbElC9RCeFASTlp5Yc9iO2hj9CCeQD6yPuVuZBD84vND6p4JeMgeLPJg==}
+
+  '@utrecht/spotlight-section-css@3.0.2':
+    resolution: {integrity: sha512-OLMz4DKIUqG0pYoQqqMVfslaFkF2ncTec8IbNB+4Qn0gBYusA6d+Sklg59c1P/4cJmsvrL/izdOAt35ETw4Cxw==}
 
   '@utrecht/subscript-css@2.0.1':
     resolution: {integrity: sha512-Wg/lQA+vzQXVTEG88nMGzY2wi0WAYv++mBqd2P1mn6O0bgd4L6YxMppuOJs0J+RpMwHj65pUAbn/k6Ykh5i+iw==}
@@ -10089,9 +10089,9 @@ snapshots:
 
   '@utrecht/skip-link-css@2.0.1': {}
 
-  '@utrecht/spotlight-section-css@1.6.1': {}
-
   '@utrecht/spotlight-section-css@2.0.1': {}
+
+  '@utrecht/spotlight-section-css@3.0.2': {}
 
   '@utrecht/subscript-css@2.0.1': {}
 
