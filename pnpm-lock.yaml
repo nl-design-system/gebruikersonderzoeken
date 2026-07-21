@@ -1085,8 +1085,8 @@ importers:
         specifier: 1.2.1
         version: 1.2.1
       '@utrecht/breadcrumb-nav-css':
-        specifier: 1.5.1
-        version: 1.5.1
+        specifier: 3.0.1
+        version: 3.0.1
       '@utrecht/root-css':
         specifier: 1.2.1
         version: 1.2.1
@@ -3384,11 +3384,11 @@ packages:
   '@utrecht/body-css@1.2.1':
     resolution: {integrity: sha512-YKB/y3Z+OjiDp39HTInrEme8ZOV+fffeHLybWTqCQjiP4JdPyiwUo82p7TYoyGe/isSGOSJQqVByhniadZI8mg==}
 
-  '@utrecht/breadcrumb-nav-css@1.5.1':
-    resolution: {integrity: sha512-C6da4Wo4cUSa0oag5riOYs1u4iFKuOJIvjdk93dUN/iW+h3YoWi0PNOiWnY0HbzecH5UxbwSCbqAitH5pmfogg==}
-
   '@utrecht/breadcrumb-nav-css@2.1.0':
     resolution: {integrity: sha512-BOYqFSnrR5rVzU1mb4eDb4BbpuE9TSEPN5FTlJJduYDvsJr5DLDaxADmFp1p05di7GWV1qTaPBMxw0gEuMAbaQ==}
+
+  '@utrecht/breadcrumb-nav-css@3.0.1':
+    resolution: {integrity: sha512-Xi94I04iGSTwD9jynmkjyXCQ1lRXr3jz/1TNKKnHmA9iRy9shdyVZKUJBPPVTzlSIJLxuplj8acmICH8uZYbrQ==}
 
   '@utrecht/button-css@2.3.1':
     resolution: {integrity: sha512-gjCVKTzsV/2TOTrYANHFP1f9RqXc/6lY+gC37q9KaEJZ55+37mVKeNubCO1ntFRJeGY+4oCT5ti2rtX4jqDjqg==}
@@ -9655,9 +9655,9 @@ snapshots:
 
   '@utrecht/body-css@1.2.1': {}
 
-  '@utrecht/breadcrumb-nav-css@1.5.1': {}
-
   '@utrecht/breadcrumb-nav-css@2.1.0': {}
+
+  '@utrecht/breadcrumb-nav-css@3.0.1': {}
 
   '@utrecht/button-css@2.3.1': {}
 
