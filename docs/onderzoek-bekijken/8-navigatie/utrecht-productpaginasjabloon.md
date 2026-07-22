@@ -191,7 +191,7 @@ De CTA werkt uiteindelijk goed, maar onderweg raken gebruikers afgeleid door:
 
 > “Ik klikte te snel op de verkeerde link.”
 
-> “Wat moet ik nu doen??”
+> “Wat moet ik nu doen?”
 
 ### Tekstdichtheid en linkstructuur verstoren de hoofdtaak
 
