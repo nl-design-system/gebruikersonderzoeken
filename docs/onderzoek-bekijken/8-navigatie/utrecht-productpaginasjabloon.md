@@ -171,7 +171,7 @@ Nu reconstrueren zij de flow grotendeels zelf.
 
 > “Ik zou het fijn vinden om hier soort van stappenplan te hebben.”
 
-> “Wanneer heb je wat van mij nodig.”
+> “Wanneer heb je wat van mij nodig?”
 
 > “Simpeler → flowchart, break down.”
 
