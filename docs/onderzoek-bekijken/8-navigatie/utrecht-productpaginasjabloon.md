@@ -156,7 +156,7 @@ Gebruikers moeten regelmatig terugscrollen en opnieuw lezen.
 
 > “Ik moet dingen een paar keer doorlezen.”
 
-### Gebrek aan volgorde in ‘wat moet ik wanneer doen
+### Gebrek aan volgorde in 'wat moet ik wanneer doen'
 
 Gebruikers formuleren expliciet behoefte aan: een stappenplan / een tijdslijn (“in deze fase verwachten we dit van jou”).
 
