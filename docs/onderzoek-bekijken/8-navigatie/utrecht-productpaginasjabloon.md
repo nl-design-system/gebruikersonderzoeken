@@ -99,7 +99,7 @@ Toets of een meer gestructureerde en visueel ondersteunde opbouw het proces begr
   - welke informatie of documenten nodig zijn
   - wat er gebeurt na het afronden van de stap
 
-Dit geeft inzicht in of extra structuur en visuele ondersteuning daadwerkelijk bijdragen aan meer begrip, minder onzekerheid en een hogere taakafronding bij gebruikers.
+Dit geeft inzicht in de vraag of extra structuur en visuele ondersteuning daadwerkelijk bijdragen aan meer begrip, minder onzekerheid en een hogere taakafronding bij gebruikers.
 
 ## Inzichten
 
