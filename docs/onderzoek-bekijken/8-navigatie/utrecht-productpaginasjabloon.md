@@ -33,7 +33,7 @@ client:
 
 ## Doel van het onderzoek
 
-Het onderzoek moet duidelijk maken in hoeverre het huidige productpaginasjabloon inwoners helpt om informatie te vinden en een productaanvraag te starten. Het doel is niet inhoud optimaliseren, maar het onderliggende template verbeteren.
+Het onderzoek moet duidelijk maken in hoeverre het huidige productpaginasjabloon inwoners helpt om informatie te vinden en een productaanvraag te starten. Het doel is niet om de inhoud te optimaliseren, maar het onderliggende template te verbeteren.
 
 ### Onderzoeksvraag
 
