@@ -128,7 +128,7 @@ De koppenstructuur wordt ervaren als:
 
 ### De kop “Aanvragen” werkt onvoldoende als actiemoment
 
-Hoewel de meeste koppen goed werken, zorgt “Aanvragen” juist voor verwarring. De kop is te generiek voor een productpagina. Gebruikers herkennen niet direct dat dit de start van de actie is en blijven verder zoeken. Het voelt als een informatiesectie in plaats van een actiepunt
+Hoewel de meeste koppen goed werken, zorgt “Aanvragen” juist voor verwarring. De kop is te generiek voor een productpagina. Gebruikers herkennen niet direct dat dit de start van de actie is en blijven verder zoeken. Het voelt als een informatiesectie in plaats van een actiepunt.
 
 > "Als je gaat handelen, dan moet het duidelijk en beknopt zijn!"
 
