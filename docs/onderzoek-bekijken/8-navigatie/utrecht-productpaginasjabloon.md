@@ -5,7 +5,7 @@ hide_table_of_contents: false
 sidebar_label: Informatie vinden met het huidige Productpaginasjabloon
 pagination_label: Informatie vinden met het huidige Productpaginasjabloon
 description: Informatie vinden met het huidige Productpaginasjabloon
-summary: Alle deelnemers wisten de opdrachten succesvol af te ronden. Het sjabloon ondersteunt inwoners daarmee in basis bij het vinden van informatie. Tegelijkertijd blijkt dat het minder goed helpt bij het begrijpen van wat zij concreet moeten doen en wanneer. Gebruikers  verwachten een heldere flow/helder stappenplan, terwijl het sjabloon nu vooral informatief is opgebouwd. Met name bij het moment van handelen (het starten van de aanvraag) ontbreekt een duidelijke, actiegerichte kop.
+summary: Alle deelnemers wisten de opdrachten succesvol af te ronden. Het sjabloon ondersteunt inwoners daarmee in basis bij het vinden van informatie. Tegelijkertijd blijkt dat het minder goed helpt bij het begrijpen van wat zij concreet moeten doen en wanneer. Gebruikers  verwachten een heldere flow/helder stappenplan, terwijl het sjabloon nu vooral informatief is opgebouwd. Met name bij het starten van de aanvraag ontbreekt een duidelijke, actiegerichte kop.
 keywords:
   - utrecht
   - gebruikersonderzoek
