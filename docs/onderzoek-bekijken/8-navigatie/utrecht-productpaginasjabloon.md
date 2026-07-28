@@ -124,7 +124,7 @@ De koppenstructuur wordt ervaren als:
 
 > "Ik ben geen lezer, ik ga naar de dikgedrukte stukken en daar haal ik dan gelijk mijn informatie uit." 
 
-> “Woorden koppen goed, kort duidelijk.”
+> “Woorden, koppen: goed, kort en duidelijk.”
 
 ### De kop “Aanvragen” werkt onvoldoende als actiemoment
 
