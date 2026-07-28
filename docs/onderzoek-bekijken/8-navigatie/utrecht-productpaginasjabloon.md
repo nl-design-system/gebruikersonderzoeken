@@ -68,7 +68,7 @@ Positioneer één route als primair — bijvoorbeeld online — en maak alternat
 Het valt gebruikers o.a. op dat er:
 
 - soms wel gebruik gemaakt wordt van begeleidende tekst onder de koptekst en soms niet;
-- de ene keer er een dorp-down gebruikt wordt bij 'per post' en 'aan de balie' en de andere keer koppen.
+- de ene keer een drop-down wordt gebruikt wordt bij 'Per post' en 'Aan de balie' en de andere keer koppen.
 
 Door consequent dezelfde opbouw en elementen te gebruiken, wordt de interface voorspelbaarder en beter herkenbaar. Hierdoor begrijpen gebruikers sneller wat er van hen wordt verwacht, hoeven ze minder na te denken en maken ze minder fouten. Dit zorgt voor een soepelere gebruikerservaring.
 
