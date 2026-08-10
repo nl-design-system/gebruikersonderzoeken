@@ -1,0 +1,1 @@
+var e=e=>e?.endsWith(` | Gebruikersonderzoeken`)?e:e?`${e} | Gebruikersonderzoeken`:`Gebruikersonderzoeken`,t=t=>{let r=e(t);document.dispatchEvent(new n(r))},n=class e extends Event{static eventName=`update-document-title`;newTitle;constructor(t){super(e.eventName,{bubbles:!0,composed:!0}),this.newTitle=t}};export{t as n,n as t};

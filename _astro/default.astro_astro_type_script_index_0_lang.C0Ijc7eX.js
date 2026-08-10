@@ -1,0 +1,1 @@
+import{t as e}from"./document-title.D3TLvug7.js";document.addEventListener(e.eventName,t=>{let n=document.querySelector(`head title`);t instanceof e&&n&&(n.innerText=t.newTitle)});
