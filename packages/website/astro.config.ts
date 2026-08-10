@@ -1,4 +1,5 @@
 import type { AstroUserConfig } from 'astro';
+import { unified } from '@astrojs/markdown-remark';
 import react from '@astrojs/react';
 import sitemap from '@astrojs/sitemap';
 import { defineConfig } from 'astro/config';
@@ -62,8 +63,10 @@ export default defineConfig({
     appendCSPToHTAccess(),
   ],
   markdown: {
-    rehypePlugins: [nldsComponentsRehypePlugin, addTrailingSlashPlugin({ siteUrl, stripOrigin: true })],
-    remarkPlugins: [nldsComponentsRemarkPlugin, coverPlugin, removeH1FromMarkdown({ filter: 'onderzoek-bekijken' })],
+    processor: unified({
+      rehypePlugins: [nldsComponentsRehypePlugin, addTrailingSlashPlugin({ siteUrl, stripOrigin: true })],
+      remarkPlugins: [nldsComponentsRemarkPlugin, coverPlugin, removeH1FromMarkdown({ filter: 'onderzoek-bekijken' })],
+    }),
   },
   security: {
     csp: cspConfig.security?.csp,
