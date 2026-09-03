@@ -39,7 +39,7 @@
     "update-major": "npm-check-updates --configFileName .ncurc.major.mjs"
   },
   "devDependencies": {
-    "@changesets/cli": "2.29.8",
+    "@changesets/cli": "3.0.1",
     "@eslint/js": "9.39.2",
     "@eslint/json": "0.14.0",
     "@nl-design-system-unstable/nlds-design-tokens": "1.0.1",
