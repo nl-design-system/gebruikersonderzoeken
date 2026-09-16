@@ -7,27 +7,27 @@ pagination_label: Inloggen MijnOverheid Zakelijk (fase 3) - REWRITE
 description: Usability-onderzoek naar het inloggen op MijnOverheid Zakelijk (MOZa) en het uniform inlogproces, met burgers en startende ondernemers.
 summary: Burgers en startende ondernemers vinden moeiteloos de juiste inlogknop, ook als de ingangen voor MijnOverheid en MijnOverheid Zakelijk naast elkaar staan. Aandachtspunten zijn de consistentie en klikbaarheid van inlogknoppen, de onbekendheid van overheid.nl en ondernemersplein.nl, en de toegankelijkheid voor anderstaligen.
 keywords:
- - inloggen
- - MijnOverheid Zakelijk
- - MOZa
- - uniform inlogproces
- - DigiD
- - ondernemers
- - overheid.nl
- - ondernemersplein
+  - inloggen
+  - MijnOverheid Zakelijk
+  - MOZa
+  - uniform inlogproces
+  - DigiD
+  - ondernemers
+  - overheid.nl
+  - ondernemersplein
 tags:
- - inloggen
- - authenticatie
- - ondernemers
- - guerrillatest
+  - inloggen
+  - authenticatie
+  - ondernemers
+  - guerrillatest
 themes:
- - diensten-en-processen
- - mijn-omgeving
- - navigatie
- - doelgroep-specifiek
+  - diensten-en-processen
+  - mijn-omgeving
+  - navigatie
+  - doelgroep-specifiek
 conducted_by:
- - Logius (Team UX Research)
- - BZK / MijnOverheid Zakelijk (MOZa), opdrachtgever
+  - Logius (Team UX Research)
+  - BZK / MijnOverheid Zakelijk (MOZa), opdrachtgever
 date_added: '2026-09-15'
 target_group: burgers, startende ondernemers (ZZP'ers / klein MKB)
 type: kwalitatief onderzoek, usability research, guerrillatest
@@ -149,7 +149,7 @@ _Ter info: de opties in het geteste prototype wijken af van het uiteindelijke on
 - 🟠 Sommige respondenten hadden de inlogknop rechts- of linksboven verwacht in plaats van in het midden.
 - 🟠 Sommige respondenten zouden de inlogknop snel over het hoofd zien; ze missen een opvallende kleur en icoon.
 - ❗ Contactgegevens zijn wenselijk: enkele respondenten waren blij met het telefoonnummer onderaan de pagina; één respondent verkiest expliciet persoonlijk contact boven een AI-assistent.
-![Prototype van het uniforme inlogscherm 'Inloggen bij MijnOverheid Zakelijk' met bovenaan de blauwe knop 'Inloggen voor mijn eigen onderneming' en daaronder o.a. eHerkenning](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/logius-inloggen-moza-fase3__mijnoverheid-zakelijk-uniform-inlogscherm.png)
+  ![Prototype van het uniforme inlogscherm 'Inloggen bij MijnOverheid Zakelijk' met bovenaan de blauwe knop 'Inloggen voor mijn eigen onderneming' en daaronder o.a. eHerkenning](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/logius-inloggen-moza-fase3__mijnoverheid-zakelijk-uniform-inlogscherm.png)
 
 - ✅ De blauwe 'inloggen voor mijn eigen onderneming'-knop valt direct op.
 - ✅ Andere inlogopties binnen het DigiD-blok storen niet.
@@ -212,49 +212,49 @@ Het onderzoek is uitgevoerd door het UX Research team van Logius, in opdracht va
 
 _Let op: enkele aannames zijn aangepast zodat ze beter aansluiten op de onderzoeksresultaten en hoe we ze hebben gevalideerd._
 
-| Aanname | Conclusie | Toelichting | Gevalideerd? |
-| --- | --- | --- | --- |
-| Burgers hebben geen last van de extra link naar MijnOverheid Zakelijk op MijnOverheid middels het uniform inloggen scherm. | Ja | De inlogknoppen naast elkaar aanbieden geeft geen problemen. Alle respondenten herkenden direct welke knop voor hen relevant was. | Ja |
-| Burgers kunnen zonder moeite of twijfel inloggen op MijnOverheid middels het uniform inloggen scherm. | Ja | Alle respondenten deden dit zonder moeite. | Ja |
-| Het inlogproces op overheid.nl is voor burgers duidelijk en intuïtief. | Deels | De keuze tussen de twee mogelijkheden wordt niet als verwarrend ervaren. Echter kijken ze wel snel over de inlogknoppen heen. | Ja |
-| Burgers kunnen uit de notificatie opmaken dat ze dienen in te loggen op MijnOverheid om het volledige bericht te lezen. | Ja | Burgers kunnen dit uitleggen en handelen er ook naar. | Ja |
+| Aanname                                                                                                                    | Conclusie | Toelichting                                                                                                                       | Gevalideerd? |
+| -------------------------------------------------------------------------------------------------------------------------- | --------- | --------------------------------------------------------------------------------------------------------------------------------- | ------------ |
+| Burgers hebben geen last van de extra link naar MijnOverheid Zakelijk op MijnOverheid middels het uniform inloggen scherm. | Ja        | De inlogknoppen naast elkaar aanbieden geeft geen problemen. Alle respondenten herkenden direct welke knop voor hen relevant was. | Ja           |
+| Burgers kunnen zonder moeite of twijfel inloggen op MijnOverheid middels het uniform inloggen scherm.                      | Ja        | Alle respondenten deden dit zonder moeite.                                                                                        | Ja           |
+| Het inlogproces op overheid.nl is voor burgers duidelijk en intuïtief.                                                     | Deels     | De keuze tussen de twee mogelijkheden wordt niet als verwarrend ervaren. Echter kijken ze wel snel over de inlogknoppen heen.     | Ja           |
+| Burgers kunnen uit de notificatie opmaken dat ze dienen in te loggen op MijnOverheid om het volledige bericht te lezen.    | Ja        | Burgers kunnen dit uitleggen en handelen er ook naar.                                                                             | Ja           |
 
 ### Bijlage 2: Aannames ondernemers
 
-| Aanname | Conclusie | Toelichting | Gevalideerd? |
-| --- | --- | --- | --- |
-| Ondernemers vinden de ingang naar MOZa op ondernemersplein logisch (is al onderzocht in eerder onderzoek). | Nee | 1 van de 9 starters kende ondernemersplein.nl en vond deze ingang logisch. De rest niet. | Ja |
-| Ondernemers vinden het prima als de link naar persoonlijke en zakelijke MO-omgeving bij elkaar staan op Overheid.nl. | Ja | Ze vinden het prima dat ze bij elkaar staan, maar de uitnodiging tot interactie is nog niet goed. Er mist een icoon/klikbaarheid. Er ontstond toch een soort verwarring bij het zien van MijnOverheid en MijnOverheid Zakelijk naast elkaar. | Ja |
-| Gebruikers weten direct welke ingang (MO vs. MOZa) voor hen van toepassing is wanneer beide zichtbaar zijn op overheid.nl. | Deels | 2 personen misten het woord 'inloggen', dus misten de nadruk op de actie. Voor 1 leek het meer 'branding' over MijnOverheid. | Ja |
-| Na kiezen voor MOZa vinden ondernemers het logisch dat 'inloggen voor mijn onderneming' de primaire keus is. | Ja | Respondenten klikten hier heel snel door op 'inloggen voor mijn onderneming'. | Ja |
-| Ondernemers die MO voor burgers al kennen voelen zich snel vertrouwd op de inlogpagina naar MijnOverheid Zakelijk. | Ja | Vooral als ze voor een bericht naar MOZa komen, zoals in het script stond beschreven. | Ja |
-| Ondernemers vinden het logisch dat ze via de e-mail een seintje krijgen voor een bericht in MOZa. | Ja | Respondenten zijn dit al gewend van MO. | Ja |
-| Ondernemers vinden het logisch om voor inloggen naar MOZa voor een bericht naar MijnOverheid.nl/zakelijk te gaan. | Ja | Bijna iedereen vond de startpagina MijnOverheid Zakelijk logisch om berichten te lezen (behalve degene die DOP al kende). | Ja |
+| Aanname                                                                                                                    | Conclusie | Toelichting                                                                                                                                                                                                                                  | Gevalideerd? |
+| -------------------------------------------------------------------------------------------------------------------------- | --------- | -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------- | ------------ |
+| Ondernemers vinden de ingang naar MOZa op ondernemersplein logisch (is al onderzocht in eerder onderzoek).                 | Nee       | 1 van de 9 starters kende ondernemersplein.nl en vond deze ingang logisch. De rest niet.                                                                                                                                                     | Ja           |
+| Ondernemers vinden het prima als de link naar persoonlijke en zakelijke MO-omgeving bij elkaar staan op Overheid.nl.       | Ja        | Ze vinden het prima dat ze bij elkaar staan, maar de uitnodiging tot interactie is nog niet goed. Er mist een icoon/klikbaarheid. Er ontstond toch een soort verwarring bij het zien van MijnOverheid en MijnOverheid Zakelijk naast elkaar. | Ja           |
+| Gebruikers weten direct welke ingang (MO vs. MOZa) voor hen van toepassing is wanneer beide zichtbaar zijn op overheid.nl. | Deels     | 2 personen misten het woord 'inloggen', dus misten de nadruk op de actie. Voor 1 leek het meer 'branding' over MijnOverheid.                                                                                                                 | Ja           |
+| Na kiezen voor MOZa vinden ondernemers het logisch dat 'inloggen voor mijn onderneming' de primaire keus is.               | Ja        | Respondenten klikten hier heel snel door op 'inloggen voor mijn onderneming'.                                                                                                                                                                | Ja           |
+| Ondernemers die MO voor burgers al kennen voelen zich snel vertrouwd op de inlogpagina naar MijnOverheid Zakelijk.         | Ja        | Vooral als ze voor een bericht naar MOZa komen, zoals in het script stond beschreven.                                                                                                                                                        | Ja           |
+| Ondernemers vinden het logisch dat ze via de e-mail een seintje krijgen voor een bericht in MOZa.                          | Ja        | Respondenten zijn dit al gewend van MO.                                                                                                                                                                                                      | Ja           |
+| Ondernemers vinden het logisch om voor inloggen naar MOZa voor een bericht naar MijnOverheid.nl/zakelijk te gaan.          | Ja        | Bijna iedereen vond de startpagina MijnOverheid Zakelijk logisch om berichten te lezen (behalve degene die DOP al kende).                                                                                                                    | Ja           |
 
 ### Bijlage 3: Overzicht van de respondenten kringloop (burgers)
 
-| # | Leeftijd (geschat) | M/V | Kenmerken | Bijzonderheden |
-| --- | --- | --- | --- | --- |
-| 1 | 35 | M | Getrouwd, heeft kinderen | Regelt alles met de DigiD app. Is ondernemer geweest in het verleden. |
-| 2 | 50 | V | Heeft kinderen | Regelt alles met de DigiD app. |
-| 3 | 50 | V | Heeft kinderen | Moedertaal niet Nederlands, geboren in Litouwen. Gebruikt DigiD app. Geeft aan correspondentie met de overheid als stressvol te ervaren door de Sovjet-Unie. |
-| 4 | 75 | M | Getrouwd | Niet digitaal vaardig, zijn vrouw regelt alle digitale zaken. |
-| 5 | 27 | M | Journalist | Werkt als ZZP'er, gebruikt de DigiD app. |
-| 6 | 25 | V | | Digitaal vaardig, gebruikt de DigiD app. |
-| 7 | 35 | V | Werkt als trainingsactrice, ZZP. Woonachtig bij moeder (R8) | Digitaal vaardig, gebruikt de DigiD app. |
-| 8 | 70 | V | Heeft volwassen dochter (R7), die haar helpt | Medium digitaal vaardig, gebruikt de DigiD app. |
-| 9 | 25 | M | Student | Gebruikt vooral de DigiD app. |
+| #   | Leeftijd (geschat) | M/V | Kenmerken                                                   | Bijzonderheden                                                                                                                                               |
+| --- | ------------------ | --- | ----------------------------------------------------------- | ------------------------------------------------------------------------------------------------------------------------------------------------------------ |
+| 1   | 35                 | M   | Getrouwd, heeft kinderen                                    | Regelt alles met de DigiD app. Is ondernemer geweest in het verleden.                                                                                        |
+| 2   | 50                 | V   | Heeft kinderen                                              | Regelt alles met de DigiD app.                                                                                                                               |
+| 3   | 50                 | V   | Heeft kinderen                                              | Moedertaal niet Nederlands, geboren in Litouwen. Gebruikt DigiD app. Geeft aan correspondentie met de overheid als stressvol te ervaren door de Sovjet-Unie. |
+| 4   | 75                 | M   | Getrouwd                                                    | Niet digitaal vaardig, zijn vrouw regelt alle digitale zaken.                                                                                                |
+| 5   | 27                 | M   | Journalist                                                  | Werkt als ZZP'er, gebruikt de DigiD app.                                                                                                                     |
+| 6   | 25                 | V   |                                                             | Digitaal vaardig, gebruikt de DigiD app.                                                                                                                     |
+| 7   | 35                 | V   | Werkt als trainingsactrice, ZZP. Woonachtig bij moeder (R8) | Digitaal vaardig, gebruikt de DigiD app.                                                                                                                     |
+| 8   | 70                 | V   | Heeft volwassen dochter (R7), die haar helpt                | Medium digitaal vaardig, gebruikt de DigiD app.                                                                                                              |
+| 9   | 25                 | M   | Student                                                     | Gebruikt vooral de DigiD app.                                                                                                                                |
 
 ### Bijlage 4: Overzicht van de respondenten KVK (ondernemers)
 
-| # | Leeftijd (geschat) | M/V | Type bedrijf | Branche | Beroep |
-| --- | --- | --- | --- | --- | --- |
-| 1 | 40 | M | ZZP/Zelfstandig zonder personeel | Bouw | Plaatser van zonnepanelen |
-| 2 | 40 | M | ZZP/Zelfstandig zonder personeel | IT & Online diensten | Meerdere ondernemingen |
-| 3 | 40 | V | ZZP/Zelfstandig zonder personeel | Dienstverlening | Diversen: opruimcoach, eventmanagement |
-| 4 | 62 | V | ZZP/Zelfstandig zonder personeel | Projectmanagement | Sociaal makelaar |
-| 5 | 25 | M | ZZP/Zelfstandig zonder personeel | Internationale handel | Bouwmaterialen exporteur |
-| 6 | 20 | V | ZZP/Zelfstandig zonder personeel | Zorg en Gezondheid | Mondhygiënist (in opleiding) |
-| 7 | 20 | V | ZZP/Zelfstandig zonder personeel | Kunst en Cultuur | Spoken word artiest |
-| 8 | 25 | M | ZZP/Zelfstandig zonder personeel | Muziek | Gitarist/gitaarleraar |
-| 9 | 30 | V | ZZP/Zelfstandig zonder personeel | Marketing, communicatie en advies | Marketing Consultant |
+| #   | Leeftijd (geschat) | M/V | Type bedrijf                     | Branche                           | Beroep                                 |
+| --- | ------------------ | --- | -------------------------------- | --------------------------------- | -------------------------------------- |
+| 1   | 40                 | M   | ZZP/Zelfstandig zonder personeel | Bouw                              | Plaatser van zonnepanelen              |
+| 2   | 40                 | M   | ZZP/Zelfstandig zonder personeel | IT & Online diensten              | Meerdere ondernemingen                 |
+| 3   | 40                 | V   | ZZP/Zelfstandig zonder personeel | Dienstverlening                   | Diversen: opruimcoach, eventmanagement |
+| 4   | 62                 | V   | ZZP/Zelfstandig zonder personeel | Projectmanagement                 | Sociaal makelaar                       |
+| 5   | 25                 | M   | ZZP/Zelfstandig zonder personeel | Internationale handel             | Bouwmaterialen exporteur               |
+| 6   | 20                 | V   | ZZP/Zelfstandig zonder personeel | Zorg en Gezondheid                | Mondhygiënist (in opleiding)           |
+| 7   | 20                 | V   | ZZP/Zelfstandig zonder personeel | Kunst en Cultuur                  | Spoken word artiest                    |
+| 8   | 25                 | M   | ZZP/Zelfstandig zonder personeel | Muziek                            | Gitarist/gitaarleraar                  |
+| 9   | 30                 | V   | ZZP/Zelfstandig zonder personeel | Marketing, communicatie en advies | Marketing Consultant                   |
