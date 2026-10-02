@@ -1,5 +1,11 @@
 # @nl-design-system-community/ma-task-list-react
 
+## 0.1.0
+
+### Minor Changes
+
+- 3119bee: `title` prop is added for situations where a heading is not semantically correct
+
 ## 0.0.5
 
 ### Patch Changes
