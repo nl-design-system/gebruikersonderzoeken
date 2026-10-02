@@ -5,6 +5,7 @@
   --ma-task-list-icon-color: var(--basis-color-positive-color-default);
   --ma-task-list-icon-size: var(--basis-space-column-xl);
   --ma-task-list-item-column-gap: var(--basis-space-column-md);
+  --ma-task-list-item-title-font-weight: var(--basis-text-font-weight-bold);
   --ma-task-list-item-margin-block-end: var(--basis-space-block-xl);
   --ma-task-list-item-margin-block-start: var(--basis-space-block-sm);
   --ma-task-list-item-marker-background-color: white;
@@ -52,6 +53,10 @@
   padding-block: 0;
   padding-inline: 0;
   position: absolute;
+}
+
+.ma-task-list-item__title {
+  font-weight: var(--ma-task-list-item-title-font-weight);
 }
 
 .ma-task-list-item__marker--checked {

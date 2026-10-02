@@ -7,6 +7,7 @@ export interface TaskListItemProps extends HTMLAttributes<HTMLLIElement> {
   className?: string;
   children?: ReactNode;
   heading?: ReactNode;
+  title?: string;
   description: string;
   checked: boolean;
   headingLevel?: HeadingLevel;
@@ -38,6 +39,7 @@ export const TaskListItem = forwardRef<HTMLLIElement, TaskListItemProps>(functio
     heading,
     headingLevel = 3,
     headingLevelAppearance,
+    title,
     ...restProps
   } = props;
   return (
@@ -69,6 +71,7 @@ export const TaskListItem = forwardRef<HTMLLIElement, TaskListItemProps>(functio
             {heading}
           </Heading>
         ) : null}
+        {title ? <span className="ma-task-list-item__title">{title}</span> : null}
         {description}
         {children}
       </div>
