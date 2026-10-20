@@ -40,8 +40,6 @@ client:
 
 # Gebruikersonderzoek inloggen MijnOverheid Zakelijk (MOZa) – Fase 3
 
-_Onderzoek uitgevoerd in 2026 door Logius – UX Research team_
-
 ## Doel van het onderzoek
 
 Het onderzoek had als doel om inzicht te krijgen in hoe gebruikers met verschillende rollen (burgers en ondernemers) inloggen op overheidsdiensten en hoe zij omgaan met de uniformiteit van die ervaring. Specifieke onderzoeksdoelen waren:
@@ -99,9 +97,6 @@ De respondenten kregen verschillende scenario’s voorgelegd, zoals inloggen via
 - Ministerie van Binnenlandse Zaken en Koninkrijksrelaties (BZK) – Opdrachtgever
 - MOZa – Opdrachtgever
 
-## Bijlagen
-
-
 ## Bijlage
 
-- [Rapportage Gebruikersonderzoek inloggen MijnOverheid Zakelijk (MOZa) – Fase 3 (PDF, 2,2MB)](https://github.com/user-attachments/files/33425970/Rapportage.gebruikersonderzoek.inloggen_V1.pdf)
+[Rapportage Gebruikersonderzoek inloggen MijnOverheid Zakelijk (MOZa) – Fase 3 (PDF, 2,2MB)](https://github.com/user-attachments/files/33425970/Rapportage.gebruikersonderzoek.inloggen_V1.pdf)
