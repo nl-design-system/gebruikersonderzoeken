@@ -83,7 +83,7 @@ Aan het einde van het interview hebben we de respondenten de twee versies laten 
 | Variant B     | 6 van 10     |
 | Geen voorkeur | 2 van 10     |
 
-°°Let op:\*\* dit is alleen een indicatie van wat respondenten zeggen, niet van wat ze doen.
+**Let op:** dit is alleen een indicatie van wat respondenten zeggen, niet van wat ze doen.
 
 ## Wat is er mee gedaan?
 
