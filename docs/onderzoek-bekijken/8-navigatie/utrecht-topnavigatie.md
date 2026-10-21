@@ -59,7 +59,6 @@ Beide varianten deden het prima, maar variant B wordt net wat makkelijker gevond
 
 ### Toptaken trekken de aandacht
 
-
 De toptaken trekken heel goed de aandacht, bij variant A meer dan bij variant B.
 
 > "Dat is het enige 'wonen' woord wat ik zie."
