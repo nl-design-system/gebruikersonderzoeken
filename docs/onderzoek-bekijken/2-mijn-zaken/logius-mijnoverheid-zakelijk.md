@@ -116,161 +116,221 @@ In de kwalificatie gebruiken we de volgende symbolen:
 
 ![Prototype van de ingelogde homepagina van MijnOverheid Zakelijk met 'Welkom Robin Vogel', een menu met Home, Actualiteiten, Bedrijfsgegevens en Contactvoorkeuren, en het blok Actualiteiten met 'Berichten over uw buurt' en 'Subsidies en financiering'](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/logius-moza-prototype-fase2__mvp-homepagina.png)
 
-- ❌ **MVP biedt nog te weinig reden om in te loggen** — De behoefte is dat ondernemers een overzicht willen hebben van wat er gedaan moet worden of wat er al gedaan is richting de overheid. De onderdelen Actualiteiten, Bedrijfsgegevens en Contactvoorkeuren geven ondernemers nu te weinig reden om MOZa te gebruiken. Ze zien het vooral als informatie, maar niet als iets dat hun werk echt makkelijker maakt.
-  - **Aanbeveling:** geef prioriteit aan de functie waarmee ondernemers direct iets kunnen regelen of ontvangen, zoals berichten, belangrijke meldingen of acties met een deadline.
-    > "Het is niet zo, ik verveel me, dus laat ik eens inloggen op Mijn Overheid Zakelijk."
-    >
-    > — Quote van een respondent
-- ❗ **Ondernemers verwachten functies van MijnOverheid op MOZa** — Veel ondernemers denken dat MOZa dezelfde functies heeft als MijnOverheid voor burgers. Ze verwachten bijvoorbeeld een berichtenbox of dat ze hier zaken met overheidsorganisaties kunnen regelen. Onderdelen zoals contactvoorkeuren, waarbij men organisaties kan aanvinken, versterken deze verwachting.
-- ✅ **Het idee achter MOZa spreekt wel aan** — Ondernemers vinden het idee van één centrale plek voor zaken met de overheid goed. Ze verwachten hier praktische taken te kunnen doen en belangrijke updates te krijgen. Dat past bij het doel van MOZa.
-  > "Het moet nut en noodzaak hebben, anders is het verspilling van de tijd."
-  >
-  > — Quote van een respondent over de informatie die het MVP verstrekt
+##### ❌ MVP biedt nog te weinig reden om in te loggen
+
+De behoefte is dat ondernemers een overzicht willen hebben van wat er gedaan moet worden of wat er al gedaan is richting de overheid. De onderdelen Actualiteiten, Bedrijfsgegevens en Contactvoorkeuren geven ondernemers nu te weinig reden om MOZa te gebruiken. Ze zien het vooral als informatie, maar niet als iets dat hun werk echt makkelijker maakt.
+
+**Aanbeveling:** geef prioriteit aan de functie waarmee ondernemers direct iets kunnen regelen of ontvangen, zoals berichten, belangrijke meldingen of acties met een deadline.
+
+> "Het is niet zo, ik verveel me, dus laat ik eens inloggen op Mijn Overheid Zakelijk."
+
+Quote van een respondent.
+
+##### ❗ Ondernemers verwachten functies van MijnOverheid op MOZa
+
+Veel ondernemers denken dat MOZa dezelfde functies heeft als MijnOverheid voor burgers. Ze verwachten bijvoorbeeld een berichtenbox of dat ze hier zaken met overheidsorganisaties kunnen regelen. Onderdelen zoals contactvoorkeuren, waarbij men organisaties kan aanvinken, versterken deze verwachting.
+
+##### ✅ Het idee achter MOZa spreekt wel aan
+
+Ondernemers vinden het idee van één centrale plek voor zaken met de overheid goed. Ze verwachten hier praktische taken te kunnen doen en belangrijke updates te krijgen. Dat past bij het doel van MOZa.
+
+> "Het moet nut en noodzaak hebben, anders is het verspilling van de tijd."
+
+Quote van een respondent over de informatie die het MVP verstrekt.
 
 #### MVP 2/2
 
-- ❗ **Er is behoefte aan overzicht en informatiebundeling** — De respondenten ervaren de huidige situatie, met betrekking tot hun zaken regelen met de overheid, als versnipperd over verschillende kanalen en systemen. Het MVP brengt daar nog niet voldoende verandering in.
+##### ❗ Er is behoefte aan overzicht en informatiebundeling
 
-  > "Ik vind het heel fijn, als ik alles op 1 plek heb. Dat ik alles onder 1 dak heb. Dat ik weet, als ik daar kijk is alles geregeld."
-  >
-  > — Quote van een respondent
+De respondenten ervaren de huidige situatie, met betrekking tot hun zaken regelen met de overheid, als versnipperd over verschillende kanalen en systemen. Het MVP brengt daar nog niet voldoende verandering in.
 
-  > "Alles is nu heel versnipperd, zou fijn zijn als het samengevoegd wordt."
-  >
-  > — Quote van een respondent
+> "Ik vind het heel fijn, als ik alles op 1 plek heb. Dat ik alles onder 1 dak heb. Dat ik weet, als ik daar kijk is alles geregeld."
 
-- ❗ **Ondernemers willen het platform functioneel gebruiken en niet enkel geïnformeerd worden** — Sommige respondenten geven aan niet zomaar in te loggen om rond te kijken. Ze doen dat alleen wanneer er een concrete aanleiding of taak is. Ze willen dan ook direct iets kunnen doen met de informatie die wordt verstrekt, zoals een subsidie of vergunning aanvragen.
-  > "Het lijkt een soort Overheidsmailbox, met alles wat belangrijk is, wat je niet kwijt wilt raken. Zoals aangiften inkomstbelasting, een kopie die je altijd terug kan vinden. Als ik inlog weet ik dat ik hier dingen kan vinden. Ik zou dat wel verwachten, ik zou het raar vinden als ze dat niet zouden doen."
-  >
-  > — Quote van een respondent
-- ❗ **"Dit is toch de Belastingdienst?"** — Een aantal respondenten neemt aan dat dit portaal van de Belastingdienst is. Dit komt door de visuele stijl van de website en met name door het overheidsvaantje. Een andere reden is dat ondernemers nu eenmaal met grote regelmaat zaken regelen met de Belastingdienst.
-  - **Aanbeveling:** een nieuw portaal vraagt om een duidelijke introductie over de mogelijkheden en hoe de verhouding is tussen de verschillende overheidsorganisaties en dit portaal.
-    > "Dit is toch de Belastingdienst?"
-    >
-    > — Quote van een respondent
+Quote van een respondent.
+
+> "Alles is nu heel versnipperd, zou fijn zijn als het samengevoegd wordt."
+
+Quote van een respondent.
+
+##### ❗ Ondernemers willen het platform functioneel gebruiken en niet enkel geïnformeerd worden
+
+Sommige respondenten geven aan niet zomaar in te loggen om rond te kijken. Ze doen dat alleen wanneer er een concrete aanleiding of taak is. Ze willen dan ook direct iets kunnen doen met de informatie die wordt verstrekt, zoals een subsidie of vergunning aanvragen.
+
+> "Het lijkt een soort Overheidsmailbox, met alles wat belangrijk is, wat je niet kwijt wilt raken. Zoals aangiften inkomstbelasting, een kopie die je altijd terug kan vinden. Als ik inlog weet ik dat ik hier dingen kan vinden. Ik zou dat wel verwachten, ik zou het raar vinden als ze dat niet zouden doen."
+
+Quote van een respondent.
+
+##### ❗ "Dit is toch de Belastingdienst?"
+
+Een aantal respondenten neemt aan dat dit portaal van de Belastingdienst is. Dit komt door de visuele stijl van de website en met name door het overheidsvaantje. Een andere reden is dat ondernemers nu eenmaal met grote regelmaat zaken regelen met de Belastingdienst.
+
+**Aanbeveling:** een nieuw portaal vraagt om een duidelijke introductie over de mogelijkheden en hoe de verhouding is tussen de verschillende overheidsorganisaties en dit portaal.
+
+> "Dit is toch de Belastingdienst?"
+
+Quote van een respondent.
 
 #### Homepagina
 
 ![Prototype van de volledige ingelogde homepagina van MijnOverheid Zakelijk, met achtereenvolgens Actualiteiten (Berichten over uw buurt, Subsidies en financiering, Wetten en regelgeving), een blok Bedrijfsgegevens van Bloom B.V. en Veelgestelde vragen](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/logius-moza-prototype-fase2__homepagina-volledig.png)
 
-- ✅ **Duidelijke en herkenbare lay-out** — De meeste ondernemers vinden de homepagina overzichtelijk. De opzet en stijl voelen herkenbaar als een website van de overheid. Daardoor begrijpen ze snel de opzet en de navigatie van de website.
-  > "Het lijkt heel erg op Mijn Overheid die iedereen wel eens gebruikt heeft."
-  >
-  > — Quote van een respondent
-- ❌ **Onduidelijk wat je hier kunt doen** — Ondernemers zien vooral informatie op de homepagina, maar het is minder duidelijk welke dingen ze hier echt kunnen regelen. Sommige ondernemers verwachten een overzicht van hun taken, zoals aanvragen volgen of belastingzaken bekijken, maar zien deze mogelijkheden niet terug.
-  - **Aanbeveling:** maak duidelijker welke acties ondernemers op MOZa kunnen uitvoeren. Bijvoorbeeld met een blok "Wat kunt u hier regelen?" en maak in de toekomst een overzicht van taken en lopende zaken.
-- 🟠 **Introductie of uitleg ontbreekt** — Een paar ondernemers missen een korte uitleg over wat MOZa is en waarvoor je het gebruikt. De pagina gaat snel naar de inhoud, terwijl een korte introductie kan helpen om verwachtingen beter te sturen.
+✅ **Duidelijke en herkenbare lay-out** — De meeste ondernemers vinden de homepagina overzichtelijk. De opzet en stijl voelen herkenbaar als een website van de overheid. Daardoor begrijpen ze snel de opzet en de navigatie van de website.
+
+> "Het lijkt heel erg op Mijn Overheid die iedereen wel eens gebruikt heeft."
+
+Quote van een respondent.
+
+❌ **Onduidelijk wat je hier kunt doen** — Ondernemers zien vooral informatie op de homepagina, maar het is minder duidelijk welke dingen ze hier echt kunnen regelen. Sommige ondernemers verwachten een overzicht van hun taken, zoals aanvragen volgen of belastingzaken bekijken, maar zien deze mogelijkheden niet terug.
+
+**Aanbeveling:** maak duidelijker welke acties ondernemers op MOZa kunnen uitvoeren. Bijvoorbeeld met een blok "Wat kunt u hier regelen?" en maak in de toekomst een overzicht van taken en lopende zaken.
+
+🟠 **Introductie of uitleg ontbreekt** — Een paar ondernemers missen een korte uitleg over wat MOZa is en waarvoor je het gebruikt. De pagina gaat snel naar de inhoud, terwijl een korte introductie kan helpen om verwachtingen beter te sturen.
 
 #### Actualiteiten
 
 ![Prototype van de pagina Actualiteiten in MijnOverheid Zakelijk met drie blokken: Berichten over uw buurt (onder andere een wegafsluiting), Subsidies en financiering (onder andere WBSO en KIA) en Wetten en regelgeving (onder andere minimumloon en Arbowet)](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/logius-moza-prototype-fase2__actualiteiten.png)
 
-_De pagina Actualiteiten bestaat uit 3 onderwerpen: 'Berichten over uw buurt', 'Subsidies en financiering' en 'Wetten en regelgeving'._
+De pagina Actualiteiten bestaat uit 3 onderwerpen: 'Berichten over uw buurt', 'Subsidies en financiering' en 'Wetten en regelgeving'.
 
-- ✅ **Ondernemers reageren positief op Actualiteiten** — De meeste respondenten vinden het waardevol om via MOZa op de hoogte te blijven van ontwikkelingen die voor hun onderneming belangrijk zijn. Actualiteiten kan helpen om snel te zien wat er speelt.
-- ❗ **Relevantie en betrouwbaarheid zijn cruciaal** — Ondernemers vinden Actualiteiten alleen nuttig als de informatie echt relevant is voor hun eigen bedrijf. Ze verwachten dat Actualiteiten aansluiten op hun sector en situatie. Er is ook twijfel of de overheid altijd snel en volledig genoeg informeert. Een paar respondenten geven voorbeelden van situaties waarbij andere bronnen actueler zijn dan de overheid.
-  > "Als dit van toepassing is op mijn bedrijf. Als het echt erop gericht is, zou ik het wel gebruiken."
-  >
-  > — Quote van een respondent
-- 🟠 **Niet alle onderwerpen zijn voor iedereen interessant** — Respondenten vinden verschillende onderwerpen belangrijk. Sommige respondenten willen daarom graag zelf de volgorde of selectie van onderwerpen aanpassen.
-  - **Aanbeveling:** maak Actualiteiten persoonlijker. Laat ondernemers bijvoorbeeld onderwerpen kiezen of de volgorde aanpassen, zodat ze vooral informatie zien die voor hun onderneming relevant is.
+✅ **Ondernemers reageren positief op Actualiteiten** — De meeste respondenten vinden het waardevol om via MOZa op de hoogte te blijven van ontwikkelingen die voor hun onderneming belangrijk zijn. Actualiteiten kan helpen om snel te zien wat er speelt.
+
+❗ **Relevantie en betrouwbaarheid zijn cruciaal** — Ondernemers vinden Actualiteiten alleen nuttig als de informatie echt relevant is voor hun eigen bedrijf. Ze verwachten dat Actualiteiten aansluiten op hun sector en situatie. Er is ook twijfel of de overheid altijd snel en volledig genoeg informeert. Een paar respondenten geven voorbeelden van situaties waarbij andere bronnen actueler zijn dan de overheid.
+
+> "Als dit van toepassing is op mijn bedrijf. Als het echt erop gericht is, zou ik het wel gebruiken."
+
+Quote van een respondent.
+
+🟠 **Niet alle onderwerpen zijn voor iedereen interessant** — Respondenten vinden verschillende onderwerpen belangrijk. Sommige respondenten willen daarom graag zelf de volgorde of selectie van onderwerpen aanpassen.
+
+**Aanbeveling:** maak Actualiteiten persoonlijker. Laat ondernemers bijvoorbeeld onderwerpen kiezen of de volgorde aanpassen, zodat ze vooral informatie zien die voor hun onderneming relevant is.
 
 #### Op de hoogte blijven
 
-_Bij deze bevindingen hoort hetzelfde scherm van de pagina Actualiteiten als hierboven._
+Bij deze bevindingen hoort hetzelfde scherm van de pagina Actualiteiten als hierboven.
 
-- ❗ **De respondenten willen relevante updates, maar geen overdaad aan informatie** — Respondenten geven aan dat ze het nu lastig vinden om op de hoogte te worden gehouden van actuele informatie. Tegelijkertijd willen ze ook niet overspoeld worden met meldingen.
-  > "Het is soms heel lastig om bij te houden wat nog actueel is. Je krijgt het mee of hoort het in de wandelgangen, het is nooit dat ik pro-actief op de hoogte gehouden wordt van wat er verandert. Je wilt ook niet van alle wijzigingen op de hoogte gehouden worden, want dan wordt je overspoeld."
-  >
-  > — Quote van een respondent
-- ✅ **Men waardeert e-mailnotificaties (met mate)** — Veel ondernemers willen wel een seintje per e-mail krijgen als er nieuwe actualiteiten zijn. Een aantal respondenten is ook voorzichtig met e-mails vanwege spam of phishing.
-  > "Ik zou via de zakelijke mail een seintje willen ontvangen. Met 'check even in, er staat een bericht voor je klaar', zoals bij Mijn Overheid."
-  >
-  > — Quote van een respondent
-- 🟠 **Ondernemers zijn taakgericht** — Ondernemers willen na het lezen van informatie vaak direct iets kunnen doen. Bijvoorbeeld een subsidieaanvraag starten, een wijziging doorgeven of een deadline bekijken of iemand ziek melden bij UWV.
-  - **Aanbeveling:** doe vervolgonderzoek naar hoe en waar een ondernemer iets gaat regelen naar aanleiding van een actualiteit, binnen MOZa of bij de verstrekker van informatie.
-  - **Aanbeveling:** koppel Actualiteiten waar mogelijk aan een actie, zoals "Regel dit nu" of "Bekijk wat dit voor uw bedrijf betekent".
+❗ **De respondenten willen relevante updates, maar geen overdaad aan informatie** — Respondenten geven aan dat ze het nu lastig vinden om op de hoogte te worden gehouden van actuele informatie. Tegelijkertijd willen ze ook niet overspoeld worden met meldingen.
+
+> "Het is soms heel lastig om bij te houden wat nog actueel is. Je krijgt het mee of hoort het in de wandelgangen, het is nooit dat ik pro-actief op de hoogte gehouden wordt van wat er verandert. Je wilt ook niet van alle wijzigingen op de hoogte gehouden worden, want dan wordt je overspoeld."
+
+Quote van een respondent.
+
+✅ **Men waardeert e-mailnotificaties (met mate)** — Veel ondernemers willen wel een seintje per e-mail krijgen als er nieuwe actualiteiten zijn. Een aantal respondenten is ook voorzichtig met e-mails vanwege spam of phishing.
+
+> "Ik zou via de zakelijke mail een seintje willen ontvangen. Met 'check even in, er staat een bericht voor je klaar', zoals bij Mijn Overheid."
+
+Quote van een respondent
+
+🟠 **Ondernemers zijn taakgericht** — Ondernemers willen na het lezen van informatie vaak direct iets kunnen doen. Bijvoorbeeld een subsidieaanvraag starten, een wijziging doorgeven of een deadline bekijken of iemand ziek melden bij UWV.
+
+**Aanbeveling:** doe vervolgonderzoek naar hoe en waar een ondernemer iets gaat regelen naar aanleiding van een actualiteit, binnen MOZa of bij de verstrekker van informatie.
+**Aanbeveling:** koppel Actualiteiten waar mogelijk aan een actie, zoals "Regel dit nu" of "Bekijk wat dit voor uw bedrijf betekent".
 
 #### Bedrijfsgegevens
 
 ![Prototype van de pagina Bedrijfsgegevens in MijnOverheid Zakelijk met algemene gegevens van Bloom B.V. (KVK-, RSIN- en BTW-nummer, startdatum, rechtsvorm en aantal werkzame personen) en tegels voor Bedrijfsactiviteiten, Adresgegevens, Vestigingen, UBO-register en Jaarrekeningen](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/logius-moza-prototype-fase2__bedrijfsgegevens.png)
 
-- ❗ **Sommige respondenten klikken gelijk op Bedrijfsgegevens** — Na inloggen klikt een deel van de respondenten direct op Bedrijfsgegevens, omdat dat over hun bedrijf gaat.
-- 🟠 **Prettig overzicht, maar nog niet compleet** — Respondenten vinden dat Bedrijfsgegevens overzicht biedt van hun bedrijfsgegevens. Sommige gegevens ontbreken op deze pagina, zoals het btw-identificatienummer en type bedrijfsactiviteiten.
-- ❗ **Beperkte meerwaarde voor ondernemers** — De meeste ondernemers zien de pagina vooral als een 'controle-overzicht'. De informatie is al bekend bij ondernemers, waardoor de pagina niet veel extra waarde biedt. Het voordeel is dat de pagina gegevens van verschillende organisaties samen toont.
-  > "Dit zijn gegevens van jezelf, dus dat weet je al. Denk niet dat ik deze gegevens hier zou ophalen."
-  >
-  > — Quote van een respondent
-- ✅ **Positieve reacties op specifieke onderdelen** — Ondernemers waarderen onderdelen zoals het UBO-register. Deze geven concrete meerwaarde en helpen bij het overzicht houden van belangrijke informatie.
-  - **Aanbeveling:** focus op onderdelen die daadwerkelijk iets toevoegen voor de ondernemer, zoals UBO-informatie.
+❗ **Sommige respondenten klikken gelijk op Bedrijfsgegevens** — Na inloggen klikt een deel van de respondenten direct op Bedrijfsgegevens, omdat dat over hun bedrijf gaat.
+
+🟠 **Prettig overzicht, maar nog niet compleet** — Respondenten vinden dat Bedrijfsgegevens overzicht biedt van hun bedrijfsgegevens. Sommige gegevens ontbreken op deze pagina, zoals het btw-identificatienummer en type bedrijfsactiviteiten.
+
+❗ **Beperkte meerwaarde voor ondernemers** — De meeste ondernemers zien de pagina vooral als een 'controle-overzicht'. De informatie is al bekend bij ondernemers, waardoor de pagina niet veel extra waarde biedt. Het voordeel is dat de pagina gegevens van verschillende organisaties samen toont.
+
+> "Dit zijn gegevens van jezelf, dus dat weet je al. Denk niet dat ik deze gegevens hier zou ophalen."
+
+Quote van een respondent.
+
+✅ **Positieve reacties op specifieke onderdelen** — Ondernemers waarderen onderdelen zoals het UBO-register. Deze geven concrete meerwaarde en helpen bij het overzicht houden van belangrijke informatie.
+
+**Aanbeveling:** focus op onderdelen die daadwerkelijk iets toevoegen voor de ondernemer, zoals UBO-informatie.
 
 #### Contactvoorkeuren 1/2
 
 ![Prototype van de pagina Contactvoorkeuren in MijnOverheid Zakelijk met contactgegevens (e-mailadres en telefoonnummer), een lijst aangesloten organisaties om aan te vinken (KVK aangevinkt; OM, RVO, RDW, SVB en UWV niet), communicatiekanalen, berichtgevingen en tegels voor Gegevensdeling en Contactgeschiedenis](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/logius-moza-prototype-fase2__contactvoorkeuren.png)
 
-- ✅ **Contactvoorkeuren is een logische plek** — Respondenten vinden het logisch om hun contactgegevens op één plek te bekijken en aan te passen. Dit is overzichtelijk en wordt positief ontvangen.
-  > "Dit is natuurlijk hetzelfde als wat je bij Digid hebt, dit is wel makkelijk en handig, elke keer als er een nieuwe organisatie is kan ik het aanvinken."
-  >
-  > — Quote van een respondent
-- ❗ **Controle over hoe de overheid ondernemers benadert** — Respondenten willen zelf bepalen hoe overheidsorganisaties contact met hen opnemen. Sommigen hebben meerdere e-mailadressen (bijvoorbeeld van een accountant). Er is ook bezorgdheid over te veel e-mails, telefoontjes of commerciële aanbiedingen.
-  - **Aanbeveling:** geef ondernemers duidelijke keuzes en instellingen per type contact en organisatie, zodat ze de controle behouden en niet overspoeld raken.
-    > "Een sterke pre is dat ik hier per organisatie kan aanvinken hoe ik benaderd wil worden."
-    >
-    > — Quote van een respondent
-- ✅ **Centrale contactgegevens werken, maar niet altijd** — Ondernemers vinden het goed dat hun centrale contactgegevens bij elke organisatie worden gebruikt. Dit hangt echter af van de situatie van het bedrijf. Niet iedereen heeft maar één e-mailadres. Sommige ondernemers maken gebruik van een vaste telefoon. (Dit kan lastig zijn bij toekomstige seintjes via een tekstbericht.)
+✅ **Contactvoorkeuren is een logische plek** — Respondenten vinden het logisch om hun contactgegevens op één plek te bekijken en aan te passen. Dit is overzichtelijk en wordt positief ontvangen.
+
+> "Dit is natuurlijk hetzelfde als wat je bij Digid hebt, dit is wel makkelijk en handig, elke keer als er een nieuwe organisatie is kan ik het aanvinken."
+
+Quote van een respondent.
+
+❗ **Controle over hoe de overheid ondernemers benadert** — Respondenten willen zelf bepalen hoe overheidsorganisaties contact met hen opnemen. Sommigen hebben meerdere e-mailadressen (bijvoorbeeld van een accountant). Er is ook bezorgdheid over te veel e-mails, telefoontjes of commerciële aanbiedingen.
+
+**Aanbeveling:** geef ondernemers duidelijke keuzes en instellingen per type contact en organisatie, zodat ze de controle behouden en niet overspoeld raken.
+
+> "Een sterke pre is dat ik hier per organisatie kan aanvinken hoe ik benaderd wil worden."
+
+Quote van een respondent.
+
+✅ **Centrale contactgegevens werken, maar niet altijd** — Ondernemers vinden het goed dat hun centrale contactgegevens bij elke organisatie worden gebruikt. Dit hangt echter af van de situatie van het bedrijf. Niet iedereen heeft maar één e-mailadres. Sommige ondernemers maken gebruik van een vaste telefoon. (Dit kan lastig zijn bij toekomstige seintjes via een tekstbericht.)
 
 #### Contactvoorkeuren 2/2
 
-_Bij deze bevindingen hoort hetzelfde scherm van de pagina Contactvoorkeuren als hierboven._
+Bij deze bevindingen hoort hetzelfde scherm van de pagina Contactvoorkeuren als hierboven.
 
-- ❌ **Selectie van organisaties is nog onvolledig** — De huidige lijst van organisaties die contactgegevens kunnen gebruiken is niet volledig. De meeste respondenten vinden dat belangrijke organisaties, zoals de Belastingdienst en sommige gemeenten, ontbreken.
-  - **Aanbeveling:** voeg belangrijke overheidsorganisaties toe, te beginnen met Belastingdienst en gemeenten, om de waarde van Contactvoorkeuren te vergroten.
-  - **Aanbeveling:** communiceer duidelijk welke organisaties nog niet zijn aangesloten en of deze in de toekomst worden toegevoegd.
-    > "Belastingdienst is voor mij een van de hoofdoverheidsorganen waar ik mee te maken heb. Zou raar zijn als dat er niet in zit."
-    >
-    > — Quote van een respondent
-- ❗ **Contactvoorkeuren versterken verwachting berichtenbox** — De lijst met organisaties en vinkjes maakt dat respondenten sneller denken dat het MVP ook een berichtenbox heeft. Respondenten geven aan dat ze behoefte hebben aan een centrale plek voor hun correspondentie.
-  > "Laat mij dit maar allemaal aanvinken."
-  >
-  > — Quote van een respondent
-- ✅ **Contactgeschiedenis valt positief op** — Respondenten vinden het handig om hun contactgeschiedenis met overheidsorganisaties terug te vinden op één plek.
+❌ **Selectie van organisaties is nog onvolledig** — De huidige lijst van organisaties die contactgegevens kunnen gebruiken is niet volledig. De meeste respondenten vinden dat belangrijke organisaties, zoals de Belastingdienst en sommige gemeenten, ontbreken.
+
+**Aanbeveling:** voeg belangrijke overheidsorganisaties toe, te beginnen met Belastingdienst en gemeenten, om de waarde van Contactvoorkeuren te vergroten.
+**Aanbeveling:** communiceer duidelijk welke organisaties nog niet zijn aangesloten en of deze in de toekomst worden toegevoegd.
+
+> "Belastingdienst is voor mij een van de hoofdoverheidsorganen waar ik mee te maken heb. Zou raar zijn als dat er niet in zit."
+
+Quote van een respondent.
+
+❗ **Contactvoorkeuren versterken verwachting berichtenbox** — De lijst met organisaties en vinkjes maakt dat respondenten sneller denken dat het MVP ook een berichtenbox heeft. Respondenten geven aan dat ze behoefte hebben aan een centrale plek voor hun correspondentie.
+
+> "Laat mij dit maar allemaal aanvinken."
+
+Quote van een respondent.
+
+✅ **Contactgeschiedenis valt positief op** — Respondenten vinden het handig om hun contactgeschiedenis met overheidsorganisaties terug te vinden op één plek.
 
 #### Doorkijkjes
 
 ![Prototype van het doorkijkje Berichtenbox in MijnOverheid Zakelijk. In het menu staan onder 'Binnenkort beschikbaar' Berichtenbox (najaar 2026), Lopende zaken (juni 2027), Belastingen (januari 2028), Zakelijk vervoer (medio 2028) en Ziekte en verlof (medio 2029). De pagina toont een introductievideo, 'Wat kunt u zoal verwachten?' en veelgestelde vragen](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/logius-moza-prototype-fase2__doorkijkje-berichtenbox.png)
 
-- ✅ **Doorkijkjes verrassen positief, omdat ze voldoen aan behoefte van één centrale plek** — De doorkijkjes laten zien hoe MOZa in de toekomst kan helpen bij het regelen van zaken met de overheid. De doorkijkjes tonen een Berichtenbox, Lopende Zaken, Belastingen, Zakelijk vervoer en Ziekte en verlof. Dit spreekt ondernemers aan en maakt hen enthousiast over het concept van één centrale plek om overheidszaken te regelen.
-  > "Dit zijn dingen die ik zoek en er graag in zou willen hebben. Lijkt me een hele goeie om deze toe te voegen."
-  >
-  > — Quote van een respondent
-- ✅ **MVP krijgt pas waarde met Berichtenbox en Lopende Zaken** — Bijna alle respondenten geven aan dat de Berichtenbox en Lopende Zaken hen enorme tijdswinst gaat opleveren.
-  > "Als ik dat in een overzicht kan hebben, is dat een enorme tijdwinst. Dat zou voor mij het grootste voordeel zijn. Ik als ondernemer reken alles in tijdseenheden."
-  >
-  > — Quote van een respondent
-- ✅ **Men begrijpt de inhoud van de previews** — De previews laten zien waar het platform naartoe gaat en geven een beter beeld van wat ondernemers hier straks kunnen doen. De meeste respondenten kunnen dit uitleggen zodra ze klikken op een doorkijkje.
-- ✅ **Zorgvuldigheid boven snelheid** — De meeste respondenten geven aan het niet erg te vinden om te wachten op de functies uit de doorkijkjes. Ze hebben liever dat het in één keer goed gedaan wordt, zonder 'kinderziektes'.
-  > "Van mij mogen ze er zolang over doen als ze willen, als het dan goed in orde is."
-  >
-  > — Quote van een respondent
+✅ **Doorkijkjes verrassen positief, omdat ze voldoen aan behoefte van één centrale plek** — De doorkijkjes laten zien hoe MOZa in de toekomst kan helpen bij het regelen van zaken met de overheid. De doorkijkjes tonen een Berichtenbox, Lopende Zaken, Belastingen, Zakelijk vervoer en Ziekte en verlof. Dit spreekt ondernemers aan en maakt hen enthousiast over het concept van één centrale plek om overheidszaken te regelen.
+
+> "Dit zijn dingen die ik zoek en er graag in zou willen hebben. Lijkt me een hele goeie om deze toe te voegen."
+
+Quote van een respondent.
+
+✅ **MVP krijgt pas waarde met Berichtenbox en Lopende Zaken** — Bijna alle respondenten geven aan dat de Berichtenbox en Lopende Zaken hen enorme tijdswinst gaat opleveren.
+
+> "Als ik dat in een overzicht kan hebben, is dat een enorme tijdwinst. Dat zou voor mij het grootste voordeel zijn. Ik als ondernemer reken alles in tijdseenheden."
+
+Quote van een respondent.
+
+✅ **Men begrijpt de inhoud van de previews** — De previews laten zien waar het platform naartoe gaat en geven een beter beeld van wat ondernemers hier straks kunnen doen. De meeste respondenten kunnen dit uitleggen zodra ze klikken op een doorkijkje.
+
+✅ **Zorgvuldigheid boven snelheid** — De meeste respondenten geven aan het niet erg te vinden om te wachten op de functies uit de doorkijkjes. Ze hebben liever dat het in één keer goed gedaan wordt, zonder 'kinderziektes'.
+
+> "Van mij mogen ze er zolang over doen als ze willen, als het dan goed in orde is."
+
+Quote van een respondent.
 
 #### Inloggen
 
 ![Prototype van de inlogpagina van MijnOverheid Zakelijk met de opties 'Inloggen met DigiD', 'European login', 'Inloggen met eHerkenning' en 'Inloggen voor een andere onderneming'](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/logius-moza-prototype-fase2__inlogpagina.png)
 
-- ✅ **DigiD voelt vertrouwd voor kleine ondernemers** — Veel zzp'ers en kleine ondernemers vinden het geen probleem om met DigiD in te loggen. Het voelt vertrouwd en makkelijk, vooral met de DigiD-app.
-- 🟠 **Men verwacht dat voor een BV eHerkenning gebruikt dient te worden** — Ondernemers met een BV denken dat zij waarschijnlijk met eHerkenning moeten inloggen. Sommigen gaan er automatisch vanuit dat DigiD voor hen niet mogelijk is.
-- ❗ **Voorkeur voor zo min mogelijk inlogvariaties** — Sommige ondernemers geven aan dat ze het liefst met één inlogmiddel werken. Het gebruik van meerdere systemen, zoals DigiD én eHerkenning, kan verwarrend of onhandig zijn.
-  - **Aanbeveling:** maak duidelijk welke inlogmethode voor welke ondernemers geldt en leg dit kort uit op de inlogpagina. Als mogelijk: bied zo eenvoudig mogelijke toegang met zo min mogelijk verschillende inlogmiddelen.
-    > "E-herkenning voelt weer als een systeem erbij."
-    >
-    > — Quote van een respondent
+✅ **DigiD voelt vertrouwd voor kleine ondernemers** — Veel zzp'ers en kleine ondernemers vinden het geen probleem om met DigiD in te loggen. Het voelt vertrouwd en makkelijk, vooral met de DigiD-app.
+
+🟠 **Men verwacht dat voor een BV eHerkenning gebruikt dient te worden** — Ondernemers met een BV denken dat zij waarschijnlijk met eHerkenning moeten inloggen. Sommigen gaan er automatisch vanuit dat DigiD voor hen niet mogelijk is.
+
+❗ **Voorkeur voor zo min mogelijk inlogvariaties** — Sommige ondernemers geven aan dat ze het liefst met één inlogmiddel werken. Het gebruik van meerdere systemen, zoals DigiD én eHerkenning, kan verwarrend of onhandig zijn.
+
+**Aanbeveling:** maak duidelijk welke inlogmethode voor welke ondernemers geldt en leg dit kort uit op de inlogpagina. Als mogelijk: bied zo eenvoudig mogelijke toegang met zo min mogelijk verschillende inlogmiddelen.
+
+> "E-herkenning voelt weer als een systeem erbij."
+
+Quote van een respondent.
 
 #### Ingang tot MOZa
 
 ![Prototype van de homepage van Overheid.nl Zakelijk met rechtsboven de knop 'Inloggen bij MijnOverheid Zakelijk' en rechts een oranje blok 'MijnOverheid zakelijk – Alles van uw onderneming bij de overheid op één plek' met een knop Inloggen. In de rapportage zijn beide inlogknoppen omcirkeld.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/logius-moza-prototype-fase2__overheidnl-zakelijk-homepage.png)
 
-- ✅ **Overheid.nl-zakelijk voelt als een logisch startpunt** — Ondernemers vinden het logisch dat MOZa via Overheid.nl-zakelijk te bereiken is. Het past bij hun verwachting dat dit een plek is waar je als ondernemer informatie en diensten van de overheid vindt.
-- ✅ **Ondernemers kunnen de ingang naar MOZa goed vinden** — De meeste ondernemers kunnen de ingang naar MOZa makkelijk vinden op de homepage van de website. De navigatie is duidelijk genoeg om bij het portaal te komen.
+✅ **Overheid.nl-zakelijk voelt als een logisch startpunt** — Ondernemers vinden het logisch dat MOZa via Overheid.nl-zakelijk te bereiken is. Het past bij hun verwachting dat dit een plek is waar je als ondernemer informatie en diensten van de overheid vindt.
+
+✅ **Ondernemers kunnen de ingang naar MOZa goed vinden** — De meeste ondernemers kunnen de ingang naar MOZa makkelijk vinden op de homepage van de website. De navigatie is duidelijk genoeg om bij het portaal te komen.
 
 ### Extra inzichten
 
@@ -278,15 +338,17 @@ _Bij deze bevindingen hoort hetzelfde scherm van de pagina Contactvoorkeuren als
 
 Sommige respondenten geven aan dat het lastig is om op de hoogte te blijven van Actualiteiten. Ze hebben nu al allerlei manieren om op de hoogte te blijven, zoals nieuwsbrieven van brancheorganisaties en via hun netwerk. Wat ons opviel in dit onderzoek:
 
-- **Ondernemers gebruiken nu AI voor Actualiteiten** — Een respondent geeft aan met AI-assistenten te werken om op de hoogte te blijven van Actualiteiten. Hij geeft aan ChatGPT en Mistral te gebruiken voor de meest actuele informatie; die laatste biedt kwalitatief de beste informatie. Hij schrijft zelf prompts om informatie te krijgen die hij voor de klant nodig heeft.
-  > "Ik kwam erachter, deze prompt werkt goed, hiermee krijg ik de meest actuele informatie. Nu bouw ik ook zelf AI assistenten."
-  >
-  > — Quote van een respondent
-- **Ondernemers worden al op de hoogte gehouden over actualiteiten door hun accountant** — Alle deelnemers hebben hulp van een externe boekhouder of accountant. Naast de boekhouding sturen zij ook seintjes over nieuwe wetten en mogelijke subsidies.
+**Ondernemers gebruiken nu AI voor Actualiteiten** — Een respondent geeft aan met AI-assistenten te werken om op de hoogte te blijven van Actualiteiten. Hij geeft aan ChatGPT en Mistral te gebruiken voor de meest actuele informatie; die laatste biedt kwalitatief de beste informatie. Hij schrijft zelf prompts om informatie te krijgen die hij voor de klant nodig heeft.
+
+> "Ik kwam erachter, deze prompt werkt goed, hiermee krijg ik de meest actuele informatie. Nu bouw ik ook zelf AI assistenten."
+
+Quote van een respondent.
+
+**Ondernemers worden al op de hoogte gehouden over actualiteiten door hun accountant** — Alle deelnemers hebben hulp van een externe boekhouder of accountant. Naast de boekhouding sturen zij ook seintjes over nieuwe wetten en mogelijke subsidies.
 
 > "Je zou een kalender kunnen hebben met dan en dan is de laatste dag dat je die aangifte gedaan moet hebben."
->
-> — Quote van een respondent
+
+Quote van een respondent.
 
 #### Aanvulling op contactvoorkeuren
 
@@ -298,12 +360,15 @@ Het bespreken van de contactvoorkeuren leverde nog een aantal inzichten op:
 
 #### Wensen van ondernemers
 
-- **Algemene voorkeur van ondernemers voor digitaal zaken regelen is sterk** — Respondenten willen graag digitaal zaken regelen. Zij geven voorbeelden van hoe zij zaken regelen op papier met de overheid en vertellen hoe inefficiënt zij dit vinden. Ook benoemen ze de verschillen tussen zaken op papier of digitaal regelen bij verschillende overheidsorganisaties.
-  > "Laat mij dit maar allemaal aanvinken, want ik vind het belachelijk hoe de Belastingdienst omgaat met papierverspilling, bijvoorbeeld voor een taxatie rapport. Ik heb alles digitaal, moet het opsturen en zij moeten het vervolgens inscannen en weggooien. Waarom wordt er niet een bepaald portaal gemaakt dat je belastingdienst post kunt overzetten."
-  >
-  > — Quote van een respondent
-- **Behoefte aan overzicht van openstaande en afgeronde taken** — Respondenten geven aan dat ze graag een overzicht willen hebben van hun openstaande (en afgeronde) taken bij de overheid. Ook willen zij inzicht in de status van vergunnings- of subsidieaanvragen.
-- **Veiligheid** — De respondenten zijn zich bewust van de (on)veiligheid van klikken op links in tekstberichten en e-mail.
+**Algemene voorkeur van ondernemers voor digitaal zaken regelen is sterk** — Respondenten willen graag digitaal zaken regelen. Zij geven voorbeelden van hoe zij zaken regelen op papier met de overheid en vertellen hoe inefficiënt zij dit vinden. Ook benoemen ze de verschillen tussen zaken op papier of digitaal regelen bij verschillende overheidsorganisaties.
+
+> "Laat mij dit maar allemaal aanvinken, want ik vind het belachelijk hoe de Belastingdienst omgaat met papierverspilling, bijvoorbeeld voor een taxatie rapport. Ik heb alles digitaal, moet het opsturen en zij moeten het vervolgens inscannen en weggooien. Waarom wordt er niet een bepaald portaal gemaakt dat je belastingdienst post kunt overzetten."
+
+Quote van een respondent.
+
+**Behoefte aan overzicht van openstaande en afgeronde taken** — Respondenten geven aan dat ze graag een overzicht willen hebben van hun openstaande (en afgeronde) taken bij de overheid. Ook willen zij inzicht in de status van vergunnings- of subsidieaanvragen.
+
+**Veiligheid** — De respondenten zijn zich bewust van de (on)veiligheid van klikken op links in tekstberichten en e-mail.
 
 #### Welke bronnen gebruiken respondenten om op de hoogte te blijven?
 
