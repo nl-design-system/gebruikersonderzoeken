@@ -41,7 +41,7 @@ Tijdens het redesign van [utrecht.nl](https://www.utrecht.nl) kwamen er vragen b
 - Zien ze de hoofdnavigatie?
 - Snappen ze dat dit een component is waarmee ze kunnen navigeren om hun doel te bereiken?
 
-![Screenshot van de homepage van utrecht.nl in variant A en variant B, met de hoofdnavigatie gemarkeerd](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/utrecht-utrechtnl__homepage-hoofdnavigatie-variant-a-en-b.jpeg)
+![Screenshot van de homepage van utrecht.nl in variant A en variant B, met de hoofdnavigatie gemarkeerd. Variant A: hoofdnavigatie in de header onder het zoekveld. Variant B: hoofdnavigatie als aparte balk over de volle breedte onder de header.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/utrecht-utrechtnl__homepage-hoofdnavigatie-variant-a-en-b.jpeg)
 
 ## Advies
 
