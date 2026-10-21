@@ -118,9 +118,9 @@ In de kwalificatie gebruiken we de volgende symbolen:
 
 - ❌ **MVP biedt nog te weinig reden om in te loggen** — De behoefte is dat ondernemers een overzicht willen hebben van wat er gedaan moet worden of wat er al gedaan is richting de overheid. De onderdelen Actualiteiten, Bedrijfsgegevens en Contactvoorkeuren geven ondernemers nu te weinig reden om MOZa te gebruiken. Ze zien het vooral als informatie, maar niet als iets dat hun werk echt makkelijker maakt.
   - **Aanbeveling:** geef prioriteit aan de functie waarmee ondernemers direct iets kunnen regelen of ontvangen, zoals berichten, belangrijke meldingen of acties met een deadline.
-  > "Het is niet zo, ik verveel me, dus laat ik eens inloggen op Mijn Overheid Zakelijk."
-  >
-  > — Quote van een respondent
+    > "Het is niet zo, ik verveel me, dus laat ik eens inloggen op Mijn Overheid Zakelijk."
+    >
+    > — Quote van een respondent
 - ❗ **Ondernemers verwachten functies van MijnOverheid op MOZa** — Veel ondernemers denken dat MOZa dezelfde functies heeft als MijnOverheid voor burgers. Ze verwachten bijvoorbeeld een berichtenbox of dat ze hier zaken met overheidsorganisaties kunnen regelen. Onderdelen zoals contactvoorkeuren, waarbij men organisaties kan aanvinken, versterken deze verwachting.
 - ✅ **Het idee achter MOZa spreekt wel aan** — Ondernemers vinden het idee van één centrale plek voor zaken met de overheid goed. Ze verwachten hier praktische taken te kunnen doen en belangrijke updates te krijgen. Dat past bij het doel van MOZa.
   > "Het moet nut en noodzaak hebben, anders is het verspilling van de tijd."
@@ -130,6 +130,7 @@ In de kwalificatie gebruiken we de volgende symbolen:
 #### MVP 2/2
 
 - ❗ **Er is behoefte aan overzicht en informatiebundeling** — De respondenten ervaren de huidige situatie, met betrekking tot hun zaken regelen met de overheid, als versnipperd over verschillende kanalen en systemen. Het MVP brengt daar nog niet voldoende verandering in.
+
   > "Ik vind het heel fijn, als ik alles op 1 plek heb. Dat ik alles onder 1 dak heb. Dat ik weet, als ik daar kijk is alles geregeld."
   >
   > — Quote van een respondent
@@ -137,15 +138,16 @@ In de kwalificatie gebruiken we de volgende symbolen:
   > "Alles is nu heel versnipperd, zou fijn zijn als het samengevoegd wordt."
   >
   > — Quote van een respondent
+
 - ❗ **Ondernemers willen het platform functioneel gebruiken en niet enkel geïnformeerd worden** — Sommige respondenten geven aan niet zomaar in te loggen om rond te kijken. Ze doen dat alleen wanneer er een concrete aanleiding of taak is. Ze willen dan ook direct iets kunnen doen met de informatie die wordt verstrekt, zoals een subsidie of vergunning aanvragen.
   > "Het lijkt een soort Overheidsmailbox, met alles wat belangrijk is, wat je niet kwijt wilt raken. Zoals aangiften inkomstbelasting, een kopie die je altijd terug kan vinden. Als ik inlog weet ik dat ik hier dingen kan vinden. Ik zou dat wel verwachten, ik zou het raar vinden als ze dat niet zouden doen."
   >
   > — Quote van een respondent
 - ❗ **"Dit is toch de Belastingdienst?"** — Een aantal respondenten neemt aan dat dit portaal van de Belastingdienst is. Dit komt door de visuele stijl van de website en met name door het overheidsvaantje. Een andere reden is dat ondernemers nu eenmaal met grote regelmaat zaken regelen met de Belastingdienst.
   - **Aanbeveling:** een nieuw portaal vraagt om een duidelijke introductie over de mogelijkheden en hoe de verhouding is tussen de verschillende overheidsorganisaties en dit portaal.
-  > "Dit is toch de Belastingdienst?"
-  >
-  > — Quote van een respondent
+    > "Dit is toch de Belastingdienst?"
+    >
+    > — Quote van een respondent
 
 #### Homepagina
 
@@ -212,9 +214,9 @@ _Bij deze bevindingen hoort hetzelfde scherm van de pagina Actualiteiten als hie
   > — Quote van een respondent
 - ❗ **Controle over hoe de overheid ondernemers benadert** — Respondenten willen zelf bepalen hoe overheidsorganisaties contact met hen opnemen. Sommigen hebben meerdere e-mailadressen (bijvoorbeeld van een accountant). Er is ook bezorgdheid over te veel e-mails, telefoontjes of commerciële aanbiedingen.
   - **Aanbeveling:** geef ondernemers duidelijke keuzes en instellingen per type contact en organisatie, zodat ze de controle behouden en niet overspoeld raken.
-  > "Een sterke pre is dat ik hier per organisatie kan aanvinken hoe ik benaderd wil worden."
-  >
-  > — Quote van een respondent
+    > "Een sterke pre is dat ik hier per organisatie kan aanvinken hoe ik benaderd wil worden."
+    >
+    > — Quote van een respondent
 - ✅ **Centrale contactgegevens werken, maar niet altijd** — Ondernemers vinden het goed dat hun centrale contactgegevens bij elke organisatie worden gebruikt. Dit hangt echter af van de situatie van het bedrijf. Niet iedereen heeft maar één e-mailadres. Sommige ondernemers maken gebruik van een vaste telefoon. (Dit kan lastig zijn bij toekomstige seintjes via een tekstbericht.)
 
 #### Contactvoorkeuren 2/2
@@ -224,9 +226,9 @@ _Bij deze bevindingen hoort hetzelfde scherm van de pagina Contactvoorkeuren als
 - ❌ **Selectie van organisaties is nog onvolledig** — De huidige lijst van organisaties die contactgegevens kunnen gebruiken is niet volledig. De meeste respondenten vinden dat belangrijke organisaties, zoals de Belastingdienst en sommige gemeenten, ontbreken.
   - **Aanbeveling:** voeg belangrijke overheidsorganisaties toe, te beginnen met Belastingdienst en gemeenten, om de waarde van Contactvoorkeuren te vergroten.
   - **Aanbeveling:** communiceer duidelijk welke organisaties nog niet zijn aangesloten en of deze in de toekomst worden toegevoegd.
-  > "Belastingdienst is voor mij een van de hoofdoverheidsorganen waar ik mee te maken heb. Zou raar zijn als dat er niet in zit."
-  >
-  > — Quote van een respondent
+    > "Belastingdienst is voor mij een van de hoofdoverheidsorganen waar ik mee te maken heb. Zou raar zijn als dat er niet in zit."
+    >
+    > — Quote van een respondent
 - ❗ **Contactvoorkeuren versterken verwachting berichtenbox** — De lijst met organisaties en vinkjes maakt dat respondenten sneller denken dat het MVP ook een berichtenbox heeft. Respondenten geven aan dat ze behoefte hebben aan een centrale plek voor hun correspondentie.
   > "Laat mij dit maar allemaal aanvinken."
   >
@@ -259,9 +261,9 @@ _Bij deze bevindingen hoort hetzelfde scherm van de pagina Contactvoorkeuren als
 - 🟠 **Men verwacht dat voor een BV eHerkenning gebruikt dient te worden** — Ondernemers met een BV denken dat zij waarschijnlijk met eHerkenning moeten inloggen. Sommigen gaan er automatisch vanuit dat DigiD voor hen niet mogelijk is.
 - ❗ **Voorkeur voor zo min mogelijk inlogvariaties** — Sommige ondernemers geven aan dat ze het liefst met één inlogmiddel werken. Het gebruik van meerdere systemen, zoals DigiD én eHerkenning, kan verwarrend of onhandig zijn.
   - **Aanbeveling:** maak duidelijk welke inlogmethode voor welke ondernemers geldt en leg dit kort uit op de inlogpagina. Als mogelijk: bied zo eenvoudig mogelijke toegang met zo min mogelijk verschillende inlogmiddelen.
-  > "E-herkenning voelt weer als een systeem erbij."
-  >
-  > — Quote van een respondent
+    > "E-herkenning voelt weer als een systeem erbij."
+    >
+    > — Quote van een respondent
 
 #### Ingang tot MOZa
 
@@ -345,7 +347,7 @@ Het project MijnOverheid Zakelijk (MOZa) loopt inmiddels enige tijd. Binnen dit 
 
 - In 2024 is er een Ontwerpend Onderzoek gestart. Deze uitkomsten zijn de basis geweest van het traject in 2025.
 - In de eerste fase van dit project hebben we met ondernemers gesproken over hoe zij nu contact hebben met de overheid. De inzichten hiervan zijn terug te vinden in de rapportage 'Afronding MijnOverheid Zakelijk - fase 1 2025 28-8-25'.
-- In het onderzoek van oktober 2025 (Rapportage Gebruikersonderzoek prototype fase 2_oktober 2025_UX Research_) hebben we het eerste prototype van MOZa getest met 6 ondernemers en de meerwaarde van het MOZa-concept en de praktische bruikbaarheid van het prototype getoetst.
+- In het onderzoek van oktober 2025 (Rapportage Gebruikersonderzoek prototype fase 2*oktober 2025_UX Research*) hebben we het eerste prototype van MOZa getest met 6 ondernemers en de meerwaarde van het MOZa-concept en de praktische bruikbaarheid van het prototype getoetst.
 
 ### Onderzoeksopzet
 
