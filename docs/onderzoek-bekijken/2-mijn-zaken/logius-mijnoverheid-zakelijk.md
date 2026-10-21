@@ -116,9 +116,7 @@ In de kwalificatie gebruiken we de volgende symbolen:
 
 ![Prototype van de ingelogde homepagina van MijnOverheid Zakelijk met 'Welkom Robin Vogel', een menu met Home, Actualiteiten, Bedrijfsgegevens en Contactvoorkeuren, en het blok Actualiteiten met 'Berichten over uw buurt' en 'Subsidies en financiering'](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/logius-moza-prototype-fase2__mvp-homepagina.png)
 
-##### ❌ MVP biedt nog te weinig reden om in te loggen
-
-De behoefte is dat ondernemers een overzicht willen hebben van wat er gedaan moet worden of wat er al gedaan is richting de overheid. De onderdelen Actualiteiten, Bedrijfsgegevens en Contactvoorkeuren geven ondernemers nu te weinig reden om MOZa te gebruiken. Ze zien het vooral als informatie, maar niet als iets dat hun werk echt makkelijker maakt.
+❌ **MVP biedt nog te weinig reden om in te loggen** — De behoefte is dat ondernemers een overzicht willen hebben van wat er gedaan moet worden of wat er al gedaan is richting de overheid. De onderdelen Actualiteiten, Bedrijfsgegevens en Contactvoorkeuren geven ondernemers nu te weinig reden om MOZa te gebruiken. Ze zien het vooral als informatie, maar niet als iets dat hun werk echt makkelijker maakt.
 
 **Aanbeveling:** geef prioriteit aan de functie waarmee ondernemers direct iets kunnen regelen of ontvangen, zoals berichten, belangrijke meldingen of acties met een deadline.
 
@@ -126,13 +124,9 @@ De behoefte is dat ondernemers een overzicht willen hebben van wat er gedaan moe
 
 Quote van een respondent.
 
-##### ❗ Ondernemers verwachten functies van MijnOverheid op MOZa
+❗ **Ondernemers verwachten functies van MijnOverheid op MOZa** — Veel ondernemers denken dat MOZa dezelfde functies heeft als MijnOverheid voor burgers. Ze verwachten bijvoorbeeld een berichtenbox of dat ze hier zaken met overheidsorganisaties kunnen regelen. Onderdelen zoals contactvoorkeuren, waarbij men organisaties kan aanvinken, versterken deze verwachting.
 
-Veel ondernemers denken dat MOZa dezelfde functies heeft als MijnOverheid voor burgers. Ze verwachten bijvoorbeeld een berichtenbox of dat ze hier zaken met overheidsorganisaties kunnen regelen. Onderdelen zoals contactvoorkeuren, waarbij men organisaties kan aanvinken, versterken deze verwachting.
-
-##### ✅ Het idee achter MOZa spreekt wel aan
-
-Ondernemers vinden het idee van één centrale plek voor zaken met de overheid goed. Ze verwachten hier praktische taken te kunnen doen en belangrijke updates te krijgen. Dat past bij het doel van MOZa.
+✅ **Het idee achter MOZa spreekt wel aan** — Ondernemers vinden het idee van één centrale plek voor zaken met de overheid goed. Ze verwachten hier praktische taken te kunnen doen en belangrijke updates te krijgen. Dat past bij het doel van MOZa.
 
 > "Het moet nut en noodzaak hebben, anders is het verspilling van de tijd."
 
@@ -140,9 +134,7 @@ Quote van een respondent over de informatie die het MVP verstrekt.
 
 #### MVP 2/2
 
-##### ❗ Er is behoefte aan overzicht en informatiebundeling
-
-De respondenten ervaren de huidige situatie, met betrekking tot hun zaken regelen met de overheid, als versnipperd over verschillende kanalen en systemen. Het MVP brengt daar nog niet voldoende verandering in.
+❗ **Er is behoefte aan overzicht en informatiebundeling** — De respondenten ervaren de huidige situatie, met betrekking tot hun zaken regelen met de overheid, als versnipperd over verschillende kanalen en systemen. Het MVP brengt daar nog niet voldoende verandering in.
 
 > "Ik vind het heel fijn, als ik alles op 1 plek heb. Dat ik alles onder 1 dak heb. Dat ik weet, als ik daar kijk is alles geregeld."
 
@@ -152,17 +144,13 @@ Quote van een respondent.
 
 Quote van een respondent.
 
-##### ❗ Ondernemers willen het platform functioneel gebruiken en niet enkel geïnformeerd worden
-
-Sommige respondenten geven aan niet zomaar in te loggen om rond te kijken. Ze doen dat alleen wanneer er een concrete aanleiding of taak is. Ze willen dan ook direct iets kunnen doen met de informatie die wordt verstrekt, zoals een subsidie of vergunning aanvragen.
+❗ **Ondernemers willen het platform functioneel gebruiken en niet enkel geïnformeerd worden** — Sommige respondenten geven aan niet zomaar in te loggen om rond te kijken. Ze doen dat alleen wanneer er een concrete aanleiding of taak is. Ze willen dan ook direct iets kunnen doen met de informatie die wordt verstrekt, zoals een subsidie of vergunning aanvragen.
 
 > "Het lijkt een soort Overheidsmailbox, met alles wat belangrijk is, wat je niet kwijt wilt raken. Zoals aangiften inkomstbelasting, een kopie die je altijd terug kan vinden. Als ik inlog weet ik dat ik hier dingen kan vinden. Ik zou dat wel verwachten, ik zou het raar vinden als ze dat niet zouden doen."
 
 Quote van een respondent.
 
-##### ❗ "Dit is toch de Belastingdienst?"
-
-Een aantal respondenten neemt aan dat dit portaal van de Belastingdienst is. Dit komt door de visuele stijl van de website en met name door het overheidsvaantje. Een andere reden is dat ondernemers nu eenmaal met grote regelmaat zaken regelen met de Belastingdienst.
+❗ **"Dit is toch de Belastingdienst?"** — Een aantal respondenten neemt aan dat dit portaal van de Belastingdienst is. Dit komt door de visuele stijl van de website en met name door het overheidsvaantje. Een andere reden is dat ondernemers nu eenmaal met grote regelmaat zaken regelen met de Belastingdienst.
 
 **Aanbeveling:** een nieuw portaal vraagt om een duidelijke introductie over de mogelijkheden en hoe de verhouding is tussen de verschillende overheidsorganisaties en dit portaal.
 
