@@ -75,7 +75,7 @@ Respondenten kwamen ongevraagd met positieve opmerkingen over de toptaken en de 
 
 ### Voorkeur
 
-Aan het einde van het interview hebben we de respondenten de twee versies laten zien en gevraagd om hun voorkeur uit te spre
+Aan het einde van het interview hebben we de respondenten de twee versies laten zien en gevraagd om hun voorkeur uit te spreken.
 
 | Voorkeur      | Respondenten |
 | ------------- | ------------ |
