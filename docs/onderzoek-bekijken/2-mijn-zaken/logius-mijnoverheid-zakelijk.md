@@ -416,7 +416,7 @@ We spraken met 8 ondernemers uit de doelgroep 'klein MKB', zowel zzp'ers als mkb
 
 Online interviews via Brainstork aan de hand van een prototype (afbeelding 1). De tests vonden plaats op 4, 5 en 6 maart 2026.
 
-![Afbeelding 1: schermopname van een online gebruikerstest in Brainstork, waarin het prototype van MijnOverheid Zakelijk wordt getoond met de homepagina 'Welkom Robin Vogel' en het blok Actualiteiten](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/logius-moza-prototype-fase2__testsessie-brainstork.jpg)
+![Afbeelding 1: schermopname van een online gebruikerstest in Brainstork, waarin het prototype van MijnOverheid Zakelijk wordt getoond met de homepagina 'Welkom Robin Vogel' en het blok Actualiteiten](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/logius-moza-prototype-fase2__testsessie-brainstork.png)
 
 _Afbeelding 1: voorbeeld van een gebruikerstest uitgevoerd in Brainstork._
 
