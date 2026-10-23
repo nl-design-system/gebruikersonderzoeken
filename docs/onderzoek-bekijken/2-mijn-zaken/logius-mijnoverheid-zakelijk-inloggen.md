@@ -80,29 +80,29 @@ De volgende conclusies zijn gebaseerd op gesprekken met 9 burgers tijdens een gu
 
 Op de uniforme inlogpagina richt vrijwel iedereen zich op de eerste optie: 'inloggen voor mezelf'. Opties die 'onder de vouw' staan, worden nauwelijks opgemerkt. De tweede optie, 'inloggen voor mijn onderneming', valt wel op in het rijtje, maar vormt voor burgers geen belemmering: niemand klikte op de verkeerde knop. Wel vonden een paar respondenten dat de pagina er visueel gedateerd uitzag.
 
-Bij de overgang naar het inlogscherm letten respondenten niet op de paginatitel; hun aandacht gaat direct naar de blauwe knop 'inloggen'. Dit wijst erop dat de keuze waar bezoekers gaan inloggen, al in een eerdere stap van het proces wordt gemaakt. Zie Uniform inloggen 2/3.
+Bij de overgang naar het inlogscherm letten respondenten niet op de paginatitel; hun aandacht gaat direct naar de blauwe knop 'inloggen'. Dit wijst erop dat de keuze waar bezoekers gaan inloggen, al in een eerdere stap van het proces wordt gemaakt. Zie [Uniform inloggen 2/3](#uniform-inloggen-23).
 
 **De respondenten ervaren geen hinder van de toegevoegde ingang van MijnOverheid Zakelijk**
 
-De inloglink naar MOZa naast de DigiD-inlogknop aanbieden, levert geen problemen op: alle respondenten herkenden direct welke knop voor hen relevant was. Zie Uniform inloggen (vanuit MijnOverheid) 1/3.
+De inloglink naar MOZa naast de DigiD-inlogknop aanbieden, levert geen problemen op: alle respondenten herkenden direct welke knop voor hen relevant was. Zie [Uniform inloggen (vanuit MijnOverheid) 1/3](#uniform-inloggen-vanuit-mijnoverheid-13).
 
 **Inlogknop MOZa weinig opvallend op anonieme homepage**
 
-Op de homepage van MijnOverheid richt iedereen zich op de DigiD-knop. Een deel van de respondenten zag de link naar 'inloggen op MijnOverheid zakelijk' wel rechtsonder staan, maar deze valt niet sterk op. Niemand ondervond hier hinder van. Zie Uniform inloggen (vanuit MijnOverheid) 1/3.
+Op de homepage van MijnOverheid richt iedereen zich op de DigiD-knop. Een deel van de respondenten zag de link naar 'inloggen op MijnOverheid zakelijk' wel rechtsonder staan, maar deze valt niet sterk op. Niemand ondervond hier hinder van. Zie [Uniform inloggen (vanuit MijnOverheid) 1/3](#uniform-inloggen-vanuit-mijnoverheid-13).
 
 **Overheid.nl grotendeels onbekend**
 
-Vrijwel niemand in dit onderzoek kent de website overheid.nl. Wanneer respondenten aangeven dat ze "naar overheid.nl zouden gaan" na een notificatie-e-mail, bedoelen ze doorgaans mijnoverheid.nl. De inloglinks naar MijnOverheid en MijnOverheid Zakelijk op overheid.nl worden wel gevonden en begrepen, al staan ze voor sommigen te dicht bij elkaar op het scherm. Zie Inloggen vanuit overheid.nl 1/2.
+Vrijwel niemand in dit onderzoek kent de website overheid.nl. Wanneer respondenten aangeven dat ze "naar overheid.nl zouden gaan" na een notificatie-e-mail, bedoelen ze doorgaans mijnoverheid.nl. De inloglinks naar MijnOverheid en MijnOverheid Zakelijk op overheid.nl worden wel gevonden en begrepen, al staan ze voor sommigen te dicht bij elkaar op het scherm. Zie [Inloggen vanuit overheid.nl 1/2](#inloggen-vanuit-overheidnl-12).
 
 **DigiD-problemen leven sterk**
 
 Veel respondenten klagen over technische problemen met de DigiD-app in de afgelopen maand (mei 2026): ze moeten vaak opnieuw inloggen, ervaren verbindingsproblemen en raken in verwarring tussen inlogmethodes (sms-code versus authenticatiecode). Dit zorgt voor frustratie en verminderd vertrouwen.
 
-Een paar respondenten geven aan dat dit komt doordat 'DigiD nu naar Amerika is gegaan'. Zie Uniform inloggen 3/3.
+Een paar respondenten geven aan dat dit komt doordat 'DigiD nu naar Amerika is gegaan'. Zie [Uniform inloggen 3/3](#uniform-inloggen-33).
 
 **Wantrouwen bij links in e-mail (notificatie)**
 
-De meeste (niet-zakelijke) respondenten zijn sceptisch over links in e-mails van de overheid. Ze twijfelen zowel aan de afzender als aan de link zelf. Een deel zou niet klikken en zelf naar MijnOverheid navigeren, bijvoorbeeld via Google. Een ander deel klikt wél op de link, omdat dit makkelijker is. Zie Seintje in de mailbox (burgers).
+De meeste (niet-zakelijke) respondenten zijn sceptisch over links in e-mails van de overheid. Ze twijfelen zowel aan de afzender als aan de link zelf. Een deel zou niet klikken en zelf naar MijnOverheid navigeren, bijvoorbeeld via Google. Een ander deel klikt wél op de link, omdat dit makkelijker is. Zie [Seintje in de mailbox](#seintje-in-de-mailbox).
 
 ### Conclusies met ondernemers
 
@@ -110,31 +110,31 @@ De volgende conclusies zijn gebaseerd op gesprekken met 9 startende ondernemers 
 
 **Inlogpagina: inloggen met DigiD is handig**
 
-Alle respondenten ervaren het als positief om met DigiD in te loggen voor hun zakelijke correspondentie met de overheid. Ze zijn al bekend met het inloggen met DigiD en daarom voelt het als simpel en toegankelijk. Zie Uniform inloggen 2/2.
+Alle respondenten ervaren het als positief om met DigiD in te loggen voor hun zakelijke correspondentie met de overheid. Ze zijn al bekend met het inloggen met DigiD en daarom voelt het als simpel en toegankelijk. Zie [Uniform inloggen 2/2](#uniform-inloggen-22).
 
 **MijnOverheidZakelijk.nl als startpunt voelt logisch**
 
-Bijna alle respondenten geven aan dat zodra ze een seintje zouden ontvangen over een bericht, direct naar de website in de mail zouden gaan via de zoekbalk van hun browser. Zie Uniform inloggen (vanuit MijnOverheid Zakelijk) 1/2.
+Bijna alle respondenten geven aan dat zodra ze een seintje zouden ontvangen over een bericht, direct naar de website in de mail zouden gaan via de zoekbalk van hun browser. Zie [Uniform inloggen (vanuit MijnOverheid Zakelijk) 1/2](#uniform-inloggen-vanuit-mijnoverheid-zakelijk-12).
 
 **De anonieme Mijnoverheid zakelijk-pagina vinden deze startende ondernemers informatief**
 
-Eén respondent gaf expliciet aan dat deze pagina zodanig informatief was dat het concept van MOZa in één oogopslag duidelijk was; deze respondent was hier heel blij mee. Zie Uniform inloggen (vanuit MijnOverheid Zakelijk) 1/2.
+Eén respondent gaf expliciet aan dat deze pagina zodanig informatief was dat het concept van MOZa in één oogopslag duidelijk was; deze respondent was hier heel blij mee. Zie [Uniform inloggen (vanuit MijnOverheid Zakelijk) 1/2](#uniform-inloggen-vanuit-mijnoverheid-zakelijk-12).
 
 **De meeste startende ondernemers kennen Ondernemersplein.nl (nog) niet**
 
-Eén respondent was bekend met Ondernemersplein.nl en vond dit een logische ingang voor MOZa. Zie Inloggen vanuit ondernemersplein.
+Eén respondent was bekend met Ondernemersplein.nl en vond dit een logische ingang voor MOZa. Zie [Inloggen vanuit ondernemersplein](#inloggen-vanuit-ondernemersplein).
 
 **De meeste startende ondernemers kennen Overheid.nl niet**
 
-Eén respondent was bekend met Overheid.nl. De rest niet. Net als bij de burger-respondenten verwarren ondernemers overheid.nl met mijn.overheid.nl. Zie Inloggen vanuit Overheid.nl (ondernemers).
+Eén respondent was bekend met Overheid.nl. De rest niet. Net als bij de burger-respondenten verwarren ondernemers overheid.nl met mijn.overheid.nl. Zie [Inloggen vanuit Overheid.nl](#inloggen-vanuit-overheidnl).
 
 **Gebruikers willen dat de inlogknop naar MOZA er op alle plekken er hetzelfde uitziet**
 
-Sommige respondenten gaven aan dat ze behoefte hebben aan consistente inlogknoppen, omdat dit betrouwbaarder overkomt zodra de inlog voor MOZa op verschillende plekken wordt aangeboden. Zie Inloggen vanuit Overheid.nl (ondernemers).
+Sommige respondenten gaven aan dat ze behoefte hebben aan consistente inlogknoppen, omdat dit betrouwbaarder overkomt zodra de inlog voor MOZa op verschillende plekken wordt aangeboden. Zie [Inloggen vanuit Overheid.nl](#inloggen-vanuit-overheidnl).
 
 **Er dient rekening te worden gehouden met anderstaligen**
 
-Twee van de negen respondenten spraken Engels; hier is nog niet voldoende op ingespeeld. Zie Inloggen vanuit ondernemersplein.
+Twee van de negen respondenten spraken Engels; hier is nog niet voldoende op ingespeeld. Zie [Inloggen vanuit ondernemersplein](#inloggen-vanuit-ondernemersplein).
 
 **Aanbeveling:** Voeg minimaal een Engelstalige variant van MOZa (inclusief taalswitch en Engelstalige berichten) toe, zodat anderstaligen ook gebruik kunnen maken van MOZa. Zoals wordt gesteld op MijnOverheidZakelijk.nl: "Eén Overheid. Voor iedereen!"
 
