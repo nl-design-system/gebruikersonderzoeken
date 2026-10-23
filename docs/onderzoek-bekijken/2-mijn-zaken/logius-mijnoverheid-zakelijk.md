@@ -211,6 +211,7 @@ Quote van een respondent
 🟠 **Ondernemers zijn taakgericht** — Ondernemers willen na het lezen van informatie vaak direct iets kunnen doen. Bijvoorbeeld een subsidieaanvraag starten, een wijziging doorgeven of een deadline bekijken of iemand ziek melden bij UWV.
 
 **Aanbeveling:** doe vervolgonderzoek naar hoe en waar een ondernemer iets gaat regelen naar aanleiding van een actualiteit, binnen MOZa of bij de verstrekker van informatie.
+
 **Aanbeveling:** koppel Actualiteiten waar mogelijk aan een actie, zoals "Regel dit nu" of "Bekijk wat dit voor uw bedrijf betekent".
 
 #### Bedrijfsgegevens
@@ -258,6 +259,7 @@ Bij deze bevindingen hoort hetzelfde scherm van de pagina Contactvoorkeuren als 
 ❌ **Selectie van organisaties is nog onvolledig** — De huidige lijst van organisaties die contactgegevens kunnen gebruiken is niet volledig. De meeste respondenten vinden dat belangrijke organisaties, zoals de Belastingdienst en sommige gemeenten, ontbreken.
 
 **Aanbeveling:** voeg belangrijke overheidsorganisaties toe, te beginnen met Belastingdienst en gemeenten, om de waarde van Contactvoorkeuren te vergroten.
+
 **Aanbeveling:** communiceer duidelijk welke organisaties nog niet zijn aangesloten en of deze in de toekomst worden toegevoegd.
 
 > "Belastingdienst is voor mij een van de hoofdoverheidsorganen waar ik mee te maken heb. Zou raar zijn als dat er niet in zit."
@@ -442,7 +444,6 @@ Neem contact op met het Logius UX Research team via [ux@logius.nl](mailto:ux@log
 
 - Rapportage gebruikersonderzoek prototype fase 2 – MijnOverheid Zakelijk (MOZa), usability test rapportage, V1 (PDF)
 - Eerder onderzoek: [Gebruikersonderzoek inloggen MijnOverheid Zakelijk (fase 3)](./logius-inloggen-moza-fase3.md)
-- Screenshots van de prototype-schermen: assets-branch van de repository, bestandsnamen met prefix `logius-moza-prototype-fase2__`
 
 ## Bijlagen
 
