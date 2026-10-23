@@ -369,7 +369,7 @@ Een guerrillatest is een snelle en laagdrempelige manier om een product, dienst 
 
 Van tevoren stelden we aannames op om te valideren. We testten aan de hand van verschillende prototypes, afhankelijk van de doelgroep. We hebben een vaste set vragen aan beide doelgroepen voorgelegd. Het script werd aangepast n.a.v. aanpassingen op de context en doelgroep.
 
-![Afbeelding 1: foto van een tafel bij de KVK met een uitnodigingsbordje 'Hey ondernemer! Wil je meedenken over de toekomst van digitaal zaken doen met de overheid?' en een schaaltje koekjes](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/logius-inloggen-moza-fase3__setting-testen-op-locatie.png)
+![Afbeelding 1: foto van een tafel bij de KVK met een uitnodigingsbordje 'Hey ondernemer! Wil je meedenken over de toekomst van digitaal zaken doen met de overheid?' en een schaaltje koekjes](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/logius-inloggen-moza-fase3__setting-testen-op-locatie.jpg)
 
 _Afbeelding 1: setting testen op locatie._
 
