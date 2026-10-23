@@ -393,7 +393,7 @@ In beide flows eindigt het inloggen bij het kiezen van een inlogmiddel met DigiD
 
 ## Documentatie
 
-- Onderzoeksrapport: 'Gebruikersonderzoek inloggen MijnOverheid Zakelijk (MOZa) – fase 3', usability test rapportage, V1 (PDF)
+- Onderzoeksrapport: [Gebruikersonderzoek inloggen MijnOverheid Zakelijk (MOZa) – fase 3](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/Rapportage.gebruikersonderzoek.inloggen_V1.pdf) (PDF, 1,2MB)
 - Eerder onderzoek: [Gebruikersonderzoek prototype fase 2 MijnOverheid Zakelijk (MOZa)](./logius-moza-prototype-fase2.md)
 
 ## Bijlagen
