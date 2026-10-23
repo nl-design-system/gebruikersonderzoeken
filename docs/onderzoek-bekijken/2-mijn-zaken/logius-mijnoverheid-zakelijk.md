@@ -442,8 +442,7 @@ Neem contact op met het Logius UX Research team via [ux@logius.nl](mailto:ux@log
 
 ## Documentatie
 
-- Rapportage gebruikersonderzoek prototype fase 2 – MijnOverheid Zakelijk (MOZa), usability test rapportage, V1 (PDF)
-- Eerder onderzoek: [Gebruikersonderzoek inloggen MijnOverheid Zakelijk (fase 3)](./logius-inloggen-moza-fase3.md)
+- Onderzoeksrapport: [Rapportage.gebruikersonderzoek.inloggen_V1](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/Rapportage.gebruikersonderzoek.inloggen_V1.pdf) (PDF, 3,4MB)
 
 ## Bijlagen
 
