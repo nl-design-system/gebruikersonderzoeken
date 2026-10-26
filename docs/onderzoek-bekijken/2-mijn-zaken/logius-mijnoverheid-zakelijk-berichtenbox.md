@@ -230,6 +230,8 @@ Quote van een respondent over een belastinggerelateerde actie.
 
 Quote van een respondent.
 
+![Screenshot van weergave bijlagen. Getoond wordt de kop 'Bijlage(n)' met daaronder een link 'Beschikking.pdf'.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/logius-moza-berichtenbox-fase3__bericht-versie-a-pdf-bijlagen.png)
+
 🟠 **Soms werken de bijlagen verwarrend** — Bijlagen onderaan het bericht werden door sommigen als verwarrend ervaren. Het is onduidelijk hoe deze bijlage zich verhoudt tot de rest van de inhoud van het bericht.
 
 🟠 **De gegeven informatie voelt versnipperd en incompleet** — Een enkeling geeft aan dat de opeenvolgende berichten, vanaf het ontvangen van het seintje in de mail tot aan de inleidende tekst en inhoud van de pdf op dit scherm, geen duidelijkheid bieden. Dit verstoort de verwachting die de respondent opbouwt na het lezen van de e-mail.
@@ -238,7 +240,7 @@ Quote van een respondent.
 
 #### Berichtenbox versie A: pdf verschijnt direct in het bericht 2
 
-![Schermopname van de actiebalk onderaan een bericht in MijnOverheid Zakelijk met de knoppen 'Markeren', 'Delen', 'Archiveren' en 'Verwijderen'](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/logius-moza-berichtenbox-fase3__bericht-actiebalk.png)
+![Screenshot van de actiebalk onderaan een bericht in MijnOverheid Zakelijk met de knoppen 'Markeren', 'Delen', 'Archiveren' en 'Verwijderen'](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/logius-moza-berichtenbox-fase3__bericht-versie-a-pdf-acties.png)
 
 Bij deze bevindingen hoort hetzelfde bericht als hierboven; de afbeelding toont de acties onderaan het bericht.
 
@@ -262,7 +264,7 @@ Bij deze bevindingen hoort hetzelfde bericht als hierboven; de afbeelding toont 
 
 #### Relevant onderzoek m.b.t. direct tonen acties en gelaagde informatie
 
-![Schermopname uit het 'Ontwerpend onderzoek reactiemogelijkheden': een bericht in 'Mijn Berichtenbox' over 'Betalen: Aanslag inkomstenbelasting 2022' met bovenaan het te betalen bedrag van € 268 en de knoppen 'Betaal met iDeal', 'Zelf overmaken' en 'Betaal in termijnen', daaronder de berekening van het bedrag en de opties 'Aangifte wijzigen' en 'Doe de bezwaarcheck'](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/logius-moza-berichtenbox-fase3__ontwerpend-onderzoek-bericht-gelaagde-opbouw.png)
+![Screenshot uit het 'Ontwerpend onderzoek reactiemogelijkheden': een bericht in 'Mijn Berichtenbox' over 'Betalen: Aanslag inkomstenbelasting 2022' met bovenaan het te betalen bedrag van € 268 en de knoppen 'Betaal met iDeal', 'Zelf overmaken' en 'Betaal in termijnen', daaronder de berekening van het bedrag en de opties 'Aangifte wijzigen' en 'Doe de bezwaarcheck'](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/logius-moza-berichtenbox-fase3__ontwerpend-onderzoek-bericht-gelaagde-opbouw.png)
 
 _Bericht met gelaagde opbouw (pagina 36 van 'Ontwerpend onderzoek reactiemogelijkheden')._
 
@@ -408,7 +410,7 @@ Omdat we meerdere varianten van de Berichtenbox wilden testen, wisselden we af t
 
 In de Berichtenbox van MijnBelastingdienst Zakelijk staat een melding die verwijst naar MijnOverheid Zakelijk (zie ook [MijnBelastingdienst Zakelijk](#mijnbelastingdienst-zakelijk)):
 
-![Schermopname van een informatieve melding: 'Hier ziet u de zakelijke berichten afkomstig van de Belastingdienst. Wilt u de berichten zien van alle overheidsorganisaties, ga dan naar de Berichtenbox van MijnOverheid Zakelijk.'](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/logius-moza-berichtenbox-fase3__melding-verwijzing-berichtenbox-moza.png)
+![Screenshot van een informatieve melding: 'Hier ziet u de zakelijke berichten afkomstig van de Belastingdienst. Wilt u de berichten zien van alle overheidsorganisaties, ga dan naar de Berichtenbox van MijnOverheid Zakelijk.'](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/logius-moza-berichtenbox-fase3__melding-verwijzing-berichtenbox-moza.png)
 
 ## Contactinformatie
 
