@@ -385,32 +385,33 @@ Omdat we meerdere varianten van de Berichtenbox wilden testen, wisselden we af t
 
 #### Scenario 1: het inloggen via een notificatie
 
-- De ondernemer ontvangt een notificatie per e-mail ('er staat een bericht voor u klaar'). Zie [Notificatie 'er staat een bericht voor u klaar'](#notificatie-er-staat-een-bericht-voor-u-klaar).
-- Inloggen op MijnOverheid Zakelijk:
-  - De ondernemer gaat naar de anonieme homepage van MOZa.
-  - Klikt op inloggen en gaat naar de pagina Uniform Inloggen (versie 1A met tabjes of versie 1B zonder tabjes; zie [Anonieme homepage MijnOverheid Zakelijk 2](#anonieme-homepage-mijnoverheid-zakelijk-2)).
-  - De ondernemer kiest voor inloggen met DigiD.
+De ondernemer ontvangt een notificatie per e-mail ('er staat een bericht voor u klaar').
+
+![Prototype van een zakelijke mailbox met de notificatie-e-mail van MijnOverheid Zakelijk 'Herinnering: Er staat een bericht voor u klaar in uw zakelijke berichtenbox', verstuurd vanaf geen-antwoord@mijnoverheidzakelijk.nl. In de rapportage is de afzendernaam omcirkeld.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/logius-moza-berichtenbox-fase3__notificatiemail.png)
+
+Inloggen op MijnOverheid Zakelijk:
+
+- De ondernemer gaat naar de anonieme homepage van MOZa.
+- Klikt op inloggen en gaat naar de pagina Uniform Inloggen (versie 1A met tabjes of versie 1B zonder tabjes; zie [Anonieme homepage MijnOverheid Zakelijk 2](#anonieme-homepage-mijnoverheid-zakelijk-2)).
+- De ondernemer kiest voor inloggen met DigiD.
+
+![Screenshots van flow 1](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/logius-moza-berichtenbox-fase3__flow-1.png)
+
 - Komt op de ingelogde homepage van MOZa. Zie [Landingspagina MOZa](#landingspagina-moza).
 - Gaat naar het bericht in de Berichtenbox en leest het bericht:
   - Versie A: pdf verschijnt direct in het bericht.
   - Versie B: acties in het bericht zijn direct uit te voeren.
 
-![Prototype van het DigiD-scherm 'Inloggen bij Mijn DigiD – Hoe wilt u inloggen?' met de opties 'Met de DigiD app', 'Met een sms-controle', 'Met mijn rijbewijs' en 'Met mijn identiteitskaart'](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/logius-moza-berichtenbox-fase3__digid-inlogmiddel-keuze.png)
+![Screenshots van flow 2](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/logius-moza-berichtenbox-fase3__flow-2.png)
 
-![Prototype van het DigiD-scherm 'Stap 1 van 3: Open de DigiD app en voer uw pincode in', met vier invoervelden voor de koppelcode en de knoppen 'Vorige' en 'Volgende'](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/logius-moza-berichtenbox-fase3__digid-koppelcode.png)
-
-![Prototype van de Berichtenbox in MijnOverheid Zakelijk met de tabs Inbox, Archief en Prullenbak, een filterveld 'Filter op afzender of onderwerp' en een lijst berichten van onder andere IND, Gemeente Voorburg, Kadaster en Centraal Bureau voor de Statistiek](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/logius-moza-berichtenbox-fase3__berichtenbox-overzicht.png)
+![Screenshots van flow 3](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/logius-moza-berichtenbox-fase3__flow-3.png)
 
 #### Scenario 2: het bekijken van berichten op MijnBelastingdienst Zakelijk
 
 - De ondernemer logt in op de BerichtenBox van de Belastingdienst (MijnBelastingdienst Zakelijk).
 - De ondernemer bekijkt een bericht in de berichtenbox.
 
-![Prototype van de startpagina van MijnBelastingdienst Zakelijk met een waarschuwing over een nieuw rekeningnummer en tegels voor Berichtenbox, Btw en Loonheffingen](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/logius-moza-berichtenbox-fase3__mijnbelastingdienst-zakelijk.png)
-
-In de Berichtenbox van MijnBelastingdienst Zakelijk staat een melding die verwijst naar MijnOverheid Zakelijk (zie ook [MijnBelastingdienst Zakelijk](#mijnbelastingdienst-zakelijk)):
-
-![Screenshot van een informatieve melding: 'Hier ziet u de zakelijke berichten afkomstig van de Belastingdienst. Wilt u de berichten zien van alle overheidsorganisaties, ga dan naar de Berichtenbox van MijnOverheid Zakelijk.'](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/logius-moza-berichtenbox-fase3__melding-verwijzing-berichtenbox-moza.png)
+![Screenshots van flow 4](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/logius-moza-berichtenbox-fase3__flow-4.png)
 
 ## Contactinformatie
 
