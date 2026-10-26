@@ -56,7 +56,7 @@ Het onderzoek had als doel om te achterhalen:
 - Hoe ondernemers hun contactvoorkeuren willen inrichten.
 - In hoeverre de doorkijkjes (toekomstige functionaliteiten zoals Berichtenbox en Lopende Zaken) waarde toevoegen.
 
-![Prototype van de ingelogde homepagina van MijnOverheid Zakelijk met 'Welkom Robin Vogel', een menu met Home, Actualiteiten, Bedrijfsgegevens en Contactvoorkeuren, en het blok Actualiteiten met 'Berichten over uw buurt' en 'Subsidies en financiering'](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/logius-moza-prototype-fase2__mvp-homepagina.png)
+![Prototype van de volledige ingelogde homepagina van MijnOverheid Zakelijk, met achtereenvolgens Actualiteiten (Berichten over uw buurt, Subsidies en financiering, Wetten en regelgeving), een blok Bedrijfsgegevens van Bloom B.V. en Veelgestelde vragen](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/logius-moza-prototype-fase2__homepagina-volledig.png)
 
 ## Advies
 
