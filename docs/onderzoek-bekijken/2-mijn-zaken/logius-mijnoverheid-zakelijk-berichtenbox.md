@@ -395,23 +395,23 @@ Inloggen op MijnOverheid Zakelijk:
 - Klikt op inloggen en gaat naar de pagina Uniform Inloggen (versie 1A met tabjes of versie 1B zonder tabjes; zie [Anonieme homepage MijnOverheid Zakelijk 2](#anonieme-homepage-mijnoverheid-zakelijk-2)).
 - De ondernemer kiest voor inloggen met DigiD.
 
-![Screenshots van flow 1](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/logius-moza-berichtenbox-fase3__flow-1.png)
+![Overzicht van de inlogflow in het prototype. Links de anonieme homepage van MijnOverheid Zakelijk met het tabje 'Zakelijk' actief, en daaronder de anonieme homepage van MijnOverheid met het tabje 'Privé' actief en de knop 'Inloggen met DigiD'. Een pijl leidt naar twee versies van het scherm 'Inloggen bij MijnOverheid Zakelijk': versie 1A met de tabjes 'Privé' en 'Zakelijk' boven de inlogmiddelen, en versie 1B zonder tabjes. Volgens de toelichting toont het tabje 'Privé' de inlogmiddelen voor MijnOverheid.nl en het tabje 'Zakelijk' die voor MijnOverheid Zakelijk. Pijlen leiden daarna naar de DigiD-schermen 'Hoe wilt u inloggen?' en 'Open de DigiD app en voer uw pincode in'.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/logius-moza-berichtenbox-fase3__flow-1.png)
 
 - Komt op de ingelogde homepage van MOZa. Zie [Landingspagina MOZa](#landingspagina-moza).
 - Gaat naar het bericht in de Berichtenbox en leest het bericht:
   - Versie A: pdf verschijnt direct in het bericht.
   - Versie B: acties in het bericht zijn direct uit te voeren.
 
-![Screenshots van flow 2](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/logius-moza-berichtenbox-fase3__flow-2.png)
+![Overzicht van de flow voor versie A in het prototype. Links de ingelogde homepage van MijnOverheid Zakelijk met 'Welkom Robin Vogel', een linkermenu en het blok 'Recente berichten'. Een pijl leidt naar het overzicht van de Berichtenbox met de tabs Inbox, Archief en Prullenbak en een lijst berichten van verschillende overheidsorganisaties. Een tweede pijl leidt naar het bericht 'Aangifte vennootschapsbelasting 2025 beschikbaar', waarin de pdf direct in een pdf-viewer wordt getoond, met daaronder de bijlage en de knoppen Markeren, Delen, Archiveren en Verwijderen.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/logius-moza-berichtenbox-fase3__flow-2.png)
 
-![Screenshots van flow 3](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/logius-moza-berichtenbox-fase3__flow-3.png)
+![Overzicht van de flow voor versie B in het prototype. Links de ingelogde homepage van MijnOverheid Zakelijk met 'Welkom Robin Vogel' en het blok 'Recente berichten'. Een pijl leidt naar het overzicht van de Berichtenbox. Een tweede pijl leidt naar het bericht 'Aangifte vennootschapsbelasting 2025 beschikbaar' met een blok 'Wat kunt u doen?' en de knoppen 'Aangifte doen' en 'Uitstel aanvragen'. Daaronder staan twee bijlagen en de knoppen Markeren, Delen, Archiveren en Verwijderen.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/logius-moza-berichtenbox-fase3__flow-3.png)
 
 #### Scenario 2: het bekijken van berichten op MijnBelastingdienst Zakelijk
 
 - De ondernemer logt in op de BerichtenBox van de Belastingdienst (MijnBelastingdienst Zakelijk).
 - De ondernemer bekijkt een bericht in de berichtenbox.
 
-![Screenshots van flow 4](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/logius-moza-berichtenbox-fase3__flow-4.png)
+![Overzicht van scenario 2 in het prototype. Links de startpagina van MijnBelastingdienst Zakelijk met een waarschuwing over een nieuw rekeningnummer en tegels voor Berichtenbox, Btw en Loonheffingen. Een pijl leidt naar de Berichtenbox van MijnBelastingdienst Zakelijk met een lijst berichten van de Belastingdienst. Daaronder is de melding uitvergroot die naar MijnOverheid Zakelijk verwijst: 'Hier ziet u de zakelijke berichten afkomstig van de Belastingdienst. Wilt u de berichten zien van alle overheidsorganisaties, ga dan naar de Berichtenbox van MijnOverheid Zakelijk.'](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/logius-moza-berichtenbox-fase3__flow-4.png)
 
 ## Contactinformatie
 
