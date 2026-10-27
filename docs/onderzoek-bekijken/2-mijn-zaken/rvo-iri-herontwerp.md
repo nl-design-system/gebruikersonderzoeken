@@ -416,4 +416,4 @@ Kort gezegd: **we kijken hoe echte mensen het product gebruiken en leren daarvan
 
 ## Documentatie
 
-[UX Onderzoek IRI – Herontwerp door Design Opdrachten](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/Eindrapport.herontwerp.IRI.21082025.pdf) (PDF, 9,7MB)
+[UX Onderzoek IRI – Herontwerp door Design Opdrachten](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rvo-herontwerp-IRI.pdf) (PDF, 9,7MB)
