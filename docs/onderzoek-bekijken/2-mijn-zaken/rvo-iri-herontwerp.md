@@ -117,7 +117,13 @@ Alle respondenten konden de taak 'UBN wisselen' zonder grote problemen uitvoeren
 
 ##### Schermen voor en na de test
 
-![Twee versies van de homepagina 'Mijn I&R' van I&R Dieren naast elkaar. Links de versie voor de test: bovenaan een gele melding over openstaande meldingen, daaronder 'Welkom, J. van Dijk', twee blokken 'Ik wil een nieuwe melding doen' en 'Ik wil iets raadplegen', de gegevens van het UBN met een keuzemenu, en een tabel met openstaande meldingen of maatregelen. Rechts de versie na de test: de gele melding is gemarkeerd met een rood kader en de link heet nu 'ga naar melding'. Het blok 'Gegevens UBN' met het keuzemenu 'Huidige UBN' staat nu boven de twee blokken voor melden en raadplegen; rode pijlen geven aan dat deze onderdelen van plek zijn gewisseld.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rvo-iri-herontwerp__mijn-ir-homepagina-voor-na.png)
+**Homepagina Mijn I&R – versie voor de test**
+
+![Prototype van de homepagina 'Mijn I&R' van I&R Dieren. Bovenaan een gele melding 'U heeft openstaande meldingen of maatregelen' met de link 'Naar meldingen'. Daaronder 'Welkom, J. van Dijk', de blokken 'Ik wil een nieuwe melding doen' en 'Ik wil iets raadplegen', het blok 'Gegevens UBN' met een keuzemenu voor het UBN, en een tabel 'Openstaande meldingen of maatregelen'.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rvo-iri-herontwerp__mijn-ir-homepagina-voor.png)
+
+**Homepagina Mijn I&R – versie na de test**
+
+![Prototype van de aangepaste homepagina 'Mijn I&R'. De gele melding over openstaande meldingen is met een rood kader gemarkeerd; de link heet nu 'ga naar melding'. Het blok 'Gegevens UBN' met het keuzemenu 'Huidige UBN' staat nu boven de blokken 'Ik wil een nieuwe melding doen' en 'Ik wil iets raadplegen'. Rode pijlen geven aan dat deze onderdelen van plek zijn gewisseld.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rvo-iri-herontwerp__mijn-ir-homepagina-na.png)
 
 #### Scenario 2: Ontbrekende melding
 
@@ -142,15 +148,45 @@ Gebruikers vinden het invoeren en wijzigen technisch eenvoudig, maar missen cruc
 
 ##### Schermen voor en na de test
 
-![Twee versies van de pagina 'Ontbrekende melding – Aanvoer Geit' naast elkaar. Links de versie voor de test met UBN, diersoort, type melding en een tabel met alleen landcode en levensnummer, en de knop 'Start melding'. Rechts de versie na de test: de introductietekst noemt nu het aantal ontbrekende meldingen (rood kader), er is een regel 'Aantal: 5' toegevoegd (rood cijfer 5), en de tabel toont nu ook werknummer, geboortedatum en aanvoerdatum met daaronder '5 geiten' (rode cijfers 2&3 en 5). De knop heet nu 'Start aanvoermelding'.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rvo-iri-herontwerp__ontbrekende-melding-voor-na.png)
+**Ontbrekende melding – versie voor de test**
 
-![Twee versies van stap 1 van de 'Aanvoermelding Geit' naast elkaar, met de velden aanvoerdatum, UBN herkomst, transportnummer, vervoerder, kenteken transportmiddel en tijdstip vertrek. Links staat 'Stap 1 van 3', rechts 'Stap 1 van 4'. In de versie na de test hebben de laatste vier velden de toevoeging '(niet verplicht)'; deze velden zijn met een rood kader en het rode cijfer 4 gemarkeerd.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rvo-iri-herontwerp__aanvoermelding-stap-1-voor-na.png)
+![Prototype van de pagina 'Ontbrekende melding – Aanvoer Geit' met de tekst dat er een melding Aanvoer Geit ontbreekt, de gegevens UBN, diersoort en type melding, een tabel met alleen landcode en levensnummer, en de knop 'Start melding'.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rvo-iri-herontwerp__ontbrekende-melding-voor.png)
 
-![Twee versies van stap 2 van de 'Aanvoermelding Geit' naast elkaar. Links 'Aangevoerde dieren' met een knop 'Kiezen uit stallijst', een tabel met landcode en levensnummer en per rij een link 'Wijzigen', en de knop 'Melding bevestigen'. Rechts 'Aan te voeren dieren': de tabel toont nu landcode, levensnummer, werknummer, geboortedatum en aanvoerdatum (rood kader), met een link 'Extra dier toevoegen uit stallijst' (rood kader) en de knop 'Volgende'.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rvo-iri-herontwerp__aanvoermelding-stap-2-voor-na.png)
+**Ontbrekende melding – versie na de test**
 
-![Links nogmaals stap 2 'Aangevoerde dieren' uit de versie voor de test. Rechts de nieuwe stap 3 van 4 'Controleer uw gegevens' uit de versie na de test, met een overzicht van de algemene gegevens en de aan te voeren dieren, elk met een link 'Wijzigen', en de knop 'Melding versturen' (rood kader).](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rvo-iri-herontwerp__aanvoermelding-controleren-voor-na.png)
+![Prototype van de aangepaste pagina 'Ontbrekende melding – Aanvoer Geit'. Gemarkeerd met rode kaders: de introductietekst noemt nu het aantal ontbrekende meldingen en zegt 'Hieronder ziet u om welke dieren het gaat'; er is een regel 'Aantal: 5' toegevoegd (rood cijfer 5); de tabel toont nu landcode, levensnummer, werknummer, geboortedatum en aanvoerdatum, met daaronder '5 geiten' (rode cijfers 2&3 en 5). De knop heet nu 'Start aanvoermelding'.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rvo-iri-herontwerp__ontbrekende-melding-na.png)
 
-![Twee versies van de bevestigingspagina van de 'Aanvoermelding Geit' naast elkaar. Links de groene melding 'Aanvoermelding Geit is bevestigd' met een lijst meldingnummers. Rechts de groene melding 'Aanvoermelding Geit is verstuurd' (rood kader) en een lijst van de dieren met werknummer, landcode en levensnummer in plaats van meldingnummers (rood kader, rood cijfer 6).](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rvo-iri-herontwerp__aanvoermelding-bevestiging-voor-na.png)
+**Aanvoermelding stap 1 – versie voor de test**
+
+![Prototype van stap 1 van 3 van de 'Aanvoermelding Geit', 'Algemene gegevens', met de velden aanvoerdatum, UBN herkomst (met de knop 'Kiezen uit recente herkomsten'), transportnummer, vervoerder, kenteken transportmiddel en tijdstip vertrek, en de knop 'Volgende'.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rvo-iri-herontwerp__aanvoermelding-stap-1-voor.png)
+
+**Aanvoermelding stap 1 – versie na de test**
+
+![Prototype van de aangepaste stap 1, nu 'Stap 1 van 4', met een korte introductietekst. De velden transportnummer, vervoerder, kenteken transportmiddel en tijdstip vertrek hebben de toevoeging '(niet verplicht)'; deze velden zijn gemarkeerd met een rood kader en het rode cijfer 4.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rvo-iri-herontwerp__aanvoermelding-stap-1-na.png)
+
+**Aanvoermelding stap 2 – versie voor de test**
+
+![Prototype van stap 2 van 3 van de 'Aanvoermelding Geit', 'Aangevoerde dieren', met de knop 'Kiezen uit stallijst', een tabel met landcode en levensnummer en per rij een link 'Wijzigen', een link 'Dier toevoegen' en de knop 'Melding bevestigen'.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rvo-iri-herontwerp__aanvoermelding-stap-2-voor.png)
+
+**Aanvoermelding stap 2 – versie na de test**
+
+![Prototype van de aangepaste stap 2 van 4, 'Aan te voeren dieren'. De tabel toont nu landcode, levensnummer, werknummer, geboortedatum en aanvoerdatum (rood kader). Daaronder staat de link 'Extra dier toevoegen uit stallijst' (rood kader) en de knop 'Volgende'.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rvo-iri-herontwerp__aanvoermelding-stap-2-na.png)
+
+**Aanvoermelding controleren – versie voor de test**
+
+![Prototype van stap 2 van 3 van de 'Aanvoermelding Geit', 'Aangevoerde dieren', met een tabel met landcode en levensnummer en de knop 'Melding bevestigen'. In de versie voor de test was dit de laatste stap voor het bevestigen.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rvo-iri-herontwerp__aanvoermelding-controleren-voor.png)
+
+**Aanvoermelding controleren – versie na de test**
+
+![Prototype van de nieuwe stap 3 van 4, 'Controleer uw gegevens', met een overzicht van de algemene gegevens (aanvoerdatum, UBN herkomst, transportnummer, vervoerder, kenteken en tijdstip vertrek) en een tabel met de aan te voeren dieren, elk met een link 'Wijzigen'. De knop 'Melding versturen' is met een rood kader gemarkeerd.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rvo-iri-herontwerp__aanvoermelding-controleren-na.png)
+
+**Aanvoermelding bevestiging – versie voor de test**
+
+![Prototype van de bevestigingspagina met de groene melding 'Aanvoermelding Geit is bevestigd' en de tekst 'De volgende meldingen zijn succesvol aangemaakt', gevolgd door een lijst met vijf meldingnummers en de knop 'Terug naar Meldingen'.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rvo-iri-herontwerp__aanvoermelding-bevestiging-voor.png)
+
+**Aanvoermelding bevestiging – versie na de test**
+
+![Prototype van de aangepaste bevestigingspagina met de groene melding 'Aanvoermelding Geit is verstuurd' (rood kader). Daaronder staat 'Voor de volgende 5 dieren is er succesvol een aanvoermelding gedaan' met een lijst van de dieren als werknummer, landcode en levensnummer in plaats van meldingnummers (rood kader, rood cijfer 6).](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rvo-iri-herontwerp__aanvoermelding-bevestiging-na.png)
 
 #### Scenario 3: Gegevens aanpassen
 
@@ -184,9 +220,21 @@ De foutmelding wordt door alle respondenten als **duidelijk en effectief** ervar
 
 ##### Schermen voor en na de test
 
-![Twee versies van de pagina 'Mijn gegevens' naast elkaar, met de gegevens van de houder, een overzicht van UBN's met de tabbladen 'Actieve UBN' en 'Niet actieve UBN', en een blok 'Nieuw UBN registreren'. In de versie na de test heet het label 'Relatienummer / BRS' (rood kader, rood cijfer 2), zijn de tabbladen duidelijker gemarkeerd (rood kader) en legt de tekst bij 'Nieuw UBN registreren' uit dat je een oud UBN kunt heractiveren via het tabblad 'Niet actieve UBN' (rood cijfer 4).](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rvo-iri-herontwerp__mijn-gegevens-voor-na.png)
+**Mijn gegevens – versie voor de test**
 
-![Twee versies van de pagina 'UBN 9726 wijzigen' naast elkaar, met de gegevens van het UBN en een lijst diersoorten met per diersoort een selectievakje en een keuzemenu voor het productiedoel. In de versie na de test zijn de keuzemenu's voor het productiedoel met een rood kader gemarkeerd.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rvo-iri-herontwerp__ubn-wijzigen-voor-na.png)
+![Prototype van de pagina 'Mijn gegevens' met de gegevens van de houder (onder andere relatienummer, naam en adres), een overzicht van UBN's met de tabbladen 'Actieve UBN' en 'Niet actieve UBN', en een blok 'Nieuw UBN registreren' met de gelijknamige knop.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rvo-iri-herontwerp__mijn-gegevens-voor.png)
+
+**Mijn gegevens – versie na de test**
+
+![Prototype van de aangepaste pagina 'Mijn gegevens'. Het label heet nu 'Relatienummer / BRS' (rood kader, rood cijfer 2), de tabbladen 'Actieve UBN' en 'Niet actieve UBN' zijn met een rood kader gemarkeerd, en de tekst bij 'Nieuw UBN registreren' legt uit dat je een oud UBN kunt heractiveren via het tabblad 'Niet actieve UBN' (rood cijfer 4).](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rvo-iri-herontwerp__mijn-gegevens-na.png)
+
+**UBN wijzigen – versie voor de test**
+
+![Prototype van de pagina 'UBN 9726 wijzigen' met de gegevens van het UBN en een lijst diersoorten, elk met een selectievakje en een keuzemenu voor het productiedoel. Rund, schaap en geit zijn aangevinkt.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rvo-iri-herontwerp__ubn-wijzigen-voor.png)
+
+**UBN wijzigen – versie na de test**
+
+![Prototype van de aangepaste pagina 'UBN 9726 wijzigen'. Het label heet nu 'Relatienummer / BRS'. De keuzemenu's voor het productiedoel bij alle diersoorten zijn met een rood kader gemarkeerd.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rvo-iri-herontwerp__ubn-wijzigen-na.png)
 
 ![Overzicht van verschillende meldingen en alerts in I&R Dieren, gemarkeerd met het rode cijfer 6: een groene succesmelding 'UBN 2391 is succesvol geactiveerd.', een rode foutsamenvatting 'Verbeter de fout voor u verder gaat' met de link 'Selecteer een productiedoel', een foutmelding bij het invoerveld voor schaap 'Selecteer een productiedoel', en een bevestigingsvenster 'Wijziging opslaan' met de knoppen 'Ja, wijzigingen opslaan' en 'Annuleren'.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rvo-iri-herontwerp__meldingen-en-alerts.png)
 
@@ -224,13 +272,37 @@ De meeste gebruikers **vinden de basisfunctionaliteit logisch en werkbaar**: het
 
 ![Prototype van de pagina 'Nieuwe melding' in I&R Dieren met de keuzemenu's 'UBN', 'Diersoort' (Geit) en 'Type melding' (Geboorte) en de knop 'Start nieuwe melding'.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rvo-iri-herontwerp__nieuwe-melding.png)
 
-![Twee versies van stap 1 van de 'Geboortemelding Geit', 'Oormerk kiezen', naast elkaar, met een zoekveld 'Zoeken op levensnummer of werknummer' en een tabel met vrije oormerken. In de versie na de test zijn het zoekveld (rood cijfer 4) en de sorteerbare kolom 'Werknummer' (rood kader, rood cijfer 6) gemarkeerd, en is de paginering vereenvoudigd (rood kader).](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rvo-iri-herontwerp__geboortemelding-oormerk-kiezen-voor-na.png)
+**Geboortemelding stap 1: oormerk kiezen – versie voor de test**
 
-![Twee versies van stap 2 van de 'Geboortemelding Geit' naast elkaar. Links 'Overige gegevens' met een knop 'Oormerk toevoegen' en per dier een veld 'Geboortedatum' en een keuzemenu voor geslacht. Rechts 'Geboorte gegevens' zonder de knop 'Oormerk toevoegen'; het datumveld toont nu het formaat 'dd-mm-jjjj' met een kalendericoon (rood kader, rood cijfer 7).](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rvo-iri-herontwerp__geboortemelding-geboortegegevens-voor-na.png)
+![Prototype van stap 1 van 4 van de 'Geboortemelding Geit', 'Oormerk kiezen', met een zoekveld 'Zoeken op levensnummer of werknummer' en een tip, een tabel met vrije oormerken (landcode, levensnummer, werknummer en omschrijving type) met selectievakjes, en paginering met 'Toon items 10, 25, 50, 100'.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rvo-iri-herontwerp__geboortemelding-oormerk-kiezen-voor.png)
 
-![Twee versies van stap 3 van de 'Geboortemelding Geit' naast elkaar. Links 'Overzicht' met een tabel van de ingevoerde dieren en de knop 'Meldingen bevestigen'. Rechts 'Controleer uw gegevens' met de onderdelen 'Nieuwe melding', 'Oormerk kiezen' en 'Geboorte gegevens', elk met een link 'Wijzigen', en de knop 'Meldingen versturen' (rood kader).](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rvo-iri-herontwerp__geboortemelding-controleren-voor-na.png)
+**Geboortemelding stap 1: oormerk kiezen – versie na de test**
 
-![Twee versies van de bevestigingspagina van de 'Geboortemelding Geit' naast elkaar. Links de groene melding 'Er zijn 3 geboortemeldingen Geit bevestigd' met een lijst meldingnummers. Rechts de groene melding '3 geboorte meldingen zijn verstuurd' (rood kader) en een lijst van de dieren met werknummer, landcode en levensnummer (rood kader, rood cijfer 7).](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rvo-iri-herontwerp__geboortemelding-bevestiging-voor-na.png)
+![Prototype van de aangepaste stap 1 'Oormerk kiezen'. Het zoekveld is gemarkeerd met het rode cijfer 4 en de sorteerbare kolom 'Werknummer' met een rood kader en het rode cijfer 6. De paginering is vereenvoudigd tot paginanummers en 'Volgende' (rood kader).](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rvo-iri-herontwerp__geboortemelding-oormerk-kiezen-na.png)
+
+**Geboortemelding stap 2: geboortegegevens – versie voor de test**
+
+![Prototype van stap 2 van 4 van de 'Geboortemelding Geit', 'Overige gegevens', met een knop 'Oormerk toevoegen' en een tabel waarin per dier een veld 'Geboortedatum' en een keuzemenu 'Maak een keuze' voor het geslacht staan.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rvo-iri-herontwerp__geboortemelding-geboortegegevens-voor.png)
+
+**Geboortemelding stap 2: geboortegegevens – versie na de test**
+
+![Prototype van de aangepaste stap 2, nu 'Geboorte gegevens', zonder de knop 'Oormerk toevoegen'. Het datumveld toont het formaat 'dd-mm-jjjj' met een kalendericoon (rood kader, rood cijfer 7).](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rvo-iri-herontwerp__geboortemelding-geboortegegevens-na.png)
+
+**Geboortemelding controleren – versie voor de test**
+
+![Prototype van stap 3 van 4 van de 'Geboortemelding Geit', 'Overzicht', met een tabel van de ingevoerde dieren (landcode, levensnummer, werknummer, geboortedatum en geslacht), per rij een link 'Wijzigen', en de knop 'Meldingen bevestigen'.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rvo-iri-herontwerp__geboortemelding-controleren-voor.png)
+
+**Geboortemelding controleren – versie na de test**
+
+![Prototype van de aangepaste stap 3, 'Controleer uw gegevens', met de onderdelen 'Nieuwe melding' (UBN, diersoort en type melding), 'Oormerk kiezen' en 'Geboorte gegevens', elk met een link 'Wijzigen'. De knop 'Meldingen versturen' is met een rood kader gemarkeerd.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rvo-iri-herontwerp__geboortemelding-controleren-na.png)
+
+**Geboortemelding bevestiging – versie voor de test**
+
+![Prototype van de bevestigingspagina met de groene melding 'Er zijn 3 geboortemeldingen Geit bevestigd' en de tekst 'De volgende meldingen zijn succesvol aangemaakt', gevolgd door drie meldingnummers en de knop 'Terug naar Meldingen'.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rvo-iri-herontwerp__geboortemelding-bevestiging-voor.png)
+
+**Geboortemelding bevestiging – versie na de test**
+
+![Prototype van de aangepaste bevestigingspagina met de groene melding '3 geboorte meldingen zijn verstuurd' (rood kader) en een lijst van de dieren als werknummer, landcode en levensnummer in plaats van meldingnummers (rood kader, rood cijfer 7).](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rvo-iri-herontwerp__geboortemelding-bevestiging-na.png)
 
 #### Scenario 5: Stallijst
 
@@ -265,7 +337,13 @@ Vrijwel alle respondenten wisten hoe ze de lijst konden terugvinden en downloade
 
 ![Prototype van de pagina 'Raadplegen' in I&R Dieren met de tekst 'Hier kunt u gegevens raadplegen per UBN.' en de keuzemenu's 'UBN' en 'Overzicht' ('Selecteer een overzicht').](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rvo-iri-herontwerp__raadplegen.png)
 
-![Twee versies van de stallijst op de pagina 'Raadplegen' naast elkaar, met een tabel van dieren met levensnummer, diersoort, werk-/chipnummer, geboortedatum en haarkleur, en de knop 'Overzicht downloaden'. In de versie na de test zijn toegevoegd: een keuzemenu 'Diersoort' met 'Alle dieren op dit UBN' (rood kader, rood cijfer 4), een zoekveld 'Zoek een dier op levensnummer of werknummer' (rood kader) en een duidelijkere knop 'Filter' (rood kader, rood cijfer 3). Ook de paginering is vereenvoudigd (rood kader).](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rvo-iri-herontwerp__raadplegen-stallijst-voor-na.png)
+**Stallijst – versie voor de test**
+
+![Prototype van de pagina 'Raadplegen' met de stallijst van een UBN: een kleine filterknop rechtsboven, een tabel van dieren met levensnummer, diersoort, werk-/chipnummer, geboortedatum en haarkleur, paginering met 'Toon items' en de knop 'Overzicht downloaden'.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rvo-iri-herontwerp__raadplegen-stallijst-voor.png)
+
+**Stallijst – versie na de test**
+
+![Prototype van de aangepaste stallijst. Toegevoegd zijn een keuzemenu 'Diersoort' met 'Alle dieren op dit UBN' (rood kader, rood cijfer 4), een zoekveld 'Zoek een dier op levensnummer of werknummer' (rood kader) en een duidelijkere knop 'Filter' (rood kader, rood cijfer 3). De paginering is vereenvoudigd (rood kader).](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rvo-iri-herontwerp__raadplegen-stallijst-na.png)
 
 ![Prototype van de pagina 'Gegevens per dier' met de link 'Vorige' (rood cijfer 5) en de onderdelen 'Diergegevens' (landcode en levensnummer, werknummer, geboortedatum, geslacht), 'Verblijfplaatsen' (UBN, productiedoel, adres, aanvoerdatum) en 'Meldingen' met een tabel van meldingtype, meldingnummer, datum en status.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rvo-iri-herontwerp__gegevens-per-dier.png)
 
