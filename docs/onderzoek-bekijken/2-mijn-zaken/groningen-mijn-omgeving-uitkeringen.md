@@ -193,7 +193,7 @@ Inwoners werd een scenario voorgelegd waarin hen werd gevraagd een maand- en jaa
 
 ![Desktopscherm van 'Mijn Uitkeringen' met de tab 'Jaaropgaven' actief, de introductietekst 'Ontvang je een uitkering van de gemeente? Dan vind je hier de laatste versie van jouw uitkeringsspecificaties en jaaropgaven. Je kunt ze eenvoudig downloaden, tot vijf jaar terug.', het keuzemenu 'Toon uitkeringsspecificatie' met 2025 en de knop 'Download'.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/groningen-mijn-uitkeringen__large-jaar.png)
 
-![Desktopscherm van 'Mijn Uitkeringen' met de tab 'Jaaropgaven' actief. Het keuzemenu 'Toon uitkeringsspecificatie' is geopend en klapt naar beneden uit, met de jaren 2025 tot en met 2021; 2025 is geselecteerd.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/groningen-mijn-uitkeringen__large-maand-select.png)
+![Desktopscherm van 'Mijn Uitkeringen' met de tab 'Jaaropgaven' actief. Het keuzemenu 'Toon uitkeringsspecificatie' is geopend en klapt naar beneden uit, met de jaren 2025 tot en met 2021; 2025 is geselecteerd.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/groningen-mijn-uitkeringen__large-jaar-select.png)
 
 ![Hetzelfde desktopscherm van 'Mijn Uitkeringen' met de tab 'Jaaropgaven', nu met rechtsboven het venster 'Recente download geschiedenis' van de browser, waarin het bestand 'jaarspecificatie2025.pdf' (585 kB, klaar) staat.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/groningen-mijn-uitkeringen__large-jaar-download.png)
 
