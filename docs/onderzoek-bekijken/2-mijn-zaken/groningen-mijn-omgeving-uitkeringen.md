@@ -80,7 +80,7 @@ De volgende adviezen zijn opgesteld naar aanleiding van het onderzoek:
 - De opzet voor tabs voor het wisselen tussen maand- en jaarspecificaties behouden.
 - Een automatische selectie aanbevelen en dubbelklik bij selectie vermijden.
 - Wachttijd van het downloaden en openen van bestanden moet kort zijn.
-- Bekijken of er mogelijkheden zijn om standaard een uitklapmenu naar boven te openen op desktop.
+- Bekijken of er mogelijkheden zijn om standaard een uitklapmenu naar onder te openen op desktop.
 - Mogelijk maken om toelichting toe te voegen aan de digitale specificaties.
 - Mogelijkheden bekijken om specificaties te verbeteren op basis van wat inwoners prettig vinden.
 
