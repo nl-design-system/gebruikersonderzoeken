@@ -40,7 +40,7 @@ themes:
 conducted_by:
   - Logius (Team UX Research)
 client:
-  - Ministerie van Binnenlandse Zaken en Koninkrijksrelaties (BZK), MOZa
+  - Ministerie van Binnenlandse Zaken en Koninkrijksrelaties (BZK), MijnOverheid Zakelijk (MOZa)
 target_group: Burgers en startende ondernemers (ZZP’ers/klein MKB’ers)
 type: kwalitatief onderzoek, usability test, guerrillatest
 date_added: '2026-10-23'
@@ -119,4 +119,4 @@ De respondenten kregen verschillende scenario’s voorgelegd, zoals inloggen via
 ## Documentatie
 
 - Onderzoeksrapport: [Gebruikersonderzoek inloggen MijnOverheid Zakelijk (MOZa) – fase 3](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/Rapportage.gebruikersonderzoek.inloggen_V1.pdf) (PDF, 1,2MB)
-- Eerder onderzoek: [Gebruikersonderzoek prototype fase 2 MijnOverheid Zakelijk (MOZa)](./logius-moza-prototype-fase2.md)
+- Eerder onderzoek: [Gebruikersonderzoek prototype fase 2 MijnOverheid Zakelijk (MOZa)](./logius-mijnoverheid-zakelijk.md)
