@@ -92,4 +92,4 @@ Logius UX Research team - Uitvoerder onderzoek - [ux@logius.nl](mailto:ux@logius
 
 ## Documentatie
 
-[Rapportage gebruikersonderzoek prototype fase 2 MijnOverheid Zakelijk (MOZa)](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/Rapportage.gebruikersonderzoek.inloggen_V1.pdf) (PDF, 3,4MB)
+[Rapportage gebruikersonderzoek prototype fase 2 MijnOverheid Zakelijk (MOZa)](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/Rapportage.gebruikersonderzoek.inloggen_V1.pdf) (PDF, 1,2MB)
