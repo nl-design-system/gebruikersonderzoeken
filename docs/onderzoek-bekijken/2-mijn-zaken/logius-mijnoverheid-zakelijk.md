@@ -60,6 +60,10 @@ Het onderzoek had als doel om te achterhalen:
 
 ![Prototype van de volledige ingelogde homepagina van MijnOverheid Zakelijk, met achtereenvolgens Actualiteiten (Berichten over uw buurt, Subsidies en financiering, Wetten en regelgeving), een blok Bedrijfsgegevens van Bloom B.V. en Veelgestelde vragen](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/logius-moza-prototype-fase2__homepagina-volledig.png)
 
+**Doorkijkjes**
+
+![Prototype van het doorkijkje Berichtenbox in MijnOverheid Zakelijk. In het menu staan onder 'Binnenkort beschikbaar' Berichtenbox (najaar 2026), Lopende zaken (juni 2027), Belastingen (januari 2028), Zakelijk vervoer (medio 2028) en Ziekte en verlof (medio 2029). De pagina toont een introductievideo, 'Wat kunt u zoal verwachten?' en veelgestelde vragen](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/logius-moza-prototype-fase2__doorkijkje-berichtenbox.png)
+
 ## Advies
 
 Op basis van het onderzoek worden de volgende aanbevelingen gedaan:
