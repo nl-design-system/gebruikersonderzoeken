@@ -117,7 +117,7 @@ De respondenten kregen verschillende scenario’s voorgelegd, zoals inloggen via
 ## Documentatie
 
 - Onderzoeksrapport: [Gebruikersonderzoek inloggen - MijnOverheid Zakelijk (MOZa) – fase 3](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/Rapportage.gebruikersonderzoek.inloggen_V1.pdf) (PDF, 1,2MB)
-- Eerder onderzoek: [Onderzoek MijnOverheid Zakelijk - Prototype](/docs/onderzoek-bekijken/mijn-zaken/logius-mijnoverheid-zakelijk-propotype)
+- Eerder onderzoek: [Onderzoek MijnOverheid Zakelijk - MVP](/docs/onderzoek-bekijken/mijn-zaken/logius-mijnoverheid-zakelijk-mvp)
 
 ## Overige links
 
