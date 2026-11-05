@@ -5,7 +5,7 @@ hide_table_of_contents: false
 sidebar_label: Gebruikersonderzoek Berichtenbox MijnOverheid Zakelijk (MOZa) – fase 3
 pagination_label: Gebruikersonderzoek Berichtenbox MijnOverheid Zakelijk (MOZa) – fase 3
 description: Dit onderzoek onderzoekt hoe ondernemers de **MijnOverheid Zakelijk (MOZa) Berichtenbox** ervaren. Het richt zich op het inlogproces, het openen van berichten en het switchen tussen berichtenboxen van verschillende overheidsorganisaties. De resultaten geven inzicht in verbeterpunten voor een betere gebruikerservaring.
-summary: Ondernemers ervaren de **MOZa Berichtenbox** als een waardevolle verbetering voor het ontvangen en beheren van berichten van de overheid. Ze zien MOZa als een centrale plek voor al hun zakelijke correspondentie, mits berichten gesynchroniseerd worden tussen verschillende portalen. Het onderzoek toont aan dat het directe tonen van PDF’s in berichten en de mogelijkheid om acties direct uit te voeren als handig worden ervaren, maar dat er ook aandachtspunten zijn, zoals de zichtbaarheid van vertrouwelijke informatie en de behoefte aan context over urgentie.
+summary: Ondernemers ervaren de MOZa Berichtenbox als een waardevolle verbetering voor het ontvangen en beheren van berichten van de overheid. Ze zien MOZa als een centrale plek voor al hun zakelijke correspondentie, mits berichten gesynchroniseerd worden tussen verschillende portalen. Het onderzoek toont aan dat het directe tonen van PDF’s in berichten en de mogelijkheid om acties direct uit te voeren als handig worden ervaren, maar dat er ook aandachtspunten zijn, zoals de zichtbaarheid van vertrouwelijke informatie en de behoefte aan context over urgentie.
 keywords:
   - MijnOverheid Zakelijk
   - MOZa
@@ -105,7 +105,7 @@ Twee scenario’s werden getest:
 
 ![Prototype van een zakelijke mailbox met de notificatie-e-mail van MijnOverheid Zakelijk 'Herinnering: Er staat een bericht voor u klaar in uw zakelijke berichtenbox', verstuurd vanaf geen-antwoord@mijnoverheidzakelijk.nl. In de rapportage is de afzendernaam omcirkeld.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/logius-moza-berichtenbox-fase3__notificatiemail.png)
 
-**Scenario 1:** Bekijken van berichten bij de Belastingdienst(inloggen op MijnBelastingdienst Zakelijk, bericht bekijken).
+**Scenario 2:** Bekijken van berichten bij de Belastingdienst(inloggen op MijnBelastingdienst Zakelijk, bericht bekijken).
 
 ![Overzicht van scenario 2 in het prototype. Links de startpagina van MijnBelastingdienst Zakelijk met een waarschuwing over een nieuw rekeningnummer en tegels voor Berichtenbox, Btw en Loonheffingen. Een pijl leidt naar de Berichtenbox van MijnBelastingdienst Zakelijk met een lijst berichten van de Belastingdienst. Daaronder is de melding uitvergroot die naar MijnOverheid Zakelijk verwijst: 'Hier ziet u de zakelijke berichten afkomstig van de Belastingdienst. Wilt u de berichten zien van alle overheidsorganisaties, ga dan naar de Berichtenbox van MijnOverheid Zakelijk.'](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/logius-moza-berichtenbox-fase3__flow-4.png)
 
@@ -127,7 +127,6 @@ Er werden twee varianten van de Berichtenbox getest:
 
 ## Documentatie
 
-- Onderzoeksrapport: [Rapportage.gebruikersonderzoek.inloggen_V1](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/Rapportage.gebruikersonderzoek.MOZa.Berichtenbox.-.definitief.pdf) (PDF, 2,2MB)
-- 'Ontwerpend onderzoek reactiemogelijkheden' (maart 2024)
-- Eerder onderzoek: [Gebruikersonderzoek inloggen MijnOverheid Zakelijk (MOZa) – fase 3](./logius-mijnoverheid-zakelijk-inloggen.md)
-- Eerder onderzoek: [Gebruikersonderzoek prototype fase 2 MijnOverheid Zakelijk (MOZa)](./logius-mijnoverheid-zakelijk.md)
+- Onderzoeksrapport: [Rapportage gebruikersonderzoek MOZa Berichtenbox - definitief](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/Rapportage.gebruikersonderzoek.MOZa.Berichtenbox.-.definitief.pdf) (PDF, 2,2MB)
+- Eerder onderzoek: [Gebruikersonderzoek inloggen MijnOverheid Zakelijk (MOZa) – fase 3](logius-mijnoverheid-zakelijk-inloggen.md)
+- Eerder onderzoek: [Gebruikersonderzoek prototype fase 2 MijnOverheid Zakelijk (MOZa)](logius-mijnoverheid-zakelijk.md)
