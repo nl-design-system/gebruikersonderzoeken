@@ -1,10 +1,10 @@
 ---
-title: Gebruikersonderzoek Berichtenbox MijnOverheid Zakelijk (MOZa) – fase 3
+title: Onderzoek MijnOverheid Zakelijk - Berichtenbox
 hide_title: true
 hide_table_of_contents: false
-sidebar_label: Gebruikersonderzoek Berichtenbox MijnOverheid Zakelijk (MOZa) – fase 3
-pagination_label: Gebruikersonderzoek Berichtenbox MijnOverheid Zakelijk (MOZa) – fase 3
-description: Dit onderzoek onderzoekt hoe ondernemers de MijnOverheid Zakelijk (MOZa) Berichtenbox ervaren. Het richt zich op het inlogproces, het openen van berichten en het switchen tussen berichtenboxen van verschillende overheidsorganisaties. De resultaten geven inzicht in verbeterpunten voor een betere gebruikerservaring.
+sidebar_label: Onderzoek MijnOverheid Zakelijk - Berichtenbox
+pagination_label: Onderzoek MijnOverheid Zakelijk - Berichtenbox
+description: Dit onderzoek onderzoekt hoe ondernemers de MijnOverheid Zakelijk Berichtenbox ervaren. Het richt zich op het inlogproces, het openen van berichten en het switchen tussen berichtenboxen van verschillende overheidsorganisaties. De resultaten geven inzicht in verbeterpunten voor een betere gebruikerservaring. Dit is onderdeel van fase 3 rondom de onderzoeken van MijnOverheid Zakelijk (MOZa).
 summary: Ondernemers ervaren de MOZa Berichtenbox als een waardevolle verbetering voor het ontvangen en beheren van berichten van de overheid. Ze zien MOZa als een centrale plek voor al hun zakelijke correspondentie, mits berichten gesynchroniseerd worden tussen verschillende portalen. Het onderzoek toont aan dat het directe tonen van PDF’s in berichten en de mogelijkheid om acties direct uit te voeren als handig worden ervaren, maar dat er ook aandachtspunten zijn, zoals de zichtbaarheid van vertrouwelijke informatie en de behoefte aan context over urgentie.
 keywords:
   - MijnOverheid Zakelijk
@@ -51,7 +51,7 @@ date_conducted: '2026-07-14'
 
 <!-- @license CC0-1.0 -->
 
-# Gebruikersonderzoek Berichtenbox MijnOverheid Zakelijk (MOZa) – fase 3
+# Onderzoek MijnOverheid Zakelijk - Berichtenbox
 
 ## Doel van het onderzoek
 
@@ -127,6 +127,10 @@ Er werden twee varianten van de Berichtenbox getest:
 
 ## Documentatie
 
-- Onderzoeksrapport: [Rapportage gebruikersonderzoek MOZa Berichtenbox - definitief](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/Rapportage.gebruikersonderzoek.MOZa.Berichtenbox.-.definitief.pdf) (PDF, 2,2MB)
-- Eerder onderzoek: [Gebruikersonderzoek inloggen MijnOverheid Zakelijk (MOZa) – fase 3](logius-mijnoverheid-zakelijk-inloggen.md)
-- Eerder onderzoek: [Gebruikersonderzoek prototype fase 2 MijnOverheid Zakelijk (MOZa)](logius-mijnoverheid-zakelijk.md)
+- Onderzoeksrapport: [Gebruikersonderzoek Berichtenbox - MijnOverheid Zakelijk (MOZa) fase 3](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/Rapportage.gebruikersonderzoek.MOZa.Berichtenbox.-.definitief.pdf) (PDF, 2,2MB)
+- Eerder onderzoek: [Onderzoek MijnOverheid Zakelijk - Inloggen](/docs/onderzoek-bekijken/mijn-zaken/logius-mijnoverheid-zakelijk-inloggen)
+- Eerder onderzoek: [Onderzoek MijnOverheid Zakelijk - Prototype](/docs/onderzoek-bekijken/mijn-zaken/logius-mijnoverheid-zakelijk-propotype)
+
+## Overige links
+
+[MijnOverheid Zakelijk: Makkelijk zakendoen met de overheid](https://mijnoverheidzakelijk.nl/)
