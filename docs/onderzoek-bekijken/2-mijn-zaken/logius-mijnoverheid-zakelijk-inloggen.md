@@ -49,7 +49,7 @@ date_conducted: '2026-06-16'
 
 <!-- @license CC0-1.0 -->
 
-# Gebruikersonderzoek inloggen MijnOverheid Zakelijk (MOZa) – fase 3
+# Onderzoek MijnOverheid Zakelijk - Inloggen
 
 ## Doel van het onderzoek
 
