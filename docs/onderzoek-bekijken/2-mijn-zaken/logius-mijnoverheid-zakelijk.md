@@ -1,9 +1,9 @@
 ---
-title: Onderzoek MijnOverheid Zakelijk - Prototype
+title: Onderzoek MijnOverheid Zakelijk - MVP
 hide_title: true
 hide_table_of_contents: false
-sidebar_label: Onderzoek MijnOverheid Zakelijk - Prototype
-pagination_label: Onderzoek MijnOverheid Zakelijk - Prototype
+sidebar_label: Onderzoek MijnOverheid Zakelijk - MVP
+pagination_label: Onderzoek MijnOverheid Zakelijk - MVP
 description: Dit onderzoek toetst het Minimum Viable Product (MVP) van MijnOverheid Zakelijk (MOZa) bij ondernemers. Het doel is om te achterhalen of het huidige prototype voldoende waarde biedt en welke verbeterpunten er zijn. Dit is onderdeel van fase 2 rondom de onderzoeken van MijnOverheid Zakelijk (MOZa).
 summary: Het MVP van MOZa biedt ondernemers momenteel beperkte meerwaarde, omdat belangrijke functionaliteiten zoals een Berichtenbox en Lopende Zaken ontbreken. Ondernemers willen vooral een overzicht van taken en de mogelijkheid om direct actie te ondernemen.
 keywords:
@@ -44,7 +44,7 @@ date_conducted: '2026-03-06'
 
 <!-- @license CC0-1.0 -->
 
-# Onderzoek MijnOverheid Zakelijk - Prototype
+# Onderzoek MijnOverheid Zakelijk - MVP
 
 ## Doel van het onderzoek
 
@@ -98,7 +98,7 @@ Logius UX Research team - Uitvoerder onderzoek - [ux@logius.nl](mailto:ux@logius
 
 ## Documentatie
 
-- Onderzoeksrapport: [Gebruikersonderzoek prototype fase 2 - MijnOverheid Zakelijk (MOZa)](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/Rapportage.gebruikersonderzoek.MVP.V1.pdf) (PDF, 1,2MB)
+- Onderzoeksrapport: [Gebruikersonderzoek MijnOverheid Zakelijk - MVP](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/Rapportage.gebruikersonderzoek.MijnOverheid.Zakelijk.MVP.pdf) (PDF, 1,2MB)
 
 ## Overige links
 
