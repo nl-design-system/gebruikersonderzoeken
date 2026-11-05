@@ -1,10 +1,10 @@
 ---
-title: Gebruikersonderzoek inloggen MijnOverheid Zakelijk (MOZa) – fase 3
+title: Onderzoek MijnOverheid Zakelijk - Inloggen
 hide_title: true
 hide_table_of_contents: false
-sidebar_label: Gebruikersonderzoek inloggen MijnOverheid Zakelijk (MOZa) – fase 3
-pagination_label: Gebruikersonderzoek inloggen MijnOverheid Zakelijk (MOZa) – fase 3
-description: Dit onderzoek onderzoekt hoe burgers en ondernemers het inlogproces ervaren voor MijnOverheid en MijnOverheid Zakelijk (MOZa). Het doel is om knelpunten in het uniform inlogproces te identificeren en de gebruikerservaring te verbeteren.
+sidebar_label: Onderzoek MijnOverheid Zakelijk - Inloggen
+pagination_label: Onderzoek MijnOverheid Zakelijk - Inloggen
+description: Dit onderzoek onderzoekt hoe burgers en ondernemers het inlogproces ervaren voor MijnOverheid en MijnOverheid Zakelijk (MOZa). Het doel is om knelpunten in het uniform inlogproces te identificeren en de gebruikerservaring te verbeteren. Dit is onderdeel van fase 3 rondom de onderzoeken van MijnOverheid Zakelijk (MOZa).
 summary: Uit het onderzoek blijkt dat burgers en ondernemers over het algemeen goed kunnen inloggen op MijnOverheid en MijnOverheid Zakelijk, maar dat er verbeterpunten zijn, zoals de zichtbaarheid van inlogknoppen en de consistentie in ontwerp. Ook is er aandacht nodig voor anderstaligen en de bekendheid van websites zoals overheid.nl en ondernemersplein.nl.
 keywords:
   - inloggen
@@ -93,7 +93,7 @@ Het onderzoek had als doel om inzicht te krijgen in hoe gebruikers met verschill
 
 - Ondernemers ervaren het als positief om met DigiD in te loggen voor MOZa, omdat ze hier al mee bekend zijn.
 - De startpagina mijnoverheidzakelijk.nl voelt logisch als startpunt voor ondernemers.
-- De anonieme MOZa-pagina wordt als informatief ervaren, maar de meeste ondernemers kennen Ondernemersplein.nl en Overheid.nl niet.
+- De anonieme MOZa-pagina wordt als informatief ervaren, maar de meeste startende ondernemers kennen Ondernemersplein.nl en Overheid.nl niet.
 - Ondernemers willen consistente inlogknoppen voor MOZa op verschillende plekken, omdat dit betrouwbaarder overkomt.
 - Er dient rekening te worden gehouden met anderstalige ondernemers, omdat MOZa momenteel onvoldoende toegankelijk is voor deze groep.
 
@@ -116,5 +116,9 @@ De respondenten kregen verschillende scenario’s voorgelegd, zoals inloggen via
 
 ## Documentatie
 
-- Onderzoeksrapport: [Gebruikersonderzoek inloggen MijnOverheid Zakelijk (MOZa) – fase 3](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/Rapportage.gebruikersonderzoek.inloggen_V1.pdf) (PDF, 1,2MB)
-- Eerder onderzoek: [Gebruikersonderzoek prototype fase 2 MijnOverheid Zakelijk (MOZa)](logius-mijnoverheid-zakelijk.md)
+- Onderzoeksrapport: [Gebruikersonderzoek inloggen - MijnOverheid Zakelijk (MOZa) – fase 3](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/Rapportage.gebruikersonderzoek.inloggen_V1.pdf) (PDF, 1,2MB)
+- Eerder onderzoek: [Onderzoek MijnOverheid Zakelijk - Prototype](/docs/onderzoek-bekijken/mijn-zaken/logius-mijnoverheid-zakelijk-propotype)
+
+## Overige links
+
+[MijnOverheid Zakelijk: Makkelijk zakendoen met de overheid](https://mijnoverheidzakelijk.nl/)
