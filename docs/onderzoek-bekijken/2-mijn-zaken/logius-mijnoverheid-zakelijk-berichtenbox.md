@@ -44,7 +44,7 @@ conducted_by:
 client:
   - Ministerie van Binnenlandse Zaken en Koninkrijksrelaties (BZK), MijnOverheid Zakelijk (MOZa)
 target_group: Ondernemers, waaronder **ZZP’ers en kleine MKB-ondernemers** (maximaal 10 werknemers) uit verschillende sectoren, zoals detailhandel, horeca, bouw, zorg en zakelijke dienstverlening. Alle respondenten regelen zelf hun zakelijke contacten met de overheid.
-type: kwalitatief onderzoek, usability test, guerrillatest
+type: kwalitatief onderzoek, usability test
 date_added: '2026-10-23'
 date_conducted: '2026-07-14'
 ---
