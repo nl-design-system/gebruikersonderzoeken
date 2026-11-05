@@ -35,7 +35,7 @@ themes:
 conducted_by:
   - Logius (Team UX Research)
 client:
-  - BZK / MijnOverheid Zakelijk (MOZa)
+  - Ministerie van Binnenlandse Zaken en Koninkrijksrelaties (BZK), MijnOverheid Zakelijk (MOZa)
 target_group: ZZP’ers en MKB-ondernemers (tot 10 medewerkers)
 type: kwalitatief onderzoek, usability test, online interviews
 date_added: '2026-10-21'
