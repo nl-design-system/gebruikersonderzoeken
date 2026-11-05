@@ -1,10 +1,10 @@
 ---
-title: Gebruikersonderzoek prototype fase 2 MijnOverheid Zakelijk (MOZa)
+title: Onderzoek MijnOverheid Zakelijk - Prototype
 hide_title: true
 hide_table_of_contents: false
-sidebar_label: Gebruikersonderzoek prototype fase 2 MijnOverheid Zakelijk (MOZa)
-pagination_label: Gebruikersonderzoek prototype fase 2 MijnOverheid Zakelijk (MOZa)
-description: Dit onderzoek toetst het Minimum Viable Product (MVP) van MijnOverheid Zakelijk (MOZa) bij ondernemers. Het doel is om te achterhalen of het huidige prototype voldoende waarde biedt en welke verbeterpunten er zijn.
+sidebar_label: Onderzoek MijnOverheid Zakelijk - Prototype
+pagination_label: Onderzoek MijnOverheid Zakelijk - Prototype
+description: Dit onderzoek toetst het Minimum Viable Product (MVP) van MijnOverheid Zakelijk (MOZa) bij ondernemers. Het doel is om te achterhalen of het huidige prototype voldoende waarde biedt en welke verbeterpunten er zijn. Dit is onderdeel van fase 2 rondom de onderzoeken van MijnOverheid Zakelijk (MOZa).
 summary: Het MVP van MOZa biedt ondernemers momenteel beperkte meerwaarde, omdat belangrijke functionaliteiten zoals een Berichtenbox en Lopende Zaken ontbreken. Ondernemers willen vooral een overzicht van taken en de mogelijkheid om direct actie te ondernemen.
 keywords:
   - MijnOverheid Zakelijk
@@ -44,7 +44,7 @@ date_conducted: '2026-03-06'
 
 <!-- @license CC0-1.0 -->
 
-# Gebruikersonderzoek prototype fase 2 MijnOverheid Zakelijk (MOZa)
+# Onderzoek MijnOverheid Zakelijk - Prototype
 
 ## Doel van het onderzoek
 
@@ -55,6 +55,8 @@ Het onderzoek had als doel om te achterhalen:
 - Hoe ondernemers het onderdeel Actualiteiten beoordelen op relevantie, begrijpelijkheid en meerwaarde.
 - Hoe ondernemers hun contactvoorkeuren willen inrichten.
 - In hoeverre de doorkijkjes (toekomstige functionaliteiten zoals Berichtenbox en Lopende Zaken) waarde toevoegen.
+
+**Homepagina van MijnOverheid Zakelijk**
 
 ![Prototype van de volledige ingelogde homepagina van MijnOverheid Zakelijk, met achtereenvolgens Actualiteiten (Berichten over uw buurt, Subsidies en financiering, Wetten en regelgeving), een blok Bedrijfsgegevens van Bloom B.V. en Veelgestelde vragen](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/logius-moza-prototype-fase2__homepagina-volledig.png)
 
@@ -92,4 +94,8 @@ Logius UX Research team - Uitvoerder onderzoek - [ux@logius.nl](mailto:ux@logius
 
 ## Documentatie
 
-[Rapportage gebruikersonderzoek prototype fase 2 MijnOverheid Zakelijk (MOZa)](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/Rapportage.gebruikersonderzoek.inloggen_V1.pdf) (PDF, 1,2MB)
+- Onderzoeksrapport: [Gebruikersonderzoek prototype fase 2 - MijnOverheid Zakelijk (MOZa)](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/Rapportage.gebruikersonderzoek.MVP.V1.pdf) (PDF, 1,2MB)
+
+## Overige links
+
+[MijnOverheid Zakelijk: Makkelijk zakendoen met de overheid](https://mijnoverheidzakelijk.nl/)
