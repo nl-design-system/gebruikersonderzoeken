@@ -98,7 +98,7 @@ Logius UX Research team - Uitvoerder onderzoek - [ux@logius.nl](mailto:ux@logius
 
 ## Documentatie
 
-- Onderzoeksrapport: [Gebruikersonderzoek MijnOverheid Zakelijk - MVP](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/Rapportage.gebruikersonderzoek.MijnOverheid.Zakelijk.MVP.pdf) (PDF, 1,2MB)
+- Onderzoeksrapport: [Rapportage Gebruikersonderzoek MijnOverheid Zakelijk - MVP](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rapportage_gebruikersonderzoek_mijnoverheid-zakelijk_mvp_mrt-2026.pdf) (PDF, 2,3MB)
 
 ## Overige links
 
