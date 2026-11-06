@@ -127,7 +127,7 @@ Er werden twee varianten van de Berichtenbox getest:
 
 ## Documentatie
 
-- Onderzoeksrapport: [Gebruikersonderzoek Berichtenbox - MijnOverheid Zakelijk (MOZa) fase 3](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/Rapportage.gebruikersonderzoek.MOZa.Berichtenbox.-.definitief.pdf) (PDF, 2,2MB)
+- Onderzoeksrapport: [Rapportage Gebruikersonderzoek MijnOverheid Zakelijk - Berichtenbox](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rapportage_gebruikersonderzoek_mijnoverheid-zakelijk_berichtenbox_juli-2026.pdf) (PDF, 2,3MB)
 - Eerder onderzoek: [Onderzoek MijnOverheid Zakelijk - Inloggen](/docs/onderzoek-bekijken/mijn-zaken/logius-mijnoverheid-zakelijk-inloggen)
 - Eerder onderzoek: [Onderzoek MijnOverheid Zakelijk - MVP](/docs/onderzoek-bekijken/mijn-zaken/logius-mijnoverheid-zakelijk-mvp)
 
