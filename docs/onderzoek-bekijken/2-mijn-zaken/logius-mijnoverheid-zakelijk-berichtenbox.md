@@ -5,7 +5,7 @@ hide_table_of_contents: false
 sidebar_label: Onderzoek MijnOverheid Zakelijk - Berichtenbox
 pagination_label: Onderzoek MijnOverheid Zakelijk - Berichtenbox
 description: Dit onderzoek onderzoekt hoe ondernemers de MijnOverheid Zakelijk Berichtenbox ervaren. Het richt zich op het inlogproces, het openen van berichten en het switchen tussen berichtenboxen van verschillende overheidsorganisaties. De resultaten geven inzicht in verbeterpunten voor een betere gebruikerservaring. Dit is onderdeel van fase 3 rondom de onderzoeken van MijnOverheid Zakelijk (MOZa).
-summary: Ondernemers ervaren de MOZa Berichtenbox als een waardevolle verbetering voor het ontvangen en beheren van berichten van de overheid. Ze zien MOZa als een centrale plek voor al hun zakelijke correspondentie, mits berichten gesynchroniseerd worden tussen verschillende portalen. Het onderzoek toont aan dat het directe tonen van PDF’s in berichten en de mogelijkheid om acties direct uit te voeren als handig worden ervaren, maar dat er ook aandachtspunten zijn, zoals de zichtbaarheid van vertrouwelijke informatie en de behoefte aan context over urgentie.
+summary: Ondernemers ervaren de MOZa Berichtenbox als een waardevolle verbetering voor het ontvangen en beheren van berichten van de overheid. Ze zien MOZa als een centrale plek voor al hun zakelijke correspondentie, mits berichten gesynchroniseerd worden tussen verschillende portalen. Het onderzoek toont aan dat het directe tonen van PDF’s in berichten en de mogelijkheid om acties direct uit te voeren als handig worden ervaren. Er zijn ook aandachtspunten, zoals de zichtbaarheid van vertrouwelijke informatie en de behoefte aan context over urgentie.
 keywords:
   - MijnOverheid Zakelijk
   - MOZa
