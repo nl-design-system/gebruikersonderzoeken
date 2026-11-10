@@ -13,7 +13,7 @@ jobs:
       url: ${{ steps.deploy-pages.outputs.page_url }}
 
     permissions:
-      contents: write # required to write to the gh-pages branch for JamesIves/github-pages-deploy-action
+      contents: read # since GH_TOKEN is provided, we only need 'read'
       id-token: write # required to retrieve an OIDC token for actions/deploy-pages
       pages: write
 
@@ -61,6 +61,7 @@ jobs:
         with:
           branch: gh-pages
           folder: packages/website/dist/
+          token: ${{ secrets.GH_TOKEN }}
 
   publish:
     runs-on: ubuntu-latest
