@@ -65,7 +65,7 @@ Contactvoorkeuren: Ondernemers willen zelf bepalen hoe en waar ze berichten ontv
 
 Diverse aannames die verwerkt zijn in het prototype blijken juist; ondernemers hebben behoefte aan voorgestelde functies, maar de positionering van functionaliteiten was soms moeilijk vindbaar of schepte verwarring.
 
-[afbeelding]
+![Screenshot van de pagina ‘Mijn bedrijfsgegevens’ in MijnOverheid Zakelijk voor Bloom B.V., met geregistreerde bedrijfsgegevens, opties om gegevens aan te passen of te delen en een downloadknop voor het handelsregisteruittreksel. Daaronder staan links naar bedrijfsactiviteiten, vestigingen, adressen, websites, het UBO-overzicht en CBS.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/logius_moza_bedrijfsgegevens-contactvoorkeuren.png)
 
 - **Gebruikers zijn positief over alles op 1 plek**. Dit maakt alles gemakkelijker en overzichtelijker, en men hoeft maar op 1 plek in te loggen.
 - **Dat bedrijfsgegevens in een duidelijk overzicht staan, wordt positief ontvangen.** De tegels maken het visueel overzichtelijk en dat waardeert men.
@@ -99,6 +99,10 @@ Online interviews via Brainstork aan de hand van een prototype in Figma.
 ## Contactinformatie
 
 - [Logius – UX Research team](mailto:ux@logius.nl) - Uitvoerder onderzoek - Logius
+
+## Documentatie
+
+- Onderzoeksrapport: [Rapportage Gebruikersonderzoek MijnOverheid Zakelijk - Bedrijfsgegevens en Contactvoorkeuren](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/rapportage_gebruikersonderzoek_mijnoverheid-zakelijk_bedrijfsgegevens-en-contactvoorkeuren_okt-2025.pdf) (PDF, 2MB)
 
 ## Overige links
 
