@@ -65,25 +65,25 @@ Op basis van dit onderzoek adviseren we het volgende:
 
 **2. Voeg een zoekfunctie toe:**
 
-- Ondernemers willen **gerichter** kunnen zoeken naar informatie. Voeg een zoekbalk toe en overweeg filtering op onderwerpen.​⁠⁠​​​​​​​​⁠​⁠​⁠​⁠⁠​​⁠​​⁠⁠​​​⁠​​​​​⁠​⁠​​⁠⁠​⁠​⁠​​​​​⁠​⁠​​⁠​​⁠
-  **3. Maak doorverwijzingen naar bronnen duidelijker:**
+Ondernemers willen **gerichter** kunnen zoeken naar informatie. Voeg een zoekbalk toe en overweeg filtering op onderwerpen.​⁠⁠​​​​​​​​⁠​⁠​⁠​⁠⁠​​⁠​​⁠⁠​​​⁠​​​​​⁠​⁠​​⁠⁠​⁠​⁠​​​​​⁠​⁠​​⁠​​⁠
+**3. Maak doorverwijzingen naar bronnen duidelijker:**
 
-- Gebruik **duidelijke tekst en iconen** om aan te geven dat gebruikers MOZa verlaten als ze doorklikken naar een bronwebsite.​⁠⁠​​​​​​​​⁠​⁠​⁠​⁠⁠​​⁠​​⁠⁠​​​⁠​​​​​⁠​⁠​​⁠⁠​⁠​⁠​​​​​⁠​⁠​​⁠​​⁠
-  **4. Zorg dat interacties direct opvallen:**
+Gebruik **duidelijke tekst en iconen** om aan te geven dat gebruikers MOZa verlaten als ze doorklikken naar een bronwebsite.​⁠⁠​​​​​​​​⁠​⁠​⁠​⁠⁠​​⁠​​⁠⁠​​​⁠​​​​​⁠​⁠​​⁠⁠​⁠​⁠​​​​​⁠​⁠​​⁠​​⁠
+**4. Zorg dat interacties direct opvallen:**
 
-- Plaats de opties **bewaren, delen en niet-relevant** op een vaste, zichtbare plek, bijvoorbeeld op de detailpagina van een Actualiteit.​⁠⁠​​​​​​​​⁠​⁠​⁠​⁠⁠​​⁠​​⁠⁠​​​⁠​​​​​⁠​⁠​​⁠⁠​⁠​⁠​​​​​⁠​⁠​​⁠​​⁠
-  **5. Voeg notificaties toe:**
+Plaats de opties **bewaren, delen en niet-relevant** op een vaste, zichtbare plek, bijvoorbeeld op de detailpagina van een Actualiteit.​⁠⁠​​​​​​​​⁠​⁠​⁠​⁠⁠​​⁠​​⁠⁠​​​⁠​​​​​⁠​⁠​​⁠⁠​⁠​⁠​​​​​⁠​⁠​​⁠​​⁠
+**5. Voeg notificaties toe:**
 
-- Stuur **e-mails of meldingen** als er nieuwe of gewijzigde Actualiteiten zijn, vergelijkbaar met de Berichtenbox in MijnOverheid.​⁠⁠​​​​​​​​⁠​⁠​⁠​⁠⁠​​⁠​​⁠⁠​​​⁠​​​​​⁠​⁠​​⁠⁠​⁠​⁠​​​​​⁠​⁠​​⁠​​⁠
-  **6. Overweeg een andere term voor "Actualiteiten":**
+Stuur **e-mails of meldingen** als er nieuwe of gewijzigde Actualiteiten zijn, vergelijkbaar met de Berichtenbox in MijnOverheid.​⁠⁠​​​​​​​​⁠​⁠​⁠​⁠⁠​​⁠​​⁠⁠​​​⁠​​​​​⁠​⁠​​⁠⁠​⁠​⁠​​​​​⁠​⁠​​⁠​​⁠
+**6. Overweeg een andere term voor "Actualiteiten":**
 
-- De term "Actualiteiten" wordt niet door alle ondernemers als passend ervaren. Overweeg een term zoals **"Relevante informatie voor uw bedrijf"**.​⁠⁠​​​​​​​​⁠​⁠​⁠​⁠⁠​​⁠​​⁠⁠​​​⁠​​​​​⁠​⁠​​⁠⁠​⁠​⁠​​​​​⁠​⁠​​⁠​​⁠
-  **7. Maak inloggen waardevol:**
+De term "Actualiteiten" wordt niet door alle ondernemers als passend ervaren. Overweeg een term zoals **"Relevante informatie voor uw bedrijf"**.​⁠⁠​​​​​​​​⁠​⁠​⁠​⁠⁠​​⁠​​⁠⁠​​​⁠​​​​​⁠​⁠​​⁠⁠​⁠​⁠​​​​​⁠​⁠​​⁠​​⁠
+**7. Maak inloggen waardevol:**
 
-- Zorg dat de informatie achter het inlogscherm **zo compleet en actueel mogelijk** is, zodat ondernemers het waardevol vinden om in te loggen.​⁠⁠​​​​​​​​⁠​⁠​⁠​⁠⁠​​⁠​​⁠⁠​​​⁠​​​​​⁠​⁠​​⁠⁠​⁠​⁠​​​​​⁠​⁠​​⁠​​⁠
-  **8. Verbeter de visuele aantrekkelijkheid:**
+Zorg dat de informatie achter het inlogscherm **zo compleet en actueel mogelijk** is, zodat ondernemers het waardevol vinden om in te loggen.​⁠⁠​​​​​​​​⁠​⁠​⁠​⁠⁠​​⁠​​⁠⁠​​​⁠​​​​​⁠​⁠​​⁠⁠​⁠​⁠​​​​​⁠​⁠​​⁠​​⁠
+**8. Verbeter de visuele aantrekkelijkheid:**
 
-- Voeg **meer beeldmateriaal, voorbeelden en inspirerende verhalen** toe om MOZa uitnodigender te maken.​⁠⁠​​​​​​​​⁠​⁠​⁠​⁠⁠​​⁠​​⁠⁠​​​⁠​​​​​⁠​⁠​​⁠⁠​⁠​⁠​​​​​⁠​⁠​​⁠
+Voeg **meer beeldmateriaal, voorbeelden en inspirerende verhalen** toe om MOZa uitnodigender te maken.​⁠⁠​​​​​​​​⁠​⁠​⁠​⁠⁠​​⁠​​⁠⁠​​​⁠​​​​​⁠​⁠​​⁠⁠​⁠​⁠​​​​​⁠​⁠​​⁠
 
 ## Resultaten en inzichten
 
