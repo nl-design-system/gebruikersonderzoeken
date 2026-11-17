@@ -93,7 +93,7 @@ Uit het onderzoek komen de volgende **hoofdpunten** naar voren:
 
 - In het eerste prototype zagen ondernemers **niet direct** dat er drie soorten Actualiteiten zijn (Subsidies en financiering, Wet- en regelgeving, Berichten over uw buurt). Hierdoor kreeg de bovenste Actualiteit (Subsidies en financiering) onevenredig veel aandacht.
 - In het tweede prototype was de indeling **duidelijker**, maar het linkermenu werd door één respondent als te lang ervaren.
-- **Advies:** Maak de indeling van de Actualiteiten **direct zichtbaar** op de homepage en creëer meer hiërarchie in het menu.​⁠⁠​​​​​​​​⁠​⁠​⁠​⁠⁠​​⁠​​⁠⁠​​​⁠​​​​​⁠​⁠​​⁠⁠​⁠​⁠​​​​​⁠​⁠​​⁠​​⁠
+- **Advies:** Maak de indeling van de Actualiteiten **direct zichtbaar** op de homepage en creëer meer hiërarchie in het menu.​⁠⁠​​​​​​​​⁠​⁠​⁠​⁠⁠​​⁠​​⁠⁠​​​⁠​​​​​⁠​⁠​​⁠⁠​⁠​⁠​​​​​⁠​⁠​​⁠​​
 
 **2. Zoekfunctie:**
 
@@ -103,7 +103,7 @@ Uit het onderzoek komen de volgende **hoofdpunten** naar voren:
 **3. Doorverwijzing naar bronnen:**
 
 - Ondernemers begrijpen dat ze voor meer informatie worden doorverwezen naar de bronwebsite (bijvoorbeeld RVO). In het eerste prototype was de overgang tussen MOZa en de bronwebsite **niet altijd duidelijk**.
-- **Advies:** Maak de link naar de bron **explicieter**, bijvoorbeeld met een duidelijke tekst en icoon, zodat gebruikers weten dat ze MOZa verlaten.​⁠⁠​​​​​​​​⁠​⁠​⁠​⁠⁠​​⁠​​⁠⁠​​​⁠​​​​​⁠​⁠​​⁠⁠​⁠​⁠​​​​​⁠​⁠​​⁠​​⁠
+- **Advies:** Maak de link naar de bron **explicieter**, bijvoorbeeld met een duidelijke tekst en icoon, zodat gebruikers weten dat ze MOZa verlaten.​⁠⁠​​​​​​​​⁠​⁠​⁠​⁠⁠​​⁠​​⁠⁠​​​⁠​​​​​⁠​⁠​​⁠⁠​⁠​⁠​​​​​⁠​⁠​​
 
 **4. Interacties (bewaren, delen, niet-relevant):**
 
