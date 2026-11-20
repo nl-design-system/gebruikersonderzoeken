@@ -99,24 +99,24 @@ De resultaten en inzichten worden aan de hand van twee verschillende categorieë
 
 - **De gespreksfunctie wordt via de homepage niet gebruikt.** Inwoners starten een gesprek via de zaakdetailpagina.
 
-![alt-tekst](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/...)
+![Persoonlijke startpagina van Mijn Groningen met een openstaande actie, drie aanvragen en de knop ‘Gesprek starten’ om contact op te nemen met een gemeentemedewerker. Links staat het menu met Mijn Zaken, Mijn Uitkeringen en Mijn Berichten.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/groningen-mijn-gesprek_home.png)
 
 - **Als inwoners een gesprek kunnen starten via de homepage, denken ze dat deze vragen over van alles kunnen gaan.** Inwoners koppelen dit dan niet aan een zaak.
 - **Geen pop-upweergave gebruiken van het gesprek.** Het gesprek is dan niet vindbaar en er ontstaat verwarring op de zaakdetailpagina, in combinatie met de status. Vooral wanneer men ook documenten moet of kan toevoegen. Dit is met name het geval voor desktop. De pagina wordt dan in het geheel druk.
 
-![alt-tekst](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/...)
+![Detailpagina van een aanvraag voor de witgoedregeling in Mijn Groningen. De aanvraag is in behandeling sinds 23 juli 2026. Daaronder staan toegevoegde documenten met downloadknoppen. Rechts staat de knop ‘Vraag over uw zaak’.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/groningen-mijn-gesprek_detail.png)
 
 - **Het kiezen van onderwerpen via een selectiemenu is duidelijk.** Inwoners kiezen de juiste optie, vinden de verschillende categorieën duidelijk. Ook de categorie ‘anders’ is duidelijk.
 
-![alt-tekst](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/...)
+![Formulier om een gesprek te starten over een aanvraag voor de witgoedregeling. De keuzelijst voor het onderwerp is geopend. Daaronder staan een berichtveld, een optie om een document toe te voegen en de knop ‘Gesprek starten’.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/groningen-mijn-gesprek_small-1.png)
 
 - **Een ‘Gelukt’-melding bij het starten van een gesprek is verwarrend in combinatie met de mogelijkheid om nog een gesprek te starten.** Het gestarte gesprek zien inwoners niet. Inwoners snappen niet dat ze nog een gesprek kunnen starten terwijl ze wel de bevestiging krijgen dat het gelukt is een gesprek te starten.
 
-![alt-tekst](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/...)
+![Mobiele weergave van een aanvraag voor de witgoedregeling met de status, toegevoegde documenten en een groene bevestiging dat het gesprek is gestart. Onder ‘Mijn Gesprekken’ staat het open gesprek ‘Status van mijn zaak’.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/groningen-mijn-gesprek_small-2.png)
 
 - **De gespreksfunctie wordt als duidelijk ervaren.** Het voeren van een gesprek verloopt soepel. Het uploaden van een afbeelding of document aan het gesprek ook.
 
-![alt-tekst](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/...)
+![Gesprek met de gemeente Groningen over een aanvraag voor de witgoedregeling. De gemeente vraagt aanvullende informatie over de oude wasmachine. Onderaan staan een berichtveld en opties om een bestand of afbeelding toe te voegen.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/groningen-mijn-gesprek_chat.png)
 
 - **Het sluiten van het gespreksscherm is niet duidelijk.** Inwoners zien de ‘terug’-knop niet en zoeken naar een kruisje (icoon) om het scherm te kunnen sluiten. Mogelijk komt dit door de hoeveelheid en het type informatie bovenaan het scherm, zoals zaaknummer, datum van verwachte uitslag van de zaak en de startdatum van de zaak.
 - **E-mailnotificaties zijn in lijn met de verwachting van inwoners. Inwoners verwachten bij een antwoord een e-mailnotificatie te krijgen.** De notificatie is duidelijk en het direct doorlinken naar het gesprek zelf is prettig.
