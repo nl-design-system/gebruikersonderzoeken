@@ -173,10 +173,6 @@ Alle inwoners kregen twee scenario's voorgelegd:
 
 ## Contactinformatie
 
-- [Jana Kloss](mailto:jana.kloss@groningen.nl) - head UX-researcher - Gemeente Groningen
-- [Sirin Yildiz](mailto:sirin.yildiz@groningen.nl) - UX-researcher - Gemeente Groningen
-- [Marieke Brouwer](mailto:marieke.brouwer@groningen.nl) - UX-designer - Gemeente Groningen
-
 - [Jana Kloss](mailto:jana.kloss@groningen.nl) – project lead -Gemeente Groningen
 - [Sirin Yildiz](mailto:sirin.yildiz@groningen.nl) – UX-researcher - Gemeente Groningen
 - [Marieke Brouwer](mailto:marieke.brouwer@groningen.nl) – UX-researcher - Gemeente Groningen
