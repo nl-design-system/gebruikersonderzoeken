@@ -44,7 +44,7 @@
     "@eslint/json": "0.14.0",
     "@nl-design-system-unstable/nlds-design-tokens": "1.0.1",
     "@nl-design-system/eslint-config": "2.2.0",
-    "@types/node": "24.10.9",
+    "@types/node": "26.6.6",
     "eslint": "9.39.2",
     "eslint-config-prettier": "10.1.8",
     "eslint-plugin-astro": "1.5.0",
