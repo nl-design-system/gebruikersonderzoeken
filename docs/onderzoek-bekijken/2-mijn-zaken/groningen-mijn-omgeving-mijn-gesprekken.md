@@ -101,7 +101,7 @@ De resultaten en inzichten worden aan de hand van twee verschillende categorieë
 
 ![Persoonlijke startpagina van Mijn Groningen met een openstaande actie, drie aanvragen en de knop ‘Gesprek starten’ om contact op te nemen met een gemeentemedewerker. Links staat het menu met Mijn Zaken, Mijn Uitkeringen en Mijn Berichten.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/groningen-mijn-gesprek_home.png)
 
-- **Als inwoners een gesprek kunnen starten via de homepage, denken ze dat deze vragen over van alles kunnen gaan.** Inwoners koppelen dit dan niet aan een zaak.
+- **Als inwoners een gesprek kunnen starten via de homepage, denken ze dat deze vragen over van alles kunnen gaan.** Inwoners koppelen dit dan niet aan een zaak. Vragen die overal over gaan, zouden kunnen zijn: wanneer wordt het afval opgehaald en wat zijn de openingstijden.
 - **Geen pop-upweergave gebruiken van het gesprek.** Het gesprek is dan niet vindbaar en er ontstaat verwarring op de zaakdetailpagina, in combinatie met de status. Vooral wanneer men ook documenten moet of kan toevoegen. Dit is met name het geval voor desktop. De pagina wordt dan in het geheel druk.
 
 ![Detailpagina van een aanvraag voor de witgoedregeling in Mijn Groningen. De aanvraag is in behandeling sinds 23 juli 2026. Daaronder staan toegevoegde documenten met downloadknoppen. Rechts staat de knop ‘Vraag over uw zaak’.](https://raw.githubusercontent.com/nl-design-system/gebruikersonderzoeken/assets/groningen-mijn-gesprek_detail.png)
@@ -155,7 +155,7 @@ Hier zijn de verschillende designs op gebaseerd:
 - Een desktopversie waarbij het gesprek op een aparte pagina wordt getoond.
 - Een desktopversie waarbij het gesprek in een pop-up wordt getoond.
 
-Daarnaast is actief voor de designs beroep gedaan op de NL Design System Mijn Services community om de designs zo toegankelijk mogelijk vorm te geven.
+Vanuit deze desktopversies zijn ook ontwerpen gemaakt voor een mobiel scherm. Daarnaast is actief voor de designs beroep gedaan op de NL Design System Mijn Services community om de designs zo toegankelijk mogelijk vorm te geven.
 
 ### Onderzoeksfase
 
